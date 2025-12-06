@@ -1,0 +1,183 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 385-387
+
+[PAGE 385]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter Please Specify Unit FY 2024-25 FY 2023-24
+NOx Tonnes 2,064 2,338
+SOx Tonnes 2,287 2,385
+Particulate matter (PM) Tonnes 553 559
+Persistent organic pollutants (POP) NA NA NA
+Volatile Organic Compounds (VOC) NA NA NA
+Hazardous Air Pollutants (HAP)* Tonnes 7.8 8
+*The data is for PSPD Bhadrachalam Unit’s Hydrogen Sulphide emissions (HS)
+2
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity.
+Parameter Please Specify Unit FY 2024-25 FY 2023-24
+Total Scope 1 emissions (Break-up of the GHG into CO, CH, kilo tonnes of CO
+2 4 2 1,101 1,127
+NO, HFCs, PFCs, SF, NF, if available) equivalent
+2 6 3
+Total Scope 2 emissions (Break-up of the GHG into CO, CH, kilo tonnes of CO
+2 4 2 153 170
+NO, HFCs, PFCs, SF, NF, if available) equivalent
+2 6 3
+Total Scope 1 and Scope 2 emissions intensity per rupee of tonnes of CO
+2
+turnover (Total Scope 1 and Scope 2 GHG emissions/Revenue equivalent/ 17 19
+from operations) Crore INR
+Total Scope 1 and Scope 2 emission intensity per rupee of tonnes
+turnover adjusted for Purchasing Power Parity (PPP) (Total of CO
+2 35 39
+Scope 1 and Scope 2 GHG emissions/Revenue from operations equivalent/Million
+adjusted for PPP) USD
+Total Scope 1 and Scope 2 emission intensity in terms of tonnes of CO
+2
+physical output* equivalent/tonne of 1.06 1.10
+production
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A.
+ITC’s PSPD has large-scale Farm Forestry programmes promoting sustainable forest management with primary aim of
+securing pulpwood requirement for Business continuity. ITC also has a large-scale Social Forestry programme, which,
+in addition to sequestering carbon, also benefits the stakeholders by improving productivity of wasteland, and de-risking
+poor rural households by diversifying farm portfolios through promotion of tree-based farming. During FY 2024-25, the
+Farm and Social forestry programmes have together sequestered over 6.4 million tonnes of CO.
+2
+*Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement,
+hence the data for Scope 1 and Scope 2 emission intensity in terms of physical output (tonnes of production) is reported only
+for PSPD which accounts for more than 80% of ITC’s total Scope 1 and Scope 2 emissions. For data of other Divisions, refer to
+‘Climate Change’ section of ITC’s Sustainability Report 2025.
+ITC’s GHG emissions (Scope 1 and Scope 2) data has been assured at the ‘Reasonable Level’ by an independent third-party
+assurance provider.
+8. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+As part of its Sustainability 2.0 ambitions, ITC is targeting a 50% reduction in Specific GHG Emissions (% Reduction in
+Scope 1 & 2 emission per Unit of Production) by 2030. Accordingly, actions are being undertaken to reduce greenhouse
+gas emissions by investing in energy efficiency and increasing share of renewable energy.
+Energy efficiency:
+All ITC Units focus on energy efficiency through process improvements and investment in new technologies. Over the
+years, ITC has implemented measures like installation of Vapour Absorption Machines (VAM), Automation in tube cleaning
+system of Heating, Ventilation and Air Conditioning (HVAC), installation of variable frequency drive for pumps, blowers etc.
+and installation of energy efficient equipment such as chillers, AHUs, motors, fans, pumps, and agitators. In FY 2024-25,
+the investments in energy conservation equipment have resulted in energy savings of about 40 TJ, which is equivalent to
+over 5,000 tonnes of GHG emissions in the year.
+In line with ITC’s focus on accelerating digitalisation across Businesses, ITC’s PSPD is implementing several transformative
+projects leveraging Industry 4.0 technologies across key business areas, to enhance productivity, reduce carbon footprint,
+achieve strategic cost efficiencies and superior product performance.
+Some of the major projects undertaken by ITC’s PSPD as part of its Digital Transformation Programme include process
+debottlenecking and throughput improvement for productivity and Overall Equipment Effectiveness (OEE), process
+capability improvement leading to reduction in defects and resource optimisation.
+XXXVIII
+
+[PAGE 386]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Renewable energy:
+ITC has invested in renewable energy projects, for both renewable electricity and renewable thermal requirements. In line
+with ITC’s continuous thrust on expanding renewable footprint across both thermal and electrical energy, this achievement
+was driven by the commissioning of state-of-the-art and future-ready High Pressure Recovery Boiler at the Bhadrachalam
+mill of the Company’s Paperboards & Specialty Papers Business which replaced conventional soda recovery boilers
+thereby reducing carbon footprint through lower coal consumption. Similar investments of biomass boilers were also
+undertaken in Foods, Cigarette and Personal Care Businesses. In addition to this, ITC has installed and commissioned
+174 MW2 of solar and wind power capacity across the country to meet its electrical energy requirements. Based on the
+investments in renewable electricity and renewable thermal projects, ITC has been able to increase its renewable energy
+share to 52% despite significant increase in its output.
+9. Provide details related to waste management by the entity, in the following format:
+Total waste generated is mentioned in rows (A) to (H)
+Parameter (in kilo tonnes) FY 2024-25 FY 2023-24
+Plastic waste (A)* - -
+E-waste (B) 0.08 0.07
+Bio-medical waste (C) 0.02 0.01
+Construction and demolition waste (D)# 6.07 5.24
+Battery waste (E) 0.23 0.11
+Radioactive waste (F) 0 -**
+Other Hazardous waste. Please specify, if any. (G) 22.55 21.86
+Other Non-hazardous waste generated (H). Please specify, if any. (Break-up by 693.06 693.06
+composition i.e. by materials relevant to the sector)
+Total (A+B + C + D + E + F + G + H) 722.01 720.35
+Waste intensity per rupee of turnover (in MT/Crore INR) 10 11
+(Total waste generated/Revenue from operations)
+Waste intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP) 20 22
+(in MT/million US$)
+(Total waste generated/Revenue from operations adjusted for PPP)
+Waste intensity in terms of physical output& 0.63 0.64
+(in tonnes of waste generated/tonne of production)
+Total waste recovered through recycling, re-using or other recovery operations
+(i) Recycled 718 716
+(ii) Re-used*** - -
+(iii) Other recovery operations - -
+Total 718 716
+Total waste disposed by nature of disposal method
+(i) Incineration 1.2 0.9
+(ii) Landfilling 1.6 1.3
+(iii) Other disposal operations - -
+Total 2.8 2.2
+* Plastic waste is reported under Non-hazardous waste
+** Insignificant quantity of radioactive waste was generated.
+*** Waste re-used is reported under waste recycled
+&Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement, hence
+the data for waste intensity in terms of physical output (tonnes of production) is reported only for PSPD which accounts for 85% of
+ITC’s total waste generation. For data of other Divisions, refer to ‘Towards Circularity’ section of ITC’s Sustainability Report 2025.
+ITC’s waste data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: There is reclassification of ‘Composting’ waste under ‘Recycled’ waste and ‘Incineration with energy recovery’ under
+‘Incineration’ for FY 2023-24 data, without any change in the total waste recovered and total waste disposed.
+The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A.
+2Excluding 51 MW of renewable energy assets transferred to ITC Hotels Limited post demerger.
+Total commissioned capacity including that of ITC Hotels Limited is 225 MW.
+XXXIX
+
+[PAGE 387]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+In FY 2024-25, ITC continued to recycle over 99% of waste from its operations. In addition to this, the Company’s PSPD recycled
+nearly 85,000 tonnes of externally sourced post-consumer waste paper, thereby creating a positive environmental footprint. The
+Company also collected and sustainably managed more than 100% of its post-consumer plastic packaging waste.
+10. Briefly describe the waste management practices adopted in your establishments. Describe the strategy
+adopted by your company to reduce usage of hazardous and toxic chemicals in your products and processes and the
+practices adopted to manage such waste
+The Company has initiated measures across Units to ensure waste minimisation, segregation of waste at source and
+recycling. During the year, the recycling level reached 99%. In addition, nearly 85,000 tonnes of externally sourced post-
+consumer waste paper was used as raw material during the year.
+ITC follows a proactive approach to manage hazardous chemicals by actively looking for alternatives, which not only
+helps keep its operations safe, but also ensures safest products for customers. This approach is demonstrated in
+pioneering practices implemented by ITC like Elemental Chlorine Free (ECF) bleaching, and ozone bleaching technology
+in India in its Paper Business, and switching from solvent-based inks to water-based ones in its Packaging and
+Printing Business.
+Note: For more details, refer to ‘Chemical Safety Management’ section of ITC Sustainability Report 2025
+11. If the entity has operations/offices in/around ecologically sensitive areas (such as national parks, wildlife
+sanctuaries, biosphere reserves, wetlands, biodiversity hotspots, forests, coastal regulation zones etc.) where
+environmental approvals / clearances are required.
+S.no. Location Of Type Of Whether The Conditions
+Operations/Offices Operations Of Environmental
+Approval / Clearance Are
+Being Complied With?
+(Y/N) If No, The Reasons
+Thereof And Corrective
+Action Taken, If Any
+1. Bhadrachalam Paperboards Yes
+Manufacturing
+The Plant is located at a distance of 3.47 Km from the boundary of Kinnerasani Wildlife Sanctuary Eco-Sensitive Zone
+and ~8Km from the core zone of the Kinnerasani Wildlife Sanctuary.
+12. Details of environmental impact assessments of projects undertaken by the entity based on applicable laws, in
+the current financial year.
+Name And EIA Date Whether Results Relevant
+Brief Details Notification Conducted By Communicated Web link
+Of Project No. Independent In Public
+External Agency Domain
+(Yes / No)
+Nil
+13. Is the entity compliant with the applicable environmental law/ regulations/ guidelines in India; such as the Water
+(Prevention and Control of Pollution) Act, Air (Prevention and Control of Pollution) Act, Environment protection act
+and rules thereunder (Y/N). If not, provide details of all such non-compliances.
+ITC’s existing operations/offices comply with applicable environmental regulations of the Country, and operate as per
+CTO conditions from the Central and State Pollution Control Boards.
+Leadership Indicators
+1. Water withdrawal, consumption and discharge in areas of water stress (in kilolitres).
+ITC has developed the water risk assessment methodology for identifying water stressed areas based on WRI Aqueduct’s
+Baseline Water Stress and Central Ground Water Board’s (India) groundwater block classification. Site level assessment
+for water stress sites is done periodically using the above assessment framework and sites for interventions are
+prioritised on the basis of stakeholder consultation and business needs. ITC’s water stewardship goals are available in
+XL

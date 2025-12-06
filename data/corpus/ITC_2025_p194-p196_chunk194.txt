@@ -1,0 +1,118 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 194-196
+
+[PAGE 194]
+Notes
+to the Standalone Financial Statements
+19. Trade Payables (Current) (Contd.)
+Disclosure under the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act, 2006)
+There are no Micro and Small Enterprises to whom the Company owes dues, which are outstanding for more than 45 days during the
+year and also as at 31st March, 2025. This information as required to be disclosed under the MSMED Act, 2006 has been determined
+to the extent such parties have been identified on the basis of information available with the Company.
+(` in Crores)
+31st March, 2025 31st March, 2024
+(a) Principal amount remaining unpaid to any supplier as at the end of the
+accounting year
+– On account of trade payables 178.24 206.85
+– On account of liabilities other than trade payables 19.85 36.41
+TOTAL 198.09 243.26
+(b) Interest due thereon remaining unpaid to any supplier as at the end of the
+accounting year – –
+(c) Amount of interest paid under MSMED Act, 2006 along with the amounts
+of the payment made to the supplier beyond the appointed day during the
+accounting year – –
+(d) Amount of interest due and payable for the period of delay in making
+payment (which has been paid but beyond the appointed day during the year
+but without adding the interest specified under the MSMED Act, 2006) – –
+(e) Amount of interest accrued and remaining unpaid at the end of
+accounting year – –
+(f) Amount of further interest remaining due and payable even in the succeeding
+year, until such date when the interest dues as above are actually paid to the
+small enterprise – –
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+20. Other liabilities (Current)
+Statutory Liabilities 4688.79 4398.88
+Advances received from customers 1357.07 828.69
+Others (includes deferred revenue, accruals etc.) 24.16 162.18
+TOTAL 6070.02 5389.75
+176 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 195]
+Notes
+to the Standalone Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+21. Current Tax Liabilities (Net)
+Current taxation (net of advance payment) 1027.78 760.00
+TOTAL 1027.78 760.00
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+22A. Revenue from operations
+Sale of Products 73290.34 66506.84
+Sale of Services 174.21 150.20
+Gross Revenue from sale of products and services * [including
+Excise Duty / National Calamity Contingent Duty of ` 4944.00 Crores
+(2024 - ` 4733.29 Crores)] 73464.55 66657.04
+Other Operating Revenues# 771.52 635.56
+TOTAL 74236.07 67292.60
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+# Includes Government grants of ` 294.82 Crores (2024 - ` 234.71 Crores) on account of Fiscal and Export Incentives etc.
+22B. Gross Revenue from sale of products and services*
+FMCG
+– Cigarettes etc. 32631.27 30596.59
+– Branded Packaged Food Products 18270.38 17219.23
+– Others (Education and Stationery Products, Personal Care Products,
+Safety Matches, Agarbattis etc.) 3704.90 3739.03
+Agri Business
+– Unmanufactured Tobacco 3547.28 2612.06
+– Other Agri Products and Commodities (Wheat, Rice, Spices, Coffee,
+Soya etc.) 8518.36 5810.33
+Paperboards, Paper and Packaging
+– Paperboards and Paper 5958.96 5871.71
+– Packaging and Printed Materials 667.27 664.25
+Others
+– Others (ITC Grand Central Hotel, Mumbai) 166.13 143.84
+TOTAL 73464.55 66657.04
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+ITC Limited REPORT AND ACCOUNTS 2025 177
+
+[PAGE 196]
+Notes
+to the Standalone Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+23. Other income
+Interest income 1413.80 1591.68
+Dividend income 1016.41 989.22
+Other non-operating income 1024.10 948.86
+TOTAL 3454.31 3529.76
+Interest income:
+a) Deposits with banks etc. - carried at amortised cost 377.40 537.66
+b) Financial assets:
+– mandatorily measured at FVTPL 127.53 211.95
+– measured at amortised cost 561.33 554.29
+– measured at FVTOCI 334.62 287.72
+c) Others (from statutory authorities etc.) 12.92 0.06
+TOTAL 1413.80 1591.68
+Dividend income:
+a) Equity instruments measured at FVTOCI held at the end of
+reporting period 10.31 9.43
+b) Other investments 1006.10 979.79
+TOTAL 1016.41 989.22
+Other non-operating income:
+Net foreign exchange gain / (loss) (0.98) (3.82)
+Net gain / (loss) arising on financial instruments measured at
+amortised cost / fair value through profit or loss / fair value through
+other comprehensive income (Refer Note 32)* 863.95 781.25
+Gain recognised on divestment of shares held in joint venture – 9.49
+Impairment of investment in associate [Refer Note 29(xiv)] (11.00) –
+Others (including income from leases etc.) 172.13 161.94
+TOTAL 1024.10 948.86
+* Includes ` 125.93 Crores (2024 - ` 149.37 Crores) being net gain / (loss) on sale of investments.
+178 ITC Limited REPORT AND ACCOUNTS 2025

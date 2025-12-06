@@ -1,0 +1,136 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 394-396
+
+[PAGE 394]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+The table ahead presents the 2030 targets for key initiatives undertaken by SIP and progress made till FY 2024-25,
+which indicates that the progress is on track.
+Objective Initiatives UoM Target Achieved Till
+2030 FY 2024-25
+Horizon I - Sustainable Livelihoods Today
+Climate Smart Agriculture Climate Smart Lakh Acres 40.00 31.70
+for climate risk assessments, Agriculture area1
+climate change adaptation,
+and actions for sustainable
+Climate Smart Village Lakh Acres 30.00 21.80
+improvement of yields and
+Area (Sub-part of
+incomes
+above)1#
+Natural Resources Natural Resources Lakh Acres 22.00 18.16
+Management to conserve and Management - Water
+replenish natural resources Stewardship
+critical for agriculture
+Water harvesting Nos. 50,000 35,900
+structures (including
+ground water
+recharge structures)
+Storage Potential#* Million KL 60.00 59.90
+Crop Water Use Million KL 2,000 1,400
+Efficiency#
+Bio-Diversity Lakh Acres 10.00 6.47
+Conservation#
+Livelihood Diversification to On-farm livelihood Lakh Acres 6.30 5.28
+improve incomes and de- Diversification – Social
+risk livelihoods from climate Forestry#
+change
+Off-farm livelihood Household 10.00 8.90
+diversification - coverage
+Improved Animal (Lakhs)
+Husbandry Practices
+Institutional Support for risk Link farmers with No. of 50 42
+mitigation and reduction of Government schemes linkages
+costs of cultivation (Lakhs)
+Agri Business Centres Nos. 2,000 1,850
+Farmer Producer Nos. 4,000 2,050
+Organisations
+Horizon II - Creating Capabilities For Tomorrow
+Support to Education for Improvement in Nos. (Lakhs) 20.00 21.80
+improving quality of education learning outcomes –
+and creating conducive Children covered*
+learning environment
+Infrastructure support Nos. 4,000 4,100
+to Government
+Schools and
+Anganwadis*
+Skilling of youth for enabling Vocational Training – Nos. (Lakhs) 2.25 1.27
+livelihood and employability Youth trained
+XLVII
+
+[PAGE 395]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Objective Initiatives UoM Target Achieved Till
+2030 FY 2024-25
+Provide access to sanitation Improving Health Nos. 40,000 43,840
+and waste management & Sanitation -
+services to improve habitats Household Toilets
+constructed*
+Improving Health & Household 75 75.21
+Sanitation - Waste coverage
+Management* (Lakhs)
+Provide healthcare and Beneficiaries covered Nos. (Lakhs) 15 15.24
+nutrition services to women under Maternal and
+and children Child Health and
+Nutrition*
+Empowering women for Women covered Nos. (Lakhs) 5 4.51
+reduction in economic and through livelihood
+social discrimination and other
+microenterprises
+Note:
+1Figures on Climate Smart Village and Climate Smart Agriculture area pertains to scale in the FY
+#These indicators also contribute to five of the Company’s Sustainability 2030 (S 2.0) commitments
+*Target 2030 to be revised during FY 2025-26
+XLVIII
+
+[PAGE 396]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Principle 9
+Businesses should engage with and provide value to their consumers in a responsible manner.
+Essential Indicators
+1. Describe the mechanisms in place to receive and respond to consumer complaints and feedback.
+A well-established system continues to be in place for dealing with consumer feedback. Consumers are provided
+multiple options to connect with the Company through email, telephone, website, social media, feedback forms, etc. In
+addition, the Company’s Businesses have a dedicated consumer response cell to respond to their queries and receive
+feedback on products so as to be able to continuously improve upon its products and services.
+2. Turnover of products and/ services as a percentage of turnover from all products/service that carry information about:
+All products/services of the Company contain relevant information as required under applicable laws.
+3. Number of consumer complaints in respect of the following:
+FY 2024-25 Remarks FY 2023-24 Remarks
+Received Pending Received Pending
+During The Resolution At During The Resolution At
+Year End Of Year Year End Of Year
+Data privacy 0 0 - 0 0 -
+Advertising 6 2 15 1
+Cyber-security 0 0 0 0
+Delivery of essential 578 169 591 135
+Services*
+Restrictive Trade - - 967 38
+Practices*
+Unfair Trade 14 4 28 8
+Practices*
+Others* 19,215 2,330 20,394 1,829
+*Definition of complaints under various categories is given below
+Category Complaints Related to
+The Company is not engaged in the delivery of essential services. These complaints are in
+Delivery of essential services
+relation to availability of the Company’s goods and services.
+Quantity and weightage related, duplicate pack and complaints made on account of fraudulent
+Restrictive trade practices
+calls/e-mails offering ITC’s distributorship
+Unfair trade practices High pricing (product sold above MRP)
+Product quality related complaints and service-related complaints against distributor / retailer /
+Others
+salesperson
+4. Details of instances of product recalls on account of safety issues:
+Number Reasons For Recall
+Voluntary Recalls Nil Not Applicable
+Forced Recalls Nil Not Applicable
+5. Does the entity have a framework/ policy on cyber security and risks related to data privacy? (Yes/No) If available,
+provide a web-link of the policy.
+A Cyber Security Committee, led by the Chief Information Security Officer (CISO), is established to focus specifically on cyber
+security risks. Its primary responsibility is to monitor emerging practices and technologies and provide recommendations to
+XLIX

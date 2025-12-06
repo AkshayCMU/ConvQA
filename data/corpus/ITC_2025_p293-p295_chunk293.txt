@@ -1,0 +1,111 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 293-295
+
+[PAGE 293]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+24. Other income
+Interest income 1488.76 1696.75
+Dividend income 10.91 10.03
+Other non-operating income 1030.02 986.44
+TOTAL 2529.69 2693.22
+Interest income:
+a) Deposits with banks etc. - carried at amortised cost 439.81 618.08
+b) Financial assets:
+– mandatorily measured at FVTPL 132.56 214.03
+– measured at amortised cost 560.61 564.35
+– measured at FVTOCI 342.32 294.85
+c) Others (from statutory authorities etc.) 13.46 5.44
+TOTAL 1488.76 1696.75
+Dividend income:
+Equity instruments measured at FVTOCI held at the end of reporting period 10.91 10.03
+TOTAL 10.91 10.03
+Other non-operating income:
+Net foreign exchange gain / (loss) (6.88) 0.01
+Net gain / (loss) arising on financial instruments measured at
+amortised cost / fair value through profit or loss / fair value through other
+comprehensive income (Refer Note 33)* 893.56 828.59
+Gain recognised on divestment of shares held in joint venture – 9.84
+Impairment of investment in associate and joint venture (7.87) (0.06)
+Others (including income from leases etc.) 151.21 148.06
+TOTAL 1030.02 986.44
+* Includes ` 131.30 Crores (2024 - ` 181.82 Crores) being net gain / (loss) on sale of investments.
+ITC Limited REPORT AND ACCOUNTS 2025 275
+
+[PAGE 294]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+25. Changes in inventories of finished goods, Stock-in-Trade,
+work-in-progress, intermediates and Biological Assets
+Opening inventories and Biological Assets
+Finished goods (manufactured) 2297.12 2268.64
+Work-in-progress 1334.72 961.08
+Stock-in-Trade (goods purchased for resale) 1048.58 760.37
+Intermediates - Tissue paper and Paperboards 95.73 115.09
+Biological Assets 150.00 142.97
+Less: Closing inventories and Biological Assets
+Finished goods (manufactured) 2580.62 2297.12
+Work-in-progress 414.60 1334.72
+Stock-in-Trade (goods purchased for resale) 1348.07 1048.58
+Intermediates - Tissue paper and Paperboards 104.32 95.73
+Biological Assets 198.58 150.00
+Less: Effects of foreign exchange fluctuation taken to
+Foreign Currency Translation Reserve (0.03) (89.31)
+Less: Inventory on account of discontinued operations
+[Refer Note 30(viii)] 1005.64 (220.92)
+TOTAL (725.65) (367.77)
+26. Employee benefits expense
+Salaries and wages 5377.96 4852.33
+Contribution to Provident and other funds 344.12 297.85
+Share based payments to employees [Includes cash-settled share based
+payments ` 15.54 Crores (2024 - ` 32.68 Crores)] * 150.16 139.20
+Staff welfare expenses 305.22 265.81
+6177.46 5555.19
+Less: Recoveries made / reimbursements received 7.68 6.66
+TOTAL 6169.78 5548.53
+* Refer Note 30(xiv), 30(xv) and 30(xvi)
+276 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 295]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+27. Finance costs
+Interest expense:
+– On Lease liabilities 16.31 15.33
+– On financial liabilities measured at amortised cost 16.10 9.00
+– Others (to statutory authorities etc.) 12.65 14.78
+TOTAL 45.06 39.11
+28. Other expenses
+Power and fuel 975.35 952.90
+Consumption of stores and spare parts 397.38 365.04
+Contract processing charges 1312.94 1120.30
+Rent 307.20 274.30
+Rates and taxes 180.89 193.25
+Insurance 188.55 165.06
+Repairs 411.90 397.93
+Maintenance and upkeep 223.14 300.49
+Outward freight and handling charges 1928.59 1617.89
+Warehousing charges 315.10 286.22
+Advertising / Sales promotion 1331.69 1385.64
+Corporate Social Responsibility [Refer Note 30(xvii)] 457.51 401.97
+Commission to selling agents etc. 56.66 35.40
+Doubtful and bad debts 11.70 14.35
+Doubtful and bad advances, loans and deposits 1.95 24.61
+Information technology services 262.87 207.35
+Travelling and conveyance 463.96 423.78
+Training and development 33.97 29.71
+Legal and professional fees 723.81 693.85
+(Gain) / Loss on sale of property, plant and equipment - Net (138.76) (62.26)
+Miscellaneous expenses 1750.23 1325.04
+TOTAL 11196.63 10152.82
+ITC Limited REPORT AND ACCOUNTS 2025 277

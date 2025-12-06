@@ -1,0 +1,159 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 318-320
+
+[PAGE 318]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+13. Weighted average share price : The weighted average share price of Shares, arising upon exercise of Options
+of Shares arising upon exercise during the year ended 31st March, 2024 was ` 467.68 (2024 - ` 455.45). This was
+of Options based on the closing market price on NSE on the date of exercise of Options (i.e.
+the date of allotment of shares by the Securityholders Relationship Committee).
+14. Summary of Options outstanding, scheme-wise:
+Particulars As at 31st March, 2025 As at 31st March, 2024
+No. of Range of Weighted No. of Range of Weighted
+Options Exercise Prices (`) average Options Exercise Prices (`) average
+Outstanding (adjusted as remaining Outstanding remaining
+applicable) contractual life contractual life
+ITC Employee Stock Option : 1,30,572 1606.33 - 3276.52 2.78 1,97,814 1698.00 – 3463.50 3.19
+Scheme - 2006
+ITC Employee Stock Option : 73,04,397 1606.33 - 4575.39 4.17 87,96,798 1698.00 – 4534.50 3.37
+Scheme - 2010
+15. A description of the method : The fair value of each Option is estimated using the Black Scholes Option Pricing model.
+used during the year to
+Weighted average exercise price per Option : ` 4835.02 (adjusted consequent
+estimate the fair values of
+to Scheme of Demerger to
+Options, the weighted average
+` 4573.99)
+exercise prices and weighted
+Weighted average fair value per Option : ` 1121.49 (adjusted consequent
+average fair values of Options
+granted t o Scheme of Demerger to
+` 1060.95)
+The significant assumptions : The fair value of each Option is estimated using the Black Scholes Option Pricing
+used to ascertain the above model after applying the following key assumptions on a weighted average basis:
+(i) Risk-free interest rate 6.65%
+(ii) Expected life 4.60 years
+(iii) Expected volatility 22.33%
+(iv) Expected dividends 2.84%
+(v) The price of the underlying shares in market at the time of Option grant ` 4835.02
+(One Option = Ten Ordinary Shares)
+16. Methodology for determination : The volatility used in the Black Scholes Option Pricing model is the annualised
+of expected volatility standard deviation of the continuously compounded rates of return on the stock
+over a period of time. The period considered for the working is commensurate with
+the expected life of the Options and is based on the daily volatility of the Company’s
+stock price on NSE. There are no market conditions attached to the grant and vest.
+B. Information in respect of Options granted by ITC Hotels Limited (ITCHL):
+I n terms of the Scheme of Demerger [Refer Note 30(viii)], one stock option of ITCHL (including fractional entitlements)
+has been granted to the eligible employees of the Group by ITCHL under the ITC Hotels Special Purpose Employee
+Stock Option Scheme (‘ITCHL SP ESOP Scheme’) for every ten stock options outstanding under the ITC Employee Stock
+Option Schemes (ITC ESOS) as on the Record Date i.e. 6th January, 2025, on the terms and conditions similar to the
+ITC ESOS.
+E ach option entitles the holder thereof to apply for and be allotted ten Equity Shares of ITCHL of ` 1.00 each upon payment
+of exercise price. These options vest over a period of three years from the date of original grant under the ITC ESOS and
+are exercisable within a period of five years from the date of vesting. The exercise prices have been determined basis fair
+and reasonable adjustments approved by the Nomination & Compensation Committees of the Company and ITCHL for
+outstanding stock options under the ITC ESOS Schemes as on the Record Date.
+300 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 319]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+T he employee compensation cost as per fair value method for the financial year 2024-25 is ` 2.00 Crores (2024 - Nil)
+[Refer Note 26].
+T he summary of movement of the aforesaid Stock Options granted by ITCHL and status of the outstanding Options is
+as under:
+As at 31st March, 2025
+Particulars Weighted Average
+No. of Options
+Exercise Prices (`)
+Outstanding at the beginning of the year – –
+Add: Granted during the year 7,28,678 1871.89
+Less: Lapsed during the year – –
+Less: Exercised during the year – –
+Outstanding at the end of the year 7,28,678 1871.89
+Options exercisable at the end of the year 4,46,047 1521.77
+Options vested and exercisable during the year 4,46,047 1521.77
+(xv) Information in respect of Stock Appreciation Linked Reward (‘SAR’) Plan:
+Sl. Particulars Details
+No.
+1 Nature and extent of Stock : ITC Employee Cash Settled Stock Appreciation Linked Reward Plan
+Appreciation Linked Reward Plan (ITC ESAR Plan).
+that existed during the year along
+Under the ITC ESAR Plan, the eligible employees receive cash on vesting of
+with general terms and conditions
+SAR units, equivalent to the difference between the grant price and the market
+price of the share on vesting of SAR units subject to the terms and conditions
+specified in the Plan.
+2 Settlement Method : Cash – Settled
+3 Vesting period and maximum term : Over a period of five years from the date of grant in accordance with the Plan.
+of SAR granted
+4 Method used to estimate the fair : Black Scholes Option Pricing model. The said model considers inputs such as
+value of SAR granted Risk-free interest rate, Expected life, Expected volatility, Expected dividend,
+Market price etc. The number of SAR units outstanding as at 31st March, 2025
+is 1,24,850 (2024 - 9,31,606) and the weighted average fair value at
+measurement date is ` 1513.00 (2024 - ` 1103.96) per SAR unit.
+5 Total cost recognised in the : The cost has been calculated using the fair value method of accounting for
+Statement of Profit and Loss SAR units issued under the ITC ESAR Plan. The employee compensation
+cost as per fair value method for the financial year 2024-25 is ` 8.84
+Crores (2024 - ` 33.49 Crores); out of which, ` 8.58 Crores (2024 - ` 32.68
+Crores) relate to employee benefits expense (Refer Note 26), ` 0.11 Crore
+(2024 - ` 0.40 Crore) to discontinued operations, Nil (2024 - ` 0.05 Crore)
+to property, plant and equipment and ` 0.15 Crore (2024 - ` 0.36 Crore) for
+group entities. The amount carried in the Balance Sheet as a non – current
+financial liability is Nil (2024 - ` 14.13 Crores) and as current financial liability
+is ` 16.62 Crores (2024 - ` 73.27 Crores) (Refer Note 18).
+ITC Limited REPORT AND ACCOUNTS 2025 301
+
+[PAGE 320]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(xvi) Information in respect of share based payments by ITC Infotech India Limited (‘I3L’):
+T he eligible employees of the Group have been granted stock options under the ITC Infotech India Limited Employee Stock Option
+Plan 2024 (I3L ESOP 2024) in accordance with the terms and conditions of such Plan, details of which are as under:
+1. Time-Based Options: Vesting of Options would be subject to continued employment with the Company
+2. Performance-Based Options: The Nomination and Remuneration Committee of I3L (‘I3L NRC’) may specify certain
+performance criteria such as growth in the Company’s revenue, EBIDTA vis-à vis peers etc. and individual performance,
+subject to satisfaction of which the Options would vest.
+Unless otherwise decided by I3L NRC, the Options granted shall vest in accordance with the following Vesting Schedule:
+Date of Vesting Annual Vesting Percentage
+2nd anniversary from date of Grant 35% of Options granted
+4th anniversary from the date of Grant 65% of Options granted
+In the event I3L is listed before vesting, the exercise period shall be up to 5 years from the respective date of vesting. In the
+event of no listing, there will be mandatory cash settlement within three months from the date of vesting.
+Each Option entitles the holder thereof to apply for and be allotted one Equity Share of I3L of ` 10.00 each upon payment of
+exercise price.
+The cost of stock options granted under I3L ESOP 2024 has been recognised as cash settled share-based payments in
+accordance with Ind AS 102 – Share Based Payment. In terms of the aforesaid arrangement, the Group accounts for the cost
+of the fair value of Options granted to the eligible employees as employee benefits expense with a corresponding increase in
+other financial liabilities. The fair value of the Options granted is determined using the Black Scholes Option Pricing model.
+I3L has granted 6,11,537 time based stock options and 3,09,008 performance based stock options during the year at an
+exercise price of ` 1,400 and ` 10 respectively. These options are outstanding as at 31st March, 2025 and none of these options
+are exercisable as at that date.
+In accordance with Ind AS 102 - Shared Based Payment, the Group has recognised an amount of ` 6.97 Crores (2024 - NA)
+under employee benefits expense (Refer Note 26).
+(xvii) Amount required to be spent by the Group during the year as per Section 135 read with Section 198 of the Companies Act,
+2013 - ` 474.52 Crores (2024 - ` 417.74 Crores) being 2% of the average Net Profits of the respective companies.
+Expenditure incurred during the year is ` 475.33 Crores (2024 - ` 418.39 Crores) comprising employee benefits expense of
+` 17.82 Crores (2024 - ` 15.52 Crores) and other expenses of ` 457.51 Crores (2024 - ` 402.87 Crores), of which ` 49.42 Crores
+(2024 - ` 30.60 Crores) is accrued for payment as on 31st March, 2025. Such CSR expenditure does not include
+any spends on construction / acquisition of assets. Amount available for set off in succeeding financial years is ` 1.97 Crores
+(2024 - ` 1.93 Crores).
+Such CSR expenditure of ` 475.33 Crores (2024 - ` 418.39 Crores) excludes ` 6.98 Crores (2024 - ` 10.89 Crores) being the
+excess of expenditure of salaries of CSR personnel and administrative expenses over the limit of 5% of total CSR expenditure
+laid down under Rule 7(1) of the Companies (Corporate Social Responsibility Policy) Rules, 2014 as applicable to individual
+entities.
+CSR activities undertaken during the year pertain to: poverty alleviation; promoting education and skill development; promoting
+healthcare including preventive healthcare; providing sanitation and drinking water; ensuring environmental sustainability;
+enabling climate resilience; rural development projects; creating livelihoods for people (especially those from disadvantaged
+sections of society); protection of national heritage, art and culture; preserving and promoting music; promoting sports;
+conducting research in science, technology, engineering and medicine aimed at promoting Sustainable Development Goals
+(SDGs) and providing relief and assistance to victims of disasters and calamities.
+(xviii) I n FY 2022-23, ITC Infotech India Limited (I3L) had entered into an agreement with PTC Inc., a global technology company
+headquartered in Boston, USA, to acquire a part of PTC’s PLM implementation services business and create a new service line
+focused on the adoption of PTC’s industry-leading Windchill PLM software as a service (SaaS).
+302 ITC Limited REPORT AND ACCOUNTS 2025

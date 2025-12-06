@@ -1,0 +1,621 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 156-158
+
+[PAGE 156]
+Standalone Balance Sheet
+as at 31st March, 2025
+As at As at
+Note 31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+ASSETS
+Non-current assets
+(a) Property, Plant and Equipment 3A 16445.49 22015.50
+(b) Capital work-in-progress 3B 1067.79 1077.97
+(c) Investment Property 3C 399.89 373.09
+(d) Goodwill 3D 577.20 577.20
+(e) Other Intangible assets 3E 2024.04 2055.74
+(f) Intangible assets under development 3F 2.91 9.07
+(g) Right-of-use assets 3G 541.86 721.69
+(h) Financial Assets
+(i) Investments 4 20701.17 22821.94
+(ii) Loans 5 6.28 2.63
+(iii) Others 6 1522.90 22230.35 372.88 23197.45
+(i) Other non-current assets 7 963.73 44253.26 1229.22 51256.93
+Current assets
+(a) Inventories 8 15061.01 12631.51
+(b) Financial Assets
+(i) Investments 9 15285.91 11916.88
+(ii) Trade receivables 10 3910.77 3311.45
+(iii) Cash and cash equivalents 11 222.06 197.63
+(iv) Bank Balances other than (iii) above 12 2962.32 6020.06
+(v) Loans 5 8.96 9.10
+(vi) Others 6 1261.20 23651.22 849.86 22304.98
+(c) Other current assets 7 1043.71 39755.94 1134.18 36070.67
+TOTAL ASSETS 84009.20 87327.60
+EQUITY AND LIABILITIES
+Equity
+(a) Equity Share capital 13 1251.41 1248.47
+(b) Other Equity 66648.73 67900.14 70984.83 72233.30
+Liabilities
+Non-current liabilities
+(a) Financial Liabilities
+(i) Borrowings 14 – 1.76
+(ii) Lease liabilities 15 117.45 261.95
+(iii) Other financial liabilities 16 87.89 205.34 109.87 373.58
+(b) Provisions 17 225.23 221.45
+(c) Deferred tax liabilities (Net) 18 2556.35 2986.92 2083.66 2678.69
+Current liabilities
+(a) Financial Liabilities
+(i) Borrowings 14 1.76 1.52
+(ii) Lease liabilities 15 37.54 46.74
+(iii) Trade Payables 19
+(A) total outstanding dues of micro and
+small enterprises; and 178.24 206.85
+(B) total outstanding dues of creditors other
+than micro and small enterprises 4311.58 4282.70
+(iv) Other financial liabilities 16 1448.69 5977.81 1659.33 6197.14
+(b) Other current liabilities 20 6070.02 5389.75
+(c) Provisions 17 46.53 68.72
+(d) Current Tax Liabilities (Net) 21 1027.78 13122.14 760.00 12415.61
+TOTAL EQUITY AND LIABILITIES 84009.20 87327.60
+The accompanying notes 1 to 32 are an integral part of the Standalone Financial Statements.
+On behalf of the Board
+In terms of our report attached
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003
+S. DUTTA Director & Chief Financial Officer
+Arvind Sethi
+(DIN : 01804345)
+Partner
+R. K. SINGHI Company Secretary
+(Membership No.: 89802)
+(Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+138 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 157]
+Standalone Statement of Profit and Loss
+for the year ended 31st March, 2025
+For the year ended For the year ended
+Note 31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+I Revenue From Operations 22A, 22B 74236.07 67292.60
+II Other Income 23 3454.31 3529.76
+III Total Income (I+II) 77690.38 70822.36
+IV EXPENSES
+Cost of materials consumed 23440.12 21055.85
+Purchases of Stock-in-Trade 8936.22 6039.81
+Changes in inventories of finished goods, Stock-in-Trade,
+work-in-progress and intermediates 24 (640.50) (370.09)
+Excise duty 4912.55 4664.48
+Employee benefits expense 25 3416.73 3200.93
+Finance costs 26 36.35 34.39
+Depreciation and amortization expense 1441.93 1357.20
+Other expenses 27 10146.12 9207.67
+Total expenses (IV) 51689.52 45190.24
+V Profit before exceptional items and tax (III-IV) 26000.86 25632.12
+VI Exceptional Items 29(i) 527.96 –
+VII Profit before tax (V+VI) 26528.82 25632.12
+VIII Tax expense:
+Current Tax 28 5990.17 5516.91
+Deferred Tax 28 446.80 204.98
+IX Profit for the year from continuing operations (VII-VIII) 20091.85 19910.23
+X Profit before exceptional items and tax from discontinued
+operations 572.52 691.22
+XI Exceptional Items of discontinued operations 15163.06 (7.57)
+XII Tax expense of discontinued operations 28 631.82 171.91
+XIII Profit for the year from discontinued operations (X+XI-XII) 29(x) 15103.76 511.74
+XIV Profit for the year (IX+XIII) 35195.61 20421.97
+Other Comprehensive Income
+A (i) Items that will not be reclassified to profit or loss:
+– Remeasurements of the defined benefit plans 29(vii) (27.41) (22.97)
+– Equity instruments through other comprehensive
+income (999.57) 2515.06
+– Effective portion of gains / (losses) on designated
+portion of hedging instruments in a cash flow hedge 0.23 (10.46)
+(ii) Income tax relating to items that will not be reclassified
+to profit or loss 28 85.34 (228.72)
+B (i) Items that will be reclassified to profit or loss:
+– Exchange differences on net investment in foreign
+operations 29(x) (40.55) –
+– Debt instruments through other comprehensive
+income 72.07 17.91
+– Effective portion of gains / (losses) on designated
+portion of hedging instruments in a cash flow hedge (8.22) 19.71
+(ii) Income tax relating to items that will be reclassified
+to profit or loss 28 (11.27) (9.47)
+XV Other Comprehensive Income [A(i+ii) + B(i+ii)] (929.38) 2281.06
+XVI Total Comprehensive Income for the year (XIV+XV) 34266.23 22703.03
+XVII Earnings per equity share (Face Value ` 1.00 each): 29(ii)
+For Continuing Operations
+(a) Basic (in `) 16.07 15.98
+(b) Diluted (in `) 16.05 15.94
+For Discontinued Operations
+(a) Basic (in `) 12.08 0.41
+(b) Diluted (in `) 12.06 0.41
+For Continuing and Discontinued Operations
+(a) Basic (in `) 28.15 16.39
+(b) Diluted (in `) 28.11 16.35
+The accompanying notes 1 to 32 are an integral part of the Standalone Financial Statements.
+On behalf of the Board
+In terms of our report attached
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003
+S. DUTTA Director & Chief Financial Officer
+Arvind Sethi
+(DIN : 01804345)
+Partner
+R. K. SINGHI Company Secretary
+(Membership No.: 89802)
+(Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 139
+
+[PAGE 158]
+140 ITC Limited REPORT AND ACCOUNTS 2025
+ytiuqE
+ni
+segnahC
+fo
+tnemetatS
+enoladnatS
+5202
+,hcraM
+ts13
+dedne
+raey
+eht
+rof
+)serorC
+ni
+`(
+latipaC
+erahS ytiuqE
+.A
+eht
+fo
+dne
+eht
+ta
+ecnalaB
+erahs
+ytiuqe
+ni
+segnahC
+gninnigeb
+eht
+ta
+ecnalaB
+raey
+gnitroper
+raey
+eht
+gnirud
+latipac
+raey
+gnitroper
+eht
+fo
+14.1521
+49.2
+74.8421
+5202
+,hcraM
+ts13
+dedne
+raey eht
+roF
+74.8421
+76.5
+08.2421
+4202
+,hcraM
+ts13
+dedne
+raey eht
+roF
+)serorC
+ni
+`(
+ytiuqE rehtO
+.B
+emocnI
+evisneherpmoC
+rehtO
+fo
+smetI
+sulpruS
+dna
+sevreseR
+ytiuqE
+tbeD
+latoT
+ngieroF
+evitceffE
+stnemurtsnI
+stnemurtsnI
+erahS
+ycnerruC
+fo
+noitrop
+rehtO
+hguorht
+rehtO
+hguorht
+latipaC
+snoitpO
+noitalsnarT
+wolF
+hsaC
+evisneherpmoC
+evisneherpmoC
+deniateR
+lareneG
+ycnegnitnoC
+noitpmedeR
+gnidnatstuO
+seitiruceS
+latipaC
+evreseR
+segdeH
+emocnI
+emocnI
+sgninraE
+evreseR
+evreseR
+evreseR
+tnuoccA
+muimerP
+evreseR
+38.48907
+55.04
+92.1
+04.3613
+)20.01(
+01.88443
+13.58571
+50.363
+03.0
+95.705
+87.24841
+84.2
+4202
+,lirpA
+ts1 ta sa ecnalaB
+16.59153
+–
+–
+–
+–
+16.59153
+–
+–
+–
+–
+–
+–
+raey eht rof
+tfiorP
+)83.929(
+)55.04(
+)89.5(
+)29.719(
+37.85
+)66.32(
+–
+–
+–
+–
+–
+–
+)xat
+fo
+ten(
+emocnI
+evisneherpmoC
+rehtO
+32.66243
+)55.04(
+)89.5(
+)29.719(
+37.85
+59.17153
+–
+–
+–
+–
+–
+–
+raey
+eht
+rof
+emocnI
+evisneherpmoC
+latoT
+eeyolpmE
+CTI rednu
+serahs
+ytiuqe fo
+eussI
+93.497
+–
+–
+–
+–
+–
+–
+–
+–
+–
+93.497
+–
+semehcS
+noitpO
+kcotS
+sdnediviD
+)45.3639(
+–
+–
+–
+–
+)45.3639(
+–
+–
+–
+–
+–
+–
+)erahs
+rep
+05.7
+` - 42-3202(
+dnediviD laniF
+–
+)11.3318(
+–
+–
+–
+–
+)11.3318(
+–
+–
+–
+–
+–
+–
+)erahs
+rep
+05.6
+` - 52-4202(
+dnediviD miretnI
+–
+54.91
+–
+–
+–
+–
+54.91
+–
+–
+–
+–
+–
+–
+deviecer
+dnufer
+xat
+noitubirtsid dnediviD
+gnidnatstuO
+snoitpO
+erahS morf refsnarT
+)86.0(
+–
+–
+–
+–
+00.1
+–
+–
+–
+)12.991(
+35.791
+–
+espal
+dna
+esicrexe no tnuoccA
+degdeh
+fo
+tnuoma
+gniyrrac
+laitini ot derrefsnarT
+51.0
+–
+51.0
+–
+–
+–
+–
+–
+–
+–
+–
+–
+)xat fo ten(
+smeti
+72.731
+–
+–
+–
+–
+–
+–
+–
+–
+72.731
+–
+–
+tnemyap
+desab
+erahs fo noitingoceR
+gnikatrednU
+degremeD
+eht fo eulav
+riaF
+ynapmoC
+eht
+fo sredloherahs
+eht ot detubirtsid
+)73.33022(
+–
+–
+–
+–
+–
+)73.33022(
+–
+–
+–
+–
+–
+])x(92 etoN
+refeR[
+sgninrae
+deniater
+morf refsnarT
+–
+–
+–
+–
+–
+)60.8444(
+60.8444
+–
+–
+–
+–
+–
+])x(92 etoN
+refeR[
+regremeD
+fo
+emehcS
+ot
+tnausrup
+desingocereD
+)98.22(
+–
+–
+–
+–
+–
+–
+–
+–
+)98.22(
+–
+–
+])A()vx(92
+etoN
+refeR[
+37.84666
+–
+)45.4(
+84.5422
+17.84
+97.53774
+–
+50.363
+03.0
+67.224
+07.43851
+84.2
+5202 ,hcraM
+ts13 ta sa ecnalaB
+00.15366
+55.04
+84.2
+84.588
+)24.32(
+07.78633
+13.58571
+50.363
+03.0
+54.147
+26.56031
+84.2
+3202
+,lirpA
+ts1 ta sa ecnalaB
+79.12402
+–
+–
+–
+–
+79.12402
+–
+–
+–
+–
+–
+–
+raey eht rof
+tfiorP
+60.1822
+–
+29.6
+29.7722
+04.31
+)81.71(
+–
+–
+–
+–
+–
+–
+)xat
+fo
+ten(
+emocnI
+evisneherpmoC
+rehtO
+30.30722
+–
+29.6
+29.7722
+04.31
+97.40402
+–
+–
+–
+–
+–
+–
+raey
+eht
+rof
+emocnI
+evisneherpmoC
+latoT
+eeyolpmE
+CTI rednu
+serahs
+ytiuqe fo
+eussI
+61.7341
+–
+–
+–
+–
+–
+–
+–
+–
+–
+61.7341
+–
+semehcS
+noitpO
+kcotS

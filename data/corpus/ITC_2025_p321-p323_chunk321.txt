@@ -1,0 +1,140 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 321-323
+
+[PAGE 321]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+T he consideration against the above agreement is payable to PTC over a period of time by way of cash consideration and also
+involves contingent consideration which is subject to achievement of revenue and business targets. The contingent consideration
+is recognised as a level 3 input as they are dependent on achievement of revenue and business targets. The movement of the
+PTC liability is as below:
+(` in Crores)
+Particulars March 31, 2025 March 31, 2024
+Opening Balance 400.11 522.74
+Settled
+Settlement of consideration by offset of trade receivables* (74.85) (29.00)
+Referral Fees (71.24) (101.49)
+Changes in fair value recognised in Other Income (Refer Note 24) 36.43 5.08
+Change in fair value transferred to Hedge Reserve (Refer Note 33) 4.76 2.78
+Closing Balance** 295.21 400.11
+* Represents settlement of consideration for Business and Commercial Rights through standardisation projects and service
+credits.
+** The amount carried in the Balance Sheet as a non – current financial liability is ` 198.39 Crores (2024 - ` 281.54 Crores) and
+as current financial liability is ` 96.82 Crores (2024 - ` 118.57 Crores) [Refer Note 18].
+(xix) I 3L on 1st October 2024 acquired, in an all-cash deal, 100% of the equity share capital of Blazeclan Technologies Private
+Limited (BTPL), an Indian company primarily engaged in the business of end-to-end cloud based solutions and services for an
+amount of ` 296.98 Crores (including deferred and contingent consideration of ` 16.53 Crores). This acquisition is expected to
+augment Group capabilities to service its customers in a multi-cloud and hybrid cloud environment with focus on the Partner
+eco-system to accelerate future growth. Consequent to the aforesaid acquisition, BTPL and its ten wholly owned subsidiaries,
+as listed below, became subsidiaries of I3L with effect from 1st October 2024:
+(a) Cloudlytics Technologies Private Limited, India (CTPL)
+(b) Blazeclan Technologies PTE Limited, Singapore
+(c) Blazeclan Technologies SDN. BHD., Malaysia
+(d) Blazeclan Technologies Pty. Limited, Australia
+(e) Blazeclan Europe SRL., Belgium
+(f) Blazeclan Technologies Limited, New Zealand
+(g) Blazeclan Technologies Inc., Canada
+(h) Blazeclan Technologies LLC, USA
+(i) Blazeclan Americas Inc., USA; and
+(j) Blazeclan Technologies Corporation, Philippines
+Necessary applications for amalgamation of BTPL and CTPL are pending before the Hon’ble National Company Law Tribunal,
+Kolkata and Mumbai Benches.
+The business acquisition has been accounted for using the acquisition method prescribed under Ind AS 103 – ‘Business
+Combinations’, and accordingly, the identifiable assets (both tangible and intangible) acquired, and liabilities assumed are
+recorded at their acquisition date fair values as determined by an independent valuer. Excess of purchase consideration over
+ITC Limited REPORT AND ACCOUNTS 2025 303
+
+[PAGE 322]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+the fair value of identified assets acquired and liabilities assumed has been recognised as Goodwill. The Group has recognised
+the following assets and liabilities pursuant to the acquisition:
+(` in Crores)
+Particulars Amount
+Customer relationships / contracts 32.20
+Business alliances / partnerships 59.69
+Software Tools 75.71
+Goodwill # 144.66
+Trade receivables and Unbilled receivables 75.69
+Cash and Cash equivalents (Refer Cash Flow Statement) 31.72
+Borrowings (44.50)
+Trade Payables (45.88)
+Others (32.31)
+Total 296.98
+# Goodwill is attributed to expected operating synergies, assembled workforce, etc.
+(xx) A s per proviso to Rule 3(1) of the Companies (Accounts) Rules, 2014, a company using accounting software for maintaining
+its books of account shall use only such accounting software which has a feature of recording audit trail of each and every
+transaction, that creates an edit log for each change made in the books of account along with the date when such changes were
+made and ensuring that such audit trail cannot be disabled.
+The respective companies in the Group have laid down appropriate policies to govern their Information Technology (IT)
+environment, including the aspects of audit trails and have established controls in respect of user access and database
+administration. Further, in respect of usage of cloud – based accounting software, where applicable, appropriate contractual
+restrictions are in place regulating access management at both application and database levels. Consequently, the Group has
+ensured compliance with aforesaid requirements in respect of audit trails with the exception of one associate, which is not
+material to the consolidated financial statements of the Group.
+An associate company of the Group upgraded its accounting software to comply with the aforesaid requirements in respect of
+audit trail on 25th May, 2023. While the upgraded software is compliant with the aforesaid requirements, the audit trail feature
+did not capture details of the user ID for transactions recorded at certain locations accounting for approximately 1% of the total
+value of transactions for the year of that associate company; the same had since been enabled w.e.f. 12th May, 2024.
+(xxi) F igures presented as “…” are below the rounding off norm adopted by the Group.
+(xxii) F igures for the previous year have been re-arranged, wherever necessary, to conform to the figures of the current year. The
+same does not have any material impact on the consolidated financial statements.
+(xxiii) T he consolidated financial statements were approved for issue by the Board of Directors on 22nd May, 2025. Such financial
+statements are required to be placed before the shareholders for adoption in terms of Companies Act, 2013.
+304 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 323]
+Notes
+to the Consolidated Financial Statements
+31. Segment reporting
+(` in Crores)
+2025 2024
+External Inter Segment Total External Inter Segment Total
+1. Segment Revenue - Gross
+FMCG - Cigarettes 35893.57 – 35893.57 33667.97 – 33667.97
+FMCG - Others 22005.27 9.85 22015.12 20992.48 9.67 21002.15
+FMCG - Total 57898.84 9.85 57908.69 54660.45 9.67 54670.12
+Agri Business 12244.00 7919.79 20163.79 8523.79 7600.64 16124.43
+Paperboards, Paper and Packaging 6575.88 1848.70 8424.58 6474.74 1869.67 8344.41
+Others 4224.04 64.07 4288.11 3691.55 65.82 3757.37
+Segment Total 80942.76 9842.41 90785.17 73350.53 9545.80 82896.33
+Eliminations (9842.41) (9545.80)
+Gross Revenue from sale of products and services 80942.76 73350.53
+2. Segment Results
+FMCG - Cigarettes 21091.35 20071.04
+FMCG - Others 1590.23 1789.91
+FMCG - Total 22681.58 21860.95
+Agri Business 1540.30 1278.33
+Paperboards, Paper and Packaging 883.11 1372.34
+Others 670.73 642.70
+Segment Total 25775.72 25154.32
+Eliminations 1.75 (196.06)
+Total 25777.47 24958.26
+Unallocated corporate expenses net of unallocated income (1332.06) (1106.89)
+Profit before interest etc. and taxation 24445.41 23851.37
+Finance Costs (45.06) (39.11)
+Interest earned on loans and deposits, income from current and non-current
+investments, profit and loss on sale of investments etc. - Net 2416.17 2573.59
+Share of profit / (loss) of Associates & Joint Ventures 110.42 14.43
+Exceptional items – –
+Profit before tax 26926.94 26400.28
+Tax expense (6890.47) (6209.46)
+Profit for the year from continuing operations 20036.47 20190.82
+Profit for the year from discontinued operations 15016.01 560.54
+Profit for the year 35052.48 20751.36
+3. Other Information 2025 2024
+Segment Assets Segment Liabilities Segment Assets Segment Liabilities
+FMCG - Cigarettes 10584.67 5729.56 9751.86 5442.84
+FMCG - Others 13016.19 2432.70 12592.81 2491.34
+FMCG - Total 23600.86 8162.26 22344.67 7934.18
+Agri Business 7904.83 2176.93 5850.07 1467.72
+Paperboards, Paper and Packaging 9908.98 1384.96 9596.76 1287.23
+Others 2736.44 1101.44 2362.07 1091.82
+Segment Total 44151.11 12825.59 40153.57 11780.95
+Discontinued operations [Refer Note 30(viii)] – – 9899.97 1319.74
+Unallocated Corporate Assets / Liabilities 43939.57 4867.15 41772.62 3835.50
+Total 88090.68 17692.74 91826.16 16936.19
+ITC Limited REPORT AND ACCOUNTS 2025 305

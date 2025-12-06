@@ -1,0 +1,223 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 262-264
+
+[PAGE 262]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+The Group makes contribution to defined contribution quantum of reimbursement is not material - the materiality
+pension plan. The contribution payable is recognised as an threshold being ` 5 Crores for each entity for a financial year.
+expense, when an employee renders the related service.
+Stock Appreciation Linked Reward (SAR) Plan
+The Group also makes contribution to defined benefit
+Cash Settled SAR units are granted to eligible employees
+pension and gratuity plan. The cost of providing benefits
+under the ITC Employee Cash Settled Stock Appreciation
+under the defined benefit obligation is calculated by
+Linked Reward Plan (‘ITC ESARP’) , as may be decided by
+independent actuary using the projected unit credit method.
+the CMC / Nomination & Compensation Committee / Board.
+Service costs and net interest expense or income is
+For such cash settled SAR units, a liability is initially
+reflected in the Statement of Profit and Loss. Gain or Loss
+measured at fair value on the grant date and is subsequently
+on account of remeasurements are recognised immediately
+remeasured at each reporting period, until settled. The
+through other comprehensive income in the period in which
+fair value of ITC ESARP units granted is recognised as
+they occur.
+employee benefits expense in the Statement of Profit and
+The employees of the Group are entitled to compensated
+Loss over the period in which the performance and / or
+leave for which the Group records the liability based on
+service conditions are fulfilled for employees of the Group.
+actuarial valuation computed using projected unit credit
+In case of ITC ESARP units granted to employees on
+method. These benefits are unfunded.
+deputation and to employees of the group companies, the
+Actual disbursements made under the Workers’ Voluntary Group generally recovers the fair value of ITC ESARP units
+Retirement Scheme are accounted as revenue expenses. from the concerned group companies.
+Employee Share Based Compensation Stock options granted by a subsidiary
+The Board of Directors of a subsidiary have approved an
+Stock Options
+Equity Based Long Term Incentive Plan for certain eligible
+Equity settled Stock Options are granted to eligible
+employees of the Group under the ITC Infotech India Limited
+employees under the ITC Employee Stock Option
+Employee Stock Option Plan 2024. The eligible employees
+Schemes (‘ITC ESOS’), as may be decided by the
+for this purpose shall be such permanent employees, as
+Nomination & Compensation Committee / Board. Further,
+may be determined by the Nomination and Remuneration
+eligible employees of the Company have been granted
+Committee (NRC) of the subsidiary.
+equity settled Stock Options under the ITC Hotels Special
+These Options have been recognised as cash-settled
+Purpose Employee Stock Option Scheme (‘ITCHL SP
+options and accordingly, a liability is initially measured at
+ESOS’), in terms of the ‘Scheme of Arrangement between
+fair value on the grant date and is subsequently remeasured
+the Company and ITC Hotels Limited, and their respective
+at each reporting period, until settled. The fair value of the
+shareholders and creditors’.
+Options granted is recognised in the Statement of Profit
+Under Ind AS, the cost of equity-settled Stock Options is
+and Loss over the period in which the performance and / or
+recognised based on the fair value of Stock Options as on
+service conditions are fulfilled for employees of the Group.
+the grant date.
+Leases
+The fair values of Stock Options granted to the employees
+The Group assesses at contract inception whether a
+of the Group is recognised as employee benefits expense in
+contract is, or contains, a lease. A contract is, or contains, a
+the Statement of Profit and Loss over the period in which the
+lease if it conveys the right to control the use of an identified
+performance and / or service conditions are fulfilled with a
+asset for a period of time in exchange for consideration.
+corresponding credit in equity for ITC ESOS and recognized
+as a financial liability for ITCHL SP ESOS. The fair value Group as a Lessee
+of Stock Options, net of recoveries, granted to employees
+Right-of-Use (ROU) assets are recognised at inception of
+on deputation and to employees of the group companies is
+a contract or arrangement for significant lease components
+considered as capital contribution / investment.
+at cost less lease incentives, if any. ROU assets are
+The Group generally recovers the fair value of Stock subsequently measured at cost less accumulated
+Options from such group companies, as applicable. It may, depreciation and accumulated impairment losses, if any. The
+if recommended by the Corporate Management Committee cost of ROU assets includes the amount of lease liabilities
+and approved by the Audit Committee, decide not to seek recognised, initial direct cost incurred and lease payments
+such recovery in respect of value of Stock Options from made at or before the lease commencement date. ROU
+such companies, who need to conserve financial capacity assets are generally depreciated over the shorter of the
+to sustain their business and growth plans and where the lease term and estimated useful lives of the underlying assets
+244 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 263]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+on a straight-line basis. Lease term is determined based Income tax, insofar as it relates to items disclosed under
+on consideration of facts and circumstances that create an other comprehensive income or equity, is disclosed
+economic incentive to exercise an extension option, or not to separately under other comprehensive income or equity,
+exercise a termination option. Lease payments associated as applicable.
+with short-term leases (i.e., those leases that have a lease
+Deferred tax assets and liabilities are offset when there is
+term of 12 months or less from the commencement date
+legally enforceable right to offset current tax assets and
+and do not contain a purchase option) and low value leases
+liabilities and when the deferred tax balances relate to the
+(i.e., where the value of the underlying asset, when new, in
+same taxation authority. Current tax assets and tax liabilities
+order of magnitude is ` 5 lakhs or less) are charged to the
+are offset where the entity has a legally enforceable right to
+Statement of Profit and Loss on a straight-line basis over the
+offset and intends either to settle on net basis, or to realise
+term of the relevant lease.
+the asset and settle the liability simultaneously.
+The Group recognises lease liabilities measured at the
+Claims
+present value of lease payments to be made on the date
+of recognition of the lease. Such lease liabilities do not Claims against the Group not acknowledged as debts are
+include variable lease payments (that do not depend on an disclosed after a careful evaluation of the facts and legal
+index or a rate), which are recognised as expense in the aspects of the matter involved.
+periods in which they are incurred. Interest on lease liability
+Provisions
+is recognised using the effective interest method. Lease
+liabilities are subsequently increased to reflect the accretion Provisions are recognised when, as a result of a past
+of interest and reduced for the lease payments made. The event, the Group has a legal or constructive obligation; it
+carrying amount of lease liabilities is also remeasured is probable that an outflow of resources will be required
+upon modification of lease arrangement or upon change to settle the obligation; and the amount can be reliably
+in the assessment of the lease term. The effect of such estimated. The amount so recognised is a best estimate
+remeasurements is adjusted to the value of the ROU assets. of the consideration required to settle the obligation at the
+reporting date, taking into account the risks and uncertainties
+Group as a Lessor
+surrounding the obligation.
+Leases in which the Group does not transfer substantially
+In an event when the time value of money is material, the
+all the risks and rewards of ownership of an asset are
+provision is carried at the present value of the cash flows
+classified as operating leases. Where the Group is a lessor
+estimated to settle the obligation.
+under an operating lease, the asset is capitalised within
+property, plant and equipment or investment property Operating Segments
+and depreciated over its useful economic life. Payments Operating segments are reported in a manner consistent
+received under operating leases are recognised in the with the internal reporting provided to the chief operating
+Statement of Profit and Loss on a straight-line basis over decision-maker (CODM). The CODM, who is responsible
+the term of the lease.
+for allocating resources and assessing performance of the
+Taxes on Income operating segments, has been identified as the Corporate
+Management Committee.
+Taxes on income comprise current taxes and deferred
+taxes. Current tax in the Statement of Profit and Loss is Segments are organised based on businesses which
+provided as the amount of tax payable in respect of taxable have similar economic characteristics as well as exhibit
+income for the period using tax rates and tax laws enacted similarities in nature of products and services offered,
+during the period, together with any adjustment to tax the nature of production processes, the type and class of
+payable in respect of previous years. customer and distribution methods.
+Deferred tax is recognised on temporary differences Segment revenue arising from third party customers is
+between the carrying amounts of assets and liabilities and reported on the same basis as revenue in the financial
+the amounts used for taxation purposes (tax base), at the statements. Inter-segment revenue is reported on the basis
+tax rates and tax laws enacted or substantively enacted by of transactions which are primarily market led. Segment
+the end of the reporting period. results represent profits before finance charges, unallocated
+Deferred tax assets are recognised for the future tax corporate expenses and taxes.
+consequences to the extent it is probable that future “Unallocated Corporate Expenses” include revenue and
+taxable profits will be available against which the deductible expenses that relate to initiatives / costs attributable to the
+temporary differences can be utilised. Group as a whole.
+ITC Limited REPORT AND ACCOUNTS 2025 245
+
+[PAGE 264]
+Notes
+to the Consolidated Financial Statements
+2. Use of estimates and judgements
+The preparation of financial statements in conformity variability of its return has concluded that it does not
+with generally accepted accounting principles requires ‘control’ these trusts.
+management to make estimates and assumptions that 2. Significant influence:
+affect the reported amounts of assets and liabilities
+The Group assessed whether or not it has significant
+and disclosure of contingent liabilities at the date of the
+influence on its investees based on its practical ability to
+financial statements and the results of operations during
+participate in the financial and operating policy decisions
+the reporting period end. Although these estimates are
+of the investee, though it is not in control or in joint
+based upon management’s best knowledge of current
+control of these policies. Based on such assessment,
+events and actions, actual results could differ from these
+the Group determined that the entities listed in the
+estimates.
+notes to the financial statements are the only entities
+The estimates and underlying assumptions are reviewed on over which the Group has significant influence, and
+an ongoing basis. Revisions to accounting estimates are accordingly recognised as associates.
+recognised in the period in which the estimate is revised
+3. Joint Control:
+if the revision affects only that period, or in the period of
+(i) The Group holds 27.90% of the equity share capital
+the revision and future periods if the revision affects both
+of Logix Developers Private Limited, a company
+current and future periods.
+intended for the purpose of developing a luxury
+A. Judgements in applying accounting policies hotel-cum-service apartment complex. The Group
+The following are the judgements, apart from those involving has concluded that the key decisions about relevant
+estimations (see note B below), that the Group have made activities of such company are made jointly between
+in the process of applying the accounting policies and that the Group and the co-venturer (who holds 72.10% of
+have a significant effect on the amounts recognised in the the equity share capital) and both the parties have
+consolidated financial statements: rights to the net assets of such arrangement.
+1. Control: (ii) The Group holds 50% of the equity share capital
+The Group assessed whether or not it has control on its of ITC Filtrona Limited, a company involved in
+investees based on whether, as an investor, it has the manufacture and sale of filter rods. The Group has
+power / rights and consequently the practical ability to concluded that the key decisions about relevant
+direct the relevant activities of its investees unilaterally. activities of such company are made jointly between
+In making this judgement, the Group considered the the Group and the co-venturer (who holds 50% of
+absolute size of its holding, the relative size of and the equity share capital) and both the parties have
+dispersion of other shareholders, and whether any rights to the net assets of such arrangement.
+contractual arrangements exist between the Company 4. Useful life of Intangible Assets:
+(and its subsidiaries) and other shareholders of the The Group is required to determine whether its
+investees. Based on this, and in accordance with its intangible assets have indefinite or finite life which is a
+Accounting Policy, the Group has determined that the subject matter of judgement. Certain trademarks have
+entities listed in the notes to the financial statements are been considered of having an indefinite useful life taking
+the only entities over which Group has control. into account that there are no technical, technological or
+The Company is a settlor for certain trusts, i.e., ITC commercial risks of obsolescence or limitations under
+Sangeet Research Academy, ITC Education and Health contract or law. Other trademarks have been amortised
+Care Trust and ITC Rural Development Trust. The over their useful economic life. Refer notes to the
+Group while considering the nature and insignificant financial statements.
+246 ITC Limited REPORT AND ACCOUNTS 2025

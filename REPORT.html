@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>REPORT</title>
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<h1 id="hw6-final-report-rag-based-question-answering-system">HW6 Final
+Report: RAG-based Question Answering System</h1>
+<p><strong>Author:</strong> Akshay Kulkarni (akshayk2)<br />
+<strong>Course:</strong> 11-697 Introduction to Question Answering with LLMs<br />
+<strong>GitHub Repository:</strong> <a href="https://github.com/AkshayCMU/11697-hw6-akshayk2">https://github.com/AkshayCMU/11697-hw6-akshayk2</a><br />
+<strong>Topic:</strong> LLM-powered investor question answering over
+corporate annual reports<br />
+<strong>Domain:</strong> ITC Limited Annual Report 2025</p>
+<hr />
+<h2 id="introduction">1. Introduction</h2>
+<p>This report presents the design, implementation, and evaluation of a
+Retrieval-Augmented Generation (RAG) system for answering investor
+questions over corporate annual reports. The system addresses the
+challenge of domain-specific question answering where large language
+models lack the specialized knowledge contained in financial
+documents.</p>
+<p><strong>GitHub Repository:</strong> All code, data, and evaluation results are available at <a href="https://github.com/AkshayCMU/11697-hw6-akshayk2">https://github.com/AkshayCMU/11697-hw6-akshayk2</a></p>
+<h3 id="problem-statement">1.1 Problem Statement</h3>
+<p>Investor queries about corporate performance require precise answers
+grounded in official documents. Pure LLMs suffer from: - Lack of access
+to private/recent documents - Hallucination of financial figures -
+Inability to cite sources</p>
+<p>RAG addresses these limitations by retrieving relevant document
+chunks before generation.</p>
+<h3 id="scope">1.2 Scope</h3>
+<ul>
+<li><strong>Corpus:</strong> ITC Limited Annual Report 2025 (410 text
+chunks)</li>
+<li><strong>Questions:</strong> 100 QA pairs covering factoid, MCQ, and
+list questions</li>
+<li><strong>Evaluation:</strong> 15 questions across 5 system
+configurations</li>
+</ul>
+<hr />
+<h2 id="system-architecture">2. System Architecture</h2>
+<h3 id="rag-pipeline">2.1 RAG Pipeline</h3>
+<pre><code>Question → Retriever → Top-K Chunks → Prompt Construction → Generator → Answer</code></pre>
+<h3 id="components">2.2 Components</h3>
+<table>
+<colgroup>
+<col style="width: 34%" />
+<col style="width: 65%" />
+</colgroup>
+<thead>
+<tr>
+<th>Component</th>
+<th>Options Implemented</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Retriever</strong></td>
+<td>None (baseline), Semantic (OpenAI embeddings), Hybrid (BM25 +
+E5-large)</td>
+</tr>
+<tr>
+<td><strong>Generator</strong></td>
+<td>GPT-4o-mini (API), Qwen2.5:1.5b (local)</td>
+</tr>
+<tr>
+<td><strong>Vector Store</strong></td>
+<td>ChromaDB</td>
+</tr>
+<tr>
+<td><strong>Fusion</strong></td>
+<td>Reciprocal Rank Fusion (RRF) for hybrid retrieval</td>
+</tr>
+</tbody>
+</table>
+<h3 id="retriever-implementations">2.3 Retriever Implementations</h3>
+<p><strong>Semantic Retriever:</strong> - Embedding model: OpenAI
+text-embedding-3-small - Vector store: ChromaDB with cosine similarity -
+Top-K: 5 chunks</p>
+<p><strong>Hybrid Retriever:</strong> - Sparse: BM25 (keyword matching)
+- Dense: E5-large-v2 embeddings - Fusion: RRF with k=60 - Top-K: 5
+chunks after fusion</p>
+<h3 id="generator-implementations">2.4 Generator Implementations</h3>
+<p><strong>GPT-4o-mini:</strong> - Accessed via CMU LiteLLM Gateway -
+Temperature: 0 for deterministic outputs - Context window: ~128K
+tokens</p>
+<p><strong>Qwen2.5:1.5b:</strong> - Local deployment via Ollama - 1.5
+billion parameters - Chosen for resource efficiency</p>
+<hr />
+<h2 id="evaluation-methodology">3. Evaluation Methodology</h2>
+<h3 id="metrics">3.1 Metrics</h3>
+<p><strong>F1 Score (Token Overlap):</strong></p>
+<pre><code>Precision = |predicted ∩ ground_truth| / |predicted|
+Recall = |predicted ∩ ground_truth| / |ground_truth|
+F1 = 2 * Precision * Recall / (Precision + Recall)</code></pre>
+<p><strong>LLM-as-a-Judge:</strong> GPT-4o-mini rates answer quality on
+a 1-5 scale: - 5: Perfect - accurate and complete - 4: Good - mostly
+correct with minor issues - 3: Partial - contains correct information
+but incomplete - 2: Poor - mostly incorrect - 1: Failed - completely
+wrong or no answer</p>
+<h3 id="question-types">3.2 Question Types</h3>
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Count</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Factoid</td>
+<td>6 (40%)</td>
+<td>Single fact extraction</td>
+</tr>
+<tr>
+<td>MCQ</td>
+<td>6 (40%)</td>
+<td>Multiple choice selection</td>
+</tr>
+<tr>
+<td>List</td>
+<td>3 (20%)</td>
+<td>Multi-item enumeration</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="results">4. Results</h2>
+<h3 id="overall-system-performance">4.1 Overall System Performance</h3>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>System</th>
+<th>LLM Judge</th>
+<th>F1 Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>hybrid_gpt-4o-mini</td>
+<td><strong>3.93</strong></td>
+<td><strong>0.476</strong></td>
+</tr>
+<tr>
+<td>2</td>
+<td>semantic-openai_gpt-4o-mini</td>
+<td>3.27</td>
+<td>0.304</td>
+</tr>
+<tr>
+<td>3</td>
+<td>semantic-openai_ollama-qwen2.5:1.5b</td>
+<td>2.07</td>
+<td>0.142</td>
+</tr>
+<tr>
+<td>4</td>
+<td>hybrid_ollama-qwen2.5:1.5b</td>
+<td>1.93</td>
+<td>0.131</td>
+</tr>
+<tr>
+<td>5</td>
+<td>None_gpt-4o-mini (baseline)</td>
+<td>1.73</td>
+<td>0.148</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key Finding:</strong> The best RAG system (hybrid +
+GPT-4o-mini) achieves a <strong>127% improvement</strong> over the
+baseline.</p>
+<h3 id="performance-by-question-type">4.2 Performance by Question
+Type</h3>
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 20%" />
+<col style="width: 21%" />
+<col style="width: 11%" />
+<col style="width: 21%" />
+</colgroup>
+<thead>
+<tr>
+<th>Question Type</th>
+<th>Difficulty</th>
+<th>Best System</th>
+<th>Score</th>
+<th>Observation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Factoid</td>
+<td>Easy</td>
+<td>hybrid_gpt-4o-mini</td>
+<td>4.00</td>
+<td>Direct lookup; all RAG systems perform well</td>
+</tr>
+<tr>
+<td>MCQ</td>
+<td>Moderate</td>
+<td>hybrid_gpt-4o-mini</td>
+<td>4.33</td>
+<td>Requires reasoning over options</td>
+</tr>
+<tr>
+<td>List</td>
+<td>Hard</td>
+<td>hybrid_gpt-4o-mini</td>
+<td>3.00</td>
+<td>Multi-hop aggregation; most systems fail</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Analysis:</strong></p>
+<ol type="1">
+<li><p><strong>Factoid questions</strong> are the easiest because they
+require locating a single piece of information. Even weaker models with
+good retrieval achieve reasonable scores (2.17-4.00). The baseline fails
+(1.50) because the LLM lacks domain-specific knowledge about ITC’s
+annual report.</p></li>
+<li><p><strong>MCQ questions</strong> show the highest variance between
+systems. GPT-4o-mini excels at reasoning over multiple options to select
+the correct answer. Interestingly, the baseline occasionally succeeds
+(2.33) when the question touches on general knowledge that the LLM has
+from training.</p></li>
+<li><p><strong>List questions</strong> are the most challenging because
+they require aggregating multiple pieces of information scattered across
+the document. Only the hybrid + GPT-4o-mini combination achieves
+acceptable performance (3.00). All other systems essentially fail (score
+≤ 1.33). This suggests that top-5 retrieval may not capture all required
+list items, and smaller models struggle with synthesis.</p></li>
+</ol>
+<h3 id="ablation-study-retriever-impact">4.3 Ablation Study: Retriever
+Impact</h3>
+<table>
+<thead>
+<tr>
+<th>Retriever</th>
+<th>LLM Avg</th>
+<th>F1 Avg</th>
+<th>Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hybrid</td>
+<td>2.93</td>
+<td>0.303</td>
+<td>Best overall performance</td>
+</tr>
+<tr>
+<td>Semantic</td>
+<td>2.67</td>
+<td>0.223</td>
+<td>Good for conceptual queries</td>
+</tr>
+<tr>
+<td>None</td>
+<td>1.73</td>
+<td>0.148</td>
+<td>Baseline; relies on parametric knowledge</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Insight:</strong> Hybrid retrieval outperforms pure semantic
+retrieval by 10% in LLM score. The combination of BM25 (exact keyword
+matching) and dense embeddings (semantic similarity) is particularly
+effective for financial documents that contain specific terminology,
+numbers, and proper nouns.</p>
+<h3 id="ablation-study-generator-impact">4.4 Ablation Study: Generator
+Impact</h3>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 23%" />
+<col style="width: 21%" />
+<col style="width: 26%" />
+</colgroup>
+<thead>
+<tr>
+<th>Generator</th>
+<th>LLM Avg</th>
+<th>F1 Avg</th>
+<th>Analysis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPT-4o-mini</td>
+<td>2.98</td>
+<td>0.309</td>
+<td>Strong reasoning and instruction following</td>
+</tr>
+<tr>
+<td>Qwen2.5:1.5b</td>
+<td>2.00</td>
+<td>0.136</td>
+<td>Limited by model size</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Insight:</strong> Generator quality has a <strong>49%
+impact</strong> on performance. GPT-4o-mini’s superior capabilities in
+reasoning, instruction following, and answer formatting are critical for
+achieving high scores. The 1.5B parameter Qwen model struggles with: -
+Multi-hop reasoning - Precise numerical extraction - Consistent answer
+formatting</p>
+<hr />
+<h2 id="error-analysis">5. Error Analysis</h2>
+<h3 id="failure-cases">5.1 Failure Cases</h3>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 17%" />
+<col style="width: 20%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th>Question</th>
+<th>Type</th>
+<th>Issue</th>
+<th>Root Cause</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Q4: Undisputed dues values</td>
+<td>List</td>
+<td>Low scores across all systems</td>
+<td>Numerical data in tables; requires precise extraction</td>
+</tr>
+<tr>
+<td>Q6: Foreign ownership %</td>
+<td>MCQ</td>
+<td>Most systems failed</td>
+<td>Specific percentage not in retrieved chunks</td>
+</tr>
+<tr>
+<td>Q14: Stock options issued</td>
+<td>Factoid</td>
+<td>Low F1 despite high LLM</td>
+<td>Format mismatch (different number representation)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="success-patterns">5.2 Success Patterns</h3>
+<table>
+<colgroup>
+<col style="width: 28%" />
+<col style="width: 28%" />
+<col style="width: 43%" />
+</colgroup>
+<thead>
+<tr>
+<th>Pattern</th>
+<th>Example</th>
+<th>Why It Works</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Direct factoid</td>
+<td>Q12: Plastic neutrality year</td>
+<td>Single fact, easily retrievable, clear answer</td>
+</tr>
+<tr>
+<td>Clear MCQ</td>
+<td>Q5: Subsidiary oversight</td>
+<td>Retrieved text matches option verbatim</td>
+</tr>
+<tr>
+<td>Keyword-rich</td>
+<td>Q7: Key brands</td>
+<td>BM25 excels at exact keyword matching</td>
+</tr>
+</tbody>
+</table>
+<h3 id="divergent-cases-high-variance">5.3 Divergent Cases (High
+Variance)</h3>
+<p>Some questions showed high variance between systems:</p>
+<ul>
+<li><strong>Q1 (Variance: 2.64):</strong> Investor complaints filing
+frequency
+<ul>
+<li>Hybrid retriever succeeded; semantic retriever failed</li>
+<li>BM25 captured “quarterly” and “half-yearly” keywords</li>
+</ul></li>
+<li><strong>Q5 (Variance: 3.84):</strong> Subsidiary oversight mechanism
+<ul>
+<li>RAG systems succeeded (score: 5); baseline failed completely (score:
+1)</li>
+<li>Demonstrates the value of retrieval for domain-specific
+questions</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="discussion">6. Discussion</h2>
+<h3 id="key-takeaways">6.1 Key Takeaways</h3>
+<ol type="1">
+<li><p><strong>RAG is essential for domain-specific QA.</strong> The
+baseline LLM without retrieval achieves only 1.73/5.0, while the best
+RAG system achieves 3.93/5.0—a 127% improvement.</p></li>
+<li><p><strong>Retrieval quality matters more than generator
+size.</strong> A good retriever with a weaker generator (hybrid + Qwen:
+1.93) outperforms no retriever with a strong generator (none + GPT:
+1.73).</p></li>
+<li><p><strong>Hybrid retrieval is superior for financial
+documents.</strong> The combination of BM25 and dense retrieval captures
+both exact matches (company names, figures) and semantic relationships
+(concepts, paraphrases).</p></li>
+<li><p><strong>Question complexity determines performance
+ceiling.</strong> Factoid questions are solved effectively by all RAG
+systems, but list questions remain challenging even for the best
+configuration.</p></li>
+</ol>
+<h3 id="limitations">6.2 Limitations</h3>
+<ol type="1">
+<li><strong>Evaluation scale:</strong> Only 15/100 questions evaluated
+due to compute constraints</li>
+<li><strong>Local model size:</strong> Qwen2.5:1.5b is small; larger
+models (7B, 70B) would likely perform better</li>
+<li><strong>Chunk strategy:</strong> Fixed-size chunking may split
+tables and relevant context</li>
+<li><strong>No reranking:</strong> Adding a cross-encoder reranker could
+improve retrieval precision</li>
+</ol>
+<h3 id="future-work">6.3 Future Work</h3>
+<ol type="1">
+<li><strong>Larger local models:</strong> Evaluate Qwen-7B, Llama-3-70B
+for better open-source performance</li>
+<li><strong>Table-aware chunking:</strong> Preserve table structure for
+financial data extraction</li>
+<li><strong>Iterative retrieval:</strong> Implement retrieval feedback
+for multi-hop questions</li>
+<li><strong>Chain-of-thought prompting:</strong> Improve reasoning for
+complex list questions</li>
+</ol>
+<hr />
+<h2 id="conclusion">7. Conclusion</h2>
+<p>This project demonstrates that RAG significantly improves LLM
+performance on domain-specific question answering tasks. The best
+configuration—hybrid retrieval with GPT-4o-mini—achieves a 127%
+improvement over the baseline.</p>
+<p>Key findings include: - <strong>Hybrid retrieval &gt; Semantic &gt;
+None</strong> for financial document QA - <strong>GPT-4o-mini &gt;&gt;
+Qwen2.5:1.5b</strong> due to superior reasoning capabilities -
+<strong>Question difficulty hierarchy:</strong> Factoid (easy) → MCQ
+(moderate) → List (hard) - <strong>Retrieval is necessary but not
+sufficient:</strong> Generator quality determines the ability to
+synthesize and format answers correctly</p>
+<p>The system successfully answers investor questions about ITC’s annual
+report, with particularly strong performance on factoid and MCQ
+questions. List questions remain challenging and represent an
+opportunity for future improvement through better chunking strategies
+and multi-hop retrieval mechanisms.</p>
+<hr />
+<h2 id="references">8. References</h2>
+<ol type="1">
+<li>Lewis, P., et al. (2020). “Retrieval-Augmented Generation for
+Knowledge-Intensive NLP Tasks.” NeurIPS.</li>
+<li>Robertson, S., &amp; Zaragoza, H. (2009). “The Probabilistic
+Relevance Framework: BM25 and Beyond.” Foundations and Trends in
+Information Retrieval.</li>
+<li>Wang, L., et al. (2024). “E5: Text Embeddings by Weakly-Supervised
+Contrastive Pre-training.” ACL.</li>
+<li>LangChain Documentation: https://python.langchain.com/</li>
+<li>ChromaDB Documentation: https://docs.trychroma.com/</li>
+</ol>
+<hr />
+<h2 id="appendix-a-system-configurations">Appendix A: System
+Configurations</h2>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 29%" />
+<col style="width: 19%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th>System ID</th>
+<th>Retriever</th>
+<th>Embedding Model</th>
+<th>Generator</th>
+<th>Top-K</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>None_gpt-4o-mini</td>
+<td>None</td>
+<td>-</td>
+<td>GPT-4o-mini</td>
+<td>-</td>
+</tr>
+<tr>
+<td>semantic-openai_gpt-4o-mini</td>
+<td>Semantic</td>
+<td>text-embedding-3-small</td>
+<td>GPT-4o-mini</td>
+<td>5</td>
+</tr>
+<tr>
+<td>semantic-openai_ollama-qwen2.5:1.5b</td>
+<td>Semantic</td>
+<td>text-embedding-3-small</td>
+<td>Qwen2.5:1.5b</td>
+<td>5</td>
+</tr>
+<tr>
+<td>hybrid_gpt-4o-mini</td>
+<td>Hybrid</td>
+<td>E5-large-v2 + BM25</td>
+<td>GPT-4o-mini</td>
+<td>5</td>
+</tr>
+<tr>
+<td>hybrid_ollama-qwen2.5:1.5b</td>
+<td>Hybrid</td>
+<td>E5-large-v2 + BM25</td>
+<td>Qwen2.5:1.5b</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<h2 id="appendix-b-generated-visualizations">Appendix B: Generated
+Visualizations</h2>
+<p>The following visualizations are available in
+<code>output/analysis/</code>:</p>
+<ol type="1">
+<li><code>llm_scores_by_system.png</code> - Overall system
+comparison</li>
+<li><code>f1_scores_by_system.png</code> - F1 score comparison</li>
+<li><code>heatmap_by_question_type.png</code> - Performance matrix</li>
+<li><code>radar_chart.png</code> - Multi-dimensional comparison</li>
+<li><code>llm_scores_factoid.png</code> - Factoid question
+breakdown</li>
+<li><code>llm_scores_mcq.png</code> - MCQ question breakdown</li>
+<li><code>llm_scores_list.png</code> - List question breakdown</li>
+</ol>
+</body>
+</html>

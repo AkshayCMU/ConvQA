@@ -1,0 +1,174 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 225-227
+
+[PAGE 225]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures (Contd.)
+bonds / debentures that are held at amortised cost are temporary and get recouped through coupon accruals. Other investments in
+bonds / debentures, certificates of deposit, commercial papers are fair valued through the Statement of Profit and Loss to recognise
+market volatility, which is not considered to be significant. Fixed deposits are held with highly rated banks and companies and
+have a short tenure and are not subject to interest rate volatility.
+The Company also invests in debt mutual fund schemes of leading fund houses. Such investments are susceptible to market price
+risks that arise mainly from changes in interest rate which may impact the return and value of such investments. However, given
+the relatively short tenure of underlying portfolio of the debt mutual fund schemes in which the Company has invested, such price
+risk is not significant.
+C. Other Price Risk
+The Company is not an active investor in equity markets; it holds certain investments in equity for long term value accretion
+which are accordingly measured at fair value through Other Comprehensive Income. The value of investments in such equity
+instruments as at 31st March, 2025 is ` 3629.98 Crores (2024 - ` 3979.47 Crores). Accordingly, fair value fluctuations arising from
+market volatility is recognised in Other Comprehensive Income.
+For select agricultural commodities primarily held for trading, futures contracts are used to hedge price risks till positions in
+the physical market are matched. Such activities are managed by the business team within an approved policy framework.
+The carrying value of inventories is adjusted to the extent of fair value movement of the risk being hedged. Such hedges are
+generally for short time horizons and recognised in profit or loss within the crop cycle. Accordingly, the Company’s net exposure
+to commodity price risk is considered to be insignificant.
+Credit Risk
+Company’s deployment in debt instruments are primarily in Government securities, fixed deposits with highly rated banks and
+companies, bonds issued by Government institutions, public sector undertakings, mutual fund schemes of leading fund houses
+and certificates of deposit / commercial papers issued by highly rated banks and financial institutions. Of this, investments that
+are held at amortised cost stood at ` 12455.86 Crores (2024 - ` 13802.74 Crores). With respect to the Company’s investing
+activities, debt mutual fund schemes and counter parties are shortlisted and exposure limits determined on the basis of their credit
+rating (by independent agencies), financial statements and other relevant information. As these counter parties are Central / State
+Government, Government institutions / public sector undertakings with investment grade / sovereign credit ratings and taking into
+account the experience of the Company over time, the counter party risk attached to such assets is considered to be insignificant.
+The Company’s customer base is large and diverse limiting the risk arising out of credit concentration. Company’s payment terms
+generally ranges from advance (generally settled within the operating cycle) to a credit period of up to 180 days, depending
+upon specific circumstances and industry practices. Credit is extended in business interest in accordance with guidelines issued
+centrally and business-specific credit policies that are consistent with such guidelines. Exceptions are managed and approved
+by appropriate authorities, after due consideration of the counterparty’s credentials and financial capacity, trade practices and
+prevailing business and economic conditions. There is no significant financing component and / or remaining performance
+obligation in respect of its transaction with the customers for sale of goods and services. The Company’s exposure to trade
+receivables on the reporting date, net of expected loss provisions, stood at ` 3910.77 Crores (2024 - ` 3311.45 Crores).
+The Company’s historical experience of collecting receivables and the level of default indicate that credit risk is low and generally
+uniform across markets; consequently, trade receivables are considered to be a single class of financial assets. All overdue
+customer balances are evaluated taking into account the age of the dues, specific credit circumstances, the track record of the
+counterparty etc. Loss allowances and impairment is recognised, where considered appropriate by responsible management.
+The movement of the expected loss provision (allowance for bad and doubtful loans, advances and receivables etc.) made by the
+Company are as under:
+(` in Crores)
+Expected Loss Provision
+Particulars
+31st March, 2025 31st March, 2024
+Opening Balance 203.76 210.44
+Add: Provisions made (net) 11.98 9.68
+Less: Utilisation for impairment / de-recognition 17.02 16.36
+Less: Transferred pursuant to Scheme of
+Demerger [Refer Note 29(x)] 2.96 –
+Closing Balance 195.76 203.76
+ITC Limited REPORT AND ACCOUNTS 2025 207
+
+[PAGE 226]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures (Contd.)
+4. Fair value measurement
+The following table presents the fair value hierarchy of financial assets and liabilities measured at fair value on a recurring basis:
+(` in Crores)
+Fair Value
+As at As at
+Particulars Hierarchy
+31st March, 2025 31st March, 2024
+(Level)
+A. Financial assets
+a) Measured at amortised cost
+i) Investment in Bonds / Debentures,
+Preference Shares & Government or
+Trust Securities 2 7484.91 7238.15
+ii) Investment in Mutual Funds 1 392.57 362.91
+iii) Loans* 3 4.88 2.14
+iv) Other Financial assets* 3 1517.17 326.38
+Sub-total 9399.53 7929.58
+b) Measured at Fair value through OCI
+i) Investment in Equity Shares – Quoted 1 3629.93 3979.42
+ii) Investment in Equity Shares – Unquoted 3 0.05 0.05
+iii) Investment in Mutual Funds 1 5309.12 4912.78
+Sub-total 8939.10 8892.25
+c) Measured at Fair value through Profit
+or Loss
+i) Investment in Mutual Funds 1 10518.05 9355.06
+ii) Investment in Bonds / Debentures,
+Certificates of Deposit 2 1586.96 2524.47
+iii) Investment in Venture Capital Funds 2 132.81 121.96
+iv) Investment in Equity & Preference
+Shares 3 32.97 39.34
+Sub-total 12270.79 12040.83
+d) Derivatives measured at fair value
+i) Derivative instruments not designated
+as hedging instruments 2 15.71 2.05
+ii) Derivative instruments designated as
+hedging instruments 2 24.20 0.53
+Sub-total 39.91 2.58
+Total financial assets 30649.33 28865.24
+B. Financial Liabilities
+a) Measured at amortised cost
+i) Sales tax deferment loans* 3 – 1.38
+ii) Lease liabilities* 3 117.45 261.95
+iii) Other Financial liabilities* 3 72.21 89.54
+Sub-total 189.66 352.87
+b) Measured at fair value
+i) Derivative instruments not designated
+as hedging instruments 2 8.40 1.43
+ii) Derivative instruments designated as
+hedging instruments 2 3.16 4.60
+iii) Contingent Consideration 3 12.65 12.65
+Sub-total 24.21 18.68
+Total financial liabilities 213.87 371.55
+* Represents fair value of non-current financial instruments.
+208 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 227]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures (Contd.)
+Reconciliation of fair value movement of financial assets and liabilities measured at fair value on a recurring basis and categorised
+within Level 3 of the fair value hierarchy is as under:
+(` in Crores)
+31st March, 2025 31st March, 2024
+Financial Financial Financial Financial Financial Financial
+Assets Assets Liabilities Assets Assets Liabilities
+at FVTPL at FVTOCI at FVTPL at FVTPL at FVTOCI at FVTPL
+Opening Balance 39.34 0.05 12.65 39.34 0.05 12.65
+Additions during the year 3.00 – – – – –
+Sale / Transfer / Settlement during the year – – – – – –
+Gain / (Loss) during the year recognised in
+Other Income (9.37) – – – – –
+Gain / (Loss) during the year recognised in
+Other Comprehensive Income – – – – – –
+Closing Balance 32.97 0.05 12.65 39.34 0.05 12.65
+Fair value hierarchy
+Fair value of the financial instruments is classified in various fair value hierarchies based on the following three levels:
+Level 1: Quoted prices (unadjusted) in active market or Net Asset Value (NAV) for identical assets or liabilities.
+Level 2: Inputs other than quoted price included within Level 1 that are observable for the asset or liability, either directly (i.e. as
+prices) or indirectly (i.e. derived from prices).
+The fair value of financial instruments that are not traded in an active market is determined using market approach and valuation
+techniques which maximize the use of observable market data and rely as little as possible on entity-specific estimates. If significant
+inputs required to fair value an instrument are observable, the instrument is included in Level 2.
+Derivatives are valued using valuation techniques with market observable inputs such as foreign exchange spot rates and forward
+rates at the end of the reporting period, yield curves, risk free rate of returns, volatility etc., as applicable. The fair value of investment in
+Bonds / Debentures, Certificates of Deposit / Commercial Papers, Venture Capital Funds etc. and financial liabilities, where applicable,
+is determined using market observable inputs such as quotes from market participants, value published by the issuer etc.
+Level 3: Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs).
+If one or more of the significant inputs is not based on observable market data, the fair value is determined using generally
+accepted methodologies such as discounted cash flow analysis, with the most significant inputs being the discount rate that
+reflects the credit risk of counterparty.
+The fair value of trade receivables, trade payables and other current financial assets and liabilities is considered to be equal to the
+carrying amounts of these items due to their short – term nature. Where such items are non-current in nature, the same has been
+classified as Level 3 and fair value determined using discounted cash flow basis. Similarly, unquoted equity instruments where
+most recent information to measure fair value is insufficient, or if there is a wide range of possible fair value measurements, cost
+has been considered as best estimate of fair value.
+There has been no change in the valuation methodology for Level 3 inputs during the year. The Company has not classified any
+material financial instruments under Level 3 of the fair value hierarchy. The sensitivity of change in the unobservable inputs used
+in fair valuation of Level 3 financial assets and liabilities does not have a significant impact on their value. There were no transfers
+between Level 1, Level 2 and Level 3 during the year.
+In terms of our report attached On behalf of the Board
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003
+S. DUTTA Director & Chief Financial Officer
+Arvind Sethi (DIN : 01804345)
+Partner R. K. SINGHI Company Secretary
+(Membership No.: 89802) (Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 209

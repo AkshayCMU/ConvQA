@@ -1,0 +1,157 @@
+================================================================================
+                    HW6 RAG SYSTEM - COMPREHENSIVE ANALYSIS REPORT
+================================================================================
+
+OVERVIEW
+--------------------------------------------------------------------------------
+Topic: LLM-powered investor question answering over corporate annual reports
+Domain: ITC Limited Annual Report 2025
+Total Questions Evaluated: 15
+Systems Compared: 5
+Corpus Size: 410 chunks
+
+Question Type Distribution:
+  - factoid: 6 (40.0%)
+  - mcq: 6 (40.0%)
+  - list: 3 (20.0%)
+
+================================================================================
+                              SYSTEM RANKINGS
+================================================================================
+
+By LLM Judge Score (1-5 scale):
+  1. hybrid_gpt-4o-mini: 3.933
+  2. semantic-openai_gpt-4o-mini: 3.267
+  3. semantic-openai_ollama-qwen2.5:1.5b: 2.067
+  4. hybrid_ollama-qwen2.5:1.5b: 1.933
+  5. None_gpt-4o-mini: 1.733
+
+By F1 Score (token overlap):
+  1. hybrid_gpt-4o-mini: 0.476
+  2. semantic-openai_gpt-4o-mini: 0.304
+  3. None_gpt-4o-mini: 0.148
+  4. semantic-openai_ollama-qwen2.5:1.5b: 0.142
+  5. hybrid_ollama-qwen2.5:1.5b: 0.131
+
+================================================================================
+                        ANALYSIS BY QUESTION TYPE
+================================================================================
+
+FACTOID QUESTIONS (6 questions, 40%)
+--------------------------------------------------------------------------------
+Factoid questions require locating and extracting specific facts from documents.
+These are generally the EASIEST question type as they involve direct lookup.
+
+  System                              | LLM Score | F1 Score
+  ------------------------------------|-----------|----------
+  hybrid_gpt-4o-mini                  | 4.00      | 0.194
+  semantic-openai_gpt-4o-mini         | 3.83      | 0.206
+  hybrid_ollama-qwen2.5:1.5b          | 2.33      | 0.113
+  semantic-openai_ollama-qwen2.5:1.5b | 2.17      | 0.071
+  None_gpt-4o-mini                    | 1.50      | 0.036
+
+Analysis:
+- All RAG systems significantly outperform baseline
+- Even weaker models perform reasonably with good retrieval
+- Retrieval quality is sufficient for factoid extraction
+- Baseline fails because LLM lacks domain-specific knowledge
+
+MCQ QUESTIONS (6 questions, 40%)
+--------------------------------------------------------------------------------
+MCQ questions require understanding context to select the correct option.
+These are MODERATELY DIFFICULT as they need reasoning over retrieved content.
+
+  System                              | LLM Score | F1 Score
+  ------------------------------------|-----------|----------
+  hybrid_gpt-4o-mini                  | 4.33      | 0.775
+  semantic-openai_gpt-4o-mini         | 3.67      | 0.453
+  semantic-openai_ollama-qwen2.5:1.5b | 2.50      | 0.191
+  None_gpt-4o-mini                    | 2.33      | 0.333
+  hybrid_ollama-qwen2.5:1.5b          | 1.83      | 0.127
+
+Analysis:
+- MCQ shows highest variance between systems
+- GPT-4o-mini excels at reasoning over options
+- Baseline occasionally succeeds (parametric knowledge matches some options)
+- Hybrid retrieval crucial for finding relevant context
+- High F1 for hybrid_gpt-4o-mini (0.775) indicates strong answer matching
+
+LIST QUESTIONS (3 questions, 20%)
+--------------------------------------------------------------------------------
+List questions require aggregating multiple pieces of information.
+These are the MOST CHALLENGING as they need multi-hop reasoning and synthesis.
+
+  System                              | LLM Score | F1 Score
+  ------------------------------------|-----------|----------
+  hybrid_gpt-4o-mini                  | 3.00      | 0.443
+  semantic-openai_gpt-4o-mini         | 1.33      | 0.200
+  hybrid_ollama-qwen2.5:1.5b          | 1.33      | 0.172
+  None_gpt-4o-mini                    | 1.00      | 0.000
+  semantic-openai_ollama-qwen2.5:1.5b | 1.00      | 0.187
+
+Analysis:
+- Only hybrid_gpt-4o-mini achieves acceptable performance
+- All other systems essentially fail (score <= 1.33)
+- List questions require synthesizing scattered information
+- Top-5 retrieval may not capture all required list items
+- Baseline returns "I don't know" (F1 = 0)
+
+================================================================================
+                        RETRIEVER VS GENERATOR ABLATION
+================================================================================
+
+RETRIEVER IMPACT:
+--------------------------------------------------------------------------------
+  Retriever       | LLM Avg | F1 Avg  | Observations
+  ----------------|---------|---------|------------------------------------------
+  Hybrid          | 2.93    | 0.303   | Best: combines lexical + semantic matching
+  Semantic        | 2.67    | 0.223   | Good for conceptual queries
+  None            | 1.73    | 0.148   | Baseline: LLM parametric knowledge only
+
+Key Insight: Hybrid retrieval (BM25 + E5-large with RRF) outperforms pure 
+semantic retrieval by capturing both exact keyword matches and semantic 
+similarity. This is particularly important for financial documents with 
+specific terminology and numerical values.
+
+GENERATOR IMPACT:
+--------------------------------------------------------------------------------
+  Generator         | LLM Avg | F1 Avg  | Observations
+  ------------------|---------|---------|----------------------------------------
+  gpt-4o-mini       | 2.98    | 0.309   | Strong reasoning, follows instructions
+  ollama-qwen2.5:1.5b | 2.00  | 0.136   | Limited by 1.5B parameters
+
+Key Insight: Generator quality has ~49% impact on performance. GPT-4o-mini's 
+superior instruction following and reasoning capabilities are critical for 
+complex questions. The 1.5B parameter Qwen model struggles with multi-hop 
+reasoning and precise extraction.
+
+================================================================================
+                              KEY FINDINGS
+================================================================================
+
+1. RAG IMPROVEMENT: 127% improvement over baseline
+   - Best RAG system: 3.93 vs Baseline: 1.73
+   - Retrieval is essential for domain-specific QA
+
+2. QUESTION DIFFICULTY HIERARCHY:
+   - Factoid (easiest): Single fact lookup, all RAG systems perform well
+   - MCQ (moderate): Requires reasoning, GPT-4o-mini excels
+   - List (hardest): Multi-hop aggregation, only best system succeeds
+
+3. RETRIEVER SELECTION:
+   - Hybrid > Semantic > None
+   - BM25 handles exact matches (numbers, names)
+   - Dense retrieval handles conceptual similarity
+   - RRF fusion combines benefits of both
+
+4. GENERATOR SELECTION:
+   - GPT-4o-mini >> Qwen2.5:1.5b
+   - Model size matters for complex reasoning
+   - Instruction following critical for QA format
+
+5. FAILURE PATTERNS:
+   - Numerical extraction from tables (Q4, Q6)
+   - Multi-item list aggregation (Q4, Q13)
+   - Format mismatch between prediction and ground truth
+
+================================================================================

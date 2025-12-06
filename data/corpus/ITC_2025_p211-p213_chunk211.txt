@@ -1,0 +1,155 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 211-213
+
+[PAGE 211]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+12. Summary of the status of Options:
+Particulars As at 31st March, 2025 As at 31st March, 2024
+No. of Options Weighted Average No. of Options Weighted Average
+Exercise Prices (`) Exercise Prices (`)
+(adjusted as applicable)
+Outstanding at the beginning of : 89,94,612 3040.61 1,32,09,479 2655.20
+the year
+Add: Granted during the year : 14,80,700 4835.02 15,16,450 4530.73
+Less: Lapsed during the year : 1,00,512 3621.31 60,944 2739.44
+Less: Exercised during the year : 29,39,831 2712.16 56,70,373 2544.51
+Outstanding at the end of the : 74,34,969 3325.29 89,94,612 3040.61
+year
+Options exercisable at the end : 43,99,319 2686.93 60,51,382 2657.61
+of the year
+13. Weighted average share price : The weighted average share price of Shares, arising upon exercise of Options during the
+of Shares arising upon exercise year ended 31st March, 2025 was ` 467.68 (2024 - ` 455.45). This was based on the
+of Options closing market price on NSE on the date of exercise of Options (i.e. the date of allotment of
+shares by the Securityholders Relationship Committee).
+14. Summary of Options outstanding, scheme-wise:
+Particulars As at 31st March, 2025 As at 31st March, 2024
+No. of Range of Weighted No. of Range of Weighted
+Options Exercise average Options Exercise average
+Outstanding Prices (`) remaining Outstanding Prices (`) remaining
+(adjusted as contractual life contractual life
+applicable)
+ITC Employee Stock Option : 1,30,572 1606.33 – 3276.52 2.78 1,97,814 1698.00 – 3463.50 3.19
+Scheme - 2006
+ITC Employee Stock Option : 73,04,397 1606.33 – 4575.39 4.17 87,96,798 1698.00 – 4534.50 3.37
+Scheme - 2010
+15. A description of the method : The fair value of each Option is estimated using the Black Scholes Option Pricing model.
+used during the year to
+Weighted average exercise price per Option : ` 4835.02 (adjusted consequent to Scheme
+estimate the fair values of
+of Demerger to ` 4573.99)
+Options, the weighted average
+exercise prices and weighted Weighted average fair value per Option : ` 1121.49 (adjusted consequent to Scheme
+average fair values of Options of Demerger to ` 1060.95)
+granted
+The significant assumptions : The fair value of each Option is estimated using the Black Scholes Option Pricing model
+used to ascertain the above after applying the following key assumptions on a weighted average basis:
+(i) Risk-free interest rate 6.65%
+(ii) Expected life 4.60 years
+(iii) Expected volatility 22.33%
+(iv) Expected dividends 2.84%
+(v) The price of the underlying shares in market at the time of Option grant ` 4835.02
+(One Option = Ten Ordinary Shares)
+ITC Limited REPORT AND ACCOUNTS 2025 193
+
+[PAGE 212]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+16. Methodology for determination : The volatility used in the Black Scholes Option Pricing model is the annualised standard
+of expected volatility deviation of the continuously compounded rates of return on the stock over a period of
+time. The period considered for the working is commensurate with the expected life of the
+Options and is based on the daily volatility of the Company’s stock price on NSE. There
+are no market conditions attached to the grant and vest.
+17. Options granted to : As provided below:
+(a) Directors and Name Designation No. of Options granted
+Senior managerial personnel during the financial year
+2024-25
+1 S. Puri Chairman & Managing Director 1,34,500
+Executive Director & Chief Financial
+2 S. Dutta 65,250
+Officer
+3 H. Malik Executive Director 65,250
+4 B. Sumant Executive Director 65,250
+Group Head - ITD, MAB, Start-up
+5 S. Kaul 18,750
+Ventures, LS&T & Quality
+6 A. K. Rajput President - Corporate Affairs 18,750
+Group Head - Agri Business, IT,
+7 S. Sivakumar 18,750
+Sustainability, CSR & EHS
+Executive Vice President &
+8 R. K. Singhi 13,050
+Company Secretary
+The aforesaid Options were granted at the exercise price of ` 4836.50 per Option (adjusted grant price consequent to the
+Scheme of Demerger: ` 4575.39 per Option), being the ‘market price’ as defined under the Securities and Exchange Board of
+India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021.
+(b) Any other employee who received a grant on any : None
+one year of Options amounting to 5% or more of the
+Options granted during the year.
+(c) Identified employees who were granted Options, : None
+during any one year, equal to or exceeding 1% of the
+issued capital (excluding outstanding warrants and
+conversions) of the Company at the time of grant.
+B. Information in respect of Options granted by ITC Hotels Limited (ITCHL):
+In terms of the Scheme of Demerger [Refer Note 29(x)], one stock option of ITCHL (including fractional entitlements) has
+been granted to the eligible employees of the Company by ITCHL under the ITC Hotels Special Purpose Employee Stock
+Option Scheme (‘ITCHL SP ESOP Scheme’) for every ten stock options outstanding under the ITC Employee Stock Option
+Schemes (ITC ESOS) as on the Record Date i.e. 6th January, 2025, on the terms and conditions similar to the ITC ESOS.
+E ach option entitles the holder thereof to apply for and be allotted ten Equity Shares of ITCHL of ` 1.00 each upon payment
+of exercise price. These options vest over a period of three years from the date of original grant under the ITC ESOS and
+are exercisable within a period of five years from the date of vesting. The exercise prices have been determined basis fair
+and reasonable adjustments approved by the Nomination & Compensation Committees of the Company and ITCHL for
+outstanding stock options under the ITC ESOS Schemes as on the Record Date.
+194 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 213]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+The employee compensation cost as per fair value method for the financial year 2024-25 is ` 1.95 Crores (2024 - Nil)
+[Refer Note 25].
+The summary of movement of the aforesaid Stock Options granted by ITCHL and status of the outstanding Options is
+as under:
+As at 31st March, 2025
+Particulars
+Weighted Average
+No. of Options
+Exercise Prices (`)
+Outstanding at the beginning of the year – –
+Add: Granted during the year 7,09,895 1871.68
+Less: Lapsed during the year – –
+Less: Exercised during the year – –
+Outstanding at the end of the year 7,09,895 1871.68
+Options exercisable at the end of the year 4,33,614 1519.46
+Options vested and exercisable during the year 4,33,614 1519.46
+(xvi) Information in respect of Stock Appreciation Linked Reward (‘SAR’) Plan:
+Sl.
+Particulars Details
+No.
+1 Nature and extent of Stock : ITC Employee Cash Settled Stock Appreciation Linked Reward Plan
+Appreciation Linked Reward Plan (ITC ESAR Plan).
+that existed during the year along
+Under the ITC ESAR Plan, the eligible employees receive cash on vesting
+with general terms and conditions
+of SAR units, equivalent to the difference between the grant price and the
+market price of the share on vesting of SAR units subject to the terms and
+conditions specified in the Plan.
+2 Settlement Method : Cash – Settled
+3 Vesting period and maximum term : Over a period of five years from the date of grant in accordance with the Plan.
+of SAR granted
+4 Method used to estimate the fair : Black Scholes Option Pricing model. The said model considers inputs such as
+value of SAR granted Risk-free interest rate, Expected life, Expected volatility, Expected dividend,
+Market price etc. The number of SAR units outstanding as at 31st March,
+2025 is 1,24,850 (2024 - 9,31,606) and the weighted average fair value at
+measurement date is ` 1513.00 (2024 – ` 1103.96) per SAR unit.
+5 Total cost recognised in the : The cost has been calculated using the fair value method of accounting for
+Statement of Profit and Loss SAR units issued under the ITC ESAR Plan. The employee benefits expense
+as per fair value method for the financial year 2024-25 is ` 8.42 Crores
+(2024 - ` 32.06 Crores) and ` 0.41 Crore (2024 - ` 1.43 Crores) for group
+entities (Refer Note 25). The amount carried in the Balance Sheet as a
+non – current financial liability is Nil (2024 - ` 13.76 Crores) and as a current
+financial liability is ` 16.35 Crores (2024 - ` 71.14 Crores) (Refer Note 16).
+ITC Limited REPORT AND ACCOUNTS 2025 195

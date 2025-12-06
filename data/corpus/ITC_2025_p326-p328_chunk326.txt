@@ -1,0 +1,1102 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 326-328
+
+[PAGE 326]
+setoN
+stnemetatS
+laicnaniF
+detadilosnoC
+eht ot
+).dtnoC(
+serusolcsiD
+ytraP detaleR
+.23
+)serorC
+ni
+`(
+5202.30.13
+TA
+SA
+SECNALAB
+GNIDNATSTUO
+FO
+SUTATS
+EHT
+DNA
+SEITRAP
+DETALER
+DNA
+PUORG
+EHT
+NEEWTEB
+SNOITCASNART
+FO ERUSOLCSID
+.2
+fo
+seitraP
+detaleR
+tnemeganaM
+yeK
+latoT
+stsurT
+eeyolpmE
+serutneV
+tnioJ
+setaicossA
+^PMK
+)PMK(
+lennosreP
+YRAMMUS
+SNOITCASNART
+YTRAP DETALER
+4202
+5202
+4202
+5202
+4202
+5202
+4202
+5202
+4202
+5202
+4202
+5202
+71.0391
+82.0322
+10.0
+10.0
+55.001
+19.78
+16.9281
+63.2412
+secivreS / sdooG fo elaS
+.1
+95.638
+57.638
+67.0
+76.2
+72.936
+86.736
+65.691
+04.691
+secivreS
+/ sdooG fo esahcruP
+.2
+12.0
+–
+12.0
+–
+tnempiuqE
+dna
+tnalP ,ytreporP fo elaS
+.3
+40.56
+99.92
+40.56
+99.92
+setaicossA ni tnemtsevnI
+.4
+01.1
+54.3
+41.0
+80.0
+69.0
+73.3
+stnemyaP
+desab-erahS
+rof yrevoceR
+.5
+–
+73.2
+–
+73.2
+stnemyaP
+desab-erahS
+rof tnemesrubmieR
+.6
+98.0
+54.1
+98.0
+54.1
+devieceR tneR
+.7
+02.5
+52.4
+72.0
+70.0
+78.0
+27.0
+60.4
+64.3
+*diaP tneR
+.8
+54.6
+45.6
+54.6
+45.6
+desrubmier
+noitatupeD
+no sreganaM
+fo noitarenumeR
+.9
+80.11
+15.11
+17.1
+16.1
+73.9
+09.9
+derevocer
+noitatupeD
+no sreganaM
+fo noitarenumeR
+.01
+32.361
+79.671
+32.361
+79.671
+snalP
+tfieneB ’seeyolpmE
+ot noitubirtnoC
+.11
+25.42
+35.52
+05.22
+05.22
+20.2
+30.3
+emocnI dnediviD
+.21
+63.4275
+22.8744
+82.9
+95.8
+80.5175
+36.9644
+stnemyaP dnediviD
+.31
+11.7
+36.311
+72.0
+02.0
+48.6
+34.311
+derevoceR sesnepxE
+.41
+13.0
+53.51
+30.0
+20.0
+10.0
+30.0
+72.0
+03.51
+desrubmieR sesnepxE
+.51
+46.189
+46.0961
+46.189
+46.0961
+raey
+eht gnirud
+devieceR secnavdA
+.61
+03.3331
+56.7141
+03.3331
+56.7141
+secnavdA
+fo dnufeR
+sdrawot
+tnemyaP / tnemtsujdA
+.71
+01.0
+–
+50.0
+–
+50.0
+–
+tisopeD
+fo dnufeR
+sdrawot
+tpieceR / tnemtsujdA
+.81
+PMK ot noitarenumeR
+.91
+95.06
+77.65
+95.06
+77.65
+stfieneb mret trohS –
+.A91
+43.04
+00.62
+43.04
+00.62
+sevitnecni
+mret-gnol rehtO –
+.B91
+1 stfieneb
+tnemyolpme tsoP –
+.C91
+2 stnemyaP
+desab-erahS –
+.D91
+#secnalaB gnidnatstuO
+.02
+18.822
+13.521
+…
+–
+42.6
+01.71
+75.222
+12.801
+selbavieceR
+)i
+48.03
+26.8
+48.03
+26.8
+neviG secnavdA
+)ii
+40.0
+40.0
+30.0
+30.0
+10.0
+10.0
+neviG stisopeD
+)iii
+67.763
+57.046
+67.763
+57.046
+nekaT secnavdA
+)vi
+16.0
+–
+16.0
+–
+nekaT stisopeD
+)v
+82.16
+56.37
+77.54
+04.63
+56.9
+30.7
+68.5
+22.03
+selbayaP
+)iv
+.detseretni
+si
+PMK fo
+rebmem
+esolc
+/ PMK hcihw
+ni seititne
+& PMK
+fo rebmem
+esolc htiw snoitcasnart
+sedulcni
+^
+.stessa
+esU-fo-thgiR
+sa deifissalc
+sesael ot gniniatrep tner
+sedulcnI
+*
+.hsac
+ni delttes
+eb lliw
+dna derucesnu
+era gnidnatstuo stnuoma
+ehT
+#
+;evoba
+eht ni
+dedulcni
+neeb
+ton
+sah
+)serorC
+05.1
+`
+- 4202(
+liN
+- tnemeriter
+nopu
+ytilibail
+evael
+fo
+tnemelttes
+no
+edam
+stnemyaP
+.dedivorp
+yletarapes
+ton
+ecneh
+dna sisab
+llarevo
+no denimreted
+yllairautca
+era stifeneb tnemyolpme
+tsoP
+1
+draoB
+egnahcxE
+dna
+seitiruceS
+eht
+fo
+gninaem
+eht
+nihtiw[
+’ecirp
+tekram‘
+ta semehcS
+noitpO
+kcotS
+eeyolpmE
+sti
+rednu
+,sPMK
+dna
+srotceriD
+evitucexE
+gnidulcni
+,seeyolpme
+elbigile
+ot snoitpO
+kcotS detnarg
+ynapmoC eht ,raey eht
+gniruD
+2
+eht
+rednu
+sraey
+suoiverp
+eht
+ni
+snosrep
+diaserofa
+eht
+ot
+)stinU
+RASE(
+stinU
+draweR
+dekniL
+noitaicerppA
+kcotS
+eeyolpmE
+detnarg
+osla
+sah
+ynapmoC
+ehT
+.]1202
+,snoitalugeR
+)ytiuqE
+taewS
+dna stifeneB
+eeyolpmE desab-erahS(
+aidnI
+fo
+eeyolpmE
+esopruP
+laicepS
+sletoH
+CTI
+eht
+rednu
+ynapmoC
+eht
+fo
+seeyolpme
+elbigile
+eht
+ot
+snoitpo
+kcots
+detnarg
+sah
+LHCTI
+,regremeD
+fo
+emehcS
+eht
+fo
+smret
+ni
+,rehtruF .’nalP
+draweR
+dekniL
+noitaicerppA
+kcotS deltteS hsaC eeyolpmE
+CTI‘
+ylgnidrocca
+dna
+,stinU
+RASE
+/ snoitpO
+kcotS
+hcus
+fo tnarg
+yb
+eeyolpme
+eht
+nopu
+derrefnoc
+yletaidemmi
+si
+tifeneb
+ro
+etisiuqrep
+on
+,elbaedart
+ton era
+stinU
+RASE
+dna snoitpO
+kcotS hcus
+ecniS
+.])B()vix(03
+etoN refeR[ emehcS noitpO
+kcotS
+dedne
+raey
+eht
+rof
+serorC
+84.441
+`
+ta
+seeyolpme
+ot
+stnemyap
+desab-erahs
+fo yaw
+yb
+esnepxe
+stifeneb
+eeyolpme
+dedrocer
+sah puorG
+eht
+,201-SA
+dnI
+htiw
+ecnadrocca
+ni ,revewoH
+.’noitarenumer‘
+sa deredisnoc
+neeb ton evah stnarg
+dias
+eht
+.sPMK
+dna
+srotceriD
+evitucexE
+ot
+elbatubirtta
+si )serorC
+58.03
+`
+- 4202( serorC
+96.23
+` hcihw
+fo ,)serorC
+83.041 ` - 4202( 5202 ,hcraM
+ts13
+.sisab
+htgnel
+s’mra
+no dna
+ssenisub
+eht
+fo esruoc
+yranidro
+ni erew
+raey eht
+gnirud deretne
+snoitcasnarT ytraP detaleR
+llA
+.3
+eht
+fo
+regremed
+rof
+tnemegnarrA
+fo
+emehcS
+ot
+tneuqesnoc
+detimiL
+sletoH
+CTI ot
+)serorC
+73.53
+`(
+stseretni
+gnillortnoc-noN
+dna
+)serorC
+07.0661
+`(
+seitilibail
+,)serorC
+09.26121
+`( stessa
+derrefsnart
+sah
+puorG eht ,evoba eht ot noitidda
+nI
+.4
+.emas
+eht
+fo sliated
+rof )iiiv(03
+etoN refeR
+.detimiL
+sletoH CTI
+otni puorG eht fo ssenisuB
+sletoH
+308 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 327]
+setoN
+stnemetatS
+laicnaniF
+detadilosnoC
+eht
+ot
+).dtnoC(
+serusolcsiD
+ytraP
+detaleR
+.23
+SECNALAB
+/
+SNOITCASNART
+TNACIFINGIS
+GNIDRAGER
+NOITAMROFNI
+.3
+)serorC
+ni
+`(
+)epyt
+emas
+eht
+fo
+eulav
+noitcasnart
+latot
+eht
+fo %01
+fo ssecxe
+ni yllareneG(
+4202
+5202
+YRAMMUS
+SNOITCASNART
+YTRAP
+DETALER
+4202
+5202
+YRAMMUS
+SNOITCASNART
+YTRAP
+DETALER
+4202
+5202
+YRAMMUS
+SNOITCASNART
+YTRAP
+DETALER
+secnalaB
+gnidnatstuO
+.81
+emocnI
+dnediviD
+.11
+secivreS
+/ sdooG
+fo
+elaS
+.1
+69.0701
+72.5441
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+selbavieceR
+)i
+05.22
+05.22
+detimiL
+anortliF
+CTI
+84.293
+14.265
+detimiL
+)DSG(
+secivreS
+derahS
+naciremA
+hsitirB
+stnemyaP
+dnediviD
+.21
+)DSG(
+secivreS
+derahS
+naciremA
+hsitirB
+secivreS
+/ sdooG fo esahcruP
+.2
+19.871
+24.43
+detimiL
+09.0964
+90.8553
+detimiL
+)aidnI(
+srerutcafunaM
+occaboT
+72.936
+86.736
+detimiL anortliF
+CTI
+–
+78.02
+detimiL
+sletoH
+CTI
+49.567
+48.086
+detimiL
+ynapmoC
+tnemtsevnI
+notelddyM
+75.121
+99.69
+detimiL
+esuoH
+levarT lanoitanretnI
+setaicossA
+ni tnemtsevnI
+.3
+07.32
+32.71
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+derevoceR
+sesnepxE
+.31
+10.05
+99.92
+detimiL
+etavirP
+sdooF efiltuorpS
+–
+71.59
+detimiL
+sletoH
+CTI
+77.5
+01.71
+detimiL
+anortliF
+CTI
+stnemyaP
+desab-erahS
+rof yrevoceR
+.4
+neviG
+secnavdA
+)ii
+68.4
+68.21
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+–
+96.2
+detimiL sletoH
+CTI
+desrubmieR
+sesnepxE
+.41
+stnemyaP
+desab-erahS
+rof tnemesrubmieR
+.5
+48.03
+26.8
+sdnuF
+noisneP
+- tsurT
+eeyolpmE
+–
+73.2
+detimiL sletoH
+CTI
+–
+01.51
+detimiL
+sletoH
+CTI
+neviG
+stisopeD
+)iii
+devieceR
+tneR
+.6
+raey
+eht
+gnirud
+devieceR
+secnavdA
+.51
+–
+87.0
+detimiL sletoH
+CTI
+30.0
+30.0
+ihgniS
+.N
+77.188
+29.9861
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+88.0
+56.0
+detimiL
+esuoH
+levarT lanoitanretnI
+10.0
+10.0
+attuD
+.S
+diaP
+tneR
+.7
+fo
+dnufeR
+sdrawot
+tnemyaP
+/ tnemtsujdA
+.61
+nekat
+secnavdA
+)vi
+secnavdA
+60.4
+92.3
+detimiL
+sletoH
+tarajuG
+56.763
+29.936
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+46.4301
+56.7141
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+74.0
+35.0
+tupjaR
+.A
+noitatupeD
+no
+sreganaM
+fo noitarenumeR
+.8
+selbayaP
+)v
+# PMK
+ot
+noitarenumeR
+.71
+desrubmier
+stifeneb
+mret
+trohS
+.A71
+54.6
+09.4
+detimiL
+sletoH
+tarajuG
+77.54
+47.32
+sdnuF
+ytiutarG
+- tsurT
+eeyolpmE
+–
+46.1
+detimiL sletoH
+CTI
+60.31
+49.31
+iruP
+.S
+–
+66.21
+sdnuF
+noisneP
+- tsurT
+eeyolpmE
+noitatupeD
+no
+sreganaM
+fo noitarenumeR
+.9
+47.5
+37.5
+tnamuS
+.B
+derevocer
+–
+67.12
+detimiL
+sletoH
+CTI
+83.4
+31.5
+kilaM
+.H
+45.3
+57.3
+detimiL
+esuoH
+levarT lanoitanretnI
+56.9
+30.7
+detimiL
+anortliF
+CTI
+99.2
+29.2
+detimiL
+CTA
+80.5
+21.5
+attuD
+.S
+–
+56.6
+detimiL
+etavirP
+sdooF
+efiltuorpS
+–
+31.2
+detimiL sletoH
+CTI
+sevitnecni
+mret-gnol
+rehtO
+.B71
+snalP
+tifeneB
+’seeyolpmE
+ot noitubirtnoC
+.01
+stifeneb
+eeyolpme
+desingocer
+sah
+ynapmoC
+eht
+,201 -
+SA dnI
+htiw
+ecnadrocca
+nI
+#
+73.31
+28.8
+iruP
+.S
+70.34
+01.54
+dnuF
+tnedivorP
+CTAI
+serorC
+96.23
+` hcihw
+fo
+,]2.23
+etoN
+refer[
+stnemyap
+desab-erahs
+fo
+yaw
+yb esnepxe
+01.6
+24.43
+dnuF
+noisneP
+noitubirtnoC
+denifeD
+CTI
+:sPMK
+&
+srotceriD
+evitucexE
+ot
+elbatubirtta
+si )serorC
+58.03
+` -
+4202(
+96.6
+00.5
+tnamuS
+.B
+15.31
+75.33
+dnuF
+ytiutarG
+seeyolpmE
+CTI
+serorC
+19.5
+`
+tnamuS
+.B ,)serorC
+09.01
+`
+- 4202(
+serorC
+17.11
+` iruP
+.S
+51.4
+92.4
+attuD
+.S
+04.65
+57.02
+dnuF noisneP
+CTI
+kilaM
+.H ,)serorC
+80.3
+`
+- 4202(
+serorC
+94.5
+` attuD
+.S ,)serorC
+25.5
+` -
+4202(
+.)erorC
+78.0
+`
+- 4202(
+erorC
+11.1 `
+ihgniS
+.K
+.R
+dna
+)serorC
+18.1 `
+- 4202(
+serorC
+22.3
+`
+76.2
+73.3
+kilaM
+.H
+35.92
+64.62
+dnuF
+ytiutarG
+ffatS
+tnemeganaM
+CTI
+ITC Limited REPORT AND ACCOUNTS 2025 309
+
+[PAGE 328]
+Notes
+to the Consolidated Financial Statements
+33. Financial Instruments and Related Disclosures
+A. Capital Management
+The Group’s financial strategy aims to support its strategic priorities and provide adequate capital to its businesses for growth
+and creation of sustainable stakeholder value. The Group funds its operations through internal accruals and aims at maintaining
+a strong capital base to support the future growth of its businesses.
+During the year, the Company issued 2,93,98,310 Ordinary Shares (2024 – 5,67,03,730 Ordinary Shares) of ` 1.00 each amounting
+to ` 2.94 Crores (2024 – ` 5.67 Crores) towards its employee stock options. The securities premium stood at ` 15834.70 Crores
+as at 31st March, 2025 (2024 – ` 14813.95 Crores).
+B. Categories of Financial Instruments (` in Crores)
+As at 31st March, 2025 As at 31st March, 2024
+Particulars Note
+Carrying Fair Carrying Fair
+Value Value Value Value
+A. Financial assets
+a) Measured at amortised cost
+i) Cash and cash equivalents 13 620.00 620.00 625.89 625.89
+ii) Bank Balances other than (i) above 14 3392.36 3392.36 6591.79 6591.79
+iii) Investment in Bonds / Debentures &
+Government or Trust Securities 4, 11 7576.74 7615.36 7427.67 7277.90
+iv) Investment in Mutual Funds 4, 11 389.10 392.57 366.88 362.91
+v) Loans 5 17.11 15.11 13.86 12.72
+vi) Trade receivables 12 4719.67 4719.67 4025.82 4025.82
+vii) Other financial assets 6 3166.90 3159.94 1587.83 1540.34
+Sub-total 19881.88 19915.01 20639.74 20437.37
+b) Measured at Fair value through OCI
+i) Investment in Equity Shares 4 3632.35 3632.35 4676.28 4676.28
+ii) Investment in Mutual Funds 4, 11 5424.86 5424.86 5020.09 5020.09
+Sub-total 9057.21 9057.21 9696.37 9696.37
+c) Measured at Fair value through
+Profit or Loss
+i) Investment in Mutual Funds 11 11167.90 11167.90 10299.12 10299.12
+ii) Investment in Bonds / Debentures,
+Certificates of Deposit
+11 1651.31 1651.31 2612.95 2612.95
+iii) Investment in Venture Capital Funds
+4 132.81 132.81 121.96 121.96
+iv) Investment in Equity & Preference
+Shares 4 32.97 32.97 39.34 39.34
+Sub-total 12984.99 12984.99 13073.37 13073.37
+d) Derivatives measured at fair value
+i) Derivative instruments not designated
+as hedging instruments
+6 22.33 22.33 2.37 2.37
+ii) Derivative instruments designated as
+hedging instruments 6 24.59 24.59 0.53 0.53
+Sub-total 46.92 46.92 2.90 2.90
+Total financial assets 41971.00 42004.13 43412.38 43210.01
+310 ITC Limited REPORT AND ACCOUNTS 2025

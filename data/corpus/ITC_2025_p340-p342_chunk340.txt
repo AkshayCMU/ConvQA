@@ -1,0 +1,206 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 340-342
+
+[PAGE 340]
+Independent Auditor’s Report
+From the matters communicated with those charged standards applicable in their respective countries.
+with governance, we determine those matters that were The Holding Company’s management has converted
+of most significance in the audit of the consolidated Ind the financial statements of such subsidiaries located
+AS financial statements for the financial year ended outside India from accounting principles generally
+March 31, 2025 and are therefore the key audit matters. accepted in their respective countries to accounting
+We describe these matters in our auditor’s report unless principles generally accepted in India. We have
+law or regulation precludes public disclosure about audited these conversion adjustments made by
+the matter or when, in extremely rare circumstances, the Holding Company’s management. Our opinion
+we determine that a matter should not be communicated in so far as it relates to the balances and affairs of
+in our report because the adverse consequences of doing such subsidiaries located outside India is based
+so would reasonably be expected to outweigh the public on the report of other auditors and the conversion
+interest benefits of such communication.
+adjustments prepared by the management of the
+Holding Company and audited by us.
+Other Matters
+(b) T he accompanying consolidated financial statements
+(a) W e did not audit the financial statements and
+include unaudited financial statements and other
+other financial information, in respect of thirty-two
+unaudited financial information in respect of five
+subsidiaries, whose financial statements include total
+subsidiaries, whose financial statements and
+assets of ` 4,344.64 crores as at March 31, 2025,
+other financial information reflect total revenues of
+and total revenues of ` 4,087.76 crores and net cash
+inflows of ` 62.04 crores for the year ended on that ` 215.22 crores and net cash inflows of ` 49.10 crores
+date. These financial statements and other financial for the period from April 1, 2024 to December 31, 2024.
+information have been audited by other auditors, Those unaudited financial statements and other
+which financial statements, other financial information unaudited financial information have been furnished
+and auditor’s reports have been furnished to us by to us by the management. The consolidated financial
+the management. The consolidated Ind AS financial statements also include the Group’s share of
+statements also include the Group’s share of net profit net profit of ` 11.35 crores for the period from
+of ` 7.58 crores for the year ended March 31, 2025, April 1, 2024 to December 31, 2024, as considered
+as considered in the consolidated Ind AS financial in the consolidated financial statements, in respect of
+statements, in respect of nine associates and joint two associates and a joint venture, whose financial
+ventures, whose financial statements, other financial statements, other financial information have not been
+information have been audited by other auditors audited and whose unaudited financial statements,
+and whose reports have been furnished to us by the other unaudited financial information have been
+Management. Our opinion on the consolidated Ind AS furnished to us by the Management. Our opinion, in so
+financial statements, in so far as it relates to the far as it relates to amounts and disclosures included
+amounts and disclosures included in respect of these in respect of these subsidiaries, a joint venture
+subsidiaries, joint ventures and associates, and our and associates for the period April 1, 2024 to
+report in terms of sub-sections (3) of Section 143 December 31, 2024 [Refer Note 30(viii) to these
+of the Act, in so far as it relates to the aforesaid consolidated Ind AS financial statements], and our
+subsidiaries, joint ventures and associates, is based report in terms of sub-sections (3) of Section 143 of the
+solely on the reports of such other auditors.
+Act in so far as it relates to the aforesaid subsidiaries,
+C ertain of these subsidiaries are located outside a joint venture and associates, is based solely on such
+India whose financial statements and other financial unaudited financial statements and other unaudited
+information have been prepared in accordance with financial information. In our opinion and according to
+accounting principles generally accepted in their the information and explanations given to us by the
+respective countries and which have been audited Management, these financial statements and other
+by other auditors under generally accepted auditing financial information are not material to the Group.
+322 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 341]
+Independent Auditor’s Report
+These financial statements / financial information (c) T he Consolidated Balance Sheet, the
+were part of the consolidated financial statements Consolidated Statement of Profit and Loss
+of the Holding Company for the nine months including the Statement of Other Comprehensive
+ended December 31, 2024 which were subjected to Income, the Consolidated Statement of
+limited review by us. Cash Flows and Consolidated Statement of
+Changes in Equity dealt with by this Report
+Our opinion above on the consolidated Ind AS financial
+are in agreement with the books of account
+statements, and our report on Other Legal and Regulatory
+maintained for the purpose of preparation of the
+Requirements below, is not modified in respect of the
+above matters with respect to our reliance on the work consolidated Ind AS financial statements;
+done and the reports of the other auditors and the financial (d) I n our opinion, the aforesaid consolidated Ind As
+statements and other financial information certified by the financial statements comply with the Accounting
+Management. Standards specified under Section 133 of the
+Act, read with Companies (Indian Accounting
+Report on Other Legal and Regulatory Requirements
+Standards) Rules, 2015, as amended;
+1. A s required by the Companies (Auditor’s Report)
+(e) O n the basis of the written representations
+Order, 2020 (“the Order”), issued by the Central
+received from the directors of the Holding
+Government of India in terms of sub-section (11) of
+Company as on March 31, 2025 taken on
+section 143 of the Act, based on our audit and on
+record by the Board of Directors of the Holding
+the consideration of report of the other auditors on
+Company and the reports of the statutory
+separate financial statements and the other financial
+auditors who are appointed under Section 139
+information of the subsidiary companies, associate
+of the Act, of its subsidiary companies,
+companies and joint ventures, incorporated in India,
+associate companies and joint ventures, none
+as noted in the ‘Other Matters’ paragraph we give in
+of the directors of the Group’s companies, its
+the “Annexure 1” a statement on the matters specified
+associates and joint ventures, incorporated
+in paragraph 3(xxi) of the Order.
+in India, is disqualified as on March 31, 2025
+2. A s required by Section 143(3) of the Act, based on our
+from being appointed as a director in terms of
+audit and on the consideration of report of the other
+Section 164 (2) of the Act;
+auditors on separate financial statements and the
+(f) T he modification arising from the maintenance
+other financial information of subsidiaries, associates
+of the audit trail on the accounting software are
+and joint ventures, as noted in the ‘Other Matters’
+as stated in paragraph (i)(vi) below on reporting
+paragraph we report, to the extent applicable, that:
+under Rule 11(g);
+(a) W e / the other auditors whose report we have
+(g) W ith respect to the adequacy of the internal
+relied upon have sought and obtained all the
+financial controls with reference to consolidated
+information and explanations which to the best
+of our knowledge and belief were necessary Ind AS financial statements of the Holding
+for the purposes of our audit of the aforesaid Company and its subsidiary companies,
+consolidated Ind AS financial statements; associate companies and joint ventures,
+incorporated in India, and the operating
+(b) I n our opinion, proper books of account as
+effectiveness of such controls, refer to our
+required by law relating to preparation of
+separate Report in “Annexure 2” to this report;
+the aforesaid consolidation of the financial
+statements have been kept so far as it appears (h) I n our opinion and based on the consideration
+from our examination of those books and reports of reports of other statutory auditors of the
+of the other auditors. Insofar as the modification subsidiaries, associates and joint ventures
+on maintaining an audit trail in the accounting incorporated in India, the managerial
+software is concerned, refer paragraph (i) (vi) remuneration for the year ended March 31, 2025
+below; has been paid / provided by the Holding
+ITC Limited REPORT AND ACCOUNTS 2025 323
+
+[PAGE 342]
+Independent Auditor’s Report
+Company, its subsidiaries, associates and joint that, to the best of its knowledge and
+ventures incorporated in India to their directors belief, no funds have been advanced or
+in accordance with the provisions of section 197 loaned or invested (either from borrowed
+read with Schedule V to the Act; funds or share premium or any other
+sources or kind of funds) by the Holding
+(i) With respect to the other matters to be included
+Company or any of such subsidiaries,
+in the Auditor’s Report in accordance with
+associates and joint ventures to or in
+Rule 11 of the Companies (Audit and Auditors)
+any other person or entity, including
+Rules, 2014, as amended, in our opinion and
+foreign entities (“Intermediaries”), with
+to the best of our information and according to
+the understanding, whether recorded in
+the explanations given to us and based on the
+writing or otherwise, that the Intermediary
+consideration of the report of the other auditors
+shall, whether, directly or indirectly lend or
+on separate financial statements as also the
+invest in other persons or entities identified
+other financial information of the subsidiaries,
+in any manner whatsoever by or on behalf
+associates and joint ventures, as noted in the
+of the respective Holding Company or
+‘Other Matters’ paragraph:
+any of such subsidiaries, associates and
+i. The consolidated Ind AS financial statements joint ventures (“Ultimate Beneficiaries”) or
+disclose the impact of pending litigations provide any guarantee, security or the like
+on its consolidated financial position of the on behalf of the Ultimate Beneficiaries;
+Group, its associates and joint ventures in
+b) The respective managements of the
+its consolidated Ind AS financial statements
+Holding Company and its subsidiaries,
+– Refer Note 30(iii)(a) to the consolidated
+associates and joint ventures which are
+Ind AS financial statements;
+companies incorporated in India whose
+ii. The Group, its associates and joint ventures financial statements have been audited
+did not have any material foreseeable under the Act have represented to us and
+losses in long-term contracts including the other auditors of such subsidiaries,
+derivative contracts during the year ended associates and joint ventures respectively
+March 31, 2025; that, to the best of its knowledge and
+belief, no funds have been received
+iii. There has been no delay in transferring
+by the respective Holding Company or
+amounts, required to be transferred, to
+any of such subsidiaries, associates and
+the Investor Education and Protection
+joint ventures from any person or entity,
+Fund by the Holding Company, its
+including foreign entities (“Funding
+subsidiaries, associates and joint ventures,
+Parties”), with the understanding, whether
+incorporated in India during the year ended
+recorded in writing or otherwise, that
+March 31, 2025.
+the Holding Company or any of such
+iv. a) The respective managements of the subsidiaries, associates and joint ventures
+Holding Company and its subsidiaries, shall, whether, directly or indirectly, lend
+associates and joint ventures which are or invest in other persons or entities
+companies incorporated in India whose identified in any manner whatsoever by or
+financial statements have been audited on behalf of the Funding Party (“Ultimate
+under the Act have represented to us and Beneficiaries”) or provide any guarantee,
+the other auditors of such subsidiaries, security or the like on behalf of the
+associates and joint ventures respectively Ultimate Beneficiaries; and
+324 ITC Limited REPORT AND ACCOUNTS 2025

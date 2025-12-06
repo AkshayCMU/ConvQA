@@ -1,0 +1,238 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 165-167
+
+[PAGE 165]
+Notes
+to the Standalone Financial Statements
+1. Material Accounting Policies (Contd.)
+profit or loss when the hedged item affects the Statement measurement of financial assets depends on such
+of Profit and Loss. However, when the hedged item classification.
+results in the recognition of a non–financial asset, Financial assets are classified as those measured at:
+such gains / losses are transferred from equity (but not
+(a) amortised cost, where the financial assets are held
+as reclassification adjustment) and included in the initial
+solely for collection of cash flows arising from payments
+measurement cost of the non–financial asset.
+of principal and / or interest.
+Hedge accounting is discontinued when the hedging
+(b) fair value through other comprehensive income
+instrument is derecognised, expires or is sold,
+(FVTOCI), where the financial assets are held not only
+terminated, or exercised, or when it no longer qualifies
+for collection of cash flows arising from payments of
+for hedge accounting. Any gains / losses recognised
+principal and interest but also from the sale of such
+in other comprehensive income and accumulated in
+assets. Such assets are subsequently measured at fair
+equity at that time remain in equity and is reclassified
+value, with unrealised gains and losses arising from
+when the underlying transaction is ultimately
+changes in the fair value being recognised in other
+recognised. When an underlying transaction is no longer
+comprehensive income.
+expected to occur, the gains / losses accumulated in
+equity are recognised immediately in the Statement of (c) fair value through profit or loss (FVTPL), where the
+Profit and Loss. assets are managed in accordance with an approved
+investment strategy that triggers purchase and sale
+Investment in Subsidiaries, Associates and Joint
+decisions based on the fair value of such assets.
+Ventures
+Such assets are subsequently measured at fair value.
+Investment in subsidiaries, associates and joint ventures Unrealised gains and losses arising from changes in
+are carried at cost less accumulated impairment, if any. the fair value, including interest income and dividend
+income, if any, are recognised in ‘other income’ in the
+Financial instruments, Financial assets, Financial
+Statement of Profit and Loss in the period in which they
+liabilities and Equity instruments
+arise.
+Financial assets and financial liabilities are recognised when
+Trade Receivables, Advances, Security Deposits, Cash
+the Company becomes a party to the contractual provisions
+and cash equivalents etc. are classified for measurement
+of the relevant instrument and are initially measured at fair
+at amortised cost while investments may fall under any
+value except for trade receivables that do not contain a
+of the aforesaid classes. However, in respect of particular
+significant financing component, which are measured at
+investments in equity instruments that would otherwise
+transaction price.
+be measured at fair value through profit or loss, an
+Transaction costs that are directly attributable to the
+irrevocable election at initial recognition may be made to
+acquisition or issue of financial assets and financial
+present subsequent changes in fair value through other
+liabilities (other than financial assets and financial liabilities
+comprehensive income.
+measured at fair value through profit or loss) are added
+Impairment: The Company assesses at each reporting
+to or deducted from the fair value on initial recognition of
+date whether a financial asset (or a group of financial
+financial assets or financial liabilities. Purchase or sale of
+assets) such as investments, trade receivables, advances
+financial assets that require delivery of assets within a time
+and security deposits held at amortised cost and financial
+frame established by regulation or convention in the market
+assets that are measured at fair value through other
+place (regular way trades) are recognised on the trade
+comprehensive income are tested for impairment based
+date, i.e., the date when the Company commits to purchase
+on evidence or information that is available without undue
+or sell the asset.
+cost or effort. Expected credit losses are assessed and loss
+Financial Assets allowances recognised if the credit quality of the financial
+Recognition: Financial assets include Investments, Trade asset has deteriorated significantly since initial recognition.
+Receivables, Advances, Security Deposits, Cash and cash Reclassification: When and only when the business
+equivalents. Such assets are initially recognised at fair value model is changed, the Company shall reclassify all affected
+or transaction price, as applicable, when the Company financial assets prospectively from the reclassification date
+becomes party to contractual obligations. The transaction as subsequently measured at amortised cost, fair value
+price includes transaction costs unless the asset is being through other comprehensive income or fair value through
+fair valued through the Statement of Profit and Loss. profit or loss without restating the previously recognised
+Classification: Management determines the classification gains, losses or interest and in terms of the reclassification
+of an asset at initial recognition depending on the purpose principles laid down in the Ind AS relating to Financial
+for which the assets were acquired. The subsequent Instruments.
+ITC Limited REPORT AND ACCOUNTS 2025 147
+
+[PAGE 166]
+Notes
+to the Standalone Financial Statements
+1. Material Accounting Policies (Contd.)
+Derecognition: Financial assets are derecognised when Revenue from the sale of goods and services is recognised
+the right to receive cash flows from the assets has expired, when the Company performs its obligations to its customers
+or has been transferred, and the Company has transferred and the amount of revenue can be measured reliably and
+substantially all of the risks and rewards of ownership. recovery of the consideration is probable. The timing of such
+Concomitantly, if the asset is one that is measured at: recognition in case of sale of goods is when the control over
+(a) amortised cost, the gain or loss is recognised in the the same is transferred to the customer, which is mainly
+Statement of Profit and Loss; upon delivery and in case of services, in the period in which
+such services are rendered.
+(b) fair value through other comprehensive income, the
+cumulative fair value adjustments previously taken to Government Grant
+reserves are reclassified to the Statement of Profit and
+The Company may receive government grants that require
+Loss unless the asset represents an equity investment,
+compliance with certain conditions related to the Company’s
+in which case the cumulative fair value adjustments
+operating activities or are provided to the Company
+previously taken to reserves are reclassified within
+by way of financial assistance on the basis of certain
+equity.
+qualifying criteria.
+Income Recognition: Interest income is recognised in the Government grants are recognised when there is
+Statement of Profit and Loss using the effective interest reasonable assurance that the grant will be received upon
+method. Dividend income is recognised in the Statement the Company complying with the conditions attached to the
+of Profit and Loss when the right to receive dividend is grant. Accordingly, government grants:
+established.
+(a) related to or used for assets, are deducted from the
+Financial Liabilities carrying amount of the asset.
+Borrowings, trade payables and other financial liabilities (b) related to incurring specific expenditures are taken to
+are initially recognised at fair value and are subsequently the Statement of Profit and Loss on the same basis and
+measured at amortised cost. Any discount or premium on in the same periods as the expenditures incurred.
+redemption / settlement is recognised in the Statement of (c) by way of financial assistance on the basis of certain
+Profit and Loss as finance cost over the life of the liability qualifying criteria are recognised in the Statement of
+using the effective interest method and adjusted to the Profit and Loss as they become receivable.
+liability figure disclosed in the Balance Sheet.
+In the unlikely event that a grant previously recognised is
+Financial liabilities are derecognised when the liability is ultimately not received, it is treated as a change in estimate
+extinguished, that is, when the contractual obligation is and the amount cumulatively recognised is expensed in the
+discharged, cancelled or on expiry. Statement of Profit and Loss.
+Offsetting Financial Instruments Dividend Distribution
+Financial assets and liabilities are offset and the net amount Dividends paid (including income tax thereon, if any) are
+is included in the Balance Sheet where there is a legally recognised in the period in which the interim dividends are
+enforceable right to offset the recognised amounts and approved by the Board of Directors, or in respect of the final
+there is an intention to settle on a net basis or realise the dividend when approved by the shareholders.
+asset and settle the liability simultaneously.
+Employee Benefits
+Equity Instruments
+Short-term employee benefits are expensed in the period
+Equity instruments are recognised at the value of the in which the employee renders the related service on an
+proceeds, net of direct costs of the capital issue. undiscounted basis. A liability is recognised for the amount
+expected to be paid within twelve months, if the Company
+Revenue
+has a present legal or constructive obligation to pay the
+Revenue is measured at the transaction price that the
+same as a result of past service provided by the employee
+Company receives or expects to receive as consideration
+and the obligation can be reliably estimated.
+for goods supplied and services rendered, net of returns
+The Company makes contributions to both defined benefit
+and estimates of variable consideration such as discounts
+to customers. Revenue from the sale of goods includes and defined contribution schemes which are mainly
+Excise Duties and National Calamity Contingent Duty administered through duly constituted and approved Trusts.
+which are payable on manufacture of goods but excludes Provident Fund contributions are in the nature of defined
+taxes such as VAT and Goods and Services Tax which are contribution scheme. In respect of employees who are
+payable in respect of sale of goods and services. members of constituted and approved trusts, the Company
+148 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 167]
+Notes
+to the Standalone Financial Statements
+1. Material Accounting Policies (Contd.)
+recognises contribution payable to such trusts as an expense if recommended by the Corporate Management Committee
+including any shortfall in interest between the amount of and approved by the Audit Committee, decide not to seek
+interest realised by the investment and the interest payable such recovery from:
+to members at the rate declared by the Government of (a) wholly owned subsidiaries who need to conserve
+India. In respect of other employees, provident funds are financial capacity to sustain their business and growth
+deposited with the Government administered funds and
+plans and to address contingencies that may arise,
+recognised as expense.
+taking into account the economic and market conditions
+The Company makes contribution to defined contribution then prevailing and opportunities and threats in the
+pension plan. The contribution payable is recognised as an competitive context.
+expense, when an employee renders the related service.
+(b) other companies not covered under (a) above, who
+The Company also makes contribution to defined benefit need to conserve financial capacity to sustain their
+pension and gratuity plan. The cost of providing benefits business and growth plans and where the quantum of
+under the defined benefit obligation is calculated by reimbursement is not material - the materiality threshold
+independent actuary using the projected unit credit method. being ` 5 Crores for each entity for a financial year.
+Service costs and net interest expense or income is
+Stock Appreciation Linked Reward (SAR) Plan
+reflected in the Statement of Profit and Loss. Gain or Loss
+on account of remeasurements are recognised immediately Cash Settled SAR units are granted to eligible employees
+through other comprehensive income in the period in which under the ITC Employee Cash Settled Stock Appreciation
+they occur. Linked Reward Plan (‘ITC ESARP’), as may be decided by
+the CMC / Nomination & Compensation Committee / Board.
+The employees of the Company are entitled to compensated
+leave for which the Company records the liability based on For such Cash Settled SAR units, a liability is initially
+actuarial valuation computed using projected unit credit measured at fair value on the grant date and is subsequently
+method. These benefits are unfunded. remeasured at each reporting period, until settled. The
+fair value of ITC ESARP units granted is recognised as
+Actual disbursements made under the Workers’ Voluntary
+employee benefits expense in the Statement of Profit and
+Retirement Scheme are accounted as revenue expenses.
+Loss over the period in which the performance and / or
+Employee Share Based Compensation service conditions are fulfilled for employees of the
+Company. In case of ITC ESARP units granted to
+Stock Options
+employees on deputation and to employees of the group
+Equity settled Stock Options are granted to eligible
+companies, the Company generally recovers the fair value
+employees under the ITC Employee Stock Option Schemes
+of ITC ESARP units from the concerned group companies.
+(‘ITC ESOS’), as may be decided by the Nomination &
+Compensation Committee / Board. Further, eligible Leases
+employees of the Company have been granted equity The Company assesses at contract inception whether a
+settled Stock Options under the ITC Hotels Special Purpose contract is, or contains, a lease. A contract is, or contains,
+Employee Stock Option Scheme (‘ITCHL SP ESOS’), a lease if it conveys the right to control the use of an identified
+in terms of the ‘Scheme of Arrangement between the asset for a period of time in exchange for consideration.
+Company and ITC Hotels Limited, and their respective
+Company as a Lessee
+shareholders and creditors’.
+Right-of-use (ROU) assets are recognised at inception of a
+Under Ind AS, the cost of equity settled Stock Options is
+contract or arrangement for significant lease components
+recognised based on the fair value of Stock Options as on
+at cost less lease incentives, if any. ROU assets are
+the grant date.
+subsequently measured at cost less accumulated
+The fair value of Stock Options granted to the employees of depreciation and accumulated impairment losses, if any.
+the Company is recognised as employee benefits expense The cost of ROU assets includes the amount of lease
+in the Statement of Profit and Loss over the period in which liabilities recognised, initial direct cost incurred and lease
+the performance and / or service conditions are fulfilled with a payments made at or before the lease commencement date.
+corresponding credit in equity for ITC ESOS and recognised ROU assets are generally depreciated over the shorter of
+as a financial liability for ITCHL SP ESOS. The fair value of the lease term and estimated useful lives of the underlying
+Stock Options, net of recoveries, granted to employees on assets on a straight-line basis. Lease term is determined
+deputation and to employees of the group companies is based on consideration of facts and circumstances that
+considered as capital contribution / investment. create an economic incentive to exercise an extension
+The Company generally recovers the fair value of Stock option, or not to exercise a termination option. Lease
+Options from such group companies, as applicable. It may, payments associated with short-term leases (i.e., those
+ITC Limited REPORT AND ACCOUNTS 2025 149

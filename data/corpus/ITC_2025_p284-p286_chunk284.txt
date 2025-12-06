@@ -1,0 +1,131 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 284-286
+
+[PAGE 284]
+Notes
+to the Consolidated Financial Statements
+Face Value ` As at 31st March, 2025 As at 31st March, 2024
+(Fully Paid
+unless stated Number (` in Number (` in
+otherwise) Crores) Crores)
+11. C urrent Investments (at fair value through
+profit or loss, unless stated otherwise) (Contd.)
+Brought forward 13657.44 12944.42
+INVESTMENT IN BONDS IN THE NATURE OF
+DEBENTURES (Contd.)
+National Bank for Agriculture and Rural
+Development
+7.07% - Series 1A - 25-Feb-2026 10,00,000 2,000 201.52 – –
+National Highways Authority of India
+7.11% - Series NHAI - II A - 18-Sep-2025 10,00,000 2,600 260.14 – –
+7.14% - Series I A - 11-Jan-2026 1,000 8,06,381 80.90 – –
+Power Finance Corporation Limited
+7.16% - Series 136 - 17-Jul-2025 10,00,000 600 60.12 – –
+REC Limited
+7.17% - Series 5A - 23-Jul-2025 10,00,000 850 85.21 – –
+Zero Coupon Bonds - Secured, Redeemable &
+Non-Convertible
+LIC Housing Finance Limited
+Tranche 416 - 25-Apr-2025 10,00,000 11,250 1363.35 – –
+Taxable Bonds - Unsecured, Redeemable &
+Non-Convertible
+HDFC Bank Limited
+7.80% - Series US005 - 02-Jun-2025 1,00,000 10,000 99.93 – –
+INVESTMENT IN DEBT MUTUAL FUNDS
+Quoted
+Fixed Maturity Plans (at amortised cost)*
+SBI Mutual Fund 10 2,49,98,750 29.58 – –
+Exchange Traded Funds (at fair value through
+other comprehensive income) **
+Edelweiss Mutual Fund 1,000 33,03,209 425.60 – –
+Unquoted
+Target Maturity Index Funds (at fair value through
+other comprehensive income) **
+Axis Mutual Fund 10 1,98,53,868 23.71 – –
+INVESTMENT IN DEBT MUTUAL FUNDS
+Aggregate amount of quoted investments 3938.02 119.98
+Aggregate amount of unquoted investments 12349.48 12824.44
+Total 16287.50 12944.42
+Aggregate market value of quoted investments ` 3941.75 Crores (2024 - ` 119.60 Crores).
+* I nvestments in Fixed Maturity Plans (FMPs) that are intended to be held by the Company till maturity are classified as amortised cost.
+The underlying instruments in the portfolio of these FMPs have minimal churn and are held to receive contractual cash flows.
+** E xchange Traded / Target Maturity Index Funds follow a passive buy and hold investment strategy to receive contractual cash flows
+except for meeting redemption and rebalancing requirements. Investment in such funds are classified as FVTOCI as cash flows from
+these investments are realised on maturity or upon sale.
+266 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 285]
+Notes
+to the Consolidated Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+12. Trade receivables (Current)
+Considered good - Secured 49.71 55.06
+Considered good - Unsecured 4669.96 3970.76
+Which have significant increase in Credit Risk – –
+Credit impaired 176.13 188.13
+Less: Allowance for credit impairment [Refer Note 33] 176.13 188.13
+TOTAL 4719.67 4025.82
+Trade receivables ageing schedule (` in Crores)
+Outstanding for following periods from due date of
+payment as at 31st March, 2025
+Not Due Total
+Less than 6 months- More than
+6 months 1 year 1-2 years 2-3 years 3 years
+Undisputed Trade Receivables – considered
+good 2189.06 2449.38 45.92 35.35 … 0.27 4719.98
+Undisputed Trade Receivables – which have
+significant increase in credit risk – – – – – – –
+Undisputed Trade Receivables – credit impaired – 1.12 5.07 20.22 1.00 39.06 66.47
+Disputed Trade Receivables – considered good – – – – – – –
+Disputed Trade Receivables – which have
+significant increase in credit risk – – – – – – –
+Disputed Trade Receivables – credit impaired – 0.38 4.05 3.95 1.13 99.84 109.35
+SUB-TOTAL 2189.06 2450.88 55.04 59.52 2.13 139.17 4895.80
+Less: Allowance for credit impairment 176.13
+TOTAL 4719.67
+Outstanding for following periods from due date of
+payment as at 31st March, 2024
+Not Due Total
+Less than 6 months- More than
+6 months 1 year 1-2 years 2-3 years 3 years
+Undisputed Trade Receivables – considered
+good 1851.02 2109.43 59.95 5.33 0.02 0.07 4025.82
+Undisputed Trade Receivables – which have
+significant increase in credit risk – – – – – – –
+Undisputed Trade Receivables – credit impaired – 2.68 10.24 7.85 4.71 43.61 69.09
+Disputed Trade Receivables – considered good – – – – – – –
+Disputed Trade Receivables – which have
+significant increase in credit risk – – – – – – –
+Disputed Trade Receivables – credit impaired – 1.03 3.27 2.98 0.65 111.11 119.04
+SUB-TOTAL 1851.02 2113.14 73.46 16.16 5.38 154.79 4213.95
+Less: Allowance for credit impairment 188.13
+TOTAL 4025.82
+ITC Limited REPORT AND ACCOUNTS 2025 267
+
+[PAGE 286]
+Notes
+to the Consolidated Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+13. Cash and cash equivalents@
+Balances with Banks
+Current accounts 414.99 477.01
+Deposit accounts 202.60 138.66
+Cheques, drafts on hand 1.08 2.00
+Cash on hand 1.33 8.22
+TOTAL 620.00 625.89
+@ Cash and cash equivalents include cash on hand, cheques, drafts on hand, cash at bank and deposits with banks with original
+maturity of 3 months or less.
+The Group does not have any cash and cash equivalents that are not available for use.
+14. Bank Balances other than cash and cash equivalents
+Earmarked balances * 264.84 268.94
+In deposit accounts ** 3127.52 6322.85
+TOTAL 3392.36 6591.79
+* includes balances towards unpaid dividend, unspent corporate social responsibility.
+** Represents deposits with original maturity of more than 3 months having remaining maturity of less than 12 months from the
+Balance Sheet date.
+268 ITC Limited REPORT AND ACCOUNTS 2025

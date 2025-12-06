@@ -1,0 +1,226 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 167-169
+
+[PAGE 167]
+Notes
+to the Standalone Financial Statements
+1. Material Accounting Policies (Contd.)
+recognises contribution payable to such trusts as an expense if recommended by the Corporate Management Committee
+including any shortfall in interest between the amount of and approved by the Audit Committee, decide not to seek
+interest realised by the investment and the interest payable such recovery from:
+to members at the rate declared by the Government of (a) wholly owned subsidiaries who need to conserve
+India. In respect of other employees, provident funds are financial capacity to sustain their business and growth
+deposited with the Government administered funds and
+plans and to address contingencies that may arise,
+recognised as expense.
+taking into account the economic and market conditions
+The Company makes contribution to defined contribution then prevailing and opportunities and threats in the
+pension plan. The contribution payable is recognised as an competitive context.
+expense, when an employee renders the related service.
+(b) other companies not covered under (a) above, who
+The Company also makes contribution to defined benefit need to conserve financial capacity to sustain their
+pension and gratuity plan. The cost of providing benefits business and growth plans and where the quantum of
+under the defined benefit obligation is calculated by reimbursement is not material - the materiality threshold
+independent actuary using the projected unit credit method. being ` 5 Crores for each entity for a financial year.
+Service costs and net interest expense or income is
+Stock Appreciation Linked Reward (SAR) Plan
+reflected in the Statement of Profit and Loss. Gain or Loss
+on account of remeasurements are recognised immediately Cash Settled SAR units are granted to eligible employees
+through other comprehensive income in the period in which under the ITC Employee Cash Settled Stock Appreciation
+they occur. Linked Reward Plan (‘ITC ESARP’), as may be decided by
+the CMC / Nomination & Compensation Committee / Board.
+The employees of the Company are entitled to compensated
+leave for which the Company records the liability based on For such Cash Settled SAR units, a liability is initially
+actuarial valuation computed using projected unit credit measured at fair value on the grant date and is subsequently
+method. These benefits are unfunded. remeasured at each reporting period, until settled. The
+fair value of ITC ESARP units granted is recognised as
+Actual disbursements made under the Workers’ Voluntary
+employee benefits expense in the Statement of Profit and
+Retirement Scheme are accounted as revenue expenses.
+Loss over the period in which the performance and / or
+Employee Share Based Compensation service conditions are fulfilled for employees of the
+Company. In case of ITC ESARP units granted to
+Stock Options
+employees on deputation and to employees of the group
+Equity settled Stock Options are granted to eligible
+companies, the Company generally recovers the fair value
+employees under the ITC Employee Stock Option Schemes
+of ITC ESARP units from the concerned group companies.
+(‘ITC ESOS’), as may be decided by the Nomination &
+Compensation Committee / Board. Further, eligible Leases
+employees of the Company have been granted equity The Company assesses at contract inception whether a
+settled Stock Options under the ITC Hotels Special Purpose contract is, or contains, a lease. A contract is, or contains,
+Employee Stock Option Scheme (‘ITCHL SP ESOS’), a lease if it conveys the right to control the use of an identified
+in terms of the ‘Scheme of Arrangement between the asset for a period of time in exchange for consideration.
+Company and ITC Hotels Limited, and their respective
+Company as a Lessee
+shareholders and creditors’.
+Right-of-use (ROU) assets are recognised at inception of a
+Under Ind AS, the cost of equity settled Stock Options is
+contract or arrangement for significant lease components
+recognised based on the fair value of Stock Options as on
+at cost less lease incentives, if any. ROU assets are
+the grant date.
+subsequently measured at cost less accumulated
+The fair value of Stock Options granted to the employees of depreciation and accumulated impairment losses, if any.
+the Company is recognised as employee benefits expense The cost of ROU assets includes the amount of lease
+in the Statement of Profit and Loss over the period in which liabilities recognised, initial direct cost incurred and lease
+the performance and / or service conditions are fulfilled with a payments made at or before the lease commencement date.
+corresponding credit in equity for ITC ESOS and recognised ROU assets are generally depreciated over the shorter of
+as a financial liability for ITCHL SP ESOS. The fair value of the lease term and estimated useful lives of the underlying
+Stock Options, net of recoveries, granted to employees on assets on a straight-line basis. Lease term is determined
+deputation and to employees of the group companies is based on consideration of facts and circumstances that
+considered as capital contribution / investment. create an economic incentive to exercise an extension
+The Company generally recovers the fair value of Stock option, or not to exercise a termination option. Lease
+Options from such group companies, as applicable. It may, payments associated with short-term leases (i.e., those
+ITC Limited REPORT AND ACCOUNTS 2025 149
+
+[PAGE 168]
+Notes
+to the Standalone Financial Statements
+1. Material Accounting Policies (Contd.)
+leases that have a lease term of 12 months or less from the Deferred tax assets and liabilities are offset when there is
+commencement date and do not contain a purchase option) legally enforceable right to offset current tax assets and
+and low value leases (i.e., where the value of the underlying liabilities and when the deferred tax balances relate to the
+asset, when new, in order of magnitude is ` 5 lakhs or same taxation authority. Current tax assets and tax liabilities
+less) are charged to the Statement of Profit and Loss on a are offset where the entity has a legally enforceable right to
+straight-line basis over the term of the relevant lease. offset and intends either to settle on net basis, or to realize
+the asset and settle the liability simultaneously.
+The Company recognises lease liabilities measured at the
+present value of lease payments to be made on the date Claims
+of recognition of the lease. Such lease liabilities do not
+Claims against the Company not acknowledged as debts
+include variable lease payments (that do not depend on are disclosed after a careful evaluation of the facts and
+an index or a rate), which are recognised as expense in legal aspects of the matter involved.
+the periods in which they are incurred. Interest on lease
+Provisions
+liability is recognised using the effective interest method.
+Lease liabilities are subsequently increased to reflect the Provisions are recognised when, as a result of a past
+accretion of interest and reduced for the lease payments event, the Company has a legal or constructive obligation;
+made. The carrying amount of lease liabilities is also it is probable that an outflow of resources will be required
+remeasured upon modification of lease arrangement or to settle the obligation; and the amount can be reliably
+upon change in the assessment of the lease term. The estimated. The amount so recognised is a best estimate
+of the consideration required to settle the obligation at the
+effect of such remeasurements is adjusted to the value of
+reporting date, taking into account the risks and uncertainties
+the ROU assets.
+surrounding the obligation.
+Company as a Lessor
+In an event when the time value of money is material, the
+Leases in which the Company does not transfer substantially provision is carried at the present value of the cash flows
+all the risks and rewards of ownership of an asset are estimated to settle the obligation.
+classified as operating leases. Where the Company is a
+Operating Segments
+lessor under an operating lease, the asset is capitalised
+within property, plant and equipment or investment property Operating segments are reported in a manner consistent
+and depreciated over its useful economic life. Payments with the internal reporting provided to the chief operating
+decision-maker (CODM). The CODM, who is responsible
+received under operating leases are recognised in the
+for allocating resources and assessing performance of the
+Statement of Profit and Loss on a straight-line basis over
+operating segments, has been identified as the Corporate
+the term of the lease.
+Management Committee.
+Taxes on Income
+Segments are organised based on businesses which
+Taxes on income comprise current taxes and deferred have similar economic characteristics as well as exhibit
+taxes. Current tax in the Statement of Profit and Loss is similarities in nature of products and services offered,
+provided as the amount of tax payable in respect of taxable the nature of production processes, the type and class of
+income for the period using tax rates and tax laws enacted customer and distribution methods.
+during the period, together with any adjustment to tax Segment revenue arising from third party customers is
+payable in respect of previous years. reported on the same basis as revenue in the financial
+Deferred tax is recognised on temporary differences statements. Inter-segment revenue is reported on the basis
+between the carrying amounts of assets and liabilities and of transactions which are primarily market led. Segment
+the amounts used for taxation purposes (tax base), at the results represent profits before finance charges, unallocated
+tax rates and tax laws enacted or substantively enacted by corporate expenses and taxes.
+the end of the reporting period. “Unallocated Corporate Expenses” include revenue and
+Deferred tax assets are recognised for the future tax expenses that relate to initiatives / costs attributable to the
+enterprise as a whole.
+consequences to the extent it is probable that future
+taxable profits will be available against which the deductible Financial and Management Information Systems
+temporary differences can be utilised.
+The Company’s Accounting System is designed to unify
+Income tax, insofar as it relates to items disclosed under the Financial and Cost Records and also to comply with the
+other comprehensive income or equity, is disclosed relevant provisions of the Companies Act, 2013, to provide
+separately under other comprehensive income or equity, financial and cost information appropriate to the businesses
+as applicable. and facilitate Internal Control.
+150 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 169]
+Notes
+to the Standalone Financial Statements
+2. Use of estimates and judgements
+The preparation of financial statements in conformity period and the impact of changes in the estimated
+with generally accepted accounting principles requires useful life is considered in the period in which the
+management to make estimates and assumptions that estimate is revised.
+affect the reported amounts of assets and liabilities and
+2. F air value measurements and valuation
+disclosure of contingent liabilities at the date of the financial
+processes:
+statements and the results of operations during the
+S ome of the Company’s assets and liabilities
+reporting period end. Although these estimates are based
+upon management’s best knowledge of current events and are measured at fair value for financial reporting
+actions, actual results could differ from these estimates. purposes. In estimating the fair value of an asset or a
+liability, the Company uses market-observable data
+The estimates and underlying assumptions are reviewed on
+to the extent it is available. Where Level 1 inputs
+an ongoing basis. Revisions to accounting estimates are
+are not available, the Company engages third party
+recognised in the period in which the estimate is revised
+valuers, where required, to perform the valuation.
+if the revision affects only that period, or in the period of
+Information about the valuation techniques and
+the revision and future periods if the revision affects both
+inputs used in determining the fair value of various
+current and future periods.
+assets, liabilities and share based payments are
+A. Judgements in applying accounting policies disclosed in the notes to the financial statements.
+The judgements, apart from those involving estimations
+3. Actuarial Valuation:
+(see note B below), that the Company has made in the
+T he determination of Company’s liability towards
+process of applying its accounting policies and that have
+defined benefit obligation to employees is made
+a significant effect on the amounts recognised in these
+through independent actuarial valuation including
+financial statements pertain to useful life of intangible
+determination of amounts to be recognised in
+assets. The Company is required to determine whether
+the Statement of Profit and Loss and in Other
+its intangible assets have indefinite or finite life which is
+Comprehensive Income. Such valuation depends
+a subject matter of judgement. Certain trademarks have
+upon assumptions determined after taking into
+been considered of having an indefinite useful life taking
+account inflation, seniority, promotion and other
+into account that there are no technical, technological or
+relevant factors such as supply and demand factors
+commercial risks of obsolescence or limitations under
+in the employment market. Information about such
+contract or law. Other trademarks have been amortised
+valuation is provided in the notes to the financial
+over their useful economic life. Refer notes to the financial
+statements.
+statements.
+4. C laims, Provisions and Contingent Liabilities:
+B. Key sources of estimation uncertainty
+T he Company has ongoing litigations with various
+The following are the key assumptions concerning the
+regulatory authorities and third parties. Where an
+future, and other key sources of estimation uncertainty at the
+outflow of funds is believed to be probable and a
+end of the reporting period that may have a significant risk
+reliable estimate of the outcome of the dispute can
+of causing a material adjustment to the carrying amounts of
+be made based on management’s assessment of
+assets and liabilities within the next financial year.
+specific circumstances of each dispute and relevant
+1. U seful lives of property, plant and equipment, external advice, management provides for its best
+investment property and intangible assets: estimate of the liability. Such accruals are by nature
+A s described in the material accounting policies, complex and can take number of years to resolve
+the Company reviews the estimated useful lives of and can involve estimation uncertainty. Information
+property, plant and equipment, investment property about such litigations is provided in the notes to the
+and intangible assets at the end of each reporting financial statements.
+ITC Limited REPORT AND ACCOUNTS 2025 151

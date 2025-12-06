@@ -1,0 +1,124 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 403-405
+
+[PAGE 403]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Basis for opinion
+We conducted our engagement in accordance with International Standard on Assurance Engagements
+(ISAE) 3000 (Revised), Assurance Engagements Other Than Audits or Reviews of Historical Financial
+Information and ISAE 3410, Assurance Engagements on Greenhouse Gas Statements issued by the
+International Auditing and Assurance Standards Board (IAASB). Our responsibilities under those standards
+are further described in the “Our responsibilities” section of this report.
+We have complied with the independence and other ethical requirements of the International Code of Ethics
+for Professional Accountants (including International Independence Standards) issued by the International
+Ethics Standards Board for Accountants (IESBA).
+KPMG Assurance and Consulting Services LLP (the Firm) applies International Standard on Quality
+Management (ISQM) 1, Quality Management for Firms that Perform Audits or Reviews of Financial
+Statements, or Other Assurance or Related Services Engagements, issued by the IAASB. This standard
+requires the Firm to design, implement and operate a system of quality management, including policies or
+procedures regarding compliance with ethical requirements, professional standards and applicable legal and
+regulatory requirements.
+We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our
+opinion.
+Other information
+Management and the Board of Directors of the Company are responsible for the other information. The
+other information comprises the information included in the Company’s Report and Accounts 2025 (but
+does not include the BRSR Core attributes including the Exhibit-A to BRSR and assurance report thereon).
+The Company’s Report and Accounts 2025 is expected to be made available to us after the date of this
+assurance report.
+Our reasonable assurance on the BRSR Core attributes including the Exhibit-A to BRSR, does not cover the
+other information and we are not expressing any form of assurance conclusion thereon.
+In connection with our assurance on the BRSR Core attributes including the Exhibit-A to BRSR, our
+responsibility is to read the other information identified above when it becomes available, and in doing so,
+consider whether other information is materially inconsistent with the BRSR Core including the Exhibit-A
+to BRSR, or our knowledge obtained in the assurance, or otherwise appears to be materially misstated.
+When we read the Report and Accounts 2025, if we conclude that there is a material misstatement therein,
+we are required to communicate the matter to Those Charged With Governance and describe actions
+applicable under the applicable laws and regulations.
+Intended use or purpose
+The ISI and our reasonable assurance report are intended for users who have reasonable knowledge of the
+BRSR Core attributes including the Exhibit-A to BRSR, the reporting criteria and who have read the
+information in the ISI with reasonable diligence and understand that the ISI is prepared and assured at
+appropriate levels of materiality.
+Our opinion is not modified in respect of this matter.
+LVI
+
+[PAGE 404]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Management’s Responsibilities for the Identified Sustainability Information (ISI)
+The management of the Company acknowledges and understands their responsibility for:
+• designing, implementing and maintaining internal controls relevant to the preparation of the ISI that is
+free from material misstatement, whether due to fraud or error;
+• selecting or establishing suitable criteria for preparing the ISI, taking into account applicable laws and
+regulations, if any, related to reporting on the ISI, identification of key aspects, engagement with
+stakeholders, content, preparation and presentation of the ISI in accordance with the reporting criteria;
+disclosure of the applicable criteria used for preparation of the ISI in the relevant report;
+• preparing, fairly stating and properly calculating the ISI in accordance with the reporting criteria;
+• ensuring the reporting criteria is available for the intended users with relevant explanations;
+• establishing targets, goals and other performance measures, and implementing actions to achieve such
+targets, goals and performance measures;
+• providing the details of the management personnel who takes ownership of the ISI disclosed in the
+report;
+• ensuring compliance with law, regulation or applicable contracts;
+• making judgements and estimates that are reasonable in the circumstances;
+• identifying and describing any inherent limitations in the measurement or evaluation of information
+covered by assurance in accordance with the reporting criteria;
+• preventing and detecting fraud;
+• selecting the content of the ISI, including identifying and engaging with intended users to understand
+their information needs;
+• informing us of other information that will be included with the ISI; and
+• supervision of other staff involved in the preparation of the ISI.
+Those Charged With Governance are responsible for overseeing the reporting process for the Company’s
+ISI.
+Inherent limitations
+The preparation of the Company’s BRSR information requires the management to establish or interpret the
+criteria, make determinations about the relevance of information to be included, and make estimates and
+assumptions that affect the reported information.
+Measurement of certain amounts and BRSR Core attributes including the Exhibit-A to BRSR metrics, some
+of which are estimates, is subject to substantial inherent measurement uncertainty, for example, GHG
+Footprint, Water Footprint, Energy Footprint. Obtaining sufficient appropriate evidence to support our
+opinion does not reduce the uncertainty in the amounts and metrics.
+LVII
+
+[PAGE 405]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Our responsibilities
+We are responsible for:
+Planning and performing the engagement to obtain reasonable assurance on the sustainability
+disclosures in the BRSR Core, including the Exhibit-A to BRSR, are free from material misstatement,
+whether due to fraud or error, in accordance with the Reporting Criteria;
+Forming an independent opinion, based on the procedures we have performed and the evidence we
+have obtained; and
+Reporting our reasonable assurance opinion to the Board of Directors of the Company.
+Summary of the work we performed as the basis for our opinion
+We exercised professional judgment and maintained professional skepticism throughout the engagement.
+We designed and performed our procedures to obtain evidence that is sufficient and appropriate to provide
+a basis for our reasonable assurance opinion.
+The nature, timing, and extent of the procedures selected depended on our judgement, including an
+assessment of the risks of material misstatement of the information covered by reasonable assurance,
+whether due to fraud or error. We identified and assessed the risks of material misstatement through
+understanding the ISI covered by reasonable assurance and the engagement circumstances. We also
+obtained an understanding of the internal control relevant to the ISI covered by reasonable assurance in
+order to design procedures that are appropriate in the circumstances but not for the purpose of expressing
+an opinion on the effectiveness of internal controls. In carrying out our engagement, we:
+assessed the suitability of the criteria used by the Company in preparing the ISI covered by reasonable
+assurance;
+evaluated the appropriateness of reporting policies, quantification methods and models used in the
+preparation of the information covered by reasonable assurance and the reasonableness of estimates
+made by the Company;
+performed substantive testing of data related to ISI, limited to 20 operational locations of the Company
+(namely, Integrated Consumer Goods Manufacturing and Logistics (ICML) Mysore; ICML
+Kapurthala; ICML Panchla; ICML Haridwar; ICML Pune; Branded Packaged Foods business (FBD)
+Munger, ITC Maurya; Sheraton, New Delhi, Paperboards and Specialty Papers Division (PSPD)
+Tribeni; PSPD Kovai; PSPD Bhadrachalam; Personal Care Products Business Division (PCPBD)
+Manpura; PCPB Haridwar; India Tobacco Division (ITD) Bangalore; ITD Pune; ITD Munger; KGLT
+Mysore; Packaging and Printing Business (PPB)Munger; PPB Nadiad; PPB Haridwar);
+relied on the audited standalone financial statements for the year ended 31 March 2025, audited by
+Company’s statutory auditors, for financial data included in the BRSR Core format as per Annexure-1
+namely- Principle 1- E8, Principle 1 - E9, Principle 3 - E1c, Principle 8 - E4 and Principle 8 - E5; and
+evaluated the overall presentation of the information covered by reasonable assurance.
+LVIII

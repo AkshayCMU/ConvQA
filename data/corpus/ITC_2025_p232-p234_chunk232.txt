@@ -1,0 +1,179 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 232-234
+
+[PAGE 232]
+Independent Auditor’s Report
+(h) With respect to the other matters to be included in whether, directly or indirectly, lend or invest
+the Auditor’s Report in accordance with Rule 11 of in other persons or entities identified in any
+the Companies (Audit and Auditors) Rules, 2014, manner whatsoever by or on behalf of the
+as amended in our opinion and to the best of our Funding Party (“Ultimate Beneficiaries”) or
+information and according to the explanations provide any guarantee, security or the like
+given to us: on behalf of the Ultimate Beneficiaries; and
+i. The Company has disclosed the impact of c) Based on such audit procedures performed
+pending litigations on its financial position in its that have been considered reasonable and
+standalone Ind AS financial statements – Refer appropriate in the circumstances, nothing
+Note 29(vi)(a) to the standalone Ind AS financial has come to our notice that has caused us
+statements; to believe that the representations under
+sub-clause (a) and (b) contain any material
+ii. The Company did not have any long-term
+misstatement.
+contracts including derivative contracts for
+v. The final dividend paid by the Company during
+which there were any material foreseeable
+the year in respect of the same declared for the
+losses;
+previous year is in accordance with section 123
+iii. There has been no delay in transferring
+of the Act to the extent it applies to payment of
+amounts, required to be transferred, to the
+dividend.
+Investor Education and Protection Fund by the
+The interim dividend declared and paid by the
+Company;
+Company during the year and until the date of
+iv. a) The management has represented that, this audit report is in accordance with section
+to the best of its knowledge and belief, no 123 of the Act.
+funds have been advanced or loaned or
+As stated in Note B of Statement of Changes
+invested (either from borrowed funds or
+in Equity to the standalone Ind AS financial
+share premium or any other sources or kind
+statements, the Board of Directors of the
+of funds) by the Company to or in any other
+Company have proposed final dividend for
+person or entity, including foreign entities
+the year which is subject to the approval of
+(“Intermediaries”), with the understanding,
+the members at the ensuing Annual General
+whether recorded in writing or otherwise,
+Meeting. The dividend declared is in accordance
+that the Intermediary shall, whether, directly
+with section 123 of the Act to the extent it applies
+or indirectly lend or invest in other persons or
+to declaration of dividend.
+entities identified in any manner whatsoever
+vi. Based on our examination which included test
+by or on behalf of the Company (“Ultimate
+checks, the Company has used accounting
+Beneficiaries”) or provide any guarantee,
+softwares for maintaining its books of account
+security or the like on behalf of the Ultimate
+which has a feature of recording audit trail
+Beneficiaries;
+(edit log) facility and the same has operated
+b) The management has represented that, throughout the year for all relevant transactions
+to the best of its knowledge and belief, no recorded in the softwares. Further, during the
+funds have been received by the Company course of our audit we did not come across any
+from any person or entity, including foreign instance of audit trail feature being tampered
+entities (“Funding Parties”), with the with. Additionally, the audit trail has been
+understanding, whether recorded in writing preserved by the Company as per the statutory
+or otherwise, that the Company shall, requirements for record retention.
+For S R B C & CO LLP
+Chartered Accountants
+ICAI Firm Registration Number: 324982E / E300003
+per Arvind Sethi
+Partner
+Membership Number: 89802
+Place of Signature: Kolkata
+Date: May 22, 2025 UDIN: 25089802BMNPUK4099
+214 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 233]
+Annexure 1
+referred to in paragraph 1 under the heading “Report
+on Other legal and Regulatory Requirements” of our report of even date
+Re: ITC Limited (the “Company”)
+In terms of the information and explanations sought by us and given by the Company and the books of account and records
+examined by us in the normal course of audit and to the best of our knowledge and belief, we state that:
+(i) (a) (A) The Company has maintained proper records showing full particulars, including quantitative details and situation
+of Property, Plant and Equipment.
+(B) The Company has maintained proper records showing full particulars of Intangible assets.
+(b) The Property, Plant and Equipment were physically verified during the year by the management in accordance
+with a regular programme of verification which, in our opinion, provides for physical verification of all the property,
+plant and equipment at reasonable intervals. According to the information and explanations given to us, no material
+discrepancies were noticed on such verification.
+(c) According to the information and explanations given by the management, the title deeds of all the immovable
+properties (other than properties where the Company is the lessee and the lease agreements are duly executed in
+favour of the lessee) are held in the name of the Company.
+(d) The Company has not revalued its Property, Plant and Equipment (including Right-of-use assets) or Intangible
+assets during the year ended March 31, 2025.
+(e) There are no proceedings initiated or are pending against the Company for holding any benami property under the
+Prohibition of Benami Property Transactions Act, 1988 and rules made thereunder.
+(ii) (a) The inventories have been physically verified by the management during the year. In our opinion, the frequency of
+verification by the management is reasonable and the coverage and procedure for such verification is appropriate.
+Inventories lying with third parties have substantially been confirmed by them as at year end. No discrepancies of
+10% or more in aggregate for each class of inventory (including inventories lying with third parties) were noticed.
+(b) As disclosed in note 8 to the standalone Ind AS financial statements, the Company has been sanctioned working
+capital limits in excess of ` 5 crores in aggregate from banks during the year on the basis of security of inventories
+of the Company. Based on the records examined by us in the normal course of audit of the financial statements,
+the quarterly returns /statements filed by the Company with such banks are in agreement with the books of accounts
+of the Company.
+(iii) (a) During the year the Company has not provided loans, advances in the nature of loans, stood guarantee or provided
+security to companies, firms, Limited Liability Partnerships or any other parties. Accordingly, the requirement to
+report on clause 3(iii)(a) of the Order is not applicable to the Company.
+(b) During the year the investments made by the Company is not prejudicial to the Company’s interest. The Company
+has not provided guarantees or security and has not granted loans and advances in the nature of loans to companies,
+firms, Limited Liability Partnerships or any other parties and hence not commented upon.
+(c) The Company has not granted loans and advances in the nature of loans to companies, firms, Limited Liability
+Partnerships or any other parties. Accordingly, the requirement to report on clause 3(iii)(c) to 3(iii)(f) of the Order is
+not applicable to the Company and hence not commented upon.
+(iv) In our opinion and according to the information and explanations given to us, provisions of section 185 and 186 of the
+Companies Act, 2013 in respect of loans to directors including entities in which they are interested and in respect of
+loans and advances given, investments made and guarantees and securities given have been complied with by the
+Company.
+(v) According to the information and explanations given to us, the Company has not accepted any deposit from the public
+nor accepted any amounts which are deemed to be deposits during the year within the meaning of Sections 73 and
+76 of the Companies Act, 2013. In respect of unclaimed deposits, the Company has complied with the provisions of
+Sections 74 and 75 or any other relevant provisions of the Companies Act, 2013. We are informed by the management
+that no order has been passed by the Company Law Board, National Company Law Tribunal or Reserve Bank of India
+or any Court or any other Tribunal.
+ITC Limited REPORT AND ACCOUNTS 2025 215
+
+[PAGE 234]
+(vi) We have broadly reviewed the books of account maintained by the Company pursuant to the rules made by the Central
+Government for the maintenance of cost records under section 148(1) of the Companies Act, 2013, related to the
+manufacture of specified products of the Company and are of the opinion that prima facie, the specified accounts and
+records have been made and maintained. We have not, however, made a detailed examination of the same.
+(vii) (a) The Company is regular in depositing with appropriate authorities undisputed statutory dues including Goods and
+Services Tax, provident fund, employees’ state insurance, income-tax, duty of custom, duty of excise, cess and
+other statutory dues applicable to it.
+(b) According to the information and explanations given to us, no undisputed amounts payable in respect of Goods
+and Services Tax, provident fund, employees’ state insurance, income-tax, duty of custom, duty of excise, cess
+and other statutory dues were outstanding, at the year end, for a period of more than six months from the date they
+became payable.
+(c) The dues of income-tax, sales-tax, service tax, duty of custom, duty of excise, value added tax, cess and other
+statutory dues have not been deposited on account of any dispute, are as follows:
+Name of Nature of Amount Period to which Forums where the dispute
+the statute the dues
+(` in Crores)*
+the amount relates is pending
+(Financial Year)
+Sales Tax and Sales Tax 30.63 1987-2018 Appellate Authority –
+Value Added and VAT upto commissioners’ /
+Tax Laws Revisional Authorities Level
+27.21 2005-2018 Appellate Authority –
+Tribunal Level
+240.44 1994-2017 High Court
+Customs Act, Customs 6.11 2012-2024 Appellate Authority –
+1962 Duty upto commissioners’ /
+Revisional Authorities Level
+16.23 2015-2021 Appellate Authority –
+Tribunal Level
+5.23 2006-2009 High Court
+Central Excise Excise Duty 0.29 1996-2015 Appellate Authority –
+Act, 1944 upto commissioners’ /
+Revisional Authorities Level
+51.93 1986-2018 Appellate Authority –
+Tribunal Level
+4.68 2004-2012 High Court
+Finance Act, Service Tax 22.39 2004-2017 Appellate Authority –
+1994 Tribunal Level
+5.53 2005-2007 High Court
+Entry Tax Laws Entry Tax 1.09 2009-2017 Appellate Authority –
+upto commissioners’ /
+Revisional Authorities Level
+18.50 2011-2018 Appellate Authority –
+Tribunal Level
+87.06 1999-2018 High Court
+216 ITC Limited REPORT AND ACCOUNTS 2025

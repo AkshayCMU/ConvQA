@@ -1,0 +1,116 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 188-190
+
+[PAGE 188]
+Notes
+to the Standalone Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+11. Cash and cash equivalents @
+Balances with Banks
+Current accounts 220.00 192.48
+Cheques, drafts on hand 1.08 1.85
+Cash on hand 0.98 3.30
+TOTAL 222.06 197.63
+@ Cash and cash equivalents include cash on hand, cheques, drafts on hand, cash at bank and deposits with banks with original
+maturity of 3 months or less.
+The Company does not have any cash and cash equivalents that are not available for use.
+12. Bank Balances other than cash and cash equivalents
+Earmarked balances * 264.71 268.81
+In deposit accounts ** 2697.61 5751.25
+TOTAL 2962.32 6020.06
+* Includes balances towards unpaid dividend, unspent corporate social responsibility.
+** Represents deposits with original maturity of more than 3 months having remaining maturity of less than 12 months from the
+Balance Sheet date.
+170 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 189]
+Notes
+to the Standalone Financial Statements
+As at As at As at As at
+31st March, 2025 31st March, 2025 31st March, 2024 31st March, 2024
+(No. of Shares) (` in Crores) (No. of Shares) (` in Crores)
+13. Equity Share capital
+Authorised
+Ordinary Shares of ` 1.00 each 20,00,00,00,000 2000.00 20,00,00,00,000 2000.00
+Issued and Subscribed
+Ordinary Shares of ` 1.00 each, fully paid 12,51,41,19,781 1251.41 12,48,47,21,471 1248.47
+A) Reconciliation of number of
+Ordinary Shares outstanding
+As at beginning of the year 12,48,47,21,471 1248.47 12,42,80,17,741 1242.80
+Add: Issue of Shares on exercise
+of Options 2,93,98,310 2.94 5,67,03,730 5.67
+As at end of the year 12,51,41,19,781 1251.41 12,48,47,21,471 1248.47
+B) Shareholders holding more than 5% of the Ordinary Shares in the Company
+As at As at As at As at
+31st March, 2025 31st March, 2025 31st March, 2024 31st March, 2024
+(No. of Shares) (%) (No. of Shares) (%)
+Tobacco Manufacturers (India) Limited 2,54,14,95,863 20.31 2,54,14,95,863 20.36
+Life Insurance Corporation of India 1,94,17,50,542 15.52 1,89,68,61,285 15.19
+Specified Undertaking of the
+Unit Trust of India 97,45,31,427 7.79 97,45,31,427 7.81
+C) Shareholding of Promoters: Nil
+D) Ordinary Shares allotted as fully paid pursuant to contract(s) without payment being received in cash or as fully paid up
+Bonus Shares during the period of five years immediately preceding 31st March: Nil
+E) Rights, preferences and restrictions attached to the Ordinary Shares
+T he Ordinary Shares of the Company, having par value of ` 1.00 per share, rank pari passu in all respects including voting rights and
+entitlement to dividend.
+F) Shares reserved for issue under Options
+As at As at
+31st March, 2025 31st March, 2024
+(No. of Shares) (No. of Shares)
+Ordinary Shares of ` 1.00 each 7,43,49,690 8,99,46,120
+Terms and Conditions of Options Granted
+Each Option entitles the holder thereof to apply for and be allotted ten Ordinary Shares of the Company of ` 1.00 each upon payment of the exercise
+price during the exercise period. The exercise period commences from the date of vesting of the Options and expires at the end of five years from
+the date of vesting in respect of Options.
+The vesting period for conversion of Options is as follows:
+On completion of 12 months from the date of grant of the Options : 30% vests
+On completion of 24 months from the date of grant of the Options : 30% vests
+On completion of 36 months from the date of grant of the Options : 40% vests
+The Options have been granted at the ‘market price’ as defined under the Securities and Exchange Board of India (Share Based Employee Benefits
+and Sweat Equity) Regulations, 2021.
+Further details of ITC Employee Stock Option Schemes are provided in Note 29(xv).
+ITC Limited REPORT AND ACCOUNTS 2025 171
+
+[PAGE 190]
+Notes
+to the Standalone Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Current Non-Current Current Non-Current
+14. Borrowings
+Unsecured
+Deferred payment liabilities
+Sales tax deferment loans* 1.76 – 1.52 1.76
+TOTAL 1.76 – 1.52 1.76
+*Interest free deferral period of 14 years and repayable by 2025-26.
+The repayment schedule is summarised as under:
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+In the first year 1.76 1.52
+In the second year – 1.76
+TOTAL 1.76 3.28
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Current Non-Current Current Non-Current
+15. Lease liabilities *
+Lease liabilities 37.54 117.45 46.74 261.95
+TOTAL 37.54 117.45 46.74 261.95
+* Refer Note 29(viii)
+Movement of Lease liabilities during the year
+Particulars 31st March, 2025 31st March, 2024
+Opening Lease liabilities 308.69 320.13
+New leases recognised 24.29 69.45
+Remeasurements and withdrawals (3.87) (24.25)
+Interest expense on Lease liabilities 21.76 25.84
+Payment of Lease liabilities (including interest) (69.24) (82.48)
+Transferred pursuant to Scheme of demerger
+[Refer Note 29(x)] (126.64) –
+Closing Lease liabilities 154.99 308.69
+172 ITC Limited REPORT AND ACCOUNTS 2025

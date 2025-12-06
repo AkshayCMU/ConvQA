@@ -1,0 +1,211 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 105-107
+
+[PAGE 105]
+Report of the Board of Directors
+ensures that all authorised users can access fast, reliable, crucial for long-term sustainability of its business and is
+and secure connections from any location, on any device, committed to conducting its operations in a manner that
+at any time. Your Company is also upgrading both endpoint protects, conserves and enriches biodiversity in line with
+and email security by adopting best-in-class technologies the Board-approved Policies on Biodiversity Conservation
+to enhance protection against external threats. and Deforestation.
+The growing integration and convergence of Information Your Company sources several commodities for use as
+Technology (IT) and Operational Technology (OT) within inputs in its Businesses and engages in agri-commodity
+Industrial Control Systems significantly increases the risk of trading as part of its Agri Business. In respect of
+cyber-attacks. Accordingly, a comprehensive OT Security commodities sourced for use as inputs in its Businesses,
+policy has been established across all Businesses and an your Company has well laid out strategies to manage
+assessment of IT and OT security maturity is conducted at risks arising out of the inherent price volatility associated
+least once in two years. with such commodities. This includes robust mechanisms
+for monitoring market dynamics towards making informed
+The use of Artificial Intelligence (AI) is becoming
+sourcing decisions, well defined inventory holding norms
+increasingly prevalent in various business domains. In this
+based on considerations such as seasonality and the
+regard, your Company has adopted a range of security
+strategic nature of the commodity concerned, long-term
+best practices, including an approved list of generative
+contracts with suppliers and continuous diversification
+AI tools and platforms, a data management framework,
+of the supplier base to secure supply of critical items
+mandatory proof of concept (POC) requirements, data
+at competitive costs. Multiple sourcing models, wide
+privacy controls, ethical AI usage guidelines, and user
+geographical spread, extensive sourcing and supply
+awareness training.
+chain network and associated infrastructure in key
+India ranks among the most vulnerable countries in the
+growing areas coupled with deep-rooted farmer linkages
+world in terms of climate change impact. As part of its
+and use of digital technologies ensure sourcing of high
+Sustainability 2.0 vision, your Company is pursuing a
+quality agri-commodities at competitive costs.
+multi-pronged climate strategy that entails extensive
+In respect of agri-commodity trading, your Company has
+decarbonisation and building resilience against climate
+a well-defined policy to manage risks associated with
+risk across the value chain.
+sourcing of such commodities. This includes:
+Your Company’s low carbon growth approach focuses
+on increasing the share of renewable energy, improving – segregation of duties and robust internal controls
+through a system of checks and balances embedded
+energy productivity, construction of green buildings,
+greening logistics, optimising ‘distance-to-market’ and in the organisation and governance structure
+promoting regenerative agriculture practices in agri-value – clearly defined limits for trading positions (long and
+chains, thus enabling transition to a net zero economy. short) and net cash loss for specific commodities/
+Simultaneously, your Company is actively working commodity groups
+towards climate-proofing its operations and agricultural
+– mitigation of price, liquidity and counter party risks
+value chains by using state-of-the-art climate risk
+through hedging on commodity exchanges (mainly
+modelling techniques and developing site-specific risk
+NCDEX) for certain commodities, as applicable.
+mitigation strategies. Your Company’s approach towards
+Correlation between prices prevailing in the physical
+water stewardship is aligned with the Alliance for Water
+market and those on the commodity exchange is
+Stewardship Standard, a globally recognised framework
+analysed regularly to ensure effectiveness of hedging
+for assessing the efficacy of water management across
+water stressed sites. Further, your Company recognises – robust monitoring and review mechanisms of net
+that the preservation and nurturing of biodiversity is open positions and ‘value at risk’
+ITC Limited REPORT AND ACCOUNTS 2025 87
+
+[PAGE 106]
+Report of the Board of Directors
+– ECGC cover for exports (covering commercial & operations, security of assets, prevention and detection of
+political risks) and credit insurance for large domestic frauds/errors, accuracy and completeness of accounting
+customers. records and compliance with various regulatory
+requirements as applicable.
+The combination of policies and processes as outlined
+above adequately addresses the various risks associated Your Company’s independent and robust Internal Audit
+with sourcing of commodities for your Company’s processes, both at the Business and Corporate levels,
+Businesses. provide assurance on the adequacy and effectiveness
+of internal controls, compliance with business processes
+Your Company’s strategy of backward integration in
+and procedures, internal policies and regulatory
+sourcing of agri-commodities such as wheat, potato,
+requirements. The role of Internal Audit is to enhance
+fruit pulp, spices, milk and leaf tobacco; in-house
+and protect organisational value by providing risk-based
+manufacturing of paperboards, paper and packaging
+assurance, advice and insight, while enabling continuous
+(including pulp production and print cylinder making
+improvement of your Company’s internal control systems.
+facilities); wood procurement from the economic vicinity
+of the Bhadrachalam unit, facilitates access to critical The Internal Audit function, comprising professionally
+inputs at benchmark quality and competitive cost qualified accountants, engineers, and Information
+besides ensuring security of supplies. Further, each of Technology (IT) specialists, is well-equipped and
+resourced to provide audit assurances at the highest
+your Company’s Businesses continuously focuses on
+levels. Targeted learning and development programmes
+product mix enrichment and yield improvement towards
+on contemporary topics are periodically organised to
+protecting margins and insulating operations from spikes
+enhance knowledge and skill set of the audit team.
+in input prices.
+The scope and coverage of Internal Audit remains
+The Risk Management Committee met thrice during the
+contemporary and cognises, inter alia, for the rapid
+year and was updated on the status and effectiveness of
+digitalisation of your Company’s business operations.
+the risk management plans. The Audit Committee was
+In recent years, Internal Audit has enhanced focus on
+also updated on the effectiveness of your Company’s Risk
+systems and controls pertaining to your Company’s digital
+Management systems and policies.
+assets including brand websites, social media handles,
+The risk management practices of your Company,
+mobile and cloud applications, IT-OT integration, and
+as reviewed through the Risk Management Cell and
+protection of sensitive personal data and information.
+Internal Audit processes, have been found to be relevant
+Information security and cybersecurity have assumed
+and commensurate with the size and complexity of
+critical significance with the accelerated adoption of
+its operations.
+digital technologies. In this context, periodical reviews
+AUDIT AND SYSTEMS are conducted focusing on assessment of controls
+pertaining to confidentiality, integrity and availability of
+Your Company believes that strong internal control
+business information and systems covering general IT
+systems that are commensurate with the scale, scope
+controls and security of your Company’s IT Infrastructure.
+and complexity of its operations are concomitant to the
+All systems and policies relating to Information
+principle of governance that freedom of management
+Management are regularly reviewed and benchmarked to
+should be exercised within a framework of appropriate
+ensure they remain contemporary. Furthermore, all critical
+checks and balances.
+IT systems undergo pre-implementation audit before being
+Your Company remains committed to ensuring a mature deployed in the operating environment, thereby providing
+and effective internal control environment that, inter alia, assurance regarding the rigour of implementation and
+provides assurance on orderly and efficient conduct of operational readiness.
+88 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 107]
+Report of the Board of Directors
+Aligned with your Company’s ‘Digital First’ strategy, HUMAN RESOURCE DEVELOPMENT
+the Internal Audit function has evolved into an agile,
+Your Company’s thought, strategy and action are inspired
+multi-skilled and technology-enabled function. Processes
+by a larger purpose of being an exemplary Indian enterprise
+within Internal Audit function are continuously enhanced
+that not only delivers superior competitive performance,
+for greater effectiveness and productivity by utilising
+but also embeds sustainability and inclusiveness at the
+best-in-class tools for audit analytics, intelligent
+core of its Businesses. This approach enables your
+automation, adoption of new open-source tools and
+Company to delight consumers and customers with a
+AI-enabled BOTs. Utilisation of the recently implemented
+vibrant portfolio of industry leading products and services
+Digital Audit Management System, a tool for end-to-end while generating enduring value for the Indian economy
+digitisation of audit life cycle, was scaled up during the and the larger community of stakeholders. The talent
+year; key enhancements such as ‘Agile Audit’ module were management strategy of your Company is designed to
+introduced to improve efficiency and monitoring across attract, retain and develop human capital that enables
+the assurance process lifecycle. An integrated advanced your Company to sustain its position as one of India’s
+data analytics tool has been adopted to enhance auditors’ most valuable corporations, whilst continuing with its
+capabilities with low-code/no-code scripting, automated mission of building a responsible ‘Future-Tech’ enterprise.
+data extraction, and analysis of both structured and Your Company’s employees relentlessly strive to deliver
+unstructured data. In addition, several off-the-shelf tools world-class performance, collaborating with each other
+were introduced for IT security checks, code reviews and and discharging their role as ‘trustees’ of all stakeholders.
+vulnerability assessments of your Company’s websites, Your Company is committed to perpetuating vitality –
+apps, and social media handles. its growth as a value generating engine and also as an
+exemplary institution – so that it continues to succeed in
+Qualified engineers within the Internal Audit function
+its relentless pursuit of creating enduring value.
+review the design, planning and execution of all ongoing
+projects that involve significant expenditure. This Your Company’s Human Resources development
+ensures that project management controls are robust approach spans four key organisational dimensions of
+and yield ‘value for money’. The Internal Audit function Architecture, Alignment, Agility and Ability which are
+supported through strategies crafted in areas such as talent
+also leverages state-of-the-art industry-specific tools and
+acquisition, engagement, diversity & inclusion, capability
+technology to conduct comprehensive project audits.
+building, employee relations, performance & rewards and
+Your Company’s Internal Audit processes are certified
+employee well-being. Through its various talent initiatives
+as complying with ISO 9001:2015 Quality Standards.
+and processes, your Company strives to deliver the value
+Further, systems and processes are in accordance with
+proposition of ‘Building Winning Businesses, Building
+the Standards on Internal Audit (SIA) issued by The
+Business Leaders and Creating Value for India’. The talent
+Institute of Chartered Accountants of India.
+development practices help create, foster and strengthen
+The Audit Committee of your Board met twelve times the capability of human capital to deliver critical outcomes
+during the year. The Terms of Reference of the on the vectors of strategic impact, operational efficiency
+and capital productivity while reimagining consumer
+Audit Committee, inter alia, include reviewing the
+experience, driving business model transformation and
+effectiveness of the internal control environment,
+enhancing employee experience.
+evaluating your Company’s internal financial controls &
+risk management systems, and monitoring the Your Company’s ‘Strategy of Organisation’ is designed
+implementation of action plans arising from significant to promote agility through a culture and practice of
+Internal Audit findings. Material observations, as defined distributed leadership enabled by a three-tier governance
+in the Terms of Reference, are reviewed at the highest structure. This is manifested in market and consumer
+level by the Audit Compliance and Review Committee facing Businesses, which are driven by empowered,
+(ACRC) and the Audit Committee. cluster-based teams and supported by shared assets
+ITC Limited REPORT AND ACCOUNTS 2025 89

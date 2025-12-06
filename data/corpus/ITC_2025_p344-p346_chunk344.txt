@@ -1,0 +1,175 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 344-346
+
+[PAGE 344]
+Annexure 1
+referred to in paragraph 1 under the heading “Report
+on Other legal and Regulatory Requirements” of our report of even date
+Re: ITC Limited (the “Holding Company”)
+In terms of the information and explanations sought by us and given by the Holding Company and the books of account
+and records examined by us in the normal course of audit and to the best of our knowledge and belief and based on the
+consideration of report of respective auditors of the subsidiary companies, associates and joint ventures incorporated in
+India, we state that:
+(xxi) There are no qualifications or adverse remarks by the respective auditors in their report on Companies (Auditors
+Report) Order, 2020 of the companies included in the consolidated Ind AS financial statements. As indicated in
+Note 30(ii)(d) of the consolidated Ind AS financial statements, in respect of an associate and a joint venture,
+consolidated based on management accounts, the audit report under Companies (Auditors Report) Order, 2020 of
+the companies has not been issued till the date of our auditor’s report.
+For S R B C & CO LLP
+Chartered Accountants
+ICAI Firm Registration Number: 324982E / E300003
+per Arvind Sethi
+Partner
+Membership Number: 89802
+Place of Signature: Kolkata
+Date: May 22, 2025 UDIN: 25089802BMNPUJ6595
+Annexure 2
+to the Independent Auditor’s Report of even date on
+the Consolidated Financial Statements of ITC Limited
+Report on the Internal Financial Controls under Clause (i) of Sub-section 3 of Section 143 of the Companies Act,
+2013 (“the Act”)
+In conjunction with our audit of the consolidated Ind AS financial statements of ITC Limited (hereinafter referred to as
+the “Holding Company”) as of and for the year ended March 31, 2025, we have audited the internal financial controls
+with reference to consolidated Ind AS financial statements of the Holding Company and its subsidiaries (the Holding
+Company and its subsidiaries together referred to as “the Group”), its associates and joint ventures, which are companies
+incorporated in India, as of that date.
+Management’s Responsibility for Internal Financial Controls
+The respective Board of Directors of the companies included in the Group, its associates and joint ventures, which are
+companies incorporated in India, are responsible for establishing and maintaining internal financial controls based on the
+internal control over financial reporting criteria established by the Holding Company considering the essential components
+of internal control stated in the Guidance Note on Audit of Internal Financial Controls Over Financial Reporting issued
+by the Institute of Chartered Accountants of India (“ICAI”). These responsibilities include the design, implementation and
+maintenance of adequate internal financial controls that were operating effectively for ensuring the orderly and efficient
+conduct of its business, including adherence to the respective company’s policies, the safeguarding of its assets, the
+prevention and detection of frauds and errors, the accuracy and completeness of the accounting records, and the timely
+preparation of reliable financial information, as required under the Companies Act, 2013.
+Auditor’s Responsibility
+Our responsibility is to express an opinion on the Holding Company’s internal financial controls with reference to consolidated
+Ind AS financial statements based on our audit. We conducted our audit in accordance with the Guidance Note on Audit
+of Internal Financial Controls Over Financial Reporting (the “Guidance Note”) and the Standards on Auditing, specified
+under section 143(10) of the Act, to the extent applicable to an audit of internal financial controls, both, issued by ICAI.
+Those Standards and the Guidance Note require that we comply with ethical requirements and plan and perform the audit
+to obtain reasonable assurance about whether adequate internal financial controls with reference to consolidated Ind AS
+financial statements was established and maintained and if such controls operated effectively in all material respects.
+326 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 345]
+Our audit involves performing procedures to obtain audit evidence about the adequacy of the internal financial controls
+with reference to consolidated Ind AS financial statements and their operating effectiveness. Our audit of internal financial
+controls with reference to consolidated Ind AS financial statements included obtaining an understanding of internal financial
+controls with reference to consolidated Ind AS financial statements, assessing the risk that a material weakness exists,
+and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. The
+procedures selected depend on the auditor’s judgement, including the assessment of the risks of material misstatement of
+the financial statements, whether due to fraud or error.
+We believe that the audit evidence we have obtained and the audit evidence obtained by the other auditors in terms of
+their reports referred to in the Other Matters paragraph below, is sufficient and appropriate to provide a basis for our audit
+opinion on the internal financial controls with reference to these consolidated Ind AS financial statements.
+Meaning of Internal Financial Controls With Reference to these Consolidated Ind AS Financial Statements
+A company’s internal financial control with reference to financial statements is a process designed to provide reasonable
+assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles. A company’s internal financial control with
+reference to financial statements includes those policies and procedures that (1) pertain to the maintenance of records
+that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company;
+(2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial
+statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the
+company are being made only in accordance with authorisations of management and directors of the company; and
+(3) provide reasonable assurance regarding prevention or timely detection of unauthorised acquisition, use, or disposition
+of the company’s assets that could have a material effect on the financial statements.
+Inherent Limitations of Internal Financial Controls With Reference to Consolidated Ind AS Financial Statements
+Because of the inherent limitations of internal financial controls with reference to financial statements, including the
+possibility of collusion or improper management override of controls, material misstatements due to error or fraud may
+occur and not be detected. Also, projections of any evaluation of the internal financial controls with reference to financial
+statements to future periods are subject to the risk that the internal financial controls with reference to financial statements
+may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures
+may deteriorate.
+Opinion
+In our opinion, the Group, its associates and joint ventures, which are companies incorporated in India, have, maintained
+in all material respects, adequate internal financial controls with reference to consolidated Ind AS financial statements and
+such internal financial controls with reference to consolidated Ind AS financial statements were operating effectively as at
+March 31, 2025, based on the internal control over financial reporting criteria established by the Holding Company
+considering the essential components of internal control stated in the Guidance Note issued by the ICAI.
+Other Matters
+Our report under Section 143(3)(i) of the Act on the adequacy and operating effectiveness of the internal financial
+controls with reference to consolidated Ind AS financial statements of the Holding Company, in so far as it relates to these
+nine subsidiaries, six associates and one joint venture, which are companies incorporated in India, is based on the
+corresponding reports of the auditors of such subsidiaries, associates and joint venture incorporated in India.
+For S R B C & CO LLP
+Chartered Accountants
+ICAI Firm Registration Number: 324982E / E300003
+per Arvind Sethi
+Partner
+Membership Number: 89802
+Place of Signature: Kolkata
+Date: May 22, 2025 UDIN: 25089802BMNPUJ6595
+ITC Limited REPORT AND ACCOUNTS 2025 327
+
+[PAGE 346]
+Ten Years at a Glance
+Standalone Operating Results FY16 - FY25
+(` in Crores)
+Year ended 31st March FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24$ FY25$
+Gross Sales Value (net of rebates & discounts) # 60196 64174 67082 75309 76097 74979 90104 106625 105106 113960
+Gross Revenue from sale of products &
+services # 51582 55002 43957 45221 46324 48151 59101 69481 66657 73465
+Total Income # 53714 57434 46460 48269 49821 51776 62336 72689 70822 77690
+EBITDA 13715 14578 15541 17306 17904 15523 18934 23944 23494 24025
+PBT 14434 15503 16439 18444 19299 17164 19830 24677 25632 26001
+Exceptional items 413 (132) 73 528
+PBT after Exceptional Items 14434 15503 16852 18444 19167 17164 19830 24750 25632 26529
+Tax 5106 5302 5628 5980 4031 4133 4772 5997 5722 6437
+PAT 9328 10201 11223 12464 15136 13032 15058 18753 19910 20092
+Interim + Proposed Dividends * 8233 6945 7577 8498 12477 13230 14172 19255 17163 17957
+– Ordinary Dividend 6296 6945 7577 8498 12477 13230 14172 15837 17163 17957
+– Special Dividend 1937 3418
+Earnings Per Share
+Actual (`) 11.61 8.43 9.22 10.19 12.33 10.59 12.22 15.15 15.98 16.07
+Adjusted (`) @ 7.74 8.43 9.22 10.19 12.33 10.59 12.22 15.15 15.98 16.07
+Dividend Per Share
+Actual - Ordinary (`) 6.50 4.75 5.15 5.75 10.15 10.75 11.50 12.75 13.75 14.35
+Actual - Special (`) 2.00 2.75
+Adjusted - Ordinary (`) @ 4.33 4.75 5.15 5.75 10.15 10.75 11.50 12.75 13.75 14.35
+Adjusted - Special (`) @ 1.33 2.75
+$ Financials for FY24 & FY25 excludes the performance of Hotels Business transferred to ITC Hotels Limited (ITCHL) on a going concern basis pursuant to Scheme of Demerger. The same has
+been disclosed as ‘Discontinued Operations’ in the Financial Statements of the Company for FY24 & FY25.
+# G ross Sales Value (net of rebates & discounts) has been provided to facilitate comparison as the figures of Gross Revenue from sale of products & services and Total Income are not
+comparable consequent to the introduction of Goods & Services Tax with effect from 1st July 2017, which replaced Central Excise (other than National Calamity Contingent Duty on
+cigarettes), Value Added Tax etc.
+* Including Dividend Distribution Tax, where applicable.
+@ To facilitate like-to-like comparison, adjusted for 1:2 Bonus Issue in FY17.
+Note: Financials for FY21 & FY22 were impacted by unprecedented disruptions in certain operating segments of the Company due to the COVID-19 pandemic.
+Standalone Equity, Liabilities and Assets FY16 - FY25
+(` in Crores)
+As at 31st March FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25$
+Equity †
+Share capital 805 1215 1220 1226 1229 1231 1232 1243 1248 1251
+Other equity 40851 44126 50180 56724 62800 57774 60168 66351 70985 66649
+Shareholders’ funds (Net Worth) 41656 45341 51400 57950 64029 59005 61400 67594 72233 67900
+Non-current liabilities
+Borrowings 26 18 11 8 6 5 5 3 2 –
+Deferred tax liabilities (Net) 1867 1872 1918 2044 1618 1728 1667 1621 2084 2556
+Non-current liabilities (others) ^ 127 155 195 174 493 669 543 628 593 431
+Current liabilities
+Borrowings & 16 8 7 3 2 … 1 1 2 2
+Current liabilities (others) ^ 6339 6822 8850 9619 9087 10173 11477 12415 12414 13120
+Total Equity and Liabilities 50031 54216 62381 69798 75235 71580 75093 82262 87328 84009
+Non-current assets
+Property, plant and equipment, intangible
+assets (including capital work-in-progress,
+intangible assets under development),
+investment property and right-of-use assets ^ 16430 18417 20592 21888 23298 25521 25688 25871 26830 21059
+Non-current investments 6853 8486 13494 14071 13456 12937 15657 16364 22822 20701
+Non-current assets (others) 3515 2776 3792 4269 1974 1306 2806 4824 1605 2493
+Current assets
+Current investments 6471 10100 9903 12507 17175 14047 11625 16357 11917 15286
+Cash and cash equivalents and
+Other bank balances 5639 2747 2595 3769 6843 4002 3878 3831 6218 3184
+Current assets (others) 11123 11690 12005 13294 12489 13767 15439 15015 17936 21286
+Total Assets 50031 54216 62381 69798 75235 71580 75093 82262 87328 84009
+Net Worth Per Share (`) § 34.51 37.33 42.12 47.27 52.09 47.94 49.82 54.39 57.86 54.26
+$ FY25 is after giving effect to the Scheme of Demerger of the Hotels Business into ITCHL on a going concern basis.
+† Equity includes impact of 1:2 Bonus Issue (` 403 Crores) in FY17.
+^ Includes right-of-use assets and lease liabilities from FY20 upon transition to Ind AS-116, “Leases”.
+& To facilitate like-to-like comparison, figures for earlier years have been regrouped in line with amendments to Schedule III to the Companies Act, 2013.
+§ To facilitate like-to-like comparison, adjusted for 1:2 Bonus Issue in FY17.
+328 ITC Limited REPORT AND ACCOUNTS 2025

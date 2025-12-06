@@ -1,0 +1,174 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 160-162
+
+[PAGE 160]
+Standalone Statement of Cash Flows
+for the year ended 31st March, 2025
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+A. Cash Flow from Operating Activities
+PROFIT BEFORE TAX FROM CONTINUING OPERATIONS 26528.82 25632.12
+PROFIT BEFORE TAX FROM DISCONTINUED OPERATIONS 15735.58 683.65
+ADJUSTMENTS FOR:
+Depreciation and amortization expense 1668.88 1647.82
+Share based payments to employees 130.00 103.10
+Finance costs 44.84 45.73
+Interest Income (1423.52) (1592.41)
+Dividend Income (1019.59) (990.35)
+Net gain on sale of property, plant and equipment, lease termination (105.37) (54.07)
+Inventory write-offs / write-downs (net of reversals) 223.23 149.62
+Doubtful and bad debts 11.53 9.23
+Doubtful and bad advances, loans and deposits 1.87 25.03
+Impairment of investment in associate 11.00 –
+Gain recognised on divestment of shares held in joint venture – (9.49)
+Gain recognised on fair valuation of net assets distributed pursuant
+to Scheme of Demerger [Refer Note 29(x)] (15617.37) –
+Net gain arising on financial instruments measured at amortised
+cost / fair value through profit or loss / fair value through other
+comprehensive income (1396.92) (784.82)
+Foreign currency translations and transactions - Net 4.36 (17467.06) (6.28) (1456.89)
+OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES 24797.34 24858.88
+ADJUSTMENTS FOR:
+Trade receivables, advances and other assets (839.29) (887.87)
+Inventories (2695.45) (2187.23)
+Trade payables, other liabilities and provisions 1332.98 (2201.76) 17.30 (3057.80)
+CASH GENERATED FROM OPERATIONS 22595.58 21801.08
+Income tax paid (net of refunds) (5844.57) (5682.85)
+NET CASH FROM OPERATING ACTIVITIES 16751.01 16118.23
+B. Cash Flow from Investing Activities
+Purchase of property, plant and equipment, Intangibles,
+ROU asset etc. (1788.64) (2647.23)
+Sale of property, plant and equipment 157.77 100.85
+Purchase of current investments (59298.75) (64931.45)
+Sale / redemption of current investments 59961.52 67992.14
+Investment in subsidiaries (866.08) (1050.35)
+Investment in associates (29.99) (86.26)
+Investment in joint venture – (0.90)
+Purchase of non-current investments (390.52) (2745.51)
+Sale / redemption of non-current investments 390.19 2622.86
+Dividend received 1019.59 990.35
+Interest received 986.69 1016.53
+Investment in bank deposits (original maturity more than 3 months) (5217.10) (3578.11)
+Redemption / maturity of bank deposits
+(original maturity more than 3 months) 5920.74 4446.34
+Investment in deposit with financial institution (1200.00) –
+Maturity of deposit with financial institution 500.00 –
+Loans given (17.39) (12.22)
+Loans realised 13.45 10.51
+NET CASH FROM INVESTING ACTIVITIES 141.48 2127.55
+142 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 161]
+Standalone Statement of Cash Flows
+for the year ended 31st March, 2025
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+C. Cash Flow from Financing Activities
+Proceeds from issue of share capital 797.33 1442.83
+Repayment of non-current borrowings (1.52) (1.26)
+Principal payment of lease liabilities (47.48) (56.64)
+Interest paid (44.84) (46.02)
+Net increase in statutory restricted accounts balances 8.09 12.12
+Dividend paid (17496.65) (19606.06)
+Dividend distribution tax refund received 19.45 –
+NET CASH USED IN FINANCING ACTIVITIES (16765.62) (18255.03)
+NET INCREASE / (DECREASE) IN CASH AND CASH EQUIVALENTS 126.87 (9.25)
+OPENING CASH AND CASH EQUIVALENTS 197.63 206.88
+LESS: ON DEMERGER [Refer Note 29(x)] (102.44) –
+CLOSING CASH AND CASH EQUIVALENTS 222.06 197.63
+Notes:
+1. The above Statement of Cash Flows has been prepared under the “Indirect Method” as set out in Ind AS - 7 “Statement of Cash Flows”.
+As at As at
+2. CASH AND CASH EQUIVALENTS: 31st March, 2025 31st March, 2024
+Cash and cash equivalents as above 222.06 197.63
+Unrealised gain / (loss) on foreign currency cash and cash equivalents … …
+Cash and cash equivalents (Note 11) 222.06 197.63
+3. Net Cash Flow from Operating Activities includes an amount of ` 442.68 Crores (2024 - ` 436.16 Crores) spent towards Corporate
+Social Responsibility.
+4. Disclosure of change arising from financing activities in respect of lease liabilities - Refer Note 15.
+The accompanying notes 1 to 32 are an integral part of the Standalone Financial Statements.
+On behalf of the Board
+In terms of our report attached
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003
+S. DUTTA Director & Chief Financial Officer
+Arvind Sethi
+(DIN : 01804345)
+Partner
+R. K. SINGHI Company Secretary
+(Membership No.: 89802)
+(Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 143
+
+[PAGE 162]
+Notes
+to the Standalone Financial Statements
+Company Information
+ITC Limited (the ‘Company’) [CIN: L16005WB1910PLC001985] The Company is a diversified conglomerate with
+is a public limited company domiciled in India with its businesses spanning Fast-Moving Consumer Goods
+registered office located at Virginia House, 37 Jawaharlal (Cigarettes & Cigars, Foods, Personal Care Products,
+Nehru Road, Kolkata 700 071. The Company’s shares are Education & Stationery Products, Safety Matches and
+listed on the National Stock Exchange of India Limited, Agarbattis), Paperboards, Paper and Packaging, and
+BSE Limited and The Calcutta Stock Exchange Limited. Agri Business.
+1. Material Accounting Policies
+Statement of Compliance of the revision and future periods if the revision affects both
+current and future periods.
+These financial statements have been prepared in
+accordance with Indian Accounting Standards (Ind AS) Operating Cycle
+notified under Section 133 of the Companies Act, 2013 and
+All assets and liabilities have been classified as current
+amendments thereto. The financial statements have also
+or non-current as per the Company’s normal operating
+been prepared in accordance with the relevant presentation
+cycle and other criteria set out in the Schedule III to the
+requirements of the Companies Act, 2013. The Company
+Companies Act, 2013 and Ind AS 1 – Presentation of
+adopted Ind AS from 1st April, 2016.
+Financial Statements based on the nature of products and
+Basis of Preparation the time between the acquisition of assets for processing
+and their realisation in cash and cash equivalents.
+The financial statements are prepared in accordance with
+The Company has identified twelve months as its operating
+the historical cost convention, except for certain items that
+cycle.
+are measured at amortised cost or fair value, as explained
+in the accounting policies. Property, Plant and Equipment
+Fair Value is the price that would be received to sell an Property, plant and equipment (PP&E) are stated at cost of
+asset or paid to transfer a liability in an orderly transaction acquisition or construction less accumulated depreciation
+between market participants at the measurement date, and accumulated impairment, if any. For this purpose,
+regardless of whether that price is directly observable or cost includes deemed cost which represents the carrying
+estimated using another valuation technique. In estimating value of PP&E recognised as at 1st April, 2015 measured
+the fair value of an asset or a liability, the Company takes as per the previous Generally Accepted Accounting
+into account the characteristics of the asset or liability if Principles (GAAP).
+market participants would take those characteristics Cost is inclusive of inward freight, import duties &
+into account when pricing the asset or liability at non-refundable taxes and incidental expenses related
+the measurement date. Fair value for measurement to acquisition. In respect of major projects involving
+and / or disclosure purposes in these financial statements construction, related pre-operational expenses form part of
+is determined on such a basis, except for share-based the value of assets capitalised. Expenses capitalised also
+payment transactions that are within the scope of include applicable borrowing costs for qualifying assets,
+Ind AS 102 – Share-based Payment, leasing transactions if any. All upgradation / enhancements are charged off
+that are within the scope of Ind AS 116 – Leases, and as revenue expenditure unless they bring similar significant
+measurements that have some similarities to fair value additional benefits.
+but are not fair value, such as net realisable value in
+An item of PP&E is derecognised upon disposal or when
+Ind AS 2 – Inventories or value in use in Ind AS 36 –
+no future economic benefits are expected to arise from
+Impairment of Assets. the continued use of asset. Any gain or loss arising on the
+The preparation of financial statements in conformity disposal or retirement of an item of PP&E is determined as
+with Ind AS requires management to make judgements, the difference between the sales proceeds and the carrying
+estimates and assumptions that affect the application of the amount of the asset and is recognised in Statement of
+accounting policies and the reported amounts of assets and Profit and Loss.
+liabilities, the disclosure of contingent assets and liabilities Depreciation of these assets commences when the assets
+at the date of the financial statements, and the reported are ready for their intended use, which is generally on
+amounts of revenues and expenses during the year. Actual commissioning. Items of PP&E are depreciated in a manner
+results could differ from those estimates. The estimates that amortizes the cost (or other amount substituted for
+and underlying assumptions are reviewed on an ongoing cost) of the assets after commissioning, less its residual
+basis. Revisions to accounting estimates are recognised value, over their useful lives as specified in Schedule II of
+in the period in which the estimate is revised if the revision the Companies Act, 2013 on a straight-line basis. Land is
+affects only that period; they are recognised in the period not depreciated.
+144 ITC Limited REPORT AND ACCOUNTS 2025

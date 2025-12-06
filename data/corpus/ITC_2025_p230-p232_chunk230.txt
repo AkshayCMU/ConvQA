@@ -1,0 +1,238 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 230-232
+
+[PAGE 230]
+Independent Auditor’s Report
+Key audit matters How our audit addressed the key audit matter
+Due to the magnitude and complexity of the transaction,
+and considering the assumptions and estimates
+required to be made by the management for the
+purpose of accounting and presentation / disclosures
+in the standalone Ind AS financial statements, this is
+considered as a key audit matter.
+Refer Note 29(x) to the standalone Ind AS financial
+statements.
+We have determined that there are no other key audit making judgements and estimates that are reasonable and
+matters to communicate in our report. prudent; and the design, implementation and maintenance
+of adequate internal financial controls, that were operating
+Information Other than the Financial Statements and
+effectively for ensuring the accuracy and completeness of
+Auditor’s Report Thereon
+the accounting records, relevant to the preparation and
+The Company’s Board of Directors is responsible for the
+presentation of the standalone Ind AS financial statements
+other information. The other information comprises the
+that give a true and fair view and are free from material
+information included in the Annual Report, but does not
+misstatement, whether due to fraud or error.
+include the standalone Ind AS financial statements and
+In preparing the standalone Ind AS financial statements,
+our auditor’s report thereon.
+management is responsible for assessing the Company’s
+Our opinion on the standalone Ind AS financial statements
+ability to continue as a going concern, disclosing, as
+does not cover the other information and we do not
+applicable, matters related to going concern and using the
+express any form of assurance conclusion thereon.
+going concern basis of accounting unless management
+In connection with our audit of the standalone Ind AS either intends to liquidate the Company or to cease
+financial statements, our responsibility is to read the other operations, or has no realistic alternative but to do so.
+information and, in doing so, consider whether such other
+Those Board of Directors are also responsible for
+information is materially inconsistent with the standalone
+overseeing the Company’s financial reporting process.
+Ind AS financial statements or our knowledge obtained in
+Auditor’s Responsibilities for the Audit of the
+the audit or otherwise appears to be materially misstated.
+Standalone Ind AS Financial Statements
+If, based on the work we have performed, we conclude that
+there is a material misstatement of this other information, Our objectives are to obtain reasonable assurance about
+we are required to report that fact. We have nothing to whether the standalone Ind AS financial statements as
+report in this regard. a whole are free from material misstatement, whether
+due to fraud or error, and to issue an auditor’s report that
+Responsibilities of Management for the Standalone
+includes our opinion. Reasonable assurance is a high
+Ind AS Financial Statements
+level of assurance, but is not a guarantee that an audit
+The Company’s Board of Directors is responsible for the
+conducted in accordance with SAs will always detect a
+matters stated in section 134(5) of the Act with respect to the
+material misstatement when it exists. Misstatements can
+preparation of these standalone Ind AS financial statements
+arise from fraud or error and are considered material if,
+that give a true and fair view of the financial position, financial
+individually or in the aggregate, they could reasonably be
+performance including other comprehensive income, cash
+expected to influence the economic decisions of users
+flows and changes in equity of the Company in accordance
+taken on the basis of these standalone Ind AS financial
+with the accounting principles generally accepted in India,
+statements.
+including the Indian Accounting Standards (Ind AS) specified
+As part of an audit in accordance with SAs, we exercise
+under section 133 of the Act read with the Companies
+professional judgement and maintain professional
+(Indian Accounting Standards) Rules, 2015, as amended.
+skepticism throughout the audit. We also:
+This responsibility also includes maintenance of adequate
+accounting records in accordance with the provisions of • Identify and assess the risks of material misstatement
+the Act for safeguarding of the assets of the Company and of the standalone Ind AS financial statements,
+for preventing and detecting frauds and other irregularities; whether due to fraud or error, design and perform
+selection and application of appropriate accounting policies; audit procedures responsive to those risks, and
+212 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 231]
+Independent Auditor’s Report
+obtain audit evidence that is sufficient and appropriate Ind AS financial statements for the financial year ended
+to provide a basis for our opinion. The risk of not March 31, 2025 and are therefore the key audit matters.
+detecting a material misstatement resulting from fraud We describe these matters in our auditor’s report unless
+is higher than for one resulting from error, as fraud law or regulation precludes public disclosure about the
+may involve collusion, forgery, intentional omissions, matter or when, in extremely rare circumstances, we
+misrepresentations, or the override of internal control. determine that a matter should not be communicated in
+our report because the adverse consequences of doing
+• Obtain an understanding of internal control relevant to
+so would reasonably be expected to outweigh the public
+the audit in order to design audit procedures that are
+interest benefits of such communication.
+appropriate in the circumstances. Under section 143(3)(i)
+of the Act, we are also responsible for expressing Report on Other Legal and Regulatory Requirements
+our opinion on whether the Company has adequate 1. As required by the Companies (Auditor’s Report) Order,
+internal financial controls with reference to financial 2020 (“the Order”), issued by the Central Government
+statements in place and the operating effectiveness of of India in terms of sub-section (11) of section 143 of
+such controls. the Act, we give in the “Annexure 1” a statement on the
+matters specified in paragraphs 3 and 4 of the Order.
+• Evaluate the appropriateness of accounting policies
+used and the reasonableness of accounting estimates 2. As required by Section 143(3) of the Act, we report, to
+and related disclosures made by management. the extent applicable, that:
+• Conclude on the appropriateness of management’s use (a) We have sought and obtained all the information
+of the going concern basis of accounting and, based and explanations which to the best of our knowledge
+on the audit evidence obtained, whether a material and belief were necessary for the purposes of our
+uncertainty exists related to events or conditions that audit;
+may cast significant doubt on the Company’s ability
+(b) In our opinion, proper books of account as required
+to continue as a going concern. If we conclude that by law have been kept by the Company so far as it
+a material uncertainty exists, we are required to appears from our examination of those books;
+draw attention in our auditor’s report to the related
+(c) The Balance Sheet, the Statement of Profit
+disclosures in the financial statements or, if such
+and Loss including the Statement of Other
+disclosures are inadequate, to modify our opinion. Our
+Comprehensive Income, the Statement of Cash
+conclusions are based on the audit evidence obtained
+Flows and Statement of Changes in Equity dealt
+up to the date of our auditor’s report. However, future
+with by this Report are in agreement with the books
+events or conditions may cause the Company to cease
+of account;
+to continue as a going concern.
+(d) In our opinion, the aforesaid standalone Ind AS
+• Evaluate the overall presentation, structure and
+financial statements comply with the Accounting
+content of the standalone Ind AS financial statements,
+Standards specified under Section 133 of the
+including the disclosures, and whether the standalone
+Act, read with Companies (Indian Accounting
+Ind AS financial statements represent the underlying
+Standards) Rules, 2015, as amended;
+transactions and events in a manner that achieves fair
+(e) On the basis of the written representations received
+presentation.
+from the directors as on March 31, 2025 taken
+We communicate with those charged with governance
+on record by the Board of Directors, none of the
+regarding, among other matters, the planned scope and
+directors is disqualified as on March 31, 2025 from
+timing of the audit and significant audit findings, including being appointed as a director in terms of Section
+any significant deficiencies in internal control that we 164 (2) of the Act;
+identify during our audit.
+(f) With respect to the adequacy of the internal
+We also provide those charged with governance financial controls with reference to these standalone
+with a statement that we have complied with relevant Ind AS financial statements and the operating
+ethical requirements regarding independence, and effectiveness of such controls, refer to our separate
+to communicate with them all relationships and other Report in “Annexure 2” to this report;
+matters that may reasonably be thought to bear on our
+(g) In our opinion, the managerial remuneration for the
+independence, and where applicable, related safeguards.
+year ended March 31, 2025 has been paid / provided
+From the matters communicated with those charged by the Company to its directors in accordance with
+with governance, we determine those matters that the provisions of section 197 read with Schedule V
+were of most significance in the audit of the standalone to the Act;
+ITC Limited REPORT AND ACCOUNTS 2025 213
+
+[PAGE 232]
+Independent Auditor’s Report
+(h) With respect to the other matters to be included in whether, directly or indirectly, lend or invest
+the Auditor’s Report in accordance with Rule 11 of in other persons or entities identified in any
+the Companies (Audit and Auditors) Rules, 2014, manner whatsoever by or on behalf of the
+as amended in our opinion and to the best of our Funding Party (“Ultimate Beneficiaries”) or
+information and according to the explanations provide any guarantee, security or the like
+given to us: on behalf of the Ultimate Beneficiaries; and
+i. The Company has disclosed the impact of c) Based on such audit procedures performed
+pending litigations on its financial position in its that have been considered reasonable and
+standalone Ind AS financial statements – Refer appropriate in the circumstances, nothing
+Note 29(vi)(a) to the standalone Ind AS financial has come to our notice that has caused us
+statements; to believe that the representations under
+sub-clause (a) and (b) contain any material
+ii. The Company did not have any long-term
+misstatement.
+contracts including derivative contracts for
+v. The final dividend paid by the Company during
+which there were any material foreseeable
+the year in respect of the same declared for the
+losses;
+previous year is in accordance with section 123
+iii. There has been no delay in transferring
+of the Act to the extent it applies to payment of
+amounts, required to be transferred, to the
+dividend.
+Investor Education and Protection Fund by the
+The interim dividend declared and paid by the
+Company;
+Company during the year and until the date of
+iv. a) The management has represented that, this audit report is in accordance with section
+to the best of its knowledge and belief, no 123 of the Act.
+funds have been advanced or loaned or
+As stated in Note B of Statement of Changes
+invested (either from borrowed funds or
+in Equity to the standalone Ind AS financial
+share premium or any other sources or kind
+statements, the Board of Directors of the
+of funds) by the Company to or in any other
+Company have proposed final dividend for
+person or entity, including foreign entities
+the year which is subject to the approval of
+(“Intermediaries”), with the understanding,
+the members at the ensuing Annual General
+whether recorded in writing or otherwise,
+Meeting. The dividend declared is in accordance
+that the Intermediary shall, whether, directly
+with section 123 of the Act to the extent it applies
+or indirectly lend or invest in other persons or
+to declaration of dividend.
+entities identified in any manner whatsoever
+vi. Based on our examination which included test
+by or on behalf of the Company (“Ultimate
+checks, the Company has used accounting
+Beneficiaries”) or provide any guarantee,
+softwares for maintaining its books of account
+security or the like on behalf of the Ultimate
+which has a feature of recording audit trail
+Beneficiaries;
+(edit log) facility and the same has operated
+b) The management has represented that, throughout the year for all relevant transactions
+to the best of its knowledge and belief, no recorded in the softwares. Further, during the
+funds have been received by the Company course of our audit we did not come across any
+from any person or entity, including foreign instance of audit trail feature being tampered
+entities (“Funding Parties”), with the with. Additionally, the audit trail has been
+understanding, whether recorded in writing preserved by the Company as per the statutory
+or otherwise, that the Company shall, requirements for record retention.
+For S R B C & CO LLP
+Chartered Accountants
+ICAI Firm Registration Number: 324982E / E300003
+per Arvind Sethi
+Partner
+Membership Number: 89802
+Place of Signature: Kolkata
+Date: May 22, 2025 UDIN: 25089802BMNPUK4099
+214 ITC Limited REPORT AND ACCOUNTS 2025

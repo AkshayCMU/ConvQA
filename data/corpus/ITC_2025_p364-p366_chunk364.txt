@@ -1,0 +1,164 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 364-366
+
+[PAGE 364]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+6. Details of complaints with regard to conflict of interest:
+FY 2024-25 FY 2023-24
+Number Remarks Number Remarks
+Number of complaints received in relation to
+issues of conflict of interest of the Directors
+Nil Nil
+Number of complaints received in relation to
+issues of conflict of interest of the KMPs
+7. Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by
+regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest.
+Not Applicable
+8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the following
+format:
+FY 2024-25 FY 2023-24
+Number of days of accounts payables 37.44 43.50
+The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed separately
+as a part of the Exhibit-A
+9. Open-ness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties along-with
+loans and advances & investments, with related parties, in the following format
+Parameter Metrics FY 2024-25 FY 2023-24
+Concentration a. Purchases from trading houses as % of total purchases 0.67 % 0.29%
+of Purchases b. Number of trading houses where purchases are made from 45 48
+c. Purchases from top 10 trading houses as % of total purchases from 91.59% 83.24%
+trading houses
+Concentration a. Sales to dealers / distributors as % of total sales 79.60% 83.76%
+of Sales b. Number of dealers / distributors to whom sales are made 8412 6718
+c. Sales to top 10 dealers / distributors as % of total sales to dealers / 7.64% 7.41%
+distributors
+Share of RPTs* in a. Purchases (Purchases with related parties / Total Purchases) 2.85% 3.26%
+b. Sales (Sales to related parties / Total Sales) 2.66% 2.79%
+c. Loans & advances (Loans & advances given to related parties / Total - 0.96%
+loans & advances)
+d. Investments (Investments in related parties / Total Investments made) 19.99% 7.87%
+*The financial figures for FY 2023-24 have been restated to align with the guidance provided by the Industry Standards Forum.
+Leadership Indicators
+1. Awareness programmes conducted for value chain partners on any of the Principles during the financial year:
+Total Number Topics/Principles Covered Under The Training %Age Of Value Chain Partners Covered (By
+Of Awareness Value Of Business Done With Such Partners)
+Programmes Held Under The Awareness Programmes
+4 • Environment, Social, Governance (ESG) As part of ITC’s sustainable supply chain
+Landscape: Global & Indian including National initiative, more than 800 tier-1 suppliers
+Guidelines on Responsible Business Conduct
+have been trained including 100% critical
+(NGRBC) Principles and SEBI’s BRSR Core Value
+tier- 1 suppliers on ESG as of
+Chain Reporting Requirements
+• Environmental Compliance 31st March, 2025.
+• Fair Business Practices
+• Corporate Governance and Ethics
+• Occupational Health and Safety
+• Fair Labour Practices and Human Rights
+XVII
+
+[PAGE 365]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+2. Does the entity have processes in place to avoid/ manage conflict of interests involving members of the Board?
+(Yes/No) If Yes, provide details of the same.
+Yes, the ITC Code of Conduct requires the Directors, Senior Management and employees to avoid situations in which
+their personal interests could conflict with the interests of the Company. The Code, inter alia, clarifies that conflict of
+interest may arise when (a) an employee or a family member (family member includes spouse, children, siblings and
+parents) has a material interest in an entity that has a business relationship with the Company or is being evaluated
+for a commercial transaction, or (b) an employee is in a position to benefit someone with whom he / she has a close
+relationship, in relation to the Company’s business. However, this is an area in which it is impossible to provide
+comprehensive guidance but the guiding principle is that conflict, if any, or any potential conflict must be disclosed to
+higher management for guidance and action as appropriate.
+Further, the Directors of the Company are required to disclose to the Board whether they, directly or indirectly or on
+behalf of third parties, have material interest in any transaction or matter directly affecting the Company. In addition,
+an annual confirmation is sought from the Directors in this connection. For the financial year 2024-25, all Directors of
+the Company have confirmed that they did not, either directly or indirectly or on behalf of third parties, have material
+interest in any transaction or matter, directly affecting the Company.
+Principle 2
+Businesses should provide goods and services in a manner that is sustainable and safe
+Essential Indicators
+1. Percentage of R&D and capital expenditure (capex) investments in specific technologies to improve the
+environmental and social impacts of product and processes to total R&D and capex investments made by the entity,
+respectively.
+Details of investment in specific technologies to improve the environmental and social impacts of product and processes
+(“Specific R&D” and “Specific Capex”) are as follows:
+FY 2024-25 FY 2023-24
+Specific R&D to total R&D 18.6% 13.3%
+Specific Capex to total Capex 28.7% 28.6%
+a) R&D
+LSTC - ITC’s Innovation Engine
+ITC’s state-of-the-art Life Sciences and Technology Centre (ITC LSTC) in Bengaluru is at the core of driving science-
+led product innovation to support and build ITC’s portfolio of world-class products and brands. It has completed five
+decades of industrial research and development (R&D). The research community at ITC LSTC comprises over 400
+highly qualified scientists with diverse expertise base and skill sets with a mandate to work on future-ready science
+platforms, design differentiated products to address unique consumer needs and deliver superior benefits. The R&D
+programmes are designed to make impactful business outcomes, provide superlative product experience to Indian
+consumers at affordable price, and offer them multiple choices through a bouquet of products with world class quality.
+At the inception stage of designing new products and process innovation, sustainability is considered as a key guiding
+principle.
+Future Ready Platforms for Driving Innovation across ITC Businesses
+LSTC is equipped with world-class scientific infrastructure and state-of-the-art facilities to create deep knowledge
+base and build intellectual property for ITC through research, rapid prototyping and process development. Over 800
+patents have been filed till date, bearing testimony to LSTC’s innovation capabilities. In line with ITC’s relentless
+focus on operational excellence and quality, each business is mandated to continuously innovate on materials, training,
+processes and systems to enhance their competitiveness. ITC has been in the frontline of introducing first-to-market
+innovative products for Indian consumers.
+XVIII
+
+[PAGE 366]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Healthy & Sustainable Food Products
+• Innovative science-based platforms and superior sensory attributes continue to drive creation of healthier and
+superior foods. In addition, research efforts continue towards reduction in salt, sugar and fat without compromising
+on sensory attributes. Efforts are also underway to increase nutrients that are beneficial for health/nutrition like
+fibre, vitamins and minerals.
+• LSTC, in collaboration with Agri and Branded Packaged Foods Businesses, endeavours to ensure that contemporary
+science-based outcomes are fully integrated across key agri value chains from farm to fork, including wheat,
+potato and spices.
+• State of art analytical testing facilities at LSTC are deployed to ensure safety and superior quality of the products.
+Sustainable Products in the Personal & Home Care Segments
+• R&D-Product Development team of Personal Care Products Business (PCPB) at LSTC continues to leverage
+science and technology led capabilities to build future product pipeline readiness in Health & Hygiene, Personal
+Wash, Fragrances, Home Care and Skin Care categories.
+• Further, the team has been developing products with sustainable formulation, efficient processing and sustainable
+packaging, which include high recycled content, lower packaging weight and recyclable packaging across personal
+care and home care categories.
+Sustainable Materials & Packaging
+• ITC LSTC has developed proprietary patented innovative barrier solutions that serve as a sustainable alternative
+to conventional synthetic polymers. These advanced materials offer excellent barrier to oil, grease and water,
+making them an ideal choice for FMCG packaging.
+• For Quick Service Restaurant (QSR) segment, these tailored-solutions not only enhance product performance but
+also align with global sustainability goals by reducing dependency on conventional fossil fuel derived materials.
+Agro-Forestry and Crop Sciences
+• LSTC has established different cutting-edge tools and platforms with an ambitious R&D program for improving
+tree and crop species of interest to ITC for desired traits like yield, quality, abiotic and biotic stress. This supports
+securing raw materials given the rising challenges of climate change and depleting resources.
+• Ongoing research has major emphasis on developing climate resilient crops and pulp wood species in order to
+address the security of raw material supplies across the Company’s value chains while ensuring enhanced farmer
+profitability. As an example, in the past 5 years more than 10 million saplings of new hybrids with >20% higher
+wood yields have been deployed in farmers’ fields. This enables secured raw material supply while ensuring
+better farm income and enhanced carbon sequestration.
+b) Capex investments
+Specific Capex include investments in the areas of renewable energy, green buildings, energy efficient equipment,
+pollution control equipment, water management and treatment system (including rain water harvesting) etc.
+For more details, refer to ‘Report of the Board of Directors & Management Discussion and Analysis’ section forming part of
+ITC’s Report and Accounts 2025.
+2.a. Does the entity have procedures in place for sustainable sourcing?
+Yes, there are procedures in place for sustainable sourcing. ITC has a Board approved Policy on ‘Sustainable Supply
+Chain and Responsible Sourcing’ and a ‘Code of Conduct for Suppliers and Service Providers’. The Code reflects ITC’s
+commitment to environmental conservation, business integrity and human rights. All suppliers are encouraged to fully
+comply with the Code. Additionally, ITC businesses, including Agri, FMCG and Paper Businesses, depend on farm and
+forestry-based supply chains for key raw materials. Accordingly, focus of ITC’s interventions in agri value chains has
+been largely around improving farmer livelihoods, increasing agricultural productivity, strengthening regional water
+security, and addressing the challenge of climate change and enhancing resilience. ITC’s key agri value chains are also
+certified as per global standards like Rainforest Alliance (RFA), Forest Stewardship Council®, Fairtrade, India Organic
+and USDA Organic. These certifications specify environmental and social standards for agricultural practices, and help
+ensure sustainability, traceability and transparency.
+Note: For more details on ITC’s sustainable sourcing practices pertaining to key agri value chains and key value chain partners
+like third-party manufacturers, refer to ‘Sustainable and Climate Resilient Agriculture’ and ‘Sustainable Supply Chain and
+Responsible Sourcing’ sections of ITC Sustainability Report 2025.
+XIX

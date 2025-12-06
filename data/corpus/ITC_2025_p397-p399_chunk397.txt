@@ -1,0 +1,180 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 397-399
+
+[PAGE 397]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+enhance the security of the organisation’s IT systems and infrastructure. Further, the CISO actively participates in meetings
+of the Risk Management Committee whenever matters related to cyber security are discussed.
+ITC’s Information Management Policy defines the framework/policy on cyber security and risks related to data privacy.
+ITC’s Privacy Policy is part of Information Management Policy and is available on ITC Portal at
+https://www.itcportal.com/about-itc/policies/privacy-policy.aspx
+6. Provide details of any corrective actions taken or underway on issues relating to advertising, and delivery of essential
+services; cyber security and data privacy of customers; re-occurrence of instances of product recalls; penalty / action
+taken by regulatory authorities on safety of products / services.
+Robust systems have been put in place to identify the issues faced by the consumers and ensure timely resolution of
+the same. Efforts are in place to continually strengthen the quality assurance system and to improve delivery timelines.
+7. Provide the following information relating to data breaches:
+a. Number of instances of data breaches: Nil
+b. Percentage of data breaches involving personally identifiable information of customers: Nil
+c. Impact, if any, of the data breaches: Nil
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A.
+Leadership Indicators
+1. Channels / platforms where information on products and services of the entity can be accessed (provide web link,
+if available).
+Products/Initiative Link
+Bingo! on Instagram https://www.instagram.com/bingo_snacks/
+YiPPee! on Instagram https://www.instagram.com/sunfeast_yippee/
+Aashirvaad on Instagram https://www.instagram.com/aashirvaad/
+Sunfeast Dark Fantasy https://www.instagram.com/sunfeastdarkfantasy/
+on Instagram
+Mom’s Magic on Instagram https://instagram.com/sfmomsmagic/
+Classmate on Instagram https://instagram.com/classmatebyitc/
+ITC: Abiding Commitment https://youtu.be/oP8d-Q8AD1w
+to Nation-Building
+Quarterly Media Statement https://www.itcportal.com/investor/pdf/ITC-Press-Release-Q4-FY2025.pdf
+2. Steps taken to inform and educate consumers about discontinuation happens in relation to its products and
+safe and responsible usage of products and/or services. services.
+All Businesses of the Company comply with the
+4. Does the entity display product information on the
+regulations and relevant voluntary codes concerning
+product over and above what is mandated as per local
+marketing communications, including advertising,
+laws? (Yes/No/Not Applicable) If yes, provide details in
+promotion and sponsorship. The Company’s
+brief. Did your entity carry out any survey with regard
+communications are aimed at enabling consumers to
+to consumer satisfaction relating to the major products
+make informed purchase decisions. The Company also / services of the entity, significant locations of operation
+makes efforts to educate consumers on responsible of the entity or the entity as a whole? (Yes/No)
+usage of its products and services.
+As an integral part of ITC’s consumer satisfaction focus,
+Note: For more information, refer to ‘Product Sustainability’ attention is paid to product information and labelling
+section of ITC’s Sustainability Report 2025. and consumer engagement by the Businesses. ITC’s
+Businesses have an established system for monitoring
+3. Mechanisms in place to inform consumers of any risk
+customer satisfaction and it ensures that their feedback
+of disruption/discontinuation of essential services.
+is addressed in a systematic manner.
+The Company is not engaged in providing essential
+Note: For more information on Product Information, Labelling
+services. However, the Company has necessary and Consumer Feedback Management, refer to ‘Product
+mechanisms in place to inform consumers if any major Sustainability’ section of ITC Sustainability Report 2025.
+L
+
+[PAGE 398]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Exhibit A
+On account of demerger of the Hotels Business from ITC Limited on 1st January 2025 to ITC Hotels Limited, the BRSR
+Core attributes for Hotels Business for the period 1st April 2023-31st December 2024 are presented below:
+Principle 1
+8. Number of days of accounts payables ((Accounts payable *365) / Cost of goods/services procured) in the
+following format:
+FY 2024-25 (1st April, 2024-31st December, 2024) FY 2023-24
+Number of days of
+95.75 98.18
+accounts payables
+9. Open-ness of business
+Provide details of concentration of purchases and sales with trading houses, dealers, and related parties
+along-with loans and advances & investments, with related parties, in the following format:
+Parameter Metrics FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Concentration of a. Purchases from trading houses 0.10% 0.38%
+Purchases as % of total purchases
+b. Number of trading houses 7 17
+where purchases are made from
+c. Purchases from top 10 trading 100% 99.69%
+houses as % of total purchases
+from trading houses
+Concentration of a. Sales to dealers / distributors as - -
+Sales % of total sales
+b. Number of dealers / distributors - -
+to whom sales are made
+c. Sales to top 10 dealers / - -
+distributors as % of total sales to
+dealers / distributors
+Share of RPTs* in a. Purchases (Purchases with 1.88% 1.45%
+related parties / Total Purchases)
+b. Sales (Sales to related parties / 0.55% 0.36%
+Total Sales)
+c. Loans & advances (Loans & - -
+advances given to related parties /
+Total loans & advances)
+d. Investments 100% 100%
+(Investments in related parties /
+Total Investments made)
+*The financial figures for FY 2023-24 have been restated to align with the guidance provided by the Industry Standards Forum
+Principle 3
+1c. Spending on measures towards well-being of employees and workers (including permanent and other than
+permanent) in the following format:
+FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Cost incurred* on well-being measures
+0.4% 0.3%
+as a % of total revenue of the company
+*Includes cost of accident insurance, health insurance, medical reimbursements, maternity leave benefit, paternity leave
+benefit and day-care facility cost.
+Note: Reporting for permanent employees and workers of the Company. The other than permanent employees and workers include
+those deployed through Service Providers and their wages including well-being measures are provided by the service providers.
+LI
+
+[PAGE 399]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+11. Details of safety related incidents.
+Safety Incident/Number Category* FY 2024-25 FY 2023-24
+(1st April, 2024-31st
+December, 2024)
+Lost Time Injury Frequency Rate (LTIFR) (per one Employees 0 0
+million-person hours worked)
+Workers 0 0
+Total recordable work-related injuries Employees 0 0
+Workers 0 0
+No. of fatalities Employees 0 0
+Workers 0 0
+High consequence work-related injury or ill-health Employees 0 0
+(excluding fatalities)
+Workers 0 0
+*Including the contract workforce
+Principle 5
+3b. Gross wages paid to females as % of total wages paid by the entity, in the following format
+FY 2024-25 (1st April, 2024-31st December, 2024) FY 2023-24
+Gross wages paid to females
+18% 18%
+as % of total wages paid
+Note: Pertains to permanent employees and workers of the Company.
+7. Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal)
+Act, 2013, in the following format:
+FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Total Complaints reported under Sexual Harassment
+on of Women at Workplace (Prevention, Prohibition 1 1
+and Redressal) Act, 2013 (POSH)
+Complaints on POSH as a % of female employees /
+0.2% 0.2%
+workers
+Complaints on POSH upheld 1 1
+Note: Pertains to permanent employees and workers of the Company.
+Principle 6
+The Purchasing Power Parity (PPP) conversion rate used in intensity ratio calculations across Principle 6 has been aligned with the
+guidance provided by the Industry Standards Forum for current reporting year and previous reporting year.
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Total energy consumed 582 740
+% of energy consumed from renewable sources 46% 43%
+Energy intensity per rupee of turnover
+(Total energy consumed / Revenue from operations) 255 256
+(in Giga Joules/Crore INR)
+Energy intensity per rupee of turnover adjusted for
+Purchasing Power Parity (PPP)
+(Total energy consumed / Revenue from operations 529 525
+adjusted for PPP)
+(in GJ/Million USD)
+Energy intensity (optional) –the relevant metric may
+0.64 0.81
+be selected by the entity (in MJ/ m2 built up area)
+LII

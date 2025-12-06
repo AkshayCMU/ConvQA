@@ -1,0 +1,160 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 330-332
+
+[PAGE 330]
+Notes
+to the Consolidated Financial Statements
+33. Financial Instruments and Related Disclosures (Contd.)
+The carrying amounts of foreign currency denominated financial assets and liabilities including derivative contracts (other than in
+functional currency), are as follows:
+(` in Crores)
+As at 31st March, 2025 USD Euro GBP JPY Others Total
+Financial Assets 1580.99 304.25 83.04 0.12 186.54 2154.94
+Financial Liabilities* 145.94 43.73 1.74 1.78 137.42 330.61
+As at 31st March, 2024 USD Euro GBP JPY Others Total
+Financial Assets 904.81 207.41 202.69 – 121.16 1436.07
+Financial Liabilities* 91.63 29.87 1.24 2.02 14.58 139.34
+* The above does not include the consideration payable to PTC Inc. towards acquisition of business and commercial rights
+since the same is hedged through cash flow hedge [Refer Note 30(xviii)].
+T he Group uses foreign exchange forward, futures and options contracts to hedge its exposures in foreign currency arising
+from firm commitments and highly probable forecast transactions.
+a. Forward exchange contracts that were outstanding on respective reporting dates:
+(In Million)
+Designated under Hedge Accounting As at 31st March, 2025 As at 31st March, 2024
+Currency Cross Currency Buy Sell Buy Sell
+US Dollar Indian Rupee 19.28 222.17 13.59 98.15
+Euro US Dollar 14.45 – 11.15 –
+CHF US Dollar 0.01 – 0.15 –
+GBP US Dollar 0.01 – 0.02 –
+JPY US Dollar 29.45 – 36.03 –
+The aforesaid hedges have a maturity of less than 1 year from the year end.
+(In Million)
+Not designated under Hedge Accounting As at 31st March, 2025 As at 31st March, 2024
+Currency Cross Currency Buy Sell Buy Sell
+US Dollar Indian Rupee 29.56 109.59 – 76.45
+Euro US Dollar 0.25 23.58 1.24 12.74
+AUD US Dollar 0.10 – 0.10 –
+CAD US Dollar 0.40 0.15 0.30 0.22
+CHF US Dollar 1.20 – 0.14 3.56
+GBP US Dollar 11.90 5.99 – 4.18
+SEK US Dollar 0.86 – 0.72 –
+SGD US Dollar 0.11 – – –
+KWD US Dollar 0.15 – 0.06 –
+PLN US Dollar 0.50 – 0.40 0.40
+JPY US Dollar 148.75 26.60 203.75 –
+ZAR US Dollar – 37.20 – 33.10
+US Dollar Nepalese Rupee 3.51 – 2.79 –
+Euro Nepalese Rupee 1.06 – 0.01 –
+GBP Nepalese Rupee 0.03 – – –
+312 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 331]
+Notes
+to the Consolidated Financial Statements
+33. Financial Instruments and Related Disclosures (Contd.)
+b. Currency options that were outstanding on respective reporting dates (Not designated under Hedge Accounting):
+(In Million)
+As at 31st March, 2025 As at 31st March, 2024
+Currency Cross Currency Buy Sell Buy Sell
+US Dollar Indian Rupee 4.00 45.90 – –
+Hedges of foreign currency risk and derivative financial instruments
+Each entity comprising the Group manages its own currency risk. Within the Group, derivative instruments are largely entered
+into by the Company and a subsidiary. The Company and the aforesaid subsidiary has established risk management policies
+to hedge the volatility in cashflows arising from exchange rate fluctuations in respect of firm commitments and highly probable
+forecast transactions, through foreign exchange forward, futures, options contracts and certain non-derivative financial liabilities.
+The proportion of forecast transactions that are to be hedged is decided based on the size of the forecast transaction and market
+conditions. As the counterparty for such transactions are primarily highly rated banks or recognised exchange(s), the risk of their
+non-performance is considered to be insignificant. Where derivatives are not designated under hedge accounting, changes in the
+fair value of such hedges are recognised in the Statement of Profit and Loss.
+The Company and one of its subsidiaries may also designate certain hedge instruments as cash flow hedges to mitigate the risk
+of foreign exchange exposure on highly probable forecasted cash transactions. The currency, amount and tenure of such hedges
+are generally matched to the underlying transaction(s). Changes in the fair value of the effective portion of cash flow hedges
+are recognised as cash flow hedging reserve in Other Comprehensive Income. While the probability of such hedges becoming
+ineffective is very low, the ineffective portion, if any, is immediately recognised in the Statement of Profit and Loss.
+The movement in the cash flow hedging reserve in respect of designated cash flow hedges is summarised below:
+(` in Crores)
+Particulars 2025 2024
+At the beginning of the year (4.50) (1.23)
+Add: Changes in the fair value of effective portion of matured
+cash flow hedges during the year (15.31) (6.44)
+Add: Changes in fair value of effective portion of
+outstanding cash flow hedges (11.62) (9.02)
+Less: Amounts transferred to the Statement of Profit and Loss
+on occurrence of forecast hedge transactions during the year (12.37) (20.53)
+Less: Amounts transferred to the Statement of Profit and Loss
+due to cash flows no longer expected to occur (1.81) (1.40)
+Less: Amounts transferred to initial cost of non-financial assets (0.20) 10.85
+Less: Net gain / (loss) transferred to the Statement of Profit and Loss
+on ineffectiveness – –
+(Less) / Add: Deferred tax 3.16 1.11
+At the end of the year (13.89) (4.50)
+Of the above, balances remaining in cash flow hedge reserve for
+matured hedging relationships (1.63) 2.19
+Once the hedged transaction materialises, the amount accumulated in the cash flow hedging reserve will be included in the initial
+cost of the non-financial hedged item on its initial recognition or reclassified to profit or loss, as applicable, in the anticipated
+timeframes given below:
+(` in Crores)
+Outstanding balance in Cash Flow Hedge Reserve to be As at As at
+subsequently recycled from OCI 31st March, 2025 31st March, 2024
+Within one year (7.64) 0.10
+Between one and three years (6.25) (2.50)
+Beyond three years – (2.10)
+Total (13.89) (4.50)
+ITC Limited REPORT AND ACCOUNTS 2025 313
+
+[PAGE 332]
+Notes
+to the Consolidated Financial Statements
+33. Financial Instruments and Related Disclosures (Contd.)
+Foreign Currency Sensitivity
+For every percentage point increase / decrease in the underlying exchange rate of the outstanding foreign currency denominated
+assets and liabilities, including derivative contracts, holding all other variables constant, the profit before tax for the year ended
+31st March, 2025 would increase / decrease by ` 0.68 Crore (2024 - ` 4.30 Crores) and other equity as at 31st March, 2025 would
+decrease / increase by ` 10.30 Crores (2024 – increase / decrease by ` 1.10 Crores) on a pre-tax basis.
+2. Interest Rate Risk
+As the Group is virtually debt-free and its deferred payment liabilities do not carry interest, the exposure to interest rate risk from
+the perspective of financial liabilities is negligible.
+The Group’s investments are predominantly held in Government securities, bonds / debentures, fixed deposits, certificates
+of deposit, commercial papers and debt mutual funds. Mark to market movements in respect of the Group’s investments in
+bonds / debentures that are held at amortised cost are temporary and get recouped through coupon accruals. Other investments
+in bonds / debentures, certificates of deposit, commercial papers are fair valued through the Statement of Profit and Loss to
+recognise market volatility, which is not considered to be significant. Fixed deposits are held with highly rated banks and companies
+and have a short tenure and are not subject to interest rate volatility.
+The Group also invests in debt mutual fund schemes of leading fund houses. Such investments are susceptible to market price
+risk that arise mainly from changes in interest rate which may impact the return and value of such investments. However, given
+the relatively short tenure of underlying portfolio of the debt mutual fund schemes in which the Group has invested, such price risk
+is not significant.
+3. Other Price Risk
+The Group is not an active investor in equity markets; it holds certain investments in equity for long term value accretion which are
+accordingly measured at fair value through Other Comprehensive Income. The value of investments in such equity instruments
+as at 31st March, 2025 is ` 3632.35 Crores (2024 - ` 4676.28 Crores). Accordingly, fair value fluctuations arising from market
+volatility is recognised in Other Comprehensive Income.
+For select agricultural commodities primarily held for trading, futures contracts are used to hedge price risks till positions in
+the physical market are matched. The carrying value of inventories is adjusted to the extent of fair value movement of the risk
+being hedged. Such hedges are generally for short time horizons and recognised in profit or loss within the crop cycle and are
+managed by the business within the approved policy framework. Accordingly, the Group’s net exposure to commodity price risk is
+considered to be insignificant.
+Credit Risk
+Each entity comprising the Group manages its own credit risk. The following explains the processes followed by the Company,
+being the largest component of the Group, to manage its credit risk: Company’s deployment in debt instruments are primarily in
+Government securities, fixed deposits with highly rated banks and companies, bonds issued by Government institutions, public
+sector undertakings, mutual fund schemes of leading fund houses and certificates of deposit / commercial papers issued by highly
+rated banks and financial institutions. With respect to the Group’s investing activities, debt mutual fund schemes and counter parties
+are shortlisted and exposure limits determined on the basis of their credit rating (by independent agencies), financial statements
+and other relevant information. As these counter parties are Central / State Government, Government institutions / public sector
+undertakings with investment grade / sovereign credit ratings and taking into account the experience of the Group over time, the
+counter party risk attached to such assets is considered to be insignificant.
+The Group’s investments that are held at amortised cost stood at ` 13069.90 Crores (2024 - ` 14447.05 Crores).
+The Company’s customer base is large and diverse limiting the risk arising out of credit concentration. Company’s payment terms
+generally ranges from advance (generally settled within the operating cycle) to a credit period of up to 180 days, depending
+upon specific circumstances and industry practices. Credit is extended in business interest in accordance with guidelines issued
+centrally and business-specific credit policies that are consistent with such guidelines. Exceptions are managed and approved
+by appropriate authorities, after due consideration of the counterparty’s credentials and financial capacity, trade practices and
+prevailing business and economic conditions. There is no significant financing component and / or remaining performance
+obligation in respect of its transaction with the customers for sale of goods and services.
+The Company’s historical experience of collecting receivables and the level of default indicate that credit risk is low and generally
+uniform across markets; consequently, trade receivables are considered to be a single class of financial assets. All overdue
+customer balances are evaluated taking into account the age of the dues, specific credit circumstances, the track record of the
+counterparty etc. Loss allowances and impairment is recognised, where considered appropriate by responsible management.
+314 ITC Limited REPORT AND ACCOUNTS 2025

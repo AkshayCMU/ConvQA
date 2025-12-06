@@ -1,0 +1,176 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 349-351
+
+[PAGE 349]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Glossary
+ITC Divisions/ Businesses ESG: Environment, Social and Governance
+ABD: Agri Business Division FPO: Farmers’ Producer Organisation
+ESPB: Education & Stationery Products Business FPI: Foreign Portfolio Investor
+FBD: Foods Business Division
+FII: Foreign Institutional Investor
+ITD: India Tobacco Division
+FSC®: Forest Stewardship Council®
+MAB: Matches and Agarbattis Business
+FSSAI: The Food Safety and Standards
+PCPBD: Personal Care Products Business Division
+Authority of India
+PPB: Packaging & Printing Business
+GAP: Good Agricultural Practices
+PSPD: Paperboards & Specialty Papers Division
+GP: Gram Panchayat
+TM&D: Trade Marketing & Distribution
+HACCP: Hazard Analysis and Critical
+Control Points
+ITC Specific Terms
+ISAE: International Standard on
+CAPP: Core Area Perspective Plan Assurance Engagements
+CMC: Corporate Management Committee ISF: Industry Standards Forum
+CSAT: Customer Satisfaction
+LCA: Life-Cycle Assessment
+CISO: Chief Information Security Officer
+LEED®: Leadership in Energy and
+CSO: Chief Sustainability Officer Environmental Design
+FTC: Fixed Term Contract
+MOU: Memorandum of Understanding
+Sustainability 2.0 Targets: Refer ITC
+NA: Not Applicable
+Sustainability Report 2025: Sustainability 2.0
+NGRBC: National Guidelines on Responsible
+Ambitions Section
+Business Conduct
+ISC: Investor Service Centre
+NOP: National Organic Programme
+ITCMAARS: Metamarket for Advanced Agriculture
+and Rural Services NPOP: National Programme for
+Organic Production
+LSTC: Life Sciences & Technology Centre
+OHSAS: Occupational Health and Safety
+MSK: Mission Sunehra Kal
+Assessment Series.
+SBU: Strategic Business Unit
+PAT: Perform, Achieve and Trade
+SCRC: Sustainability Compliance Review
+Committee PPP: Public-Private Partnership
+SIP: Social Investments Programme PET: Polyethylene Terephthalate
+SPP: Service Provider Personnel
+PCR: Post Consumer Recyclate
+TPMs: Third-Party Manufacturers
+RFA: Rainforest Alliance
+WOW: Well-Being Out of Waste
+SEBI: Securities and Exchange Board of India
+SEDEX: Supplier Ethical Data Exchange
+General Terms
+SC: Scheduled Caste
+ATNI: Access to Nutrition Initiative
+ST: Scheduled Tribe
+ASCI: Advertising Standards Council of India
+SHG: Self Help Group
+AWS: Alliance for Water Stewardship
+SOP: Standard Operating Procedure
+BIS: Bureau of Indian Standards
+CSR: Corporate Social Responsibility STP: Sustainable Tobacco Programme
+ECF: Elemental Chlorine Free WASH: Water, Sanitation and Hygiene
+EHS: Environment, Health and Safety UoM: Unit of Measurement
+II
+
+[PAGE 350]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Section A: General Disclosures
+I. Details of the Listed Entity:
+1. Corporate Identity Number L16005WB1910PLC001985
+(CIN) of the Company
+2. Name of the Company ITC Limited
+3. Year of Incorporation 1910
+4. Registered office address
+Virginia House, 37 Jawaharlal Nehru Road, Kolkata 700 071
+5. Corporate office address
+6. E-mail id enduringvalue@itc.in
+7. Telephone +91 33 2288 9371
+8. Website www.itcportal.com
+9. Financial year for which 2024-25
+reporting is being done
+10. Name of the Stock National Stock Exchange of India Limited (‘NSE’), BSE Limited (‘BSE’), and The
+Exchange(s) where shares Calcutta Stock Exchange Limited (‘CSE’)
+are listed
+11. Paid-up capital ` 1251.41 Crores (As on 31.03.2025)
+12. Name and contact details Ms. Madhulika Sharma
+of the person who may be Chief Sustainability Officer
+contacted in case of any Madhulika.sharma@itc.in
+queries on the BRSR report
++91 33 2288 9371
+13. Reporting boundary This report is prepared on a standalone basis.
+During the reporting period, from 1st April 2024 to 31st March 2025, the Hotels Business1
+has been demerged into ITC Hotels Limited, and accordingly, the reporting boundary
+for current reporting year and previous reporting year have been readjusted to exclude
+the data for Hotels Business. The BRSR Core attributes for the Hotels Business for the
+period 1st April 2024 to 31st December 2024 along with the comparative information for
+the previous year i.e., from 1st April 2023 to 31st March, 2024 are presented separately in
+Exhibit A. This Exhibit A forms an integral part of BRSR.
+The financial data included in the Report is consistent with the Company’s Report and Accounts
+for 2025 issued on 22nd May, 2025 or derived from underlying books of accounts, as applicable.
+14. Name of assessment or KPMG Assurance and Consulting Services LLP
+assurance provider
+15. Type of assessment or Reasonable Assurance for BRSR Core attributes
+assurance obtained
+II. Products/Services
+16. Details of business activities: (accounting for 90% of the entity’s Turnover):
+S. Description Of % Of Turnover
+Description Of Business Activity
+No. Main Activity Of The Entity
+1. FMCG Cigarettes 44.42%
+Others: Branded Packaged Foods Businesses (Staples & Meals; 29.91%
+Snacks; Dairy & Beverages; Biscuits & Cakes; Chocolates, Coffee &
+Confectionery); Personal Care Products; Education and Stationery
+Products; Safety Matches and Agarbattis.
+2. Agri-Business Agri-commodities such as wheat, rice, spices, coffee, soya and 16.42%
+leaf tobacco.
+3. Paperboards, Paper Paperboards, Paper including Specialty Paper & Packaging 9.02%
+& Packaging including flexibles.
+1Except ITC Grand Central, Mumbai
+III
+
+[PAGE 351]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+17. Products/Services sold by the entity: (accounting for 90% of the entity’s Turnover):
+% Of Total Turnover
+S. No. Product/Service NIC Code
+Contributed
+1 Cigarettes 12003, 21002, 46307 44.42%
+2 Others: Branded Packaged Foods 10202, 10304, 10308, 10501, 10504, 29.91%
+Businesses (Staples & Meals; Snacks; 10509, 10611, 10613, 10616, 10712,
+Dairy & Beverages; Biscuits & Cakes; 10732, 10733, 10739, 10740, 10750,
+Chocolates, Coffee & Confectionery); 10792, 10795, 10798, 20231, 20233,
+Education and Stationery Products; 20234, 20236, 20237, 20239, 46411,
+Personal Care Products; Safety 46491, 46496, 46497, 46909
+Matches and Agarbattis.
+3 Agri-commodities such as wheat, rice, 12001, 10209, 10304, 10406, 10611, 16.42%
+spices, coffee, soya and leaf tobacco. 10795, 46201, 46207, 46301, 46305,
+46306, 47300, 47737, 71200
+4 Paperboards, Paper including Specialty 17015, 17016, 17093, 46696 9.02%
+Paper & Packaging including flexibles. 17022, 17029, 22203
+III. Operations
+The Company’s Businesses and operations are spread across the country. Details of Plant Locations are provided under
+the section ‘Shareholder Information’ in the Company’s Report and Accounts 2025.
+18. Number of locations where plants and/or operations/offices of the entity are situated.
+Location Number Of Plants Number Of Offices Total
+National 63 49 112
+International 0 1 1
+19. Markets served by the entity
+a. Number of Locations
+Location Number
+National (No. of States) 28 States and 7 Union Territories
+International (No. of Countries) 114 Countries
+b. What is the contribution of exports as a percentage of the total turnover of the entity?
+FY 2024-25 10.66%
+c. A Brief on Types of Customers
+ITC is one of India’s foremost private sector companies and a diversified conglomerate with businesses spanning
+FMCG, Paperboards, Paper & Packaging and Agri Businesses, covering B2C, B2B and D2C segments. ITC’s
+world-class Indian brands in Foods, Personal Care Products, Education and Stationery Products, Matches and
+Agarbattis today represent a consumer spend of over Rs 34,000 crores, demonstrating the growing market standing
+of the Company’s products.
+IV

@@ -1,0 +1,1154 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 251-253
+
+[PAGE 251]
+Consolidated Statement of Profit and Loss
+for the year ended 31st March, 2025
+For the year ended For the year ended
+Note 31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+I Revenue From Operations 23A, 23B 81612.78 73891.43
+II Other Income 24 2529.69 2693.22
+III Total Income (I+II) 84142.47 76584.65
+IV EXPENSES
+Cost of materials consumed 23757.33 21288.44
+Purchases of Stock-in-Trade and Biological Assets 8947.04 6060.13
+Changes in inventories of finished goods, Stock-in-Trade, work-in-progress,
+intermediates and Biological Assets 25 (725.65) (367.77)
+Excise duty 6289.44 5959.49
+Employee benefits expense 26 6169.78 5548.53
+Finance costs 27 45.06 39.11
+Depreciation and amortization expense 1646.32 1518.05
+Other expenses 28 11196.63 10152.82
+Total expenses (IV) 57325.95 50198.80
+V Share of profit / (loss) of Associates and Joint Ventures 110.42 14.43
+VI Profit before exceptional items and tax (III-IV+V) 26926.94 26400.28
+VII Exceptional Items – –
+VIII Profit before tax (VI+VII) 26926.94 26400.28
+IX Tax expense:
+Current Tax 29 6509.61 6017.21
+Deferred Tax 29 380.86 192.25
+X Profit for the year from continuing operations (VIII-IX) 20036.47 20190.82
+XI Profit before exceptional items and tax from discontinued operations 525.84 747.17
+XII Exceptional Items of discontinued operations 15128.81 (7.57)
+XIII Tax expense of discontinued operations 29 638.64 179.06
+XIV Profit for the year from discontinued operations (XI+XII-XIII) 30(viii) 15016.01 560.54
+XV Profit for the year (X+XIV) 35052.48 20751.36
+Other Comprehensive Income
+A (i) Items that will not be reclassified to profit or loss:
+– Remeasurements of the defined benefit plans 30(v) (26.13) (20.74)
+– Equity instruments through other comprehensive income (1043.31) 2957.51
+– Effective portion of gains / (losses) on designated portion of
+hedging instruments in a cash flow hedge 0.23 (10.46)
+– Share of other comprehensive income in Associates and
+Joint Ventures (3.41) 15.21
+(ii) Income tax relating to items that will not be reclassified to profit or loss 29 59.58 (268.53)
+B (i) Items that will be reclassified to profit or loss:
+– Exchange differences on translating the financial statements of
+foreign operations 352.94 256.53
+– Debt instruments through other comprehensive income 72.81 18.00
+– Effective portion of gains / (losses) on designated portion of
+hedging instruments in a cash flow hedge (12.98) 16.93
+– Share of other comprehensive income in Associates and
+Joint Ventures (14.45) –
+(ii) Income tax relating to items that will be reclassified to profit or loss 29 (10.14) (8.79)
+XVI Other Comprehensive Income [A(i+ii)+B(i+ii)] (624.86) 2955.66
+XVII Total Comprehensive Income for the year (XV+XVI) 34427.62 23707.02
+Profit for the year
+Attributable to:
+Owners of the parent 34746.63 20458.78
+Non-controlling interests 305.85 292.58
+Other Comprehensive Income
+Attributable to:
+Owners of the parent (624.87) 2955.66
+Non-controlling interests 0.01 …
+Total Comprehensive Income for the year
+Attributable to:
+Owners of the parent 34121.76 23414.44
+Non-controlling interests 305.86 292.58
+XVIIIEarnings per equity share (Face Value ` 1.00 each): 30(i)
+For Continuing Operations
+(a) Basic (in `) 15.78 15.98
+(b) Diluted (in `) 15.76 15.94
+For Discontinued Operations
+(a) Basic (in `) 12.01 0.44
+(b) Diluted (in `) 11.99 0.44
+For Continuing and Discontinued Operations
+(a) Basic (in `) 27.79 16.42
+(b) Diluted (in `) 27.75 16.38
+The accompanying notes 1 to 33 are an integral part of the Consolidated Financial Statements.
+On behalf of the Board
+In terms of our report attached
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003 S. DUTTA Director & Chief Financial Officer
+Arvind Sethi (DIN : 01804345)
+Partner
+R. K. SINGHI Company Secretary
+(Membership No.: 89802)
+(Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 233
+
+[PAGE 252]
+234 ITC Limited REPORT AND ACCOUNTS 2025
+ytiuqE
+ni
+segnahC
+fo
+tnemetatS
+detadilosnoC
+5202
+,hcraM
+ts13
+dedne
+raey
+eht
+rof
+)serorC
+ni
+`(
+latipaC erahS
+ytiuqE
+.A
+eht
+fo
+dne
+eht
+ta
+ecnalaB
+erahs
+ytiuqe
+ni
+segnahC
+gninnigeb
+eht
+ta
+ecnalaB
+raey
+gnitroper
+raey
+eht
+gnirud
+latipac
+raey
+gnitroper
+eht
+fo
+14.1521
+49.2
+74.8421
+5202
+,hcraM ts13 dedne
+raey eht
+roF
+74.8421
+76.5
+08.2421
+4202
+,hcraM ts13 dedne
+raey eht
+roF
+)serorC
+ni
+`(
+ytiuqE
+rehtO
+.B
+–noN
+elbatubirttA
+emocnI
+evisneherpmoC
+rehtO
+fo
+smetI
+sulpruS
+dna
+sevreseR
+gnillortnoc
+srenwo
+ot
+stseretni
+eht
+fo
+egnahcxE
+laicepS
+tnerap
+secnereffid
+evreseR
+latoT
+gnitalsnart
+no
+ytiuqE
+tbeD
+seeyolpmE
+rednu
+laicnanfi
+eht
+evitceffE
+stnemurtsnI
+stnemurtsnI
+erahS
+gnisuoH
+noitceS
+stnemetats
+fo
+noitrop
+rehtO
+hguorht
+rehtO
+hguorht
+latipaC
+snoitpO
+evreseR
+eht
+fo CI–54
+latipaC
+ngierof
+fo
+wolF
+hsaC
+evisneherpmoC
+evisneherpmoC
+deniateR
+lareneG
+ycnegnitnoC
+noitpmedeR
+gnidnatstuO
+ydisbuS
+lapeN
+rednu
+,tcA
+IBR
+no
+evreseR
+seitiruceS
+latipaC
+snoitarepo
+segdeH
+emocnI
+emocnI
+sgninraE
+evreseR
+evreseR
+evreseR
+tnuoccA
+evreseR
+swal
+ruobal
+4391
+noitadilosnoC
+muimerP
+evreseR
+05.14637
+79.283
+35.85237
+)56.603(
+)05.4(
+63.0073
+)67.9(
+94.27163
+75.27671
+50.363
+09.31
+95.705
+32.0
+54.18
+27.571
+76.27
+59.31841
+64.5
+4202 ,lirpA
+ts1 ta sa ecnalaB
+84.25053
+58.503
+36.64743
+–
+–
+–
+–
+36.64743
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+raey eht rof
+tfiorP
+)68.426(
+10.0
+)78.426(
+94.833
+)45.9(
+)57.099(
+04.95
+)74.22(
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+)xat fo ten( emocnI evisneherpmoC
+rehtO
+26.72443
+68.503
+67.12143
+94.833
+)45.9(
+)57.099(
+04.95
+61.42743
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+raey
+eht rof emocnI evisneherpmoC
+latoT
+kcotS eeyolpmE
+CTI rednu serahs
+ytiuqe fo
+eussI
+93.497
+–
+93.497
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+93.497
+–
+semehcS
+noitpO
+sdnediviD
+)11.9469(
+)75.582(
+)45.3639(
+–
+–
+–
+–
+)45.3639(
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+)erahs
+rep 05.7 ` - 42-3202(
+dnediviD laniF
+–
+)11.3318(
+–
+)11.3318(
+–
+–
+–
+–
+)11.3318(
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+)erahs
+rep 05.6 ` - 52-4202(
+dnediviD miretnI
+–
+54.91
+–
+54.91
+–
+–
+–
+–
+54.91
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+deviecer dnufer xat
+noitubirtsid dnediviD
+rehtO
+hguorht stnemurtsnI
+ytiuqE morf refsnarT
+–
+–
+–
+–
+–
+33.0
+–
+)33.0(
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+serahs
+ytiuqe fo elas no emocnI
+evisneherpmoC
+72.731
+–
+72.731
+–
+–
+–
+–
+–
+–
+–
+–
+72.731
+–
+–
+–
+–
+–
+–
+tnemyap desab
+erahs fo noitingoceR
+tnuoccA
+gnidnatstuO noitpO
+erahS morf refsnarT
+–
+–
+–
+–
+–
+–
+–
+86.1
+–
+–
+–
+)12.991(
+–
+–
+–
+–
+35.791
+–
+espal
+dna esicrexe
+no
+degdeh
+fo tnuoma gniyrrac
+laitini ot derrefsnarT
+51.0
+–
+51.0
+–
+51.0
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+)xat fo ten(
+smeti
+eht
+ot detubirtsid
+gnikatrednu degremed
+fo eulav
+riaF
+)73.33022(
+–
+)73.33022(
+–
+–
+–
+–
+–
+)73.33022(
+–
+–
+–
+–
+–
+–
+–
+–
+–
+])iiiv(03
+etoN refeR[ ynapmoC
+eht fo sredloherahs
+–
+–
+–
+–
+–
+–
+–
+)65.7544(
+60.8444
+–
+–
+–
+–
+–
+05.9
+–
+–
+–
+])iiiv(03
+etoN
+refeR[ sgninrae deniater
+morf refsnarT
+regremeD
+fo emehcS ot tnausrup
+desingocereD
+)62.85(
+)73.53(
+)98.22(
+–
+–
+–
+–
+09.64
+)58.3(
+–
+80.0
+)98.22(
+)90.0(
+–
+–
+)87.17(
+38.82
+)90.0(
+])A()vix(03 dna
+)iiiv(03 etoN
+refeR[
+35.64196
+98.763
+46.87786
+48.13
+)98.31(
+49.9072
+46.94
+41.01094
+14.38
+50.363
+89.31
+67.224
+41.0
+54.18
+22.581
+98.0
+07.43851
+73.5
+5202 ,hcraM
+ts13 ta sa ecnalaB
+99.59286
+35.383
+64.21976
+)81.365(
+)32.1(
+64.4001
+)32.32(
+32.04353
+75.27671
+50.363
+09.31
+54.147
+32.0
+54.18
+48.761
+76.27
+97.63031
+64.5
+3202 ,lirpA
+ts1 ta sa ecnalaB
+63.15702
+85.292
+87.85402
+–
+–
+–
+–
+87.85402
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+raey eht rof
+tfiorP
+66.5592
+…
+66.5592
+35.652
+48.4
+77.6962
+74.31
+)59.51(
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+)xat fo ten( emocnI evisneherpmoC
+rehtO
+20.70732
+85.292
+44.41432
+35.652
+48.4
+77.6962
+74.31
+38.24402
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+raey
+eht rof emocnI evisneherpmoC
+latoT
+
+[PAGE 253]
+ITC Limited REPORT AND ACCOUNTS 2025 235
+ytiuqE
+ni
+segnahC
+fo tnemetatS detadilosnoC
+5202
+,hcraM ts13
+dedne raey
+eht
+rof
+)serorC
+ni
+`(
+).dtnoC( ytiuqE rehtO .B
+–noN
+elbatubirttA
+emocnI evisneherpmoC
+rehtO fo smetI
+sulpruS
+dna sevreseR
+gnillortnoc
+srenwo ot
+stseretni
+eht fo
+egnahcxE
+laicepS
+tnerap
+secnereffid
+evreseR
+latoT
+gnitalsnart no ytiuqE
+tbeD
+seeyolpmE
+rednu
+laicnanfi eht evitceffE stnemurtsnI
+stnemurtsnI
+erahS
+gnisuoH
+noitceS
+stnemetats fo noitrop rehtO
+hguorht rehtO hguorht
+latipaC
+snoitpO
+evreseR
+eht fo CI–54
+latipaC
+ngierof fo wolF hsaC evisneherpmoC
+evisneherpmoC deniateR
+lareneG
+ycnegnitnoC
+noitpmedeR
+gnidnatstuO
+ydisbuS
+lapeN rednu
+,tcA IBR
+no evreseR seitiruceS latipaC
+snoitarepo segdeH emocnI
+emocnI sgninraE
+evreseR
+evreseR
+evreseR
+tnuoccA
+evreseR
+swal ruobal
+4391
+noitadilosnoC muimerP evreseR kcotS eeyolpmE CTI rednu serahs ytiuqe fo eussI
+61.7341
+–
+61.7341
+– – –
+– –
+–
+–
+–
+–
+–
+–
+–
+– 61.7341 – semehcS noitpO sdnediviD
+)50.2868(
+)41.392(
+)19.8838(
+– – –
+– )19.8838(
+–
+–
+–
+–
+–
+–
+–
+– – – )erahs rep 57.6 ` - 32-2202( dnediviD laniF –
+)07.7143(
+–
+)07.7143(
+– – –
+– )07.7143(
+–
+–
+–
+–
+–
+–
+–
+– – – )erahs rep 57.2 ` - 32-2202( dnediviD laicepS –
+)54.9977(
+–
+)54.9977(
+– – –
+– )54.9977(
+–
+–
+–
+–
+–
+–
+–
+– – – )erahs rep 52.6 ` - 42-3202( dnediviD miretnI – rehtO hguorht stnemurtsnI ytiuqE morf refsnarT
+–
+–
+–
+– – )78.0(
+– 78.0
+–
+–
+–
+–
+–
+–
+–
+– – – serahs ytiuqe fo elas no emocnI evisneherpmoC
+46.801
+–
+46.801
+– – –
+– –
+–
+–
+–
+46.801
+–
+–
+–
+– – – tnemyap desab erahs fo noitingoceR tnuoccA gnidnatstuO noitpO erahS morf refsnarT
+–
+–
+–
+– – –
+– 05.2
+–
+–
+–
+)05.243(
+–
+–
+–
+– 00.043 – espal dna esicrexe no degdeh fo tnuoma gniyrrac laitini ot derrefsnarT
+)11.8(
+–
+)11.8(
+– )11.8( –
+– –
+–
+–
+–
+–
+–
+–
+–
+– – – )xat fo ten( smeti
+–
+–
+–
+– – –
+– )88.7(
+–
+–
+–
+–
+–
+–
+88.7
+– – – sgninrae deniater morf refsnarT
+05.14637
+79.283
+35.85237
+)56.603( )05.4( 63.0073
+)67.9( 94.27163
+75.27671
+50.363
+09.31
+95.705
+32.0
+54.18
+27.571
+76.27 59.31841 64.5 4202 ,hcraM ts13 ta sa ecnalaB
+fo lavorppa
+eht
+ot
+tcejbus
+si dnediviD laniF
+dias ehT .serorC 85.3289 ` ot gnitnuoma
+)erahS yranidrO rep 05.7
+` dnediviD laniF
+:raey suoiverp(
+5202 ,hcraM
+ts13
+dedne
+raey laicnanfi
+eht rof hcae
+-/1 ` fo erahS
+yranidrO rep 58.7 ` fo dnediviD laniF dednemmocer evah ynapmoC eht fo srotceriD fo draoB ehT
+.stnemetats
+laicnanfi
+eseht ni ytilibail a sa dedulcni neeb ton sah dna gniteeM lareneG launnA eht ta sredloherahs eht
+.)erahS yranidrO
+rep 57.31 ` :raey suoiverp( erahS
+yranidrO rep 53.41 ` si 5202 ,hcraM
+ts13 dedne
+raey laicnanfi
+eht rof dnediviD
+ytiuqE
+latot
+eht ,5202
+,hcraM
+ht7
+no
+diap )erahS
+yranidrO rep 52.6 ` :raey suoiverp( erahS yranidrO rep 05.6 ` fo dnediviD miretnI eht htiw rehtegoT
+,rehtona
+ot )sgninraE
+deniateR
+yllareneg(
+ytiuqe fo tnenopmoc eno morf
+noitairporppa na yb detaerc neeb
+sah evreseR
+sihT :evreseR
+lareneG
+derrefsnart
+stessa ten
+eht
+fo eulav
+neewteb
+ecnereffid
+eht tneserper sevreseR esehT :noitadilosnoC no evreseR latipaC dna evreseR latipaC
+.3102
+,tcA
+seinapmoC
+eht fo snoisivorp
+eht htiw ecnadrocca ni dezilitu
+eb nac emas ehT .emocnI evisneherpmoC
+rehtO
+fo meti
+na gnieb ton
+.snoitanibmoc
+hcus rof diap noitaredisnoc eht dna snoitanibmoc ssenisub fo esruoc eht ni puorG eht ot
+.snoitagilbo
+tfieneb
+denfied
+fo tnemerusaemer
+fo stceffe dna puorG eht
+fo stfiorp evitalumuc eht stneserper
+evreseR sihT
+:sgninraE
+deniateR
+eht
+fo snoisivorp
+eht
+htiw
+ecnadrocca
+ni dezilitu
+eb nac dna serahs fo eussi no muimerp eht stneserper evreseR sihT :muimerP seitiruceS
+.3102 ,tcA seinapmoC
+eht fo snoisivorp eht htiw ecnadrocca
+ni dezilitu
+eb nac
+evreseR sihT
+.3102 ,tcA seinapmoC
+noitaulaver
+no
+gnisira
+)sessol
+fo ten( sniag
+evitalumuc eht stneserper evreseR
+sihT :emocnI evisneherpmoC
+rehtO hguorht
+stnemurtsnI
+tbeD
+a
+yb dnedivid
+fo noitaralced
+erofeb
+derrefsnart
+stfiorp stneserper evreseR sihT :4391 ,tcA IBR eht fo CI-54 noitceS rednu evreseR laicepS
+esoht
+nehw
+ssol
+ro
+tfiorp
+ot ,yna fi ,defiissalcer
+stnuoma fo ten ,emocnI evisneherpmoC
+rehtO hguorht eulaV
+riaF ta derusaem
+stnemurtsnI
+tbeD fo
+.)IBR(
+aidnI fo
+knaB evreseR eht htiw )ynapmoC laicnaniF gniknaB-noN( CFBN sa deretsiger si hcihw ynapmoC
+.fo desopsid
+era
+stnemurtsni
+sa
+gnisuoh
+’seeyolpme
+gnidivorp
+rof
+edisa tes
+stnuoma eht stneserper evreseR sihT :swal ruobal lapeN rednu evreseR gnisuoH seeyolpmE
+noitaulaver
+no
+gnisira
+)sessol
+fo ten( sniag
+evitalumuc eht stneserper evreseR
+sihT :emocnI evisneherpmoC
+rehtO hguorht
+stnemurtsnI
+ytiuqE
+.4702
+,tcA
+ruobaL eht
+yb decalper neeb ecnis sah hcihw ,lapeN fo 8402 ,tcA ruobaL elihwtsre eht fo snoisivorp eht rep
+sgninraE
+deniateR
+ot
+,yna
+fi ,defiissalcer
+stnuoma fo ten ,emocnI evisneherpmoC
+rehtO hguorht eulaV riaF
+ta derusaem
+stnemurtsnI
+ytiuqE fo
+yb
+revo
+nekat
+stnuoma
+dna tnemtsevni
+latipac
+rof seitirohtua tnemnrevog morf deviecer seidisbus stneserper evreseR sihT :evreseR ydisbuS
+.fo
+desopsid era
+stnemurtsni
+esoht nehw
+.snoitanibmoc ssenisub ot tneuqesnoc puorG eht
+tnemurtsni
+gnigdeh
+fo
+eulaV
+riaF ni segnahc
+fo noitrop evitceffe evitalumuc
+eht stneserper evreseR sihT :segdeH
+wolF hsaC
+fo noitrop
+evitceffE
+kcotS
+eeyolpmE
+CTI
+rednu
+seeyolpme
+ot ynapmoC
+eht yb detnarg snoitpo kcots ot setaler evreseR sihT :tnuoccA gnidnatstuO snoitpO erahS
+ni tessa
+laicnanfi-non
+eht
+fo tnuoma gniyrrac
+eht ni dedulcni ro ssol ro tfiorp
+ot defiissalcer eb lliw tI .segdeH
+wolF hsaC
+sa detangised
+era taht
+.snoitpo
+detsev fo
+espal
+ro esicrexe
+no sgninraE deniateR ro muimerP seitiruceS ot derrefsnart si evreseR sihT .semehcS noitpO
+.ycilop gnitnuocca
+s’puorG
+eht htiw
+ecnadrocca
+ni
+dezilitu
+eb nac dna
+snoitanibmoc
+ssenisub
+fo esruoc eht ni puorG eht ot derrefsnart neeb sah evreseR sihT :evreseR noitpmedeR latipaC
+fo ecnalab
+detalumucca
+)a( sniatnoc evreseR
+sihT :snoitarepo ngierof
+fo stnemetats laicnanfi eht gnitalsnart
+no
+secnereffid
+egnahcxE
+.3102 ,tcA seinapmoC eht fo snoisivorp eht htiw ecnadrocca
+noitadilosnoc
+fo
+emit
+eht
+ta gnisira snoitarepo
+ngierof s’puorG eht fo stnemetats
+laicnanfi eht fo noitalsnart
+morf secnereffid
+egnahcxe
+ngierof
+ten s’puorG
+eht
+fo
+trap
+mrof ,ecnatsbus
+ni ,taht smeti yratenom no gnisira
+secnereffid egnahcxe ngierof
+detalumucca
+)b( dna seititne
+hcus fo
+neeserofnu
+yna fo erac
+ekat ot
+,ecnedurp
+fo
+rettam a sa ,sgninraE deniateR fo tuo detaerc neeb sah evreseR sihT :evreseR ycnegnitnoC
+secnereffid
+egnahcxE
+.emocnI
+evisneherpmoC
+rehtO ni desingocer era
+secnereffid egnahcxe ngierof hcuS
+.noitarepo
+ngierof a
+ni tnemtsevni
+.setupsid lagel gnidnep ni stnempoleved esrevda
+.noitarepo
+ngierof eht fo lasopsid no
+ssol ro tfiorp ot defiissalcer era evreseR
+siht ni
+detalumucca
+ylsuoiverp
+.stnemetatS
+laicnaniF
+detadilosnoC
+eht fo trap largetni na era 33 ot 1 seton gniynapmocca ehT
+draoB eht fo flaheb
+nO
+dehcatta troper ruo fo smret nI
+rotceriD gniganaM
+& namriahC
+IRUP
+.S
+PLL OC & C B R S roF
+)92508200 : NID(
+stnatnuoccA deretrahC
+reciffO laicnaniF
+feihC & rotceriD
+ATTUD
+.S
+300003E / E289423 :rebmuN noitartsigeR mriF
+)54340810 : NID(
+ihteS dnivrA
+yraterceS
+ynapmoC
+IHGNIS .K
+.R
+rentraP
+)0773
+SCF :.oN pihsrebmeM(
+)20898 :.oN pihsrebmeM( 5202 ,22 yaM ,atakloK

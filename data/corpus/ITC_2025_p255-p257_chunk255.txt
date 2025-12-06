@@ -1,0 +1,188 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 255-257
+
+[PAGE 255]
+Consolidated Statement of Cash Flows
+for the year ended 31st March, 2025
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+C. Cash Flow from Financing Activities
+Proceeds from issue of share capital 797.33 1442.83
+Proceeds from current borrowings 89.50 8.00
+Repayment of current borrowings (52.50) –
+Repayment of non-current borrowings (1.52) (1.57)
+Principal payment of lease liabilities (65.52) (66.89)
+Interest paid (50.01) (46.25)
+Net increase in statutory restricted accounts balances 8.09 12.12
+Dividend paid (17782.22) (19899.20)
+Dividend distribution tax refund received 19.45 –
+NET CASH USED IN FINANCING ACTIVITIES (17037.40) (18550.96)
+NET INCREASE IN CASH AND CASH EQUIVALENTS 193.82 190.67
+OPENING CASH AND CASH EQUIVALENTS 596.58 405.91
+LESS: ON DEMERGER [Refer Note 30(viii)] (199.74) –
+CASH AND CASH EQUIVALENTS ACQUIRED ON BUSINESS
+COMBINATION [Refer Note 30(xix)] 31.72 –
+CLOSING CASH AND CASH EQUIVALENTS 622.38 596.58
+Notes:
+1. The above Statement of Cash Flows has been prepared under the “Indirect Method” as set out in Ind AS - 7 “Statement of Cash Flows”.
+2. CASH AND CASH EQUIVALENTS:
+As at As at
+31st March, 2025 31st March, 2024
+Cash and cash equivalents as above 622.38 596.58
+Unrealised gain / (loss) on foreign currency cash and cash equivalents (2.38) 29.31
+Cash and cash equivalents (Note 13) 620.00 625.89
+3. Net Cash Flow from Operating Activities includes an amount of ` 456.51 Crores (2024 - ` 450.50 Crores) spent towards Corporate
+Social Responsibility.
+4. Disclosure of change arising from financing activities in respect of lease liabilities - Refer Note 17.
+The accompanying notes 1 to 33 are an integral part of the Consolidated Financial Statements.
+On behalf of the Board
+In terms of our report attached
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003 S. DUTTA Director & Chief Financial Officer
+Arvind Sethi (DIN : 01804345)
+Partner R. K. SINGHI Company Secretary
+(Membership No.: 89802) (Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 237
+
+[PAGE 256]
+Notes
+to the Consolidated Financial Statements
+Group Information
+ITC Limited (the ‘Holding Company’) [CIN: L16005WB1910PLC001985] its subsidiaries (together referred to as the ‘Group’)
+is a public limited company domiciled in India with has presence in multiple businesses spanning
+its registered office located at Virginia House, Fast-Moving Consumer Goods (Cigarettes & Cigars,
+37 Jawaharlal Nehru Road, Kolkata 700 071. The Holding Foods, Personal Care Products, Education &
+Company’s shares are listed on the National Stock Stationery Products, Safety Matches and Agarbattis),
+Exchange of India Limited, BSE Limited and The Calcutta Paperboards, Paper and Packaging, Agri Business and
+Stock Exchange Limited. The Holding Company and Information Technology.
+1. Material Accounting Policies
+Statement of Compliance affects only that period; they are recognised in the period
+These financial statements have been prepared in of the revision and future periods if the revision affects both
+accordance with Indian Accounting Standards (Ind AS) current and future periods.
+notified under Section 133 of the Companies Act, 2013 and Basis of Consolidation
+amendments thereto. The financial statements have also
+The Consolidated Financial Statements (CFS) include the
+been prepared in accordance with the relevant presentation
+financial statements of the Company and its subsidiaries
+requirements of the Companies Act, 2013. The Group
+together with the share of the total comprehensive income
+adopted Ind AS from 1st April, 2016.
+of joint ventures and associates.
+Basis of Preparation Subsidiaries are entities controlled by the Group. Associates
+The financial statements are prepared in accordance with are entities over which the Group exercise significant
+the historical cost convention, except for certain items that influence but does not control. Joint Ventures (“JV”) are
+are measured at amortised cost or fair value, as explained entities in which the Group has the ability to exercise control
+in the accounting policies. jointly with one or more uncontrolled entities and the parties
+have proportionate interests in the assets and liabilities of
+Fair Value is the price that would be received to sell an
+the JV entity.
+asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date, Control, significant influence and joint control is assessed
+regardless of whether that price is directly observable or annually with reference to the voting power (usually arising
+estimated using another valuation technique. In estimating from equity shareholdings and potential voting rights) and
+the fair value of an asset or a liability, the Group takes into other rights (usually contractual) enjoyed by the Group in
+account the characteristics of the asset or liability if market its capacity as an investor that provides it the power and
+participants would take those characteristics into account consequential ability to direct the investee’s activities and
+when pricing the asset or liability at the measurement date. significantly affect the Group’s returns from its investment.
+Fair value for measurement and / or disclosure purposes in Such assessment requires the exercise of judgement and
+these consolidated financial statements is determined on is disclosed by way of a note to the Financial Statements.
+such a basis, except for share-based payment transactions The Group is considered not to be in control of entities
+that are within the scope of Ind AS 102 – Share-based where it is unclear as to whether it enjoys such power over
+Payment, leasing transactions that are within the scope of the investee.
+Ind AS 116 – Leases, and measurements that have some The assets, liabilities, income and expenses of subsidiaries
+similarities to fair value but are not fair value, such as net are aggregated and consolidated, line by line, from the date
+realisable value in Ind AS 2 – Inventories or value in use in control is acquired by any Group entity to the date it ceases.
+Ind AS 36 – Impairment of Assets. Profit or loss and each component of other comprehensive
+The preparation of financial statements in conformity income are attributed to the Group as owners and to the
+with Ind AS requires management to make judgements, non-controlling interests. The Group presents the non-
+estimates and assumptions that affect the application of the controlling interests in the Balance Sheet within equity,
+accounting policies and the reported amounts of assets and separately from the equity of the Group as owners. The
+liabilities, the disclosure of contingent assets and liabilities excess of the Group’s investment in a subsidiary over
+at the date of the financial statements, and the reported its share in the net worth of such subsidiary on the date
+amounts of revenues and expenses during the year. Actual control is acquired is treated as goodwill while a deficit is
+results could differ from those estimates. The estimates considered as a capital reserve in the CFS.
+and underlying assumptions are reviewed on an ongoing An investment in an associate or a JV is initially recognised
+basis. Revisions to accounting estimates are recognised at cost on the date of the investment, and inclusive of
+in the period in which the estimate is revised if the revision any goodwill / capital reserve embedded in the cost, in the
+238 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 257]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+Balance Sheet. The proportionate share of the Group in value, over their useful lives as specified in Schedule II of
+the net profits / losses as also in the other comprehensive the Companies Act, 2013 on a straight-line basis. Land is
+income is recognised in the Statement of Profit and Loss not depreciated.
+and the carrying value of the investment is adjusted by a
+The estimated useful lives of PP&E of the Group are as
+like amount (referred as ‘equity method’).
+follows:
+All intragroup assets and liabilities, equity, income, expenses
+Buildings 30-60 Years
+and cash flows relating to transactions between members
+of the Group are eliminated in full on consolidation. While Leasehold Improvement Shorter of lease period or
+preparing CFS, appropriate adjustments are made to estimated useful lives
+subsidiaries / associates / JVs financial statements to ensure Plant and Equipment 3-25 Years
+conformity with the Group’s accounting policies.
+Furniture and Fixtures 8-10 Years
+Operating Cycle
+Vehicles 8-10 Years
+All assets and liabilities have been classified as current or
+Office Equipment 5 Years
+non-current as per the Group’s normal operating cycle and
+other criteria set out in the Schedule III to the Companies Act, PP&E’s residual values, useful lives and method of
+2013 and Ind AS 1 – Presentation of Financial Statements depreciation are reviewed at each Balance Sheet date
+based on the nature of products and the time between the and changes, if any, are treated as changes in accounting
+acquisition of assets for processing and their realisation in estimate.
+cash and cash equivalents. The Group has identified twelve
+Goodwill and Other Intangible Assets
+months as its operating cycle.
+Goodwill
+Property, Plant and Equipment
+Goodwill arising on Business Combination is carried at
+Property, plant and equipment (PP&E) are stated at cost of
+cost less any accumulated impairment losses. The Group
+acquisition or construction less accumulated depreciation
+also presents the excess of the Group’s investment in a
+and accumulated impairment, if any. For this purpose,
+subsidiary over its share in the net worth of such subsidiary
+cost includes deemed cost which represents the carrying
+on the date control is acquired as goodwill arising on
+value of PP&E recognised as at 1st April, 2015 measured
+consolidation.
+as per the previous Generally Accepted Accounting
+Principles (GAAP). Goodwill is annually tested for impairment. Impairment
+loss, if any, to the extent the carrying amount exceeds the
+Cost is inclusive of inward freight, import duties & non-
+recoverable amount is charged off to the Statement of Profit
+refundable taxes and incidental expenses related
+and Loss as it arises and is not reversed. For impairment
+to acquisition. In respect of major projects involving
+construction, related pre-operational expenses form part of testing, goodwill is allocated to Cash Generating Unit (CGU)
+the value of assets capitalised. Expenses capitalised also or group of CGUs to which it relates, which is not larger
+include applicable borrowing costs for qualifying assets, than an operating segment, and is monitored for internal
+if any. All upgradation / enhancements are charged off as management purposes.
+revenue expenditure unless they bring similar significant On disposal of the CGU or group of CGUs, attributable
+additional benefits. amount of goodwill is included in the determination of the
+An item of PP&E is derecognised upon disposal or when profit or loss recognised in the Statement of Profit and Loss.
+no future economic benefits are expected to arise from
+Other Intangible Assets
+the continued use of asset. Any gain or loss arising on the
+Other Intangible Assets that the Group controls and from
+disposal or retirement of an item of PP&E is determined as
+which it expects future economic benefits, are capitalised
+the difference between the sales proceeds and the carrying
+upon acquisition and measured initially:
+amount of the asset and is recognised in the Statement of
+Profit and Loss. a. for assets acquired in a business combination, at fair
+value on the date of acquisition.
+Depreciation of these assets commences when the assets
+are ready for their intended use, which is generally on b. for separately acquired assets, at cost comprising
+commissioning. Items of PP&E are depreciated in a manner the purchase price (including import duties and non-
+that amortizes the cost (or other amount substituted for refundable taxes) and directly attributable costs to
+cost) of the assets after commissioning, less its residual prepare the asset for its intended use.
+ITC Limited REPORT AND ACCOUNTS 2025 239

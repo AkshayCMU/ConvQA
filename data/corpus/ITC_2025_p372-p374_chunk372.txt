@@ -1,0 +1,179 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 372-374
+
+[PAGE 372]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+8. Details of training given to Employees and Workers:
+FY 2024-25 FY 2023-24
+Total (A) On Health And On Skill Total (D) On Health And On Skill
+Category Safety Measures Upgradation Safety Measures Upgradation
+No. % No. % No. % No.(F) %
+(B) (B/A) (C) (C/A) (E) (E/D) (F/D)
+Employees
+Male 9,234 3,703 40% 6,870 74% 8,944 2,432 27% 4,217 47%
+Female 1,932 630 33% 1,467 76% 1,664 514 31% 908 55%
+Total 11,166 4,333 39% 8,337 75% 10,608 2,946 28% 5,125 48%
+Workers
+Male 10,197 6,015 59% 4,893 48% 10,084 6,827 68% 4,055 40%
+Female 678 636 94% 286 42% 589 535 91% 115 20%
+Total 10,875 6,651 61% 5,179 48% 10,673 7,362 69% 4,170 39%
+Note: The above includes formal Induction training upon joining and refresher trainings (Once in 3 years). Other forms of
+EHS trainings on the job, like safety briefings, tool box talks, drills etc. which would have covered most of the employees and
+workers have not been included.
+9. Details of Performance and Career Development Reviews of Employees and Workers.
+FY 2024-25 FY 2023-24
+Category Current Financial Year Previous Financial Year
+Total (A) No. (B) % (B/A) Total (C) No. (D) % (D/C)
+Employees
+Male 9,234 9,234 100% 8,944 8,944 100%
+Female 1,932 1,932 100% 1,664 1,664 100%
+Total 11,166 11,166 100% 10,608 10,608 100%
+Workers
+Male 10,197 7,863 77% 10,084 7,327 73%
+Female 678 665 98% 589 575 98%
+Total 10,875 8,528 78% 10,673 7,902 74%
+10. Health and safety management system: providing appropriate training to employees as well as
+service providers’ employees, while continually investing
+a. Whether an occupational health and safety
+in state-of-the-art technology and in developing human
+management system has been implemented by the
+capital.
+entity? (Yes/ No). If yes, the coverage of such system?
+EHS requirements are integrated at the design stage for
+Yes, ITC has implemented occupational health and safety
+all new investments. Compliance with EHS standards
+management system in all its Factories, Offices and
+during the construction phase as well as in operational
+Warehouses. ITC endeavours that Environment, Health
+phase of ITC units, Warehouses and Offices is ensured
+& Safety (EHS) standards at all its units are ahead of
+by implementing project EHS management systems and
+applicable legislation and regulations, Standards and
+through established EHS management systems with
+Codes, and are benchmarked against international
+designated roles and responsibilities for competent
+best practices across sectors in which it operates. ITC’s
+resources, respectively.
+approach to occupational health & safety standards is
+articulated in the Board approved Environment, Health b. What are the processes used to identify work-
+and Safety Policy. It is based on an EHS management related hazards and assess risks on a routine and non-
+system that emphasises on enhancing EHS performance routine basis by the entity?
+by setting objectives and targets and continually ITC has identified EHS Risk Management framework
+monitoring key performance indicators. as one of the integral steps towards building a robust
+Further, the Company promotes a culture of safety safety management system in all its factories, offices
+through behavioural change programmes and by and warehouses. This framework entails a set of
+XXV
+
+[PAGE 373]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+processes for continual risk identification, assessment Necessary training is given to all employees in recognising
+and mitigation, with active participation of the workforce hazards and issues. Joint inspections by management
+in each of its facilities. Shop floor processes in this regard representatives and employees on the shop floor are also
+include hazard spotting tours, suggestion schemes, daily carried out at regular intervals, and respective corrective
+briefings and periodic EHS Committee meetings in which and preventive measures are undertaken to mitigate the
+employees participate. In addition, all ITC Units undergo identified risks. In order to create an open and transparent
+periodic Environment, Health & Safety audits at the safety culture across ITC Units, employees are encouraged
+Business as well as Corporate level which endeavours to participate and discuss safety related issues in forums
+to identify additional latent risks besides verifying like periodic EHS Committee meetings and Departmental
+compliance with standards. Several national awards and Open Forums.
+certifications acknowledge ITC’s commitment and efforts d. Do the employees/ worker of the entity have access
+towards providing a safe and healthy workplace to all. to non-occupational medical and healthcare services?
+c. Whether you have processes for workers to report (Yes/No)
+the work-related hazards and to remove themselves
+Yes, permanent employees and their family members have
+from such risks. (Y/N)
+access to the Company provided or Company supported
+Yes. A system is in place across ITC factories and offices for medical benefits. Workers have access to medical benefits
+workers to spot and report work-related hazards, and offer through Company provided group insurance policies,
+suggestions for improvements. This is further enabled Company funded medical support and where applicable,
+through digitisation, enhancing worker participation. statutory benefits under the Employees’ State Insurance Act.
+11. Details of safety related incidents.
+Safety Incident/Number Category* FY 2024-25 FY 2023-24
+Lost Time Injury Frequency Rate (LTIFR) (per one million-person Employees 0.04 0.05
+hours worked)
+Workers 0.16 0.09
+Total recordable work-related injuries Employees 2 3
+Workers 11 7
+No. of fatalities Employees 0 0
+Workers 2 0
+High consequence work-related injury or ill-health (excluding Employees 0 0
+fatalities)
+Workers 0 0
+*Including in the contract workforce
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A
+12. Describe the measures taken by the entity to ensure a safe and healthy work place.
+In line with the Company’s Environment, Health and Safety Policy, safety as a value-led concept has been institutionalised
+by inculcating a sense of ownership at all levels and driving behavioural change, leading to the creation of a cohesive
+safety culture. ITC has put in place comprehensive health and safety protocols for the safety and well-being of its
+stakeholders. ITC endeavours that EHS standards at all its units are ahead of applicable legislations, regulations, and
+Standards and Codes, and are benchmarked against international best practices across the diverse sectors in which
+it operates.
+ITC continues to strengthen its safety processes, adopting globally recognised best practices, and ensuring that facilities
+are designed, constructed, operated and maintained in an inherently safe manner. ITC will continue to undertake efforts
+for creating a safe working environment and a strong safety culture by:
+• Integrating safety at the design stage itself and ensuring it through design reviews, stage inspections and pre-
+commissioning audits, thereby strengthening the engineering control measures through ‘design for safety’ principles.
+• Conducting pre-commissioning and periodic operational audits during construction and operational stages respectively.
+• Implementing behaviour-based safety initiatives to facilitate engagement for collaborative work on improving
+safety performances.
+• Adoption of keystone behaviours by individual units to demonstrate collective commitment and create a shared
+vision of safety and discipline.
+• Embracing and leveraging the digital landscape for safety management system.
+• Identifying solutions for strengthening the safety culture aligned with the goal of ‘Zero Accidents’.
+XXVI
+
+[PAGE 374]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+13. Number of Complaints on the following made by employees and workers.
+Employees are encouraged to report work area related safety issues through various programmes.
+FY 2024-25 FY 2023-24
+Filed During Pending Remarks Filed During Pending Remarks
+The Year Resolution The Year Resolution
+At The End Of At The End Of
+Year Year
+Working
+0 0 - 12 1* -
+Conditions
+Health &
+0 0 - 0 0 -
+Safety
+*Resolved after 31st March, 2024
+14. Assessments for the year:
+% of your plants and offices that were assessed (by
+entity or statutory authorities or third parties)
+Health and safety practices 100%
+Working Conditions 100%
+15. Provide details of any corrective action taken or underway to address safety-related incidents (if any) and on
+significant risks / concerns arising from assessments of health & safety practices and working conditions.
+Internal audits of ITC units at Divisional as well as corporate level are being conducted on a periodic basis. Corrective
+and preventive measures are taken based on the findings. Detailed investigations are carried out for all accidents to
+identify the root causes and to understand the measures required to prevent recurrence. Accident investigation findings
+with corrective and preventive measures form part of the report presented to the Corporate Management Committee
+(monthly) and the Board of Directors (generally at every meeting). The learnings from all accidents are disseminated
+across the organisation at periodic intervals and a formal compliance obtained.
+Leadership Indicators
+1. Does the entity extend any life insurance or any compensatory package in the event of death of (A) Employees
+(Y/N) (B) Workers (Y/N).
+Yes. In the unfortunate event of the death of an employee/worker, the Company extends financial support to family
+members of the employee/worker.
+2. Provide the measures undertaken by the entity to ensure that statutory dues have been deducted and deposited
+by the value chain partners.
+The Company ensures that statutory dues as payable by service providers for their employees are deposited on time
+and in full through periodic audits and controls.
+3. Provide the number of employees / workers having suffered high consequence work-related injury / ill-health
+/ fatalities (as reported in Q11 of Essential Indicators above), who have been rehabilitated and placed in suitable
+employment or whose family members have been placed in suitable employment.
+Total No. Of Affected No. Of Employees/Workers That Are
+Employees/Workers* Rehabilitated And Placed In Suitable
+Employment Or Whose Family Members
+Have Been Placed In Suitable Employment*
+FY 2024-25 FY 2023-24 FY 2024-25 FY 2023-24
+Employees 0 0 0 0
+Workers 2 0 2 0
+*Onsite Accidents
+XXVII

@@ -1,0 +1,167 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 264-266
+
+[PAGE 264]
+Notes
+to the Consolidated Financial Statements
+2. Use of estimates and judgements
+The preparation of financial statements in conformity variability of its return has concluded that it does not
+with generally accepted accounting principles requires ‘control’ these trusts.
+management to make estimates and assumptions that 2. Significant influence:
+affect the reported amounts of assets and liabilities
+The Group assessed whether or not it has significant
+and disclosure of contingent liabilities at the date of the
+influence on its investees based on its practical ability to
+financial statements and the results of operations during
+participate in the financial and operating policy decisions
+the reporting period end. Although these estimates are
+of the investee, though it is not in control or in joint
+based upon management’s best knowledge of current
+control of these policies. Based on such assessment,
+events and actions, actual results could differ from these
+the Group determined that the entities listed in the
+estimates.
+notes to the financial statements are the only entities
+The estimates and underlying assumptions are reviewed on over which the Group has significant influence, and
+an ongoing basis. Revisions to accounting estimates are accordingly recognised as associates.
+recognised in the period in which the estimate is revised
+3. Joint Control:
+if the revision affects only that period, or in the period of
+(i) The Group holds 27.90% of the equity share capital
+the revision and future periods if the revision affects both
+of Logix Developers Private Limited, a company
+current and future periods.
+intended for the purpose of developing a luxury
+A. Judgements in applying accounting policies hotel-cum-service apartment complex. The Group
+The following are the judgements, apart from those involving has concluded that the key decisions about relevant
+estimations (see note B below), that the Group have made activities of such company are made jointly between
+in the process of applying the accounting policies and that the Group and the co-venturer (who holds 72.10% of
+have a significant effect on the amounts recognised in the the equity share capital) and both the parties have
+consolidated financial statements: rights to the net assets of such arrangement.
+1. Control: (ii) The Group holds 50% of the equity share capital
+The Group assessed whether or not it has control on its of ITC Filtrona Limited, a company involved in
+investees based on whether, as an investor, it has the manufacture and sale of filter rods. The Group has
+power / rights and consequently the practical ability to concluded that the key decisions about relevant
+direct the relevant activities of its investees unilaterally. activities of such company are made jointly between
+In making this judgement, the Group considered the the Group and the co-venturer (who holds 50% of
+absolute size of its holding, the relative size of and the equity share capital) and both the parties have
+dispersion of other shareholders, and whether any rights to the net assets of such arrangement.
+contractual arrangements exist between the Company 4. Useful life of Intangible Assets:
+(and its subsidiaries) and other shareholders of the The Group is required to determine whether its
+investees. Based on this, and in accordance with its intangible assets have indefinite or finite life which is a
+Accounting Policy, the Group has determined that the subject matter of judgement. Certain trademarks have
+entities listed in the notes to the financial statements are been considered of having an indefinite useful life taking
+the only entities over which Group has control. into account that there are no technical, technological or
+The Company is a settlor for certain trusts, i.e., ITC commercial risks of obsolescence or limitations under
+Sangeet Research Academy, ITC Education and Health contract or law. Other trademarks have been amortised
+Care Trust and ITC Rural Development Trust. The over their useful economic life. Refer notes to the
+Group while considering the nature and insignificant financial statements.
+246 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 265]
+Notes
+to the Consolidated Financial Statements
+2. Use of estimates and judgements (Contd.)
+B. Key sources of estimation uncertainty 3. Actuarial Valuation:
+The following are the key assumptions concerning the The determination of Group’s liability towards defined
+future, and other key sources of estimation uncertainty at the benefit obligation to employees is made through
+end of the reporting period that may have a significant risk independent actuarial valuation including determination
+of causing a material adjustment to the carrying amounts of
+of amounts to be recognised in the Statement of Profit
+assets and liabilities within the next financial year.
+and Loss and in other comprehensive income. Such
+1. Useful lives of property, plant and equipment, valuation depends upon assumptions determined after
+investment property and intangible assets: taking into account inflation, seniority, promotion and
+As described in the material accounting policies, the other relevant factors such as supply and demand
+Group reviews the estimated useful lives of property, factors in the employment market. Information about
+plant and equipment, investment property and intangible such valuation is provided in the notes to the financial
+assets at the end of each reporting period and the impact statements.
+of changes in the estimated useful life is considered in
+4. Claims, Provisions and Contingent Liabilities:
+the period in which the estimate is revised.
+The Group has ongoing litigations with various regulatory
+2. Fair value measurements and valuation processes:
+authorities and third parties. Where an outflow of funds
+Some of the Group’s assets and liabilities are
+is believed to be probable and a reliable estimate of
+measured at fair value for financial reporting purposes.
+the outcome of the dispute can be made based on
+In estimating the fair value of an asset or a liability, the
+management’s assessment of specific circumstances of
+Group uses market-observable data to the extent it is
+each dispute and relevant external advice, management
+available. Where Level 1 inputs are not available, the
+provides for its best estimate of the liability.
+Group engages third party valuers, where required,
+to perform the valuation. Information about the valuation Such accruals are by nature complex and can take
+techniques and inputs used in determining the fair value number of years to resolve and can involve estimation
+of various assets, liabilities and share based payments uncertainty. Information about such litigations is
+are disclosed in the notes to the financial statements. provided in the notes to the financial statements.
+ITC Limited REPORT AND ACCOUNTS 2025 247
+
+[PAGE 266]
+Notes
+to the Consolidated Financial Statements
+(` in Crores)
+Gross Block
+Foreign Foreign
+Currency Acquired Transferred Currency
+As at Withdrawals Translation As at through Withdrawals pursuant Translation As at
+31st March, and Reserve 31st March, business and to Scheme Reserve 31st March,
+Particulars 2023 Additions adjustments adjustments 2024 Additions combinations@ adjustments# of Demerger* adjustments 2025
+3A. Property, Plant and Equipment 1
+Land 2 2111.01 20.18 17.85 – 2113.34 74.34 – 3.92 1012.21 – 1171.55
+Buildings 9504.71 1068.85 11.62 – 10561.94 1191.57 – 2.71 4527.11 18.38 7242.07
+Leasehold Improvements 17.21 17.15 3.05 0.03 31.34 3.13 – 0.16 7.56 – 26.75
+Plant and Equipment 18431.75 2410.68 166.09 0.17 20676.51 1879.75 0.32 205.73 2972.00 11.83 19390.68
+Furniture and Fixtures 999.77 78.15 9.88 0.04 1068.08 551.84 – 7.37 1342.80 12.61 282.36
+Vehicles 185.71 29.03 25.69 0.14 189.19 28.68 – 19.63 62.74 0.07 135.57
+Office Equipment 43.68 12.32 2.92 0.01 53.09 13.33 – 2.23 1.42 0.11 62.88
+Railway Sidings 1.73 – – – 1.73 – – – – – 1.73
+TOTAL 31295.57 3636.36 237.10 0.39 34695.22 3742.64 0.32 241.75 9925.84 43.00 28313.59
+3B. Capital work-in-progress 2984.71 3252.02 3528.66 143.07 2851.14 2157.40 – 3669.20 301.65 49.91 1087.60
+3C. Investment Property 3 410.63 – (0.95) – 411.58 1.75 – 4.79 – – 408.54
+3D. Goodwill 4
+Goodwill on Consolidation 202.53 – – – 202.53 – 144.66 – 27.46 – 319.73
+Goodwill acquired through business
+combinations 577.20 – – – 577.20 – – – – – 577.20
+TOTAL 779.73 – – – 779.73 – 144.66 – 27.46 – 896.93
+3E. Other Intangible assets (acquired)
+Assets with indefinite life 4
+Trademarks 1889.78 – – – 1889.78 – – – – – 1889.78
+Assets with finite life
+Trademarks 30.82 – – – 30.82 – – – – – 30.82
+Computer Software 339.86 56.47 1.84 – 394.49 27.44 – 6.15 59.79 0.03 356.02
+Know How, Business and Commercial
+Rights 789.23 15.57 – – 804.80 3.77 – – 3.77 – 804.80
+Customer Relationships / Contracts 35.21 – – – 35.21 – 32.20 – – – 67.41
+Business Alliances / Partnerships – – – – – – 59.69 – – – 59.69
+Software Tools – – – – – – 75.71 – – – 75.71
+TOTAL 3084.90 72.04 1.84 – 3155.10 31.21 167.60 6.15 63.56 0.03 3284.23
+3F. Intangible assets under development 18.59 57.84 66.79 – 9.64 21.41 – 26.09 1.65 – 3.31
+3G. Right-of-use assets ^
+Land 718.50 9.55 0.19 24.22 752.08 0.16 – 0.32 347.99 12.13 416.06
+Buildings 267.53 132.51 49.90 0.09 350.23 78.11 6.92 105.31 49.17 0.57 281.35
+Plant and Equipment 48.63 – 6.80 – 41.83 – – 9.86 – – 31.97
+Vehicles 2.92 0.96 0.99 – 2.89 3.99 – 1.75 – 0.09 5.22
+TOTAL 1037.58 143.02 57.88 24.31 1147.03 82.26 6.92 117.24 397.16 12.79 734.60
+#
+Includes amounts transferred to Investment Property on its recognition.
+* Refer Note 30(viii)
+@ Refer Note 30(xix)
+&
+includes ` 304.98 Crores (2024 - ` 298.34 Crores) relating to discontinued operations.
+^ Also refer Note 30(ix)
+Notes:
+1. a) The above includes following assets given on operating lease: (` in Crores)
+As at 31st March, 2024 2024 As at 31st March, 2025 2025
+Depreciation Depreciation
+Accumulated Charge Accumulated Charge
+Particulars Gross Block Depreciation Net Block for the year Gross Block Depreciation Net Block for the year
+Buildings 0.94 0.25 0.69 0.02 0.94 0.28 0.66 0.03
+Plant and Equipment 260.13 179.85 80.28 13.81 281.04 193.23 87.81 12.59
+TOTAL 261.07 180.10 80.97 13.83 281.98 193.51 88.47 12.62
+b) The amount of expenditure recognised in the carrying amount of property, plant and equipment in the course of construction is ` 206.69 Crores (2024 - ` 195.73 Crores)
+2. Land includes certain lands at Munger with Gross Block - ` 1.16 Crores (2024 - ` 1.16 Crores) which stood vested with the State of Bihar under the Bihar Land Reforms Act, 1950 for which compensation has not yet been determined.
+248 ITC Limited REPORT AND ACCOUNTS 2025

@@ -1,0 +1,126 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 405-407
+
+[PAGE 405]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Our responsibilities
+We are responsible for:
+Planning and performing the engagement to obtain reasonable assurance on the sustainability
+disclosures in the BRSR Core, including the Exhibit-A to BRSR, are free from material misstatement,
+whether due to fraud or error, in accordance with the Reporting Criteria;
+Forming an independent opinion, based on the procedures we have performed and the evidence we
+have obtained; and
+Reporting our reasonable assurance opinion to the Board of Directors of the Company.
+Summary of the work we performed as the basis for our opinion
+We exercised professional judgment and maintained professional skepticism throughout the engagement.
+We designed and performed our procedures to obtain evidence that is sufficient and appropriate to provide
+a basis for our reasonable assurance opinion.
+The nature, timing, and extent of the procedures selected depended on our judgement, including an
+assessment of the risks of material misstatement of the information covered by reasonable assurance,
+whether due to fraud or error. We identified and assessed the risks of material misstatement through
+understanding the ISI covered by reasonable assurance and the engagement circumstances. We also
+obtained an understanding of the internal control relevant to the ISI covered by reasonable assurance in
+order to design procedures that are appropriate in the circumstances but not for the purpose of expressing
+an opinion on the effectiveness of internal controls. In carrying out our engagement, we:
+assessed the suitability of the criteria used by the Company in preparing the ISI covered by reasonable
+assurance;
+evaluated the appropriateness of reporting policies, quantification methods and models used in the
+preparation of the information covered by reasonable assurance and the reasonableness of estimates
+made by the Company;
+performed substantive testing of data related to ISI, limited to 20 operational locations of the Company
+(namely, Integrated Consumer Goods Manufacturing and Logistics (ICML) Mysore; ICML
+Kapurthala; ICML Panchla; ICML Haridwar; ICML Pune; Branded Packaged Foods business (FBD)
+Munger, ITC Maurya; Sheraton, New Delhi, Paperboards and Specialty Papers Division (PSPD)
+Tribeni; PSPD Kovai; PSPD Bhadrachalam; Personal Care Products Business Division (PCPBD)
+Manpura; PCPB Haridwar; India Tobacco Division (ITD) Bangalore; ITD Pune; ITD Munger; KGLT
+Mysore; Packaging and Printing Business (PPB)Munger; PPB Nadiad; PPB Haridwar);
+relied on the audited standalone financial statements for the year ended 31 March 2025, audited by
+Company’s statutory auditors, for financial data included in the BRSR Core format as per Annexure-1
+namely- Principle 1- E8, Principle 1 - E9, Principle 3 - E1c, Principle 8 - E4 and Principle 8 - E5; and
+evaluated the overall presentation of the information covered by reasonable assurance.
+LVIII
+
+[PAGE 406]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Exclusions
+Our assurance scope excludes the following and therefore we do not express an opinion on the same:
+Any form of review of the commercial merits, technical feasibility, accuracy, compliance with
+applicable legislation for the project. We are not required to verify any of the judgements and
+commercial risks associated with the project, nor comment upon the possibility of the financial
+projections being achieved.
+The Company’s statements that describe the strategy, progress on goals (other than those listed under
+the scope of assurance), expression of opinion, claims, belief, aspiration, expectation, aim to future
+intention provided by the Company, and assertions related to Intellectual Property Rights and other
+competitive issues.
+Operations of the Company other than those mentioned in the scope of assurance.
+Aspects of the BRSR and the data/information (qualitative or quantitative) other than the ISI.
+Data and information outside the defined reporting period i.e., from 1 April 2024 to 31 March 2025.
+For KPMG Assurance and Consulting Services LLP
+Shivananda Shetty
+Partner
+Date: June 13, 2025
+Place: Gurugram
+LIX
+
+[PAGE 407]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Annexure – 1
+BRSR Core Attributes of ITC Limited
+Principle Attribute/Area Parameter/Metric
+Fairness in Engaging with
+Principle 1 - E8 Number of days of accounts payable
+Customers and Suppliers
+Concentration of purchases & sales done with trading houses,
+Principle 1 - E9 Open-ness of business dealers, and related parties Loans and advances & investments
+with related parties
+Spending on measures towards well-being of employees
+Principle 3 - E1 c
+Enhancing Employee and workers-cost incurred as a % of total revenue of the
+Wellbeing and Safety company
+Details of safety related incidents (LTIFR, Recordable Injuries,
+Principle 3 - E11
+Fatalities, High Consequence Injuries)
+Principle 5 - E3 b Gross wages paid to females as % of total wages paid by the entity
+Enabling Gender
+Complaints filed under the Sexual Harassment of Women at
+Principle 5 - E7 Diversity in Business
+Workplace (Prevention, Prohibition and Redressal) Act, 2013
+Total energy consumption
+Principle 6 - E1 Energy Footprint Energy intensity (per rupee of turnover, per rupee of turnover
+adjusted for PPP, per physical output)
+Provide details of water withdrawal by source
+Total water consumption
+Principle 6 - E3 Water Footprint
+Water consumption intensity (per rupee of turnover, per rupee of
+turnover adjusted for PPP, per physical output)
+Principle 6 - E4 Water Footprint Water Discharge by destination and levels of Treatment
+Total Scope 1 emissions
+Total Scope 2 emissions
+Principle 6- E7 GHG Footprint
+GHG Emission Intensity (Scope 1+2) (per rupee of turnover, per
+rupee of turnover adjusted for PPP, per physical output)
+Provide details related to waste generated by category of waste
+Waste intensity (per rupee of turnover, per rupee of turnover
+adjusted for PPP, per physical output)
+Embracing circularity -
+Principle 6 - E9 Each category of waste generated, total waste recovered through
+waste details
+recycling, re-using or other recovery operations
+For each category of waste generated, total waste disposed by
+nature of disposal method
+Percentage of input material (inputs to total inputs by value)
+Principle 8 - E4
+Enabling Inclusive sourced from suppliers (MSMEs/small suppliers and directly
+Development within India)
+Wages paid to persons employed in smaller towns as % of total
+Principle 8 - E5
+wage cost
+Fairness in Engaging with Instances involving loss / breach of data of customers as a
+Principle 9 - E7
+Customers and Suppliers percentage of total data breaches or cyber security events
+6 | P a g e
+LX

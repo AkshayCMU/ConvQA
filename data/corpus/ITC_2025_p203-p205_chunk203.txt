@@ -1,0 +1,148 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 203-205
+
+[PAGE 203]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+(` in Crores)
+5 Net Asset / (Liability) recognised in
+As at 31st March, 2025 As at 31st March, 2024
+Balance Sheet
+Current Non-current Current Non-current
+– Pension (12.66) – 21.30 –
+– Gratuity (14.94) – (38.01) –
+– Leave Encashment (14.69) (148.04) (22.69) (148.79)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+IV Change in Defined Benefit
+Obligation (DBO)
+1 Present Value of DBO at the beginning
+of the year 898.65 496.77 171.48 878.89 439.40 154.53
+2 Current Service Cost 33.54 34.56 13.50 37.63 33.48 12.87
+3 Past Service Cost – – – – – –
+4 Interest Cost 57.38 31.61 11.09 62.89 31.13 11.06
+5 Remeasurement gains / (losses)
+a. Effect of changes in demographic
+assumptions – – – 1.65 0.74 0.42
+b. Effect of changes in financial
+assumptions 9.38 8.94 3.00 25.08 17.30 6.00
+c. Changes in asset ceiling (excluding
+interest income) – – – – – –
+d. Effect of experience adjustments 12.18 6.11 (0.07) (26.79) 23.27 0.60
+6 Curtailment Cost / (Credits) – – – – – –
+7 Settlement Cost / (Credits) – – – – – –
+8 Liabilities transferred pursuant to
+Scheme of Demerger (106.95) (70.26) (20.47) – – –
+9 Effects of transfer In / (Out) (0.02) – – (0.07) – –
+10 Benefits Paid (104.55) (55.02) (15.80) (80.63) (48.55) (14.00)
+11 Present Value of DBO at the
+end of the year 799.61 452.71 162.73 898.65 496.77 171.48
+(` in Crores)
+V Best Estimate of Employers’ Expected
+As at 31st March, 2025 As at 31st March, 2024
+Contribution for the next year
+– Pension 56.91 41.28
+– Gratuity 71.98 96.95
+ITC Limited REPORT AND ACCOUNTS 2025 185
+
+[PAGE 204]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+VI Change in Fair Value of Assets
+1 Plan Assets at the beginning
+of the year 919.95 458.76 – 854.51 423.43 –
+2 Interest Income 61.47 33.06 – 66.54 33.08 –
+3 Remeasurement Gains / (Losses)
+on plan assets 9.03 3.10 – 21.85 3.45 –
+4 Actual Company Contributions 22.10 67.42 – 57.75 47.35 –
+5 Assets transferred pursuant to Scheme
+of Demerger (121.03) (69.55) – – – –
+6 Effects of transfer In / (Out) (0.02) – – (0.07) – –
+7 Benefits Paid (104.55) (55.02) – (80.63) (48.55) –
+8 Plan Assets at the end of the year 786.95 437.77 – 919.95 458.76 –
+VII Actuarial Assumptions As at 31st March, 2025 As at 31st March, 2024
+Discount Rate (%) Discount Rate (%)
+1 Pension 6.75 7.00
+2 Gratuity 6.75 7.00
+3 Leave Encashment 6.75 7.00
+The estimates of future salary increases, generally between 4% to 6%, considered in actuarial valuations take account of
+inflation, seniority, promotion and other relevant factors such as supply and demand factors in the employment market.
+VIII Major Category of Plan Assets as a %
+As at 31st March, 2025 As at 31st March, 2024
+of the Total Plan Assets
+1 Government Securities / Special
+Deposit with RBI 14.33% 15.32%
+2 High Quality Corporate Bonds 11.58% 11.62%
+3 Insurer Managed Funds* 61.88% 61.69%
+4 Mutual Funds 7.74% 6.83%
+5 Cash and Cash Equivalents 4.47% 4.54%
+6 Term Deposits – –
+* In the absence of detailed information regarding plan assets which is funded with Insurance Companies, the composition
+of each major category of plan assets, the percentage or amount for each category to the fair value of plan assets has
+not been disclosed.
+The fair value of Government securities, corporate bonds and mutual funds are determined based on quoted market prices
+in active markets. The employee benefit plans do not hold any securities issued by the Company.
+186 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 205]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+IX Basis used to determine the Expected Rate of Return on Plan Assets
+The expected rate of return on plan assets is based on the current portfolio of assets, investment strategy and market
+scenario. In order to protect the capital and optimize returns within acceptable risk parameters, the plan assets are well
+diversified.
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+X Net Asset / (Liability) recognised
+in Balance Sheet (including experience
+adjustment impact)
+1 Present Value of Defined
+Benefit Obligation 799.61 452.71 162.73 898.65 496.77 171.48
+2 Fair Value of Plan Assets 786.95 437.77 – 919.95 458.76 –
+3 Status [Surplus / (Deficit)] (12.66) (14.94) (162.73) 21.30 (38.01) (171.48)
+4 Experience Adjustment of
+Plan Assets [Gain / (Loss)] 9.03 3.10 – 21.85 3.45 –
+5 Experience Adjustment of
+obligation [(Gain) / Loss] 12.18 6.11 (0.07) (26.79) 23.27 0.60
+XI. Sensitivity Analysis
+The Sensitivity Analysis below has been determined based on reasonably possible change of the respective assumptions
+occurring at the end of the reporting period, while holding all other assumptions constant. These sensitivities show the
+hypothetical impact of a change in each of the listed assumptions in isolation. While each of these sensitivities holds all
+other assumptions constant, in practice such assumptions rarely change in isolation and the asset value changes may
+partially offset this impact. For presenting the sensitivities, the present value of the Defined Benefit Obligation has been
+calculated using the projected unit credit method at the end of the reporting period, which is the same as that applied in
+calculating the Defined Benefit Obligation presented above. There was no change in the methods and assumptions used
+in the preparation of the Sensitivity Analysis from previous year.
+(` in Crores)
+DBO as at 31st March, 2025 DBO as at 31st March, 2024
+1 Discount Rate + 100 basis points 1333.62 1479.71
+2 Discount Rate - 100 basis points 1500.30 1664.94
+3 Salary Increase Rate + 1% 1501.98 1658.44
+4 Salary Increase Rate – 1% 1336.49 1483.91
+(` in Crores)
+Maturity Analysis of the Benefit Payments As at 31st March, 2025 As at 31st March, 2024
+1 Year 1 211.40 203.80
+2 Year 2 210.80 266.30
+3 Year 3 138.61 206.05
+4 Year 4 112.82 131.17
+5 Year 5 143.09 108.20
+6 Next 5 Years 473.50 570.92
+ITC Limited REPORT AND ACCOUNTS 2025 187

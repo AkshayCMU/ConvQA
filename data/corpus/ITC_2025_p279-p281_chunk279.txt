@@ -1,0 +1,143 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 279-281
+
+[PAGE 279]
+Notes
+to the Consolidated Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+9. Inventories*
+(At lower of cost and net realisable value)
+Raw materials (including packing materials) 10511.11 8727.39
+Work-in-progress 414.60 1334.72
+Finished goods (manufactured) 2580.62 2297.12
+Stock-in-trade (goods purchased for resale) 1348.07 1048.58
+Stores and spares 678.84 649.34
+Intermediates - Tissue paper and Paperboards 104.32 95.73
+TOTAL 15637.56 14152.88
+The above includes goods in transit as under:
+Raw materials (including packing materials) 255.30 159.15
+Finished Goods (manufactured) 3.01 –
+Stock-in-trade (goods purchased for resale) 8.36 2.89
+Stores and spares 3.68 2.45
+TOTAL 270.35 164.49
+The cost of inventories recognised as an expense includes ` 236.36 Crores (2024 - ` 157.99 Crores) in respect of
+write offs / write-downs of inventory to net realisable value. During the year, reversal of previous write-downs of ` 1.31 Crores
+(2024 - ` 1.87 Crores) have been made owing to subsequent increase in net realisable value.
+Inventories of ` 886.65 Crores (2024 - ` 1551.68 Crores) are expected to be recovered after more than twelve months.
+10. Biological assets other than bearer plants
+Balance at the beginning of the year 150.00 142.97
+Biological assets acquired during the year 12.39 1.55
+Cost incurred during the year 208.87 178.30
+Changes in fair value* 112.14 60.64
+Transfer of Biological assets to Inventories (8.74) (12.54)
+Biological assets sold during the year (276.12) (220.85)
+Effect of foreign exchange translation 0.04 (0.07)
+Balance at the end of the year 198.58 150.00
+* Represents aggregate gain / (loss) arising on account of change in fair value less costs to sell during the year.
+The Group had 2,87,54,144 numbers of TECHNITUBER® seed potatoes (2024 - 2,22,58,649 numbers).
+There were 132187 MT of field generated seed potatoes (2024 - 102762 MT). During the year, output of agricultural produce (potatoes)
+is 13633 MT (2024 - 13390 MT).
+In October 2024 - 23917 MT (October 2023 - 20827 MT) of seed potatoes were planted and in February / March 2025 - 148918 MT
+(February / March 2024 - 126806 MT) of seed potatoes were harvested as a result of quantitative biological transformation.
+Estimated amount of contracts remaining to be executed for acquisition / development of biological assets is ` 1.95 Crores
+(2024 - Nil).
+ITC Limited REPORT AND ACCOUNTS 2025 261
+
+[PAGE 280]
+Notes
+to the Consolidated Financial Statements
+Face Value ` As at 31st March, 2025 As at 31st March, 2024
+(Fully Paid
+unless stated Number (` in Number (` in
+otherwise) Crores) Crores)
+11. C urrent Investments (at fair value through
+profit or loss, unless stated otherwise) (Contd.)
+INVESTMENT IN EQUITY INSTRUMENTS
+In Others
+Quoted
+Ultra Tech Cement Limited 10 3 … 3 …
+Unquoted
+SKH Metals Limited 10 40,000 … 40,000 …
+Patheja Brothers Forgings and Stampings Limited 10 50,000 … 50,000 …
+Jind Textiles Limited 10 5,00,000 … 5,00,000 …
+Taib Capital Corporation Limited 10 2,45,000 … 2,45,000 …
+INVESTMENT IN BONDS IN THE NATURE OF
+DEBENTURES
+Quoted
+Tax Free Bonds - Secured, Redeemable &
+Non-Convertible
+National Highways Authority of India
+8.50% - Series II A - 05-Feb-2029 1,000 1,04,000 10.86 1,04,000 10.95
+REC Limited
+8.12% -Series 2 - 27-Mar-2027 1,000 60,000 6.10 60,000 6.16
+Taxable Bonds - Unsecured, Redeemable &
+Non-Convertible
+National Bank for Agriculture and
+Rural Development
+5.70% - Series 22 D - 31-Jul-2025 10,00,000 2,800 275.19 – –
+7.25% - Series 23 C - 01-Aug-2025 10,00,000 1,000 98.75 – –
+7.35% - Series 23 B - 08-Jul-2025 10,00,000 150 14.85 – –
+Small Industries Development Bank of India
+7.15% - Series II - 21-Jul-2025 10,00,000 250 24.71 – –
+7.25% - Series III - 31-Jul-2025 10,00,000 750 74.07 – –
+INVESTMENT IN CERTIFICATE OF DEPOSITS
+Unquoted
+Axis Bank Limited - 18-Jul-2024 5,00,000 – – 42,000 2039.00
+Axis Bank Limited - 16-Jul-2025 5,00,000 10,000 484.63 – –
+Axis Bank Limited - 17-Oct-2025 5,00,000 5,000 235.90 – –
+Axis Bank Limited - 18-Nov-2025 5,00,000 5,000 233.82 – –
+HDFC Bank Limited - 18-Jul-2024 5,00,000 – – 10,000 485.47
+Carried over 1458.88 2541.58
+262 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 281]
+Notes
+to the Consolidated Financial Statements
+Face Value ` As at 31st March, 2025 As at 31st March, 2024
+(Fully Paid
+unless stated Number (` in Number (` in
+otherwise) Crores) Crores)
+11. C urrent Investments (at fair value through
+profit or loss, unless stated otherwise) (Contd.)
+Brought forward 1458.88 2541.58
+INVESTMENT IN CERTIFICATE OF DEPOSITS (Contd.)
+HDFC Bank Limited - 25-Jul-2025 5,00,000 3,000 145.04 – –
+HDFC Bank Limited - 18-Dec-2025 5,00,000 1,000 47.39 – –
+Kotak Mahindra Bank Limited - 07-June-2024 5,00,000 – – 500 24.65
+Small Industries Development Bank of India -
+27-Feb-2025 5,00,000 – – 1,000 46.72
+INVESTMENT IN GOVERNMENT OR TRUST
+SECURITIES (at amortised cost)
+Unquoted
+Treasury Bill issued by Nepal Rastra Bank 2 11.09 – –
+National Savings Certificates (pledged with Mandi
+Samiti) (cost ` 2000.00) … …
+National Savings Certificate (cost ` 10000.00) … …
+INVESTMENT IN DEBT MUTUAL FUNDS
+Quoted
+Exchange Traded Funds
+Nippon India Mutual Fund 10 – – 58,69,560 70.52
+Unquoted
+Liquid / Overnight Funds
+Aditya Birla Sun Life Mutual Fund 100 22,485 0.94 – –
+Axis Mutual Fund 1,000 3,93,385 95.97 7,81,331 208.45
+DSP Mutual Fund 1,000 5,267 1.93 – –
+HDFC Mutual Fund 100 3,198 1.61 3,91,114 184.02
+ICICI Prudential Mutual Fund 100 – – 9,58,246 34.20
+Kotak Mahindra Mutual Fund 1,000 10,976 5.75 5,697 2.78
+LIC Mutual Fund 1,000 – – 2,31,584 100.18
+Nippon India Mutual Fund 100 8,39,206 11.51 – –
+Nippon India Mutual Fund 1,000 – – 3,41,195 199.82
+SBI Mutual Fund 1,000 16,616 6.67 49,240 16.98
+UTI Mutual Fund 1,000 26,505 11.26 34,046 13.41
+Ultra Short Term Funds
+Aditya Birla Sun Life Mutual Fund 100 2,02,77,140 1103.49 2,05,33,961 1035.28
+Axis Mutual Fund 10 9,61,441 1.47 12,41,530 1.76
+ICICI Prudential Mutual Fund 10 1,74,13,815 51.09 – –
+Kotak Mahindra Mutual Fund 10 26,25,58,620 1146.73 26,25,58,620 1065.78
+SBI Mutual Fund 1,000 3,05,559 182.05 2,47,159 136.90
+Carried over 4282.87 5683.03
+ITC Limited REPORT AND ACCOUNTS 2025 263

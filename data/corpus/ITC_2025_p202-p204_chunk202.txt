@@ -1,0 +1,155 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 202-204
+
+[PAGE 202]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+T hese Plans have a relatively balanced mix of investments in order to manage the above risks. The investment strategy is designed
+based on the interest rate scenario, liquidity needs of the Plans and pattern of investment as prescribed under various statutes.
+T he Trustees regularly monitor the funding and investments of these Plans. Risk mitigation systems are in place to ensure
+that the health of the portfolio is regularly reviewed and investments do not pose any significant risk of impairment. Periodic
+audits are conducted to ensure adequacy of internal controls. Pension obligation of the employees is secured by purchasing
+annuities thereby de-risking the Plans from future payment obligation.
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+Funded Unfunded Funded Unfunded
+I Components of Employer Expense
+– Recognised in the Statement of Profit
+and Loss
+1 Current Service Cost 33.54 34.56 13.50 37.63 33.48 12.87
+2 Past Service Cost – – – – – –
+3 Net Interest Cost (4.09) (1.45) 11.09 (3.65) (1.95) 11.06
+4 Total expense recognised in the
+Statement of Profit and Loss 29.45 33.11 24.59 33.98 31.53 23.93
+– Remeasurements recognised in Other
+Comprehensive Income
+5 Return on plan assets (excluding amounts
+included in Net interest cost) (9.03) (3.10) – (21.85) (3.45) –
+6 Effect of changes in demographic
+assumptions – – – 1.65 0.74 0.42
+7 Effect of changes in financial assumptions 9.38 8.94 3.00 25.08 17.30 6.00
+8 Changes in asset ceiling (excluding
+interest income) – – – – – –
+9 Effect of experience adjustments 12.18 6.11 (0.07) (26.79) 23.27 0.60
+10 Total remeasurements included in
+Other Comprehensive Income 12.53 11.95 2.93 (21.91) 37.86 7.02
+11 Total defined benefit cost recognised
+in the Statement of Profit and Loss and
+Other Comprehensive Income (4+10) 41.98 45.06 27.52 12.07 69.39 30.95
+The current service cost, past service cost and net interest cost for the year, as applicable, pertaining to Pension and
+Gratuity expenses have been recognised in “Contribution to Provident and other funds” and Leave Encashment in
+“Salaries and wages” under Note 25 and in the expenses of discontinued operations. The remeasurements of the net
+defined benefit liability are included in Other Comprehensive Income.
+(` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+II Actual Returns 70.50 36.16 – 88.39 36.53 –
+III Net Asset / (Liability) recognised
+in Balance Sheet
+1 Present Value of Defined Benefit Obligation 799.61 452.71 162.73 898.65 496.77 171.48
+2 Fair Value of Plan Assets 786.95 437.77 – 919.95 458.76 –
+3 Status [Surplus / (Deficit)] (12.66) (14.94) (162.73) 21.30 (38.01) (171.48)
+4 Restrictions on Asset Recognised – – – – – –
+184 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 203]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+(` in Crores)
+5 Net Asset / (Liability) recognised in
+As at 31st March, 2025 As at 31st March, 2024
+Balance Sheet
+Current Non-current Current Non-current
+– Pension (12.66) – 21.30 –
+– Gratuity (14.94) – (38.01) –
+– Leave Encashment (14.69) (148.04) (22.69) (148.79)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+IV Change in Defined Benefit
+Obligation (DBO)
+1 Present Value of DBO at the beginning
+of the year 898.65 496.77 171.48 878.89 439.40 154.53
+2 Current Service Cost 33.54 34.56 13.50 37.63 33.48 12.87
+3 Past Service Cost – – – – – –
+4 Interest Cost 57.38 31.61 11.09 62.89 31.13 11.06
+5 Remeasurement gains / (losses)
+a. Effect of changes in demographic
+assumptions – – – 1.65 0.74 0.42
+b. Effect of changes in financial
+assumptions 9.38 8.94 3.00 25.08 17.30 6.00
+c. Changes in asset ceiling (excluding
+interest income) – – – – – –
+d. Effect of experience adjustments 12.18 6.11 (0.07) (26.79) 23.27 0.60
+6 Curtailment Cost / (Credits) – – – – – –
+7 Settlement Cost / (Credits) – – – – – –
+8 Liabilities transferred pursuant to
+Scheme of Demerger (106.95) (70.26) (20.47) – – –
+9 Effects of transfer In / (Out) (0.02) – – (0.07) – –
+10 Benefits Paid (104.55) (55.02) (15.80) (80.63) (48.55) (14.00)
+11 Present Value of DBO at the
+end of the year 799.61 452.71 162.73 898.65 496.77 171.48
+(` in Crores)
+V Best Estimate of Employers’ Expected
+As at 31st March, 2025 As at 31st March, 2024
+Contribution for the next year
+– Pension 56.91 41.28
+– Gratuity 71.98 96.95
+ITC Limited REPORT AND ACCOUNTS 2025 185
+
+[PAGE 204]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+VI Change in Fair Value of Assets
+1 Plan Assets at the beginning
+of the year 919.95 458.76 – 854.51 423.43 –
+2 Interest Income 61.47 33.06 – 66.54 33.08 –
+3 Remeasurement Gains / (Losses)
+on plan assets 9.03 3.10 – 21.85 3.45 –
+4 Actual Company Contributions 22.10 67.42 – 57.75 47.35 –
+5 Assets transferred pursuant to Scheme
+of Demerger (121.03) (69.55) – – – –
+6 Effects of transfer In / (Out) (0.02) – – (0.07) – –
+7 Benefits Paid (104.55) (55.02) – (80.63) (48.55) –
+8 Plan Assets at the end of the year 786.95 437.77 – 919.95 458.76 –
+VII Actuarial Assumptions As at 31st March, 2025 As at 31st March, 2024
+Discount Rate (%) Discount Rate (%)
+1 Pension 6.75 7.00
+2 Gratuity 6.75 7.00
+3 Leave Encashment 6.75 7.00
+The estimates of future salary increases, generally between 4% to 6%, considered in actuarial valuations take account of
+inflation, seniority, promotion and other relevant factors such as supply and demand factors in the employment market.
+VIII Major Category of Plan Assets as a %
+As at 31st March, 2025 As at 31st March, 2024
+of the Total Plan Assets
+1 Government Securities / Special
+Deposit with RBI 14.33% 15.32%
+2 High Quality Corporate Bonds 11.58% 11.62%
+3 Insurer Managed Funds* 61.88% 61.69%
+4 Mutual Funds 7.74% 6.83%
+5 Cash and Cash Equivalents 4.47% 4.54%
+6 Term Deposits – –
+* In the absence of detailed information regarding plan assets which is funded with Insurance Companies, the composition
+of each major category of plan assets, the percentage or amount for each category to the fair value of plan assets has
+not been disclosed.
+The fair value of Government securities, corporate bonds and mutual funds are determined based on quoted market prices
+in active markets. The employee benefit plans do not hold any securities issued by the Company.
+186 ITC Limited REPORT AND ACCOUNTS 2025

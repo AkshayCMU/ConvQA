@@ -1,0 +1,158 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 367-369
+
+[PAGE 367]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+b. If yes, what percentage of inputs were sourced sustainably?
+ITC businesses, including Agri, FMCG and Paper Businesses, depend on farm and forestry-based supply chains for key
+raw materials. Accordingly, farmers constitute a vital part of ITC’s supply chain, and the Company engages with farmers
+to ensure adoption of sustainable agriculture practices. ITC’s key agri value chains are also certified as per global
+standards like Rainforest Alliance (RFA), Forest Stewardship Council®, Fairtrade, India Organic and USDA Organic.
+Note: For more details on ITC’s sustainable sourcing practices pertaining to key agri value chains and key value chain partners
+like third-party manufacturers, refer to ‘Sustainable and Climate Resilient Agriculture’ and ‘Sustainable Supply Chain and
+Responsible Sourcing’ sections of ITC Sustainability Report 2025.
+3. Describe the processes in place to safely reclaim your products for reusing, recycling and disposing at the end of
+life, for (a) Plastics (including packaging) (b) E-waste (c) Hazardous waste and (d) other waste.
+Description Of Processes
+Plastics ITC first achieved Plastic Neutrality in FY 2021-22 by implementing an integrated solid waste
+(including management programme that incorporates unique and multi-dimensional initiatives including
+packaging) the Company’s flagship waste management initiative ‘ITC WOW – Well-Being Out of Waste’. In
+FY 2024-25, the Company collected and sustainably managed 76,000 tonnes of plastic waste
+across the Country. The amount of plastic waste managed exceeded the amount of plastic
+packaging utilised by ITC during the year, enabling the Company to maintain the milestone of
+Plastic Neutrality.
+More than 99% of the solid waste generated in ITC's operations including plastic waste is sent
+for recycling.
+E-waste Not Applicable
+Hazardous Not Applicable
+waste
+Other waste All ITC Units have established systems and procedures to ensure that waste is disposed through
+authorised agencies in line with applicable regulations.
+Note: For further details, refer to the ‘Towards Circularity’ section of ITC Sustainability Report 2025.
+4. Whether Extended Producer Responsibility (EPR) is applicable to the entity’s activities (Yes / No). If yes, whether
+the waste collection plan is in line with the Extended Producer Responsibility (EPR) plan submitted to Pollution
+Control Boards? If not, provide steps taken to address the same.
+Yes, ITC is in compliance with the requirements of Extended Producer Responsibility (EPR) under the Plastic Waste
+Management Rules, 2016 (as amended).
+Leadership Indicators
+1. Has the entity conducted Life Cycle Perspective / Assessments (LCA) for any of its products (for manufacturing
+industry) or for its services (for service industry)?
+In line with the overall strategy to embed principles of sustainability into various stages of product or service life cycle, ITC
+has been conducting Life Cycle Assessments (LCA) of its products and services with an objective of evaluating the impacts
+and identifying areas for improvement. Over the years, LCA studies have been carried out for some of the Company’s key
+products from Paperboards and Specialty Papers Business, Personal Care Products Business, Educational & Stationery,
+Matches & Agarbatti and Branded Packaged Foods Businesses for identifying additional opportunities to reduce
+environmental impact across the value chain under various scenarios as well as quantifying the footprint improvement
+of planned product/packaging design interventions. These assessments have enabled identification of levers that have
+led to improvements like more efficient packaging designs and enhanced loading efficiencies in transportation. Further,
+packaging design teams across ITC businesses use a packaging-focussed Life Cycle Assessment-based tool to assess
+the environmental impact of different packaging formats/designs for various FMCG products and sustainable packaging
+solutions offered by Paperboards and Packaging Businesses. The insights from such assessments are considered during
+new product development and design stages.
+XX
+
+[PAGE 368]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Details of LCAs done in the last two years is given below:
+NIC code Name Of Product/ % Of Total Boundary For Whether Results
+Service Turnover Which The Life Conducted By Communicated
+Contributed Cycle Perspective/ Independent In Public Domain
+Assessment Was External Agency (Yes/No) If Yes,
+Conducted (Yes/No) Provide The
+Web-Link
+46496 Classmate Notebook - Cradle-to-grave Yes No
+20237 Savlon Powder - Cradle-to-grave Yes No
+Handwash
+20237 Savlon Liquid - Cradle-to-grave Yes No
+Handwash
+20239/46491 Nimyle Floor Cleaner - Cradle-to-gate Yes No
+17016 CFKE Paperboard - Cradle-to-gate Yes No
+17016 OmegaBev Vio - Cradle-to-Gate with Yes No
+Paperboard end-of life
+20238/46491 Mangaldeep Sandal - Cradle-to-Grave Yes No
+Agarbatti
+10611 Aashirvaad Whole - Cradle-to-Grave No No
+Wheat Atta
+10304 B Natural Mango - Cradle-to-Grave No No
+2. If there are any significant social or environmental concerns and/or risks arising from production or disposal of
+your products / services, as identified in the Life Cycle Perspective / Assessments (LCA) or through any other means,
+briefly describe the same along-with action taken to mitigate the same.
+No significant social or environmental risks were identified from the LCA studies carried out.
+3. Percentage of recycled or reused input material to total material (by value) used in production (for manufacturing
+industry) or providing services (for service industry).
+During FY 2024-25, the Kovai Unit of ITC’s Paperboards & Specialty Papers Business sourced ~ 85,000 tonnes of waste
+paper from external sources, which constituted over 65% of Unit’s total input materials. Additionally, ITC continues to
+integrate recycled plastic content in packaging across its leading brands.
+Indicate Input Recycled Or Re-used Input Material To Total Material
+Material
+FY 2024-25 FY 2023-24
+Waste Paper Recycled Paper used: Recycled Paper used:
+used in Kovai Mill ~ 85,000 tonnes ~ 89,000 tonnes
+Use of Recycled Recycled plastic content used in packaging: Recycled plastic content used in packaging:
+Plastic Content ~300 tonnes ~170 tonnes
+Few examples include: Few examples include:
+• Fiama Shower gel and Handwash Portfolio • Mangaldeep Zip Lock Packs with 20% PCR
+with 50% PCR PET Bottles (Post-consumer Recycled Plastic)
+• Candyman Fantastik jars with 50% PCR • Savlon Wet wipes with 70% PCR in PET
+(Post-consumer Recycled Plastic) Layer
+• 100% PCR in PET Trays in Sunfeast Biscuit • Engage EPS portfolio with 50% PCR PET
+Packagings Bottles.
+XXI
+
+[PAGE 369]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+4. Of the products and packaging reclaimed at end of life of products, amount (in metric tonnes) reused, recycled,
+and safely disposed.
+During FY 2024-25, the Company collected and sustainably managed 76,000 tonnes of plastic waste across the Country.
+The amount of plastic waste managed exceeded the amount of plastic packaging utilised by ITC during the year, enabling
+the Company to sustain its plastic neutrality status for the third year in a row.
+FY 2024-25 FY 2023-24
+Re-used Recycled Safely Disposed Re-used Recycled Safely Disposed
+Plastics (including - ~34,500 ~41,500 - ~31,000 ~39,000
+packaging) tonnes tonnes tonnes tonnes
+E-waste NA NA NA NA NA NA
+Hazardous waste NA NA NA NA NA NA
+Other waste NA NA NA NA NA NA
+NA: Not Applicable
+5. Reclaimed products and their packaging materials (as percentage of products sold) for each product category.
+Please refer to responses to Questions 3 and 4 above.
+Principle 3
+Businesses should respect and promote the well-being of all employees, including those in their value chains
+Essential Indicators
+1. a. Details of Measures for the Well-being of Employees:
+% Of Employees Covered By
+Total Health Insurance Accident Maternity Paternity Day Care
+Category (A) Insurance Benefits Benefits* Facilities
+Number % Number % Number % Number % Number %
+(B) (B/A) (C) (C/A) (D) (D/A) (E) (E/A) (F) (F/A)
+Permanent Employees
+Male 9,234 9,234 100% 9,234 100% NA NA 9,234 100% - -
+Female 1,932 1,932 100% 1,932 100% 1,932 100% NA NA 1,932 100%
+Total 11,166 11,166 100% 11,166 100% 1,932 100% 9,234 100% 1,932 100%
+Other than Permanent Employees
+Male 369 199 54% 217 59% NA NA NA NA - -
+Female 156 81 52% 101 65% 156 100% NA NA 156 100%
+Total 525 280 53% 318 61% 156 100% NA NA 156 100%
+*The Company offers paternity leave to all eligible male employees in managerial cadre.
+Refer employee clustering note under 20a (Under Section A) for definitions
+b. Details of Measures for the Well-being of Workers:
+% Of Workers Covered By
+Total Health Accident Maternity Paternity Day Care
+Category (A) Insurance Insurance Benefits Benefits* Facilities
+Number % Number % Number % Number % Number %
+(B) (B/A) (C) (C/A) (D) (D/A) (E) (E/A) (F) (F/A)
+Permanent Workers
+Male 10,197 10,197 100% 10,197 100% NA NA - - - -
+Female 678 678 100% 678 100% 678 100% - - 678 100%
+Total 10,875 10,875 100% 10,875 100% 678 100% - - 678 100%
+Other than Permanent Workers
+Male 20,690 20,690 100% 20,690 100% NA NA - - - -
+Female 4,102 4,102 100% 4,102 100% 4,102 100% - - 4,102 100%
+Total 24,792 24,792 100% 24,792 100% 4,102 100% - - 4,102 100%
+*The Company offers paternity leave to all eligible male employees in managerial cadre
+Refer employee clustering note under 20a (Under Section A) for definitions
+XXII

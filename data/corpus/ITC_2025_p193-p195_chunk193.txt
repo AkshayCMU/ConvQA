@@ -1,0 +1,129 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 193-195
+
+[PAGE 193]
+Notes
+to the Standalone Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+19. Trade Payables (Current)
+Total outstanding dues of Micro and Small Enterprises 178.24 206.85
+Total outstanding dues of creditors other than Micro and
+Small Enterprises 4311.58 4282.70
+TOTAL 4489.82 4489.55
+Trade Payables ageing schedule (` in Crores)
+Outstanding for following periods from due date of payment
+as at 31st March, 2025
+Not Due Total
+Less than 1-2 2-3 More than
+1 year years years 3 years
+Undisputed Dues – Micro and Small
+Enterprises 57.67 – – – – 57.67
+Undisputed Dues – Others 844.49 167.23 0.05 1.61 – 1013.38
+Disputed Dues – Micro and Small
+Enterprises – – – – – –
+Disputed Dues – Others – – – – 0.28 0.28
+SUB-TOTAL 902.16 167.23 0.05 1.61 0.28 1071.33
+Accrued Payables (not due)
+– Micro and Small Enterprises 120.57
+– Others 3297.92
+TOTAL 4489.82
+(` in Crores)
+Outstanding for following periods from due date of payment
+as at 31st March, 2024
+Not Due Total
+Less than 1-2 2-3 More than
+1 year years years 3 years
+Undisputed Dues – Micro and Small
+Enterprises 31.86 – – – – 31.86
+Undisputed Dues – Others 639.77 26.35 1.69 – – 667.81
+Disputed Dues – Micro and Small
+Enterprises – – – – – –
+Disputed Dues – Others – – – – 0.28 0.28
+SUB-TOTAL 671.63 26.35 1.69 – 0.28 699.95
+Accrued Payables (not due)
+– Micro and Small Enterprises 174.99
+– Others 3614.61
+TOTAL 4489.55
+ITC Limited REPORT AND ACCOUNTS 2025 175
+
+[PAGE 194]
+Notes
+to the Standalone Financial Statements
+19. Trade Payables (Current) (Contd.)
+Disclosure under the Micro, Small and Medium Enterprises Development Act, 2006 (MSMED Act, 2006)
+There are no Micro and Small Enterprises to whom the Company owes dues, which are outstanding for more than 45 days during the
+year and also as at 31st March, 2025. This information as required to be disclosed under the MSMED Act, 2006 has been determined
+to the extent such parties have been identified on the basis of information available with the Company.
+(` in Crores)
+31st March, 2025 31st March, 2024
+(a) Principal amount remaining unpaid to any supplier as at the end of the
+accounting year
+– On account of trade payables 178.24 206.85
+– On account of liabilities other than trade payables 19.85 36.41
+TOTAL 198.09 243.26
+(b) Interest due thereon remaining unpaid to any supplier as at the end of the
+accounting year – –
+(c) Amount of interest paid under MSMED Act, 2006 along with the amounts
+of the payment made to the supplier beyond the appointed day during the
+accounting year – –
+(d) Amount of interest due and payable for the period of delay in making
+payment (which has been paid but beyond the appointed day during the year
+but without adding the interest specified under the MSMED Act, 2006) – –
+(e) Amount of interest accrued and remaining unpaid at the end of
+accounting year – –
+(f) Amount of further interest remaining due and payable even in the succeeding
+year, until such date when the interest dues as above are actually paid to the
+small enterprise – –
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+20. Other liabilities (Current)
+Statutory Liabilities 4688.79 4398.88
+Advances received from customers 1357.07 828.69
+Others (includes deferred revenue, accruals etc.) 24.16 162.18
+TOTAL 6070.02 5389.75
+176 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 195]
+Notes
+to the Standalone Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+21. Current Tax Liabilities (Net)
+Current taxation (net of advance payment) 1027.78 760.00
+TOTAL 1027.78 760.00
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+22A. Revenue from operations
+Sale of Products 73290.34 66506.84
+Sale of Services 174.21 150.20
+Gross Revenue from sale of products and services * [including
+Excise Duty / National Calamity Contingent Duty of ` 4944.00 Crores
+(2024 - ` 4733.29 Crores)] 73464.55 66657.04
+Other Operating Revenues# 771.52 635.56
+TOTAL 74236.07 67292.60
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+# Includes Government grants of ` 294.82 Crores (2024 - ` 234.71 Crores) on account of Fiscal and Export Incentives etc.
+22B. Gross Revenue from sale of products and services*
+FMCG
+– Cigarettes etc. 32631.27 30596.59
+– Branded Packaged Food Products 18270.38 17219.23
+– Others (Education and Stationery Products, Personal Care Products,
+Safety Matches, Agarbattis etc.) 3704.90 3739.03
+Agri Business
+– Unmanufactured Tobacco 3547.28 2612.06
+– Other Agri Products and Commodities (Wheat, Rice, Spices, Coffee,
+Soya etc.) 8518.36 5810.33
+Paperboards, Paper and Packaging
+– Paperboards and Paper 5958.96 5871.71
+– Packaging and Printed Materials 667.27 664.25
+Others
+– Others (ITC Grand Central Hotel, Mumbai) 166.13 143.84
+TOTAL 73464.55 66657.04
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+ITC Limited REPORT AND ACCOUNTS 2025 177

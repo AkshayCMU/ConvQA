@@ -1,0 +1,162 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 348-350
+
+[PAGE 348]
+REPORT AND ACCOUNTS 2025
+Business Responsibility
+and Sustainability Report 2025
+Glossary II
+SECTION A GENERAL DISCLOSURES III
+SECTION B MANAGEMENT AND PROCESS DISCLOSURES XII
+SECTION C PRINCIPLE WISE PERFORMANCE DISCLOSURE XV
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, XV
+and in a manner that is Ethical, Transparent and Accountable
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is XVIII
+sustainable and safe
+PRINCIPLE 3 Businesses should respect and promote the well-being of all XXII
+employees, including those in their value chains
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all XXVIII
+its stakeholders
+PRINCIPLE 5 Businesses should respect and promote human rights XXXII
+PRINCIPLE 6 Businesses should respect and make efforts to protect and restore XXXVI
+the environment
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, XLIII
+should do so in a manner that is responsible and transparent
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development XLIV
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in XLIX
+a responsible manner
+Exhibit A LI
+Independent Assurance Report LV
+I
+
+[PAGE 349]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Glossary
+ITC Divisions/ Businesses ESG: Environment, Social and Governance
+ABD: Agri Business Division FPO: Farmers’ Producer Organisation
+ESPB: Education & Stationery Products Business FPI: Foreign Portfolio Investor
+FBD: Foods Business Division
+FII: Foreign Institutional Investor
+ITD: India Tobacco Division
+FSC®: Forest Stewardship Council®
+MAB: Matches and Agarbattis Business
+FSSAI: The Food Safety and Standards
+PCPBD: Personal Care Products Business Division
+Authority of India
+PPB: Packaging & Printing Business
+GAP: Good Agricultural Practices
+PSPD: Paperboards & Specialty Papers Division
+GP: Gram Panchayat
+TM&D: Trade Marketing & Distribution
+HACCP: Hazard Analysis and Critical
+Control Points
+ITC Specific Terms
+ISAE: International Standard on
+CAPP: Core Area Perspective Plan Assurance Engagements
+CMC: Corporate Management Committee ISF: Industry Standards Forum
+CSAT: Customer Satisfaction
+LCA: Life-Cycle Assessment
+CISO: Chief Information Security Officer
+LEED®: Leadership in Energy and
+CSO: Chief Sustainability Officer Environmental Design
+FTC: Fixed Term Contract
+MOU: Memorandum of Understanding
+Sustainability 2.0 Targets: Refer ITC
+NA: Not Applicable
+Sustainability Report 2025: Sustainability 2.0
+NGRBC: National Guidelines on Responsible
+Ambitions Section
+Business Conduct
+ISC: Investor Service Centre
+NOP: National Organic Programme
+ITCMAARS: Metamarket for Advanced Agriculture
+and Rural Services NPOP: National Programme for
+Organic Production
+LSTC: Life Sciences & Technology Centre
+OHSAS: Occupational Health and Safety
+MSK: Mission Sunehra Kal
+Assessment Series.
+SBU: Strategic Business Unit
+PAT: Perform, Achieve and Trade
+SCRC: Sustainability Compliance Review
+Committee PPP: Public-Private Partnership
+SIP: Social Investments Programme PET: Polyethylene Terephthalate
+SPP: Service Provider Personnel
+PCR: Post Consumer Recyclate
+TPMs: Third-Party Manufacturers
+RFA: Rainforest Alliance
+WOW: Well-Being Out of Waste
+SEBI: Securities and Exchange Board of India
+SEDEX: Supplier Ethical Data Exchange
+General Terms
+SC: Scheduled Caste
+ATNI: Access to Nutrition Initiative
+ST: Scheduled Tribe
+ASCI: Advertising Standards Council of India
+SHG: Self Help Group
+AWS: Alliance for Water Stewardship
+SOP: Standard Operating Procedure
+BIS: Bureau of Indian Standards
+CSR: Corporate Social Responsibility STP: Sustainable Tobacco Programme
+ECF: Elemental Chlorine Free WASH: Water, Sanitation and Hygiene
+EHS: Environment, Health and Safety UoM: Unit of Measurement
+II
+
+[PAGE 350]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+Section A: General Disclosures
+I. Details of the Listed Entity:
+1. Corporate Identity Number L16005WB1910PLC001985
+(CIN) of the Company
+2. Name of the Company ITC Limited
+3. Year of Incorporation 1910
+4. Registered office address
+Virginia House, 37 Jawaharlal Nehru Road, Kolkata 700 071
+5. Corporate office address
+6. E-mail id enduringvalue@itc.in
+7. Telephone +91 33 2288 9371
+8. Website www.itcportal.com
+9. Financial year for which 2024-25
+reporting is being done
+10. Name of the Stock National Stock Exchange of India Limited (‘NSE’), BSE Limited (‘BSE’), and The
+Exchange(s) where shares Calcutta Stock Exchange Limited (‘CSE’)
+are listed
+11. Paid-up capital ` 1251.41 Crores (As on 31.03.2025)
+12. Name and contact details Ms. Madhulika Sharma
+of the person who may be Chief Sustainability Officer
+contacted in case of any Madhulika.sharma@itc.in
+queries on the BRSR report
++91 33 2288 9371
+13. Reporting boundary This report is prepared on a standalone basis.
+During the reporting period, from 1st April 2024 to 31st March 2025, the Hotels Business1
+has been demerged into ITC Hotels Limited, and accordingly, the reporting boundary
+for current reporting year and previous reporting year have been readjusted to exclude
+the data for Hotels Business. The BRSR Core attributes for the Hotels Business for the
+period 1st April 2024 to 31st December 2024 along with the comparative information for
+the previous year i.e., from 1st April 2023 to 31st March, 2024 are presented separately in
+Exhibit A. This Exhibit A forms an integral part of BRSR.
+The financial data included in the Report is consistent with the Company’s Report and Accounts
+for 2025 issued on 22nd May, 2025 or derived from underlying books of accounts, as applicable.
+14. Name of assessment or KPMG Assurance and Consulting Services LLP
+assurance provider
+15. Type of assessment or Reasonable Assurance for BRSR Core attributes
+assurance obtained
+II. Products/Services
+16. Details of business activities: (accounting for 90% of the entity’s Turnover):
+S. Description Of % Of Turnover
+Description Of Business Activity
+No. Main Activity Of The Entity
+1. FMCG Cigarettes 44.42%
+Others: Branded Packaged Foods Businesses (Staples & Meals; 29.91%
+Snacks; Dairy & Beverages; Biscuits & Cakes; Chocolates, Coffee &
+Confectionery); Personal Care Products; Education and Stationery
+Products; Safety Matches and Agarbattis.
+2. Agri-Business Agri-commodities such as wheat, rice, spices, coffee, soya and 16.42%
+leaf tobacco.
+3. Paperboards, Paper Paperboards, Paper including Specialty Paper & Packaging 9.02%
+& Packaging including flexibles.
+1Except ITC Grand Central, Mumbai
+III

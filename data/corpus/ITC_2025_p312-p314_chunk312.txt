@@ -1,0 +1,143 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 312-314
+
+[PAGE 312]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+the project and instead expressed its intent to exit the JV by selling its stake to the Company and subsequently proposed
+that both parties should find a third party to sell the entire shareholding in LDPL. The resultant deadlock has stalled the
+project. The Company’s petition that the affairs of the JV are being conducted in a manner that is prejudicial to the interest
+of the Company and the JV entity, as also a petition for winding up of LDPL filed by Logix Estates, are currently before the
+Hon’ble National Company Law Tribunal, Delhi Bench.
+N ew Okhla Industrial Development Authority (NOIDA), vide letter dated 6th July, 2022, cancelled the sub-lease for the
+land on which the project was to be constructed on account of non-payment of lease instalments and non-fulfilment of
+the conditions of the sub-lease, including forfeiture of the amount deposited. Upon cancellation of the sub-lease, LDPL is
+evaluating all options to pursue its rights.
+The financial statements of LDPL for the year ended 31st March, 2025 are yet to be approved by its Board of Directors.
+(viii) The Hon’ble National Company Law Tribunal, Kolkata Bench, vide Order dated 4th October, 2024, sanctioned the Scheme
+of Arrangement amongst the Company and ITC Hotels Limited (‘ITCHL’) and their respective shareholders and creditors
+under Sections 230 to 232 read with the other applicable provisions of the Companies Act, 2013 (‘the Scheme’) for demerger
+of the Hotels Business of the Company (as defined in the Scheme) into ITCHL; certified copy of the Order was received
+on 16th December, 2024. Upon fulfilment of all the conditions stated in the Scheme, including filing of the aforesaid
+Order with the Registrar of Companies, West Bengal, the Scheme became effective from 1st January, 2025, being the
+Appointed Date and the Effective Date of the Scheme.
+W ith effect from the Appointed Date, the Hotels Business of the Company (along with all assets and liabilities thereof,
+excluding ITC Grand Central, Mumbai) and the net assets of Hospitality entities viz., Fortune Park Hotels Limited, Bay Islands
+Hotels Limited, Landbase India Limited, WelcomHotels Lanka (Private) Limited, Srinivasa Resorts Limited, International
+Travel House Limited, Gujarat Hotels Limited and Maharaja Heritage Resorts Limited were transferred to ITCHL on a going
+concern basis. Consequently, the carrying / book value of the net assets of the Demerged Undertaking (as defined in the
+Scheme) amounting to ` 10466.83 Crores was transferred to ITCHL on a going concern basis.
+P ursuant to the Scheme, ITCHL allotted 125,11,71,040 Equity Shares of ` 1/- each on 11th January, 2025 to the shareholders
+of the Company (as on the Record Date i.e., 6th January, 2025) and therefore it has ceased to be a subsidiary of the
+Company. The Company’s shareholding in ITCHL stands at 39.88% of its paid-up share capital and consequently, ITCHL
+has become an Associate of the Group.
+A s provided in the Scheme, the Group has accounted for the aforesaid demerger in its books of accounts in accordance with
+the Indian Accounting Standards (Ind AS) and generally accepted accounting principles in India. The fair value of the net
+assets of the Demerged Undertaking distributed to the shareholders of the Company, amounting to ` 22033.37 Crores has
+been debited to General Reserve in the Statement of Changes in Equity. For this purpose, Retained Earnings amounting
+to ` 4448.06 Crores has been transferred to General Reserve.
+T he carrying / book value of the net assets of the Demerged Undertaking [refer details in (a) below] to the extent of the
+Group’s continued holding in ITCHL amounting to ` 4174.04 Crores has been added to the value of investment in ITCHL
+(Refer Note 4).
+T he excess of fair value of the net assets distributed to the shareholders of the Company and addition to the value of
+investment in ITCHL over the carrying value of net assets of the Demerged Undertaking and consequential adjustments
+of ` (157.46) Crores [refer details in (b) below] pursuant to the Scheme, has been recognised as an exceptional gain in
+the Statement of Profit and Loss amounting to ` 15128.81 Crores [net of demerger related expenses of ` 454.31 Crores
+(2024 - ` 7.57 Crores)].
+I n terms of the requirements of Ind AS, the operations of the Hotels Business of the Group (excluding ITC Grand Central,
+Mumbai) have been classified as ‘Discontinued Operations’ for the year ended 31st March, 2025 and comparative information
+in the Statement of Profit and Loss has been presented accordingly.
+294 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 313]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+Brief particulars of the Demerged Undertaking / Discontinued Operations are given as under:
+(a) Carrying value of net assets of the Demerged Undertaking as on the appointed date
+Amount
+(` in Crores)
+Property, plant and equipment, intangible assets (including capital work-in-progress and
+intangible assets under development) and right-of-use assets 8368.14
+Goodwill on consolidation 27.46
+Investments accounted for using the equity method 112.49
+Investments 127.48
+Other non-current assets 1656.78
+Inventories 1207.06
+Trade Receivables 197.05
+Cash and Cash equivalents 199.74
+Other current assets 266.70
+Total Assets (A) 12162.90
+Deferred tax liabilities (Net) 417.82
+Lease liabilities 73.35
+Trade Payables 373.36
+Other liabilities 796.17
+Total Liabilities (B) 1660.70
+Non-controlling interests (C) 35.37
+Net Assets transferred (A-B-C) 10466.83
+(b) Consequential adjustments in ‘Other Equity’
+Amount
+(` in Crores)
+Share Options Outstanding Account derecognised
+[Refer Note 30(xiv)(A)] 22.89
+Exchange differences on translating the financial statements of foreign operations reclassified
+from Other Comprehensive Income to Statement of Profit and Loss (180.35)
+(c) Profit from Discontinued Operations
+(` in Crores)
+For the year ended For the year ended
+31st March, 2025# 31st March, 2024
+Revenue from Operations 2484.58 3033.90
+Total Income 2517.16 3068.89
+Total Expenses 2002.67 2334.90
+Share of profit / (loss) of associates and joint ventures 11.35 13.18
+Profit before Exceptional Items and Tax 525.84 747.17
+Exceptional Items 15128.81 (7.57)
+Tax Expense* 638.64 179.06
+Profit from Discontinued Operations 15016.01 560.54
+# Figures in relation to operations of the Hotels Business are for the nine-month period from 1st April, 2024 to 31st December, 2024.
+* Tax expenses for the year ended 31st March, 2025 includes ` 602.79 Crores (2024 - Nil) relating to deferred tax liability
+recognised on addition to the value of investment in ITCHL.
+ITC Limited REPORT AND ACCOUNTS 2025 295
+
+[PAGE 314]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(d) Net Cashflows attributable to the Discontinued Operations
+(` in Crores)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+Net Cash from Operating Activities 405.77 785.33
+Net Cash used in Investing Activities (1783.14) (911.82)
+Net Cash used in Financing Activities (5.20) (11.76)
+(ix) Leases:
+As a Lessee
+T he Group’s significant leasing arrangements are in respect of operating leases for land, buildings (comprising licensed
+properties, residential premises, office premises, stores, warehouses etc.) and plant & equipment. These arrangements
+generally range between 2 years and 10 years, except for certain land and building leases where the lease term ranges up
+to 99 years. The lease arrangements have extension / termination options exercisable by either parties which may make the
+assessment of lease term uncertain. While determining the lease term, all facts and circumstances that create an economic
+incentive to exercise an extension option, or not exercise a termination option are considered.
+T he amount of ROU Assets and Lease Liabilities recognised in the Balance Sheet are disclosed in Note 3G and Note 17
+respectively. The total cash outflow for leases for the year is ` 480.74 Crores (2024 - ` 448.62 Crores) [including payments
+of ` 391.81 Crores (2024 - ` 357.50 Crores) in respect of short-term / low-value leases and variable lease payments of
+` 1.31 Crores (2024 - ` 2.27 Crores)].
+T he sensitivity of variable lease payments and effect of extension / termination options not included in measurement of lease
+liabilities is not material.
+The undiscounted maturities of lease liabilities over the remaining lease term is as follows:
+(` in Crores)
+Term As at 31st March, 2025 As at 31st March, 2024
+Not later than three years 157.83 190.25
+Later than three years and not later than ten years 68.12 137.99
+Later than ten years and not later than twenty-five years 15.27 121.35
+Later than twenty-five years and not later than fifty years 17.02 89.22
+Later than fifty years 19.24 22.76
+As a Lessor
+T he Group has leased out its investment properties etc. under operating lease for periods ranging upto 5 years. Lease
+payments are structured with periodic escalations consistent with the prevailing market conditions. There are no variable
+lease payments. The details of income from such leases are disclosed under Note 3C and Note 24. The Group does not
+have any risk relating to recovery of residual value of investment properties etc. at the end of leases considering the business
+requirements and other alternatives.
+296 ITC Limited REPORT AND ACCOUNTS 2025

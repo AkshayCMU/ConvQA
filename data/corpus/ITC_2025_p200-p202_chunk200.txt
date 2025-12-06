@@ -1,0 +1,179 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 200-202
+
+[PAGE 200]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements
+(i) The Company on 18th December, 2024 acquired 1,52,32,129 Equity Shares of ` 2/- each of EIH Limited and 34,60,829 Equity
+Shares of ` 2/- each of HLV Limited, from Russell Credit Limited, a wholly owned subsidiary of the Company, at their respective
+book value. The fair value gain of ` 527.96 Crores upon acquisition has been disclosed as an ‘Exceptional Item’.
+(ii) Earnings per share: 2025 2024
+Earnings per share has been computed as under:
+(a) i) Profit for the year from continuing operations (` in Crores) 20091.85 19910.23
+ii) Profit for the year from discontinued operations (` in Crores) 15103.76 511.74
+iii) Profit for the year (` in Crores) 35195.61 20421.97
+(b) Weighted average number of Ordinary shares outstanding for
+the purpose of basic earnings per share 12,50,23,78,226 12,46,10,58,425
+(c) Effect of potential Ordinary shares on Employee Stock Options
+outstanding 1,86,64,293 2,80,92,231
+(d) Weighted average number of Ordinary shares in computing
+diluted earnings per share [(b) + (c)] 12,52,10,42,519 12,48,91,50,656
+(e) Earnings per share
+(Face Value ` 1.00 per share)
+For Continuing Operations
+– Basic [(ai) / (b)] 16.07 15.98
+– Diluted [(ai) / (d)] 16.05 15.94
+For Discontinued Operations
+– Basic [(aii) / (b)] 12.08 0.41
+– Diluted [(aii) / (d)] 12.06 0.41
+For Continuing and Discontinued Operations
+– Basic [(aiii) / (b)] 28.15 16.39
+– Diluted [(aiii) / (d)] 28.11 16.35
+(iii) A mount required to be spent by the Company during the year as per Section 135 read with Section 198 of the Companies Act,
+2013 - ` 460.70 Crores (2024 - ` 403.47 Crores) being 2% of the average Net Profits of the Company.
+Expenditure incurred during the year is ` 461.50 Crores (2024 - ` 404.05 Crores) comprising employee benefits expense of
+` 17.82 Crores (2024 - ` 15.52 Crores) and other expenses of ` 443.68 Crores (2024 - ` 388.53 Crores), of which ` 49.42 Crores
+(2024 - ` 30.60 Crores) is accrued for payment as on 31st March, 2025. Such CSR expenditure does not include any spends on
+construction / acquisition of assets. Amount available for set off in succeeding financial years is ` 1.97 Crores (2024 - ` 1.93 Crores).
+Such CSR expenditure of ` 461.50 Crores (2024 - ` 404.05 Crores) excludes ` 6.98 Crores (2024 - ` 10.89 Crores) being the
+excess of expenditure of salaries of CSR personnel and administrative expenses over the limit of 5% of total CSR expenditure
+laid down under Rule 7(1) of the Companies (Corporate Social Responsibility Policy) Rules, 2014 for such expenses.
+CSR activities undertaken during the year pertain to: poverty alleviation; promoting education and skill development; promoting
+healthcare including preventive healthcare; providing sanitation and drinking water; ensuring environmental sustainability;
+promoting gender equality and women empowerment; enabling climate resilience; rural development projects; creating livelihoods
+for people (especially those from disadvantaged sections of society); protection of national heritage, art and culture; preserving and
+promoting music; promoting sports; conducting research in science, technology, engineering and medicine aimed at promoting
+Sustainable Development Goals (SDGs) and providing relief and assistance to victims of disasters and calamities.
+(iv) Research and Development expenses for the year amount to ` 187.68 Crores (2024 - ` 170.37 Crores).
+(v) D uring the year, the following contributions were made by the Company in compliance with Section 182 of the Companies Act,
+2013: Bharatiya Janata Party ` 39.00 Crores (2024 – Nil), Indian National Congress ` 4.00 Crores (2024 – Nil).
+(vi) Contingent liabilities and commitments:
+(a) Contingent liabilities
+C laims against the Company not acknowledged as debts ` 917.02 Crores (2024 - ` 963.29 Crores), including interest on
+claims, where applicable, estimated to be ` 299.11 Crores (2024 - ` 314.23 Crores). These comprise:
+182 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 201]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+E xcise duty, VAT / sales taxes, GST and other indirect taxes claims disputed by the Company relating to issues of
+applicability and classification aggregating ` 627.02 Crores (2024 - ` 645.81 Crores), including interest on claims, where
+applicable, estimated to be ` 267.27 Crores (2024 - ` 288.56 Crores).
+L ocal Authority taxes / cess / royalty on property, utilities etc. claims disputed by the Company relating to issues of
+applicability and determination aggregating ` 237.21 Crores (2024 - ` 264.79 Crores), including interest on claims,
+where applicable, estimated to be ` 20.22 Crores (2024 - ` 18.72 Crores).
+T hird party claims arising from disputes relating to contracts aggregating ` 39.40 Crores (2024 - ` 41.27 Crores),
+including interest on claims, where applicable, estimated to be ` 0.46 Crore (2024 - ` 0.29 Crore).
+Other matters ` 13.39 Crores (2024 - ` 11.42 Crores), including interest on other matters, where applicable, estimated
+to be ` 11.16 Crores (2024 - ` 6.66 Crores).
+It is not practicable for the Company to estimate the closure of these issues and the consequential timings of cash flows,
+if any, in respect of the above.
+(b) Commitments
+E stimated amount of contracts remaining to be executed on capital accounts and not provided for ` 912.50 Crores
+(2024 - ` 896.78 Crores).
+U ncalled liability on partly paid-up shares and other investments is ` 50.50 Crores (2024 - ` 50.86 Crores).
+T he Company on 19th April, 2023, executed transaction documents for acquisition of 100% of the share capital
+(on a fully diluted basis) of Sproutlife Foods Private Limited (‘Sproutlife’) over a time period of about three to four
+years. The Company held 47.50% of the share capital (on a fully diluted basis) of Sproutlife as on 31st March, 2025
+(Refer Note 4). The consideration for acquisition of the balance stake of 52.50% will be determined based on pre-agreed
+valuation criteria and fulfilment of applicable terms and conditions.
+T he Company on 6th February, 2025, executed transaction documents for acquisition of 100% of the share capital of
+Ample Foods Private Limited (‘Ample Foods’) over a time period of about three years. Consequently, the Company
+acquired 43.75% stake in Ample Foods on 4th April, 2025 for a consideration of ` 131.25 Crores. The Company’s stake
+in Ample Foods will increase to 62.50% by April, 2027 through secondary purchase of ` 56.00 crores. The consideration
+for acquisition of balance stake of 37.50% will be determined based on pre-agreed valuation criteria and fulfilment of
+applicable terms and conditions.
+T he Company on 31st March, 2025, entered into a Business Transfer Agreement (BTA) with Aditya Birla Real Estate
+Limited for acquisition of the Undertaking pertaining to manufacture, distribution and sale of pulp and paper products
+operated under the name of ‘Century Pulp and Paper’, as a going concern on a slump sale basis for a lumpsum
+consideration of up to ` 3500.00 Crores on a cash-free debt-free basis, payable as per the terms and conditions laid
+down in the BTA. The transaction is expected to be consummated in about 6 months from date of signing of BTA, subject
+to receipt of statutory approvals and fulfilment of the conditions laid down in the BTA.
+(vii) Employee Benefit Plans
+Description of Plans
+The Company makes contributions to both Defined Benefit and Defined Contribution Plans for qualifying employees.
+These Plans are administered through approved Trusts, which operate in accordance with the Trust Deeds, Rules and applicable
+Statutes. The concerned Trusts are managed by Trustees who provide strategic guidance with regard to the management of
+their investments and liabilities and also periodically review their performance.
+Provident Fund, Pension and Gratuity Benefits are funded and Leave Encashment Benefits are unfunded in nature. The Defined
+Benefit Pension Plans are based on employees’ pensionable remuneration and length of service. Under the Provident Fund,
+Gratuity and Leave Encashment Schemes, employees are entitled to receive lump sum benefits.
+(a) Defined Benefit Plans:
+The liabilities arising in the Defined Benefit Schemes are determined in accordance with the advice of independent,
+professionally qualified actuaries, using the projected unit credit method. The Company makes regular contributions to
+these Defined Benefit Plans. Additional contributions are made to these plans as and when required based on actuarial
+valuation. Some Group companies also participate in these Plans. These participating Group companies make contributions
+to the Plans for their respective employees on a uniform basis and each entity ascertains their obligation through actuarial
+valuation. The net Defined benefit cost is recognised by these companies in their respective Financial Statements.
+Risk Management
+The Defined Benefit Plans expose the Company to risk of actuarial deficit arising out of investment risk, interest rate risk and
+salary cost inflation risk.
+Investment Risk: This may arise from volatility in asset values due to market fluctuations and impairment of assets due to
+credit losses. These Plans primarily invest in debt instruments such as Government securities and highly rated corporate
+bonds – the valuation of which is inversely proportional to the interest rate movements.
+Interest Rate Risk: The present value of Defined Benefit Plan liability is determined using the discount rate based on the
+market yields prevailing at the end of reporting period on Government securities. A decrease in yields will increase the fund
+liabilities and vice-versa.
+Salary Cost Inflation Risk: The present value of the Defined Benefit Plan liability is calculated with reference to the future
+salaries of participants under the Plan. Increase in salary might lead to higher liabilities.
+ITC Limited REPORT AND ACCOUNTS 2025 183
+
+[PAGE 202]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+T hese Plans have a relatively balanced mix of investments in order to manage the above risks. The investment strategy is designed
+based on the interest rate scenario, liquidity needs of the Plans and pattern of investment as prescribed under various statutes.
+T he Trustees regularly monitor the funding and investments of these Plans. Risk mitigation systems are in place to ensure
+that the health of the portfolio is regularly reviewed and investments do not pose any significant risk of impairment. Periodic
+audits are conducted to ensure adequacy of internal controls. Pension obligation of the employees is secured by purchasing
+annuities thereby de-risking the Plans from future payment obligation.
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+Funded Unfunded Funded Unfunded
+I Components of Employer Expense
+– Recognised in the Statement of Profit
+and Loss
+1 Current Service Cost 33.54 34.56 13.50 37.63 33.48 12.87
+2 Past Service Cost – – – – – –
+3 Net Interest Cost (4.09) (1.45) 11.09 (3.65) (1.95) 11.06
+4 Total expense recognised in the
+Statement of Profit and Loss 29.45 33.11 24.59 33.98 31.53 23.93
+– Remeasurements recognised in Other
+Comprehensive Income
+5 Return on plan assets (excluding amounts
+included in Net interest cost) (9.03) (3.10) – (21.85) (3.45) –
+6 Effect of changes in demographic
+assumptions – – – 1.65 0.74 0.42
+7 Effect of changes in financial assumptions 9.38 8.94 3.00 25.08 17.30 6.00
+8 Changes in asset ceiling (excluding
+interest income) – – – – – –
+9 Effect of experience adjustments 12.18 6.11 (0.07) (26.79) 23.27 0.60
+10 Total remeasurements included in
+Other Comprehensive Income 12.53 11.95 2.93 (21.91) 37.86 7.02
+11 Total defined benefit cost recognised
+in the Statement of Profit and Loss and
+Other Comprehensive Income (4+10) 41.98 45.06 27.52 12.07 69.39 30.95
+The current service cost, past service cost and net interest cost for the year, as applicable, pertaining to Pension and
+Gratuity expenses have been recognised in “Contribution to Provident and other funds” and Leave Encashment in
+“Salaries and wages” under Note 25 and in the expenses of discontinued operations. The remeasurements of the net
+defined benefit liability are included in Other Comprehensive Income.
+(` in Crores)
+Leave Leave
+Pension Gratuity Pension Gratuity
+Encashment Encashment
+II Actual Returns 70.50 36.16 – 88.39 36.53 –
+III Net Asset / (Liability) recognised
+in Balance Sheet
+1 Present Value of Defined Benefit Obligation 799.61 452.71 162.73 898.65 496.77 171.48
+2 Fair Value of Plan Assets 786.95 437.77 – 919.95 458.76 –
+3 Status [Surplus / (Deficit)] (12.66) (14.94) (162.73) 21.30 (38.01) (171.48)
+4 Restrictions on Asset Recognised – – – – – –
+184 ITC Limited REPORT AND ACCOUNTS 2025

@@ -1,0 +1,200 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 382-384
+
+[PAGE 382]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+11. Provide details of any corrective actions taken or underway to address significant risks/concerns arising from
+the assessments at Question 10 above.
+Please refer to response to Question 1 of Principle 5 under leadership indicators.
+Leadership Indicators differently abled persons (including visitors), with
+facilities like Persons with Disabilities (PWD) friendly
+1. Details of a business process being modified / entrance, wheelchair, braille systems, tactile pavers,
+introduced as a result of addressing human rights accessible washrooms etc.
+grievances/complaints.
+4. Details on assessment of value chain partners:
+ITC’s Code of Conduct for its employees as well as
+Suppliers and Service Providers, are adopted by the ITC’s Policy on Sustainable Supply Chain and Responsible
+Board. The Code covers ITC’s commitment to human Sourcing ensures integration of sustainability in its
+rights aspects like self-respect and human dignity, child supply chains. ITC’s suppliers /value-chain partners are
+labour, gender friendly workplace, relationships with expected to adopt the principles enumerated in ITC’s
+suppliers and customers, health & safety, environment, Code of Conduct for Suppliers and Service Providers. ITC
+transparency, anti-bribery and corruption, and exemplary reserves the right to verify compliance with the Code of
+personal conduct. ITC constantly engages with the
+Conduct for Suppliers and Service Providers at any time
+rightsholders and stakeholders across the supply chain
+through appropriate audit and assessment mechanisms,
+for devising programmes that support Human Rights
+including self-certification.
+and Social Development in an integrated manner.
+ITC periodically coordinates third party Human Rights
+An illustrative example for ITC’s leaf tobacco value chain
+impact assessment for the tobacco farm supply
+is presented below. ITC coordinates Human Rights
+chain. Additionally, ITC conducts third-party desktop
+impact assessment with an independent party for its
+assessment of its Critical Tier - 1* suppliers which
+farm value chains. Sustainable Tobacco Programme 2.0
+includes key aspects on Human Rights, Labour Rights
+is an industry initiative to enhance agricultural supply
+and Occupational Health and Safety, amongst other
+chain due diligence and accelerate positive impacts
+on environmental, social and governance elements. assessment criteria.
+The programme focuses on 8 themes demanding leaf For more details, refer to response to Question 1
+suppliers’ commitment on – Water, Human Rights, Crop, (Principle 5) under leadership indicators.
+Soil, Climate Change, Natural Habitats, Livelihoods
+and Governance. The Human Rights Due Diligence % Of Value Chain
+focusses on identifying human rights risks and impacts Partners* (By Value Of
+covering farmers and communities. Some of the actions
+Business Done With Such
+undertaken as an outcome of the assessment are:
+Partners) That Were
+Training and Awareness on Human Rights: Training and
+Assessed
+Awareness on Human Rights organised in 484 villages
+covering subjects such as Farm Safety, Child Labour, Sexual Harassment
+Wages, Fair Treatment, Freedom of Association, Water,
+Sanitation and Hygiene (WASH), No Discrimination and Discrimination at
+As of 31st March, 2025,
+other areas pertaining to Human Rights. workplace
+~70% of the Company’s
+Farm Safety: ITC undertakes a holistic approach that
+address the farm safety challenges in farming. 10,316 Child Labour Critical Tier-I suppliers
+farmers have been provided with Personal Protective have been assessed
+Equipment (PPE) kits for safe spraying of chemicals Forced Labour/ by a third party on ESG
+and Secured Storage Box for safe storage of chemicals Involuntary Labour aspects including human
+was provided for 7,830 farmers. Technology like drones rights-related aspects.
+were scaled up covering 30,900 acres minimising human Wages
+interference while chemical spraying, besides increasing
+Others – please specify
+the efficacy of operation and water saving.
+*All ITC Businesses have identified Critical Tier-1 suppliers
+2. Details of the scope and coverage of any Human based on aspects like buy value, ESG risk exposure and
+rights due-diligence conducted. importance to business continuity, among others. ITC’s
+The scope and coverage of Human Rights Due Diligence Sustainable Supply Chain Programme is focussed on
+extends to own operations (including manufacturing working closely with the set of identified critical suppliers..
+locations and offices) and value chain partners.
+5. Provide details of any corrective actions taken
+or underway to address significant risks / concerns
+3. Is the premise/office of the entity accessible to
+differently abled visitors, as per the requirements of arising from the assessments at Question 4 above.
+the Rights of Persons with Disabilities Act, 2016?
+Please refer to responses to Questions 1 and 4 of
+Most of ITC’s establishments are accessible to the Principle 5 under Leadership Indicators.
+XXXV
+
+[PAGE 383]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Principle 6
+Businesses should respect and make efforts to protect and restore the environment
+The Purchasing Power Parity (PPP) conversion rate used in intensity ratio calculations across Principle 6 has been aligned
+with the guidance provided by the Industry Standards Forum for current reporting year and previous reporting year.
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter FY 2024-25 FY 2023-24
+(All quantities in TJ except where specified)
+From renewable sources
+Total electricity consumption (A) 868 803
+Total fuel consumption (B) 12,383 11,869
+Energy consumption through other sources (C) 183 175
+Total energy consumed from renewable sources (A+B+C) 13,434 12,847
+From non-renewable sources
+Total electricity consumption (D) 757 742
+Total fuel consumption (E) 11,600 11,908
+Energy consumption through other sources (F) 0 0
+Total energy consumed from non-renewable sources (D+E+F) 12,357 12,650
+Total energy consumed (A+B+C+D+E+F) 25,791 25,497
+Energy intensity per rupee of turnover
+(Total energy consumed/Revenue from operations) 347 379
+(in Giga Joules/Crore INR)
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed/Revenue from operations adjusted for PPP) 718 774
+(in GJ/Million USD)
+Energy intensity in terms of physical output*
+23 23
+(in GJ/tonne of production)
+*Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement,
+hence the data for energy intensity in terms of physical output (tonnes of production) is reported only for PSPD which accounts
+for nearly 88% of ITC’s total energy consumption. For data of other Divisions, refer to ‘Climate Change’ section of ITC’s
+Sustainability Report 2025.
+ITC’s energy consumption data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A.
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance,
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+Three Units of ITC’s Paperboards and Speciality Papers Business are covered under the PAT scheme. The details of Units under
+PAT scheme are available at https://beeindia.gov.in/en/programmesperform-achieve-trade/pat-notifications
+ITC has made significant investments in reducing energy consumption and, accordingly, the performance of the Company’s
+Units covered far exceeds the energy efficiency targets fixed under the PAT scheme. The Bhadrachalam Unit is the first pulp
+and paper mill and the second unit in the country overall, to be rated GreenCo Platinum+ by CII, as part of Green Company
+rating system.
+Note: Details of the energy efficiency initiatives measures implemented during the year are included in ‘Disclosure on
+Conservation of Energy and Technology Absorption’ section of the Report of the Board of Directors & Management Discuss
+and Analysis in ITC Report and Accounts 2025.
+XXXVI
+
+[PAGE 384]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter FY 2024-25 FY 2023-24
+Water withdrawal by source (in million kilolitres)
+(i) Surface water 26.3 28.2
+(ii) Groundwater 4.1 4.2
+(iii) Third party water 0.8 0.9
+(iv) Seawater/desalinated water 0 0
+(v) Others 0 0
+Total volume of water withdrawal (in million kilolitres) (i + ii + iii + iv + v) 31.2 33.3
+Total volume of water consumption
+10.5 11.5
+(in million kilolitres) (Total water withdrawal – total water discharged)
+Water intensity per rupee of turnover
+(Total water consumption/Revenue from operations) 142 171
+(in kilolitres/Crore INR)
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption/Revenue from operations adjusted for PPP) 293 349
+(in kilolitres/Million USD)
+Water intensity in terms of physical output*
+7.4 8.3
+(in kilolitres/tonne of production)
+*Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement, hence the
+data for water intensity in terms of physical output (tonnes of production) is reported only for PSPD which accounts for 88% of ITC’s total
+water withdrawal. For data of other Divisions, refer to ‘Water Security’ section of ITC’s Sustainability Report 2025.
+ITC’s water withdrawal and consumption data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed separately
+as a part of the Exhibit-A
+Over the years, ITC has created rainwater harvesting potential through extensive investments in its Integrated Watershed
+Development Projects. The programme promotes the development and management of local water resources in water-
+stressed areas by facilitating community participation in planning and implementing such measures, whilst building, reviving
+and maintaining water-harvesting structures. As on 31st March 2025, ITC’s watershed development projects covering over 1.8
+million acres of land created a total rainwater harvesting potential (RWH) of 59.90 million kl (cumulative), which is over five
+times the net water consumed by ITC’s operations.
+4. Provide the following details related to water discharged:
+Parameter FY 2024-25 FY 2023-24
+Water discharge by destination and level of treatment (in million kilolitres)
+(i) To Surface water 10.9 11.5
+No treatment 0 0
+With treatment – please specify level of treatment Secondary Secondary
+(ii) To Groundwater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iii) To Seawater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iv) Sent to third-parties 9.7 10.3
+No treatment 0 0
+With treatment – please specify level of treatment Tertiary Tertiary
+Total water discharged (in million kilolitres) 20.6 21.8
+ITC’s water discharge data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed separately
+as a part of the Exhibit-A
+5. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and
+implementation.
+ITC’s approach to water stewardship focuses on reducing water intake by utilising treated wastewater within the
+process, thereby reducing demand for fresh water. ITC Units have put in place necessary systems to comply with the
+Consent to Operate (CTO) conditions including Zero Liquid Discharge, where applicable. 24 units of ITC have achieved
+zero effluent discharge.
+XXXVII

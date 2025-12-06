@@ -1,0 +1,159 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 307-309
+
+[PAGE 307]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+IX Basis used to determine the Expected Rate of Return on Plan Assets
+The expected rate of return on plan assets is based on the current portfolio of assets, investment strategy and market scenario.
+In order to protect the capital and optimize returns within acceptable risk parameters, the plan assets are well diversified.
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Pension Gratuity Leave Pension Gratuity Leave
+Encashment Encashment
+Partially Funded Unfunded Unfunded Partially Funded Unfunded Unfunded
+Funded Funded
+X Net Asset / (Liability) recognised in
+Balance Sheet (including experience
+adjustment impact)
+1 Present Value of Defined Benefit
+Obligation 848.86 533.90 15.44 191.25 947.48 576.05 7.70 197.25
+2 Fair Value of Plan Assets 820.23 508.50 – – 955.52 525.06 – –
+3 Status [Surplus / (Deficit)] (28.63) (25.40) (15.44) (191.25) 8.04 (50.99) (7.70) (197.25)
+4 Experience Adjustment of Plan Assets
+[Gain / (Loss)] 9.50 3.47 – – 23.16 3.61 – –
+5 Experience Adjustment of obligation
+[(Gain) / Loss] 13.51 3.41 1.96 (1.91) (30.13) 22.27 0.09 0.82
+XI. Sensitivity Analysis
+The Sensitivity Analysis below has been determined based on reasonably possible change of the respective assumptions
+occurring at the end of the reporting period, while holding all other assumptions constant. These sensitivities show the
+hypothetical impact of a change in each of the listed assumptions in isolation. While each of these sensitivities holds all
+other assumptions constant, in practice such assumptions rarely change in isolation and the asset value changes may
+partially offset this impact. For presenting the sensitivities, the present value of the Defined Benefit Obligation has been
+calculated using the projected unit credit method at the end of the reporting period, which is the same as that applied in
+calculating the Defined Benefit Obligation presented above. There was no change in the methods and assumptions used in
+the preparation of the Sensitivity Analysis from previous year.
+(` in Crores)
+DBO as at 31st March, 2025 DBO as at 31st March, 2024
+1 Discount Rate + 100 basis points 1507.49 1632.05
+2 Discount Rate - 100 basis points 1695.17 1833.95
+3 Salary Increase Rate + 1% 1690.15 1825.64
+4 Salary Increase Rate – 1% 1514.17 1637.60
+Maturity Analysis of the Benefit Payments
+1 Year 1 236.97 231.15
+2 Year 2 234.66 287.00
+3 Year 3 168.65 227.42
+4 Year 4 132.61 157.08
+5 Year 5 163.36 123.94
+6 Next 5 Years 538.85 637.88
+(b) A mounts towards Defined Contribution Plans have been recognised under “Contribution to Provident and other funds” in
+Note 26 and in the expenses of discontinued operations: - ` 301.95 Crores (2024 - ` 254.14 Crores).
+ITC Limited REPORT AND ACCOUNTS 2025 289
+
+[PAGE 308]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(vi) A dditional information as required by Paragraph 2 of the General Instructions for Preparation of Consolidated Financial Statements to
+Schedule III to the Companies Act, 2013:
+Net Assets Share in Profit or (Loss) Share in Other Share in Total
+Comprehensive Income Comprehensive Income
+As a % of Amount As % of Amount As % of Amount As % of Amount
+Name of the Entity
+Consolidated (` in Crores) Consolidated (` in Crores) Consolidated (` in Crores) Consolidated (` in Crores)
+Net Assets Profit or Other Total
+(Loss) Comprehensive Comprehensive
+Income Income
+Parent
+ITC Limited 86.43% 60848.04 96.20% 33718.08 39.27% (245.50) 97.23% 33472.58
+Subsidiary
+Indian
+1 Russell Credit
+Limited 1.32% 930.76 0.13% 46.85 85.11% (531.78) (1.41%) (484.93)
+2 Greenacre
+Holdings Limited 0.11% 76.79 0.02% 7.23 … … 0.02% 7.23
+3 Wimco Limited 0.01% 4.48 … 1.45 … … … 1.45
+4 Prag Agro Farm
+Limited … 0.82 … (0.09) – – … (0.09)
+5 Pavan Poplar Limited … 0.24 … (0.03) … ... … (0.03)
+6 Technico Agri
+Sciences Limited 0.52% 369.40 0.25% 83.76 0.01% (0.05) 0.24% 83.71
+7 Srinivasa Resorts
+Limited# – – 0.01% 4.51 – – 0.01% 4.51
+8 Fortune Park
+Hotels Limited# – – 0.03% 11.19 – – 0.03% 11.19
+9 Bay Islands Hotels
+Limited# – – 0.01% 2.28 – – 0.01% 2.28
+10 Landbase India
+Limited# – – 0.03% 10.00 – – 0.03% 10.00
+11 ITC Hotels Limited# – – 0.01% 2.07 – – 0.01% 2.07
+12 ITC Infotech India
+Limited 2.01% 1411.02 1.05% 368.96 (2.23%) 13.92 1.12% 382.88
+13 Blazeclan
+Technologies
+Private Limited 0.06% 44.11 (0.02%) (8.24) (0.07%) 0.42 (0.02%) (7.82)
+14 Cloudlytics
+Technologies
+Private Limited … (1.33) … 0.01 – – … 0.01
+15 Gold Flake
+Corporation Limited 0.04% 26.32 … 1.30 – – … 1.30
+16 ITC Integrated
+Business Services
+Limited 0.01% 9.90 … 1.41 (0.01%) 0.06 … 1.47
+290 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 309]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+Net Assets Share in Profit or (Loss) Share in Other Share in Total
+Comprehensive Income Comprehensive Income
+As a % of Amount As % of Amount As % of Amount As % of Amount
+Name of the Entity
+Consolidated (` in Crores) Consolidated (` in Crores) Consolidated (` in Crores) Consolidated (` in Crores)
+Net Assets Profit or Other Total
+(Loss) Comprehensive Comprehensive
+Income Income
+Indian
+17 MRR Trading
+& Investment
+Company Limited … 0.03 … … – – … …
+18 North East Nutrients
+Private Limited 0.12% 82.93 0.03% 10.36 … (0.02) 0.03% 10.34
+19 ITC IndiVision
+Limited 0.43% 300.30 (0.16%) (55.07) (0.01%) 0.05 (0.16%) (55.02)
+20 ITC Fibre
+Innovations Limited 0.38% 265.18 (0.06%) (21.31) … (0.02) (0.06%) (21.33)
+Foreign
+1 Technico Pty
+Limited 0.07% 49.02 0.02% 5.58 0.03% (0.19) 0.02% 5.39
+2 Technico
+Technologies Inc. 0.01% 6.53 … 0.01 – – … 0.01
+3 Technico Asia
+Holdings Pty
+Limited … 0.04 … … – – … …
+4 Technico
+Horticulture
+(Kunming) Co.
+Limited 0.03% 22.26 … 1.17 – – … 1.17
+5 WelcomHotels
+Lanka (Private)
+Limited# – – (0.27%) (95.72) (25.06%) 156.59 0.19% 60.87
+6 ITC Infotech
+Limited 0.15% 106.00 0.04% 14.35 – – 0.04% 14.35
+7 ITC Infotech
+(USA), Inc. 0.38% 266.99 0.08% 29.22 – – 0.08% 29.22
+8 Indivate Inc. 0.03% 22.62 0.07% 26.07 – – 0.08% 26.07
+9 ITC Infotech Do
+Brasil LTDA. 0.01% 6.01 … 1.08 – – … 1.08
+10 ITC Infotech
+France SAS 0.05% 38.36 0.02% 6.03 (0.16%) 1.01 0.02% 7.04
+11 ITC Infotech
+GmbH 0.09% 59.34 0.02% 7.63 0.08% (0.47) 0.02% 7.16
+12 ITC Infotech
+Malaysia SDN.
+BHD. 0.03% 18.69 0.01% 2.52 – – 0.01% 2.52
+ITC Limited REPORT AND ACCOUNTS 2025 291

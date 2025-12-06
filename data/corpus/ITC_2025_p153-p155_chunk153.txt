@@ -1,0 +1,132 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 153-155
+
+[PAGE 153]
+Report of the Board of Directors
+Annexure to the
+For the Financial Year Ended 31st March, 2025
+KEY FINANCIAL RATIOS
+[Pursuant to Schedule V(B) to the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015]
+Key Financial Ratios for the Company:
+FY25 FY24
+(i) Operating Profit Margin (%) 35.4 38.0
+(ii) Net Profit Margin (%)1 26.7 29.4
+(iii) Debtors Turnover 20.7 24.7
+(iv) Inventory Turnover 5.3 6.0
+(v) Current Ratio 3.0 2.9
+(vi) Return on Net Worth1 29.2 29.2
+Notes:
+1. Net Profit Margin and Return on Net Worth ratios have been computed based on Profit After Tax (before
+exceptional items).
+2. Interest Coverage Ratio and Debt-Equity ratio are not relevant for the Company as it has negligible debt.
+3. Ratios for FY25 have been computed based on numbers for Continuing Operations pursuant to the demerger
+of the Hotels Business undertaking. Accordingly, the ratios for FY24 are not strictly comparable.
+On behalf of the Board
+S. PURI Chairman & Managing Director
+(DIN : 00280529)
+Kolkata S. DUTTA Director & Chief Financial Officer
+22nd May, 2025 (DIN : 01804345)
+ITC Limited REPORT AND ACCOUNTS 2025 135
+
+[PAGE 154]
+Report of the Board of Directors
+Annexure to the
+Independent Auditor’s Report on compliance with the conditions of Corporate Governance as per provisions
+of Chapter IV of Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements)
+Regulations, 2015, as amended
+The Members of ITC Limited
+1. The Corporate Governance Report prepared by ITC Limited (hereinafter the “Company”), contains details as specified in regulations 17 to 27, clauses (b) to
+(i) and (t) of sub – regulation (2) of regulation 46 and paras C, D and E of Schedule V of the Securities and Exchange Board of India (Listing Obligations and
+Disclosure Requirements) Regulations, 2015, as amended (“the Listing Regulations”) (‘Applicable criteria’) for the year ended March 31, 2025 and the said
+Report will be submitted by the Company to the Stock Exchanges as part of the Annual Report.
+Management’s Responsibility
+2. The preparation of the Corporate Governance Report is the responsibility of the Management of the Company including the preparation and maintenance of
+all relevant supporting records and documents. This responsibility also includes the design, implementation and maintenance of internal control relevant to the
+preparation and presentation of the Corporate Governance Report.
+3. The Management along with the Board of Directors is also responsible for ensuring that the Company complies with the conditions of Corporate Governance
+as stipulated in the Listing Regulations, issued by the Securities and Exchange Board of India.
+Auditor’s Responsibility
+4. Pursuant to the requirements of the Listing Regulations, our responsibility is to provide a reasonable assurance in the form of an opinion whether the Company
+has complied with the conditions of Corporate Governance as specified in the Listing Regulations.
+5. We conducted our examination of the Corporate Governance Report in accordance with the Guidance Note on Reports or Certificates for Special Purposes
+and the Guidance Note on Certification of Corporate Governance, both issued by the Institute of Chartered Accountants of India (“ICAI”). The Guidance Note
+on Reports or Certificates for Special Purposes requires that we comply with the ethical requirements of the Code of Ethics issued by ICAI.
+6. We have complied with the relevant applicable requirements of the Standard on Quality Control (SQC) 1, Quality Control for Firms that Perform Audits and
+Reviews of Historical Financial Information, and Other Assurance and Related Services Engagements.
+7. The procedures selected depend on the auditor’s judgement, including the assessment of the risks associated in compliance of the Corporate Governance
+Report with the applicable criteria. Summary of procedures performed include:
+i. Read and understood the information prepared by the Company and included in its Corporate Governance Report;
+ii. Obtained and verified that the composition of the Board of Directors with respect to executive and non-executive directors has been met throughout the
+reporting period;
+iii. Obtained and read the Register of Directors as on March 31, 2025 and verified that atleast one independent woman director was on the Board of Directors
+throughout the year;
+iv. Obtained and read the minutes of the following committee meetings / other meetings held from April 01, 2024 to March 31, 2025:
+(a) Board of Directors;
+(b) Audit Committee;
+(c) Annual General Meeting (AGM);
+(d) Nomination and Remuneration Committee;
+(e) Stakeholders Relationship Committee;
+(f) Risk Management Committee
+v. Obtained necessary declarations from the directors of the Company.
+vi. Obtained and read the policy adopted by the Company for related party transactions.
+vii. Obtained the schedule of related party transactions during the year and balances at the year-end.
+viii. Obtained and read the minutes of the audit committee meeting wherein such related party transactions have been pre-approved by the audit committee.
+ix. Performed necessary inquiries with the management and also obtained necessary specific representations from management.
+8. The above-mentioned procedures include examining evidence supporting the particulars in the Corporate Governance Report on a test basis. Further, our
+scope of work under this report did not involve us performing audit tests for the purposes of expressing an opinion on the fairness or accuracy of any of the
+financial information or the financial statements of the Company taken as a whole.
+Opinion
+9. Based on the procedures performed by us, as referred in paragraph 7 above, and according to the information and explanations given to us, we are of the
+opinion that the Company has complied with the conditions of Corporate Governance as specified in the Listing Regulations, as applicable for the year ended
+March 31, 2025, referred to in paragraph 4 above.
+Other matters and Restriction on Use
+10. This report is neither an assurance as to the future viability of the Company nor the efficiency or effectiveness with which the management has conducted the
+affairs of the Company.
+11. This report is addressed to and provided to the members of the Company solely for the purpose of enabling it to comply with its obligations under the
+Listing Regulations with reference to compliance with the relevant regulations of Corporate Governance and should not be used by any other person or for
+any other purpose. Accordingly, we do not accept or assume any liability or any duty of care or for any other purpose or to any other party to whom it is shown
+or into whose hands it may come without our prior consent in writing. We have no responsibility to update this report for events and circumstances occurring
+after the date of this report.
+For S R B C & CO LLP
+Chartered Accountants
+ICAI Firm Registration Number: 324982E/E300003
+per Arvind Sethi
+Partner
+Membership Number: 89802
+Place of Signature: Kolkata
+Date: May 22, 2025 UDIN: 25089802BMNPUI7326
+136 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 155]
+CEO and CFO Compliance Certificate
+We, S. Puri, Chairman & Managing Director, and S. Dutta, Director & Chief Financial Officer,
+certify that :
+a) We have reviewed the Financial Statements including the Statement of Cash Flows for
+the year ended 31st March, 2025 and to the best of our knowledge and belief :
+i) these Statements do not contain any materially untrue statement or omit any material
+fact or contain statements that might be misleading;
+ii) these Statements together present a true and fair view of the Company’s affairs
+and are in compliance with the Indian Accounting Standards, applicable laws and
+regulations.
+b) To the best of our knowledge and belief, no transactions entered into by the Company
+during the year ended 31st March, 2025 are fraudulent, illegal or violative of the
+ITC Code of Conduct.
+c) We accept responsibility for establishing and maintaining internal controls for financial
+reporting and we have evaluated the effectiveness of internal control systems of the
+Company pertaining to financial reporting. Deficiencies in the design or operation of such
+internal controls, if any, of which we are aware have been disclosed to the Auditors and
+the Audit Committee and steps have been taken to rectify these deficiencies.
+d) i) There has not been any significant change in the internal controls over financial
+reporting during the year under reference;
+ii) There has not been any significant change in the material accounting policies during
+the year requiring disclosure in the notes to the Financial Statements; and
+iii) We are not aware of any instance during the year of significant fraud with
+involvement therein of the management or any employee having a significant role
+in the Company’s internal control systems over financial reporting.
+S. DUTTA Director & Chief Financial Officer
+(DIN : 01804345)
+Kolkata, India S. PURI Chairman & Managing Director
+May 20, 2025 (DIN : 00280529)
+ITC Limited REPORT AND ACCOUNTS 2025 137

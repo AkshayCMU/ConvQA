@@ -1,0 +1,1 @@
+LLM-powered investor question answering over corporate annual reports: a general-purpose tool where a user can upload any company’s annual report, the system automatically chunks and indexes the document, and a retrieval-augmented generation pipeline answers grounded questions about financial performance, strategy, risk factors, and sustainability/ESG disclosures.

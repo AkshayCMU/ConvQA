@@ -1,0 +1,143 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 301-303
+
+[PAGE 301]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(a) Associate: Delectable Technologies Private Limited [Refer Note 30(xiii)]
+(b) Joint venture: Logix Developers Private Limited [Refer Note 30(vii)]
+(c) E ntities which ceased to be subsidiaries, associates or joint venture of the Group (w.e.f. 1st January, 2025) pursuant to
+Scheme of Demerger [Refer Note 30(viii)]:
+Subsidiaries: ITC Hotels Limited, Fortune Park Hotels Limited, Bay Islands Hotels Limited, Landbase India Limited,
+WelcomHotels Lanka (Private) Limited and Srinivasa Resorts Limited
+Associates: International Travel House Limited and Gujarat Hotels Limited
+Joint Venture: Maharaja Heritage Resorts Limited
+(iii) Contingent liabilities and commitments:
+(a) Contingent liabilities:
+C laims against the Group not acknowledged as debts, are ` 1112.76 Crores (2024 - ` 1077.71 Crores), including interest
+on claims, where applicable, estimated to be ` 332.02 Crores (2024 - ` 324.08 Crores), including share of associates
+` 105.82 Crores (2024 - ` 0.15 Crore). These comprise:
+Excise duty, VAT / sales taxes, GST and other indirect taxes claims disputed by the Group relating to issues of
+applicability and classification aggregating ` 680.90 Crores (2024 - ` 679.10 Crores), including interest on claims, where
+applicable, estimated to be ` 292.10 Crores (2024 - ` 294.54 Crores), including share of associates ` 40.82 Crores
+(2024 - ` 0.12 Crore).
+Local Authority taxes / cess / royalty on property, utilities etc. claims disputed by the Group relating to issues of applicability
+and determination aggregating ` 252.47 Crores (2024 - ` 266.56 Crores), including interest on claims, where applicable,
+estimated to be ` 21.29 Crores (2024 - ` 18.72 Crores), including share of associates ` 15.26 Crores (2024 - ` 0.03 Crore).
+Third party claims arising from disputes relating to contracts aggregating ` 85.87 Crores (2024 - ` 41.27 Crores), including
+interest on claims, where applicable, estimated to be ` 0.46 Crore (2024 - ` 0.29 Crore), including share of associates
+` 46.47 Crores (2024 - Nil).
+Other matters aggregating ` 93.52 Crores (2024 - ` 90.78 Crores), including interest on other matters, where applicable,
+estimated to be ` 18.17 Crores (2024 - ` 10.53 Crores), including share of associates ` 3.27 Crores (2024 - Nil).
+In respect of Surya Nepal Private Limited (SNPL), Excise, Income Tax and VAT authorities issued Show Cause Notices
+(SCNs) and raised demands to recover taxes for different years on theoretical production of cigarettes. In all these
+proceedings, the authorities applied an input-output ratio allegedly submitted by SNPL in the year 1990-91 and arrived at
+a theoretical production and demanded tax / duty on the differential production / turnover. This, despite the fact that SNPL’s
+cigarette factory was under ‘physical control’ of the Excise authorities and cigarettes produced were duly accounted for
+and certified as such by the Excise authorities.
+The Revenue Authorities for the first time raised excise demands for the financial years 1993-94 and 1994-95, claiming
+that SNPL could have produced more cigarettes according to the input-output ratio submitted in the year 1990-91.
+SNPL challenged these excise demands before the Hon’ble Supreme Court of Nepal through a writ petition. A division
+bench of the Hon’ble Supreme Court of Nepal decided the matter in favour of SNPL (the “Division Bench Judgement”)
+and rejected the above basis of theoretical production. The Ministry of Finance of Nepal filed a review petition before the
+Full Bench of Hon’ble Supreme Court of Nepal seeking review of the judgement of Division Bench. The Full Bench after
+hearing both the sides at length upheld the judgement of Division Bench by its order dated October 29, 2009.
+Similar demands had been raised for other financial years viz., Excise Demands for FY 1998-99 to FY 2002-03 and
+Income Tax Demand for FY 2001-02, which were also challenged by SNPL before the Hon’ble Supreme Court of Nepal
+by way of writ petitions and the Court was pleased to allow all the writ petitions setting aside the demands.
+ITC Limited REPORT AND ACCOUNTS 2025 283
+
+[PAGE 302]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+Further, the Inland Revenue Department had decided administrative review petitions in favour of SNPL setting aside
+Value Added Tax demands for the financial years 2001-02 and 2007-08 and Income Tax demand for the FY 2005-06
+following the aforesaid decisions of the Hon’ble Supreme Court of Nepal.
+During the pendency of the aforementioned review petition before the Hon’ble Supreme Court of Nepal and thereafter,
+the Revenue Authorities raised demands and issued a SCN, in the same subject matter of theoretical production
+for different years (as listed below), which were also challenged by SNPL by way of writ petitions before
+Hon’ble Supreme Court of Nepal between the years 2007 to 2010:
+1. E xcise demand letters for ` 17.38 Crores [Nepalese Rupee (NRs.) 27.80 Crores] relating to the financial years 2003-04
+to 2006-07.
+2. V alue Added Tax (VAT) demand letters for ` 10.93 Crores (NRs. 17.49 Crores) relating to financial years 2002-03
+to 2006-07.
+3. Income Tax demand letters for ` 13.45 Crores (NRs. 21.52 Crores) relating to financial years 2002-03 and 2003-04.
+SNPL’s writ petitions with regard to various tax demands and a SCN mentioned hereinabove were disposed of by the
+Hon’ble Supreme Court of Nepal on 15th April, 2021 holding that SNPL should avail the alternate remedy by way of appeal
+to the Inland Revenue Department (IRD). The Administrative Review Petitions relating to above demands are currently
+pending for disposal with the Inland Revenue Department.
+The Management considers that all the demands listed above have no legal or factual basis; accordingly, the Management
+is of the view that there is no liability that is likely to arise, particularly in light of the fact that the issue underlying these
+demands has already been settled by the Hon’ble Supreme Court of Nepal in favour of SNPL.
+I t is not practicable for the Group to estimate the closure of these issues and the consequential timings of cash flows, if any,
+in respect of the above.
+(b) Commitments
+Estimated amount of contracts remaining to be executed on capital accounts and not provided for are ` 1048.96 Crores
+(2024 - ` 1189.36 Crores) for the Group, which includes share of associates ` 70.00 Crores (2024 - ` 0.49 Crore) and
+share of joint ventures ` 1.63 Crores (2024 - ` 5.14 Crores).
+Uncalled liability on partly paid-up shares and other investments is ` 25.35 Crores (2024 - ` 25.72 Crores).
+The Group on 19th April, 2023, executed transaction documents for acquisition of 100% of the share capital (on a fully
+diluted basis) of Sproutlife Foods Private Limited (‘Sproutlife’) over a time period of about three to four years.
+The Group held 47.50% of the share capital (on a fully diluted basis) of Sproutlife as on 31st March, 2025 (Refer Note 4).
+The consideration for acquisition of the balance stake of 52.50% will be determined based on pre-agreed valuation criteria
+and fulfilment of applicable terms and conditions.
+The Group on 6th February, 2025, executed transaction documents for acquisition of 100% of the share capital of
+Ample Foods Private Limited (‘Ample Foods’) over a time period of about three years. Consequently, the Group
+acquired 43.75% stake in Ample Foods on 4th April, 2025 for a consideration of ` 131.25 Crores. The Group’s stake in
+Ample Foods will increase to 62.50% by April, 2027 through secondary purchase of ` 56.00 Crores. The consideration
+for acquisition of balance stake of 37.50% will be determined based on pre-agreed valuation criteria and fulfilment of
+applicable terms and conditions.
+The Group on 31st March, 2025, entered into a Business Transfer Agreement (BTA) with Aditya Birla Real Estate Limited
+for acquisition of the Undertaking pertaining to manufacture, distribution and sale of pulp and paper products operated
+under the name of ‘Century Pulp and Paper’, as a going concern on a slump sale basis for a lumpsum consideration of
+up to ` 3500.00 Crores on a cash-free debt-free basis, payable as per the terms and conditions laid down in the BTA.
+The transaction is expected to be consummated in about 6 months from date of signing of BTA, subject to receipt of
+statutory approvals and fulfilment of the conditions laid down in the BTA.
+284 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 303]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(iv) Research and Development expenses for the year amount to ` 187.87 Crores (2024 - ` 170.47 Crores).
+(v) Employee Benefit Plans
+The Group has adopted Indian Accounting Standard-19 (Ind AS 19) on ‘Employee Benefits’. These Consolidated Financial
+Statements include the obligations as per requirement of this standard except for those subsidiaries which are incorporated
+outside India who have determined the valuation / provision for employee benefits as per requirements of their respective countries.
+In the opinion of the management, the impact of this deviation is not considered material.
+Description of Plans
+The Group makes contributions to both Defined Benefit and Defined Contribution Plans for qualifying employees. These Plans
+are administered through approved Trusts, which operate in accordance with the Trust Deeds, Rules and applicable Statutes.
+The concerned Trusts are managed by Trustees who provide strategic guidance with regard to the management of their
+investments and liabilities and also periodically review their performance.
+Provident Fund and Pension Benefits are funded, Gratuity Benefits are both funded as well unfunded; and Leave Encashment
+Benefits are unfunded in nature. The Defined Benefit Pension Plans are based on employees’ pensionable remuneration and
+length of service. Under the Provident Fund, Gratuity and Leave Encashment Schemes, employees are entitled to receive lump
+sum benefits.
+(a) Defined Benefit Plans:
+T he liabilities arising in the Defined Benefit Schemes are determined in accordance with the advice of independent,
+professionally qualified actuaries, using the projected unit credit method as at year end. The Group makes regular contributions
+to these Defined Benefit Plans. Additional contributions are made to these plans as and when required based on actuarial
+valuation.
+Risk Management
+T he Defined Benefit Plans expose the Group to risk of actuarial deficit arising out of investment risk, interest rate risk and
+salary cost inflation risk.
+I nvestment Risk: This may arise from volatility in asset values due to market fluctuations and impairment of assets due to credit
+losses. These Plans primarily invest in debt instruments such as Government securities and highly rated corporate bonds –
+the valuation of which is inversely proportional to the interest rate movements.
+I nterest Rate Risk: The present value of Defined Benefit Plans liability is determined using the discount rate based on the
+market yields prevailing at the end of reporting period on Government securities. A decrease in yields will increase the fund
+liabilities and vice-versa.
+S alary Cost Inflation Risk: The present value of the Defined Benefit Plan liability is calculated with reference to the future
+salaries of participants under the Plan. Increase in salary might lead to higher liabilities.
+T hese Plans have a relatively balanced mix of investments in order to manage the above risks. The investment strategy is
+designed based on the interest rate scenario, liquidity needs of the Plans and pattern of investment as prescribed under
+various statutes.
+T he Trustees regularly monitor the funding and investments of these Plans. Risk mitigation systems are in place to ensure
+that the health of the portfolio is regularly reviewed and investments do not pose any significant risk of impairment. Periodic
+audits are conducted to ensure adequacy of internal controls. Pension obligation of the employees is secured by purchasing
+annuities thereby de-risking the Plans from future payment obligation.
+ITC Limited REPORT AND ACCOUNTS 2025 285

@@ -1,0 +1,137 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 212-214
+
+[PAGE 212]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+16. Methodology for determination : The volatility used in the Black Scholes Option Pricing model is the annualised standard
+of expected volatility deviation of the continuously compounded rates of return on the stock over a period of
+time. The period considered for the working is commensurate with the expected life of the
+Options and is based on the daily volatility of the Company’s stock price on NSE. There
+are no market conditions attached to the grant and vest.
+17. Options granted to : As provided below:
+(a) Directors and Name Designation No. of Options granted
+Senior managerial personnel during the financial year
+2024-25
+1 S. Puri Chairman & Managing Director 1,34,500
+Executive Director & Chief Financial
+2 S. Dutta 65,250
+Officer
+3 H. Malik Executive Director 65,250
+4 B. Sumant Executive Director 65,250
+Group Head - ITD, MAB, Start-up
+5 S. Kaul 18,750
+Ventures, LS&T & Quality
+6 A. K. Rajput President - Corporate Affairs 18,750
+Group Head - Agri Business, IT,
+7 S. Sivakumar 18,750
+Sustainability, CSR & EHS
+Executive Vice President &
+8 R. K. Singhi 13,050
+Company Secretary
+The aforesaid Options were granted at the exercise price of ` 4836.50 per Option (adjusted grant price consequent to the
+Scheme of Demerger: ` 4575.39 per Option), being the ‘market price’ as defined under the Securities and Exchange Board of
+India (Share Based Employee Benefits and Sweat Equity) Regulations, 2021.
+(b) Any other employee who received a grant on any : None
+one year of Options amounting to 5% or more of the
+Options granted during the year.
+(c) Identified employees who were granted Options, : None
+during any one year, equal to or exceeding 1% of the
+issued capital (excluding outstanding warrants and
+conversions) of the Company at the time of grant.
+B. Information in respect of Options granted by ITC Hotels Limited (ITCHL):
+In terms of the Scheme of Demerger [Refer Note 29(x)], one stock option of ITCHL (including fractional entitlements) has
+been granted to the eligible employees of the Company by ITCHL under the ITC Hotels Special Purpose Employee Stock
+Option Scheme (‘ITCHL SP ESOP Scheme’) for every ten stock options outstanding under the ITC Employee Stock Option
+Schemes (ITC ESOS) as on the Record Date i.e. 6th January, 2025, on the terms and conditions similar to the ITC ESOS.
+E ach option entitles the holder thereof to apply for and be allotted ten Equity Shares of ITCHL of ` 1.00 each upon payment
+of exercise price. These options vest over a period of three years from the date of original grant under the ITC ESOS and
+are exercisable within a period of five years from the date of vesting. The exercise prices have been determined basis fair
+and reasonable adjustments approved by the Nomination & Compensation Committees of the Company and ITCHL for
+outstanding stock options under the ITC ESOS Schemes as on the Record Date.
+194 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 213]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+The employee compensation cost as per fair value method for the financial year 2024-25 is ` 1.95 Crores (2024 - Nil)
+[Refer Note 25].
+The summary of movement of the aforesaid Stock Options granted by ITCHL and status of the outstanding Options is
+as under:
+As at 31st March, 2025
+Particulars
+Weighted Average
+No. of Options
+Exercise Prices (`)
+Outstanding at the beginning of the year – –
+Add: Granted during the year 7,09,895 1871.68
+Less: Lapsed during the year – –
+Less: Exercised during the year – –
+Outstanding at the end of the year 7,09,895 1871.68
+Options exercisable at the end of the year 4,33,614 1519.46
+Options vested and exercisable during the year 4,33,614 1519.46
+(xvi) Information in respect of Stock Appreciation Linked Reward (‘SAR’) Plan:
+Sl.
+Particulars Details
+No.
+1 Nature and extent of Stock : ITC Employee Cash Settled Stock Appreciation Linked Reward Plan
+Appreciation Linked Reward Plan (ITC ESAR Plan).
+that existed during the year along
+Under the ITC ESAR Plan, the eligible employees receive cash on vesting
+with general terms and conditions
+of SAR units, equivalent to the difference between the grant price and the
+market price of the share on vesting of SAR units subject to the terms and
+conditions specified in the Plan.
+2 Settlement Method : Cash – Settled
+3 Vesting period and maximum term : Over a period of five years from the date of grant in accordance with the Plan.
+of SAR granted
+4 Method used to estimate the fair : Black Scholes Option Pricing model. The said model considers inputs such as
+value of SAR granted Risk-free interest rate, Expected life, Expected volatility, Expected dividend,
+Market price etc. The number of SAR units outstanding as at 31st March,
+2025 is 1,24,850 (2024 - 9,31,606) and the weighted average fair value at
+measurement date is ` 1513.00 (2024 – ` 1103.96) per SAR unit.
+5 Total cost recognised in the : The cost has been calculated using the fair value method of accounting for
+Statement of Profit and Loss SAR units issued under the ITC ESAR Plan. The employee benefits expense
+as per fair value method for the financial year 2024-25 is ` 8.42 Crores
+(2024 - ` 32.06 Crores) and ` 0.41 Crore (2024 - ` 1.43 Crores) for group
+entities (Refer Note 25). The amount carried in the Balance Sheet as a
+non – current financial liability is Nil (2024 - ` 13.76 Crores) and as a current
+financial liability is ` 16.35 Crores (2024 - ` 71.14 Crores) (Refer Note 16).
+ITC Limited REPORT AND ACCOUNTS 2025 195
+
+[PAGE 214]
+Notes
+to the Standalone Financial Statements
+29. Additional Notes to the Financial Statements (Contd.)
+(xvii) Financial Ratios:
+Ratio Numerator Denominator 31st March, 2025 31st March, 2024
+Current Ratio (in times) Current Assets Current Liabilities 3.03 2.91
+Return on Equity Profit for the year (before Average 29.19 29.22
+Ratio (in %) exceptional items) Shareholder’s Equity
+Inventory Turnover Ratio Gross Revenue from sale Average Inventory 5.31 5.98
+(in times) of products and services
+Trade Receivables Gross Revenue from sale Average 20.72 24.66
+Turnover Ratio (in times) of products and services Trade Receivables
+Trade Payables Turnover COGS + Other Expenses – Average 9.75 8.39
+Ratio (in times) Non Cash Expenditure Trade Payables
+Net Capital Turnover Gross Revenue from sale Working Capital (Current 2.76 2.94
+Ratio (in times) of products and services Assets – Current Liabilities)
+Net Profit Ratio (in %) Profit for the year (before Gross Revenue from sale 26.72 29.42
+exceptional items) of products and services
+Return on Capital Profit before exceptional Average 38.79 37.97
+Employed (in %) items, interest and taxes Capital Employed
+Return on Investment (in %) Income from investment Time weighted average 9.67 8.91
+Investment
+Debt-Equity Ratio and Debt Service Coverage Ratio are not relevant for the Company as it has negligible debt.
+Note: Ratios for the financial year ended 31st March, 2025 have been computed based on numbers for Continuing Operations
+pursuant to the demerger of the Hotels Business. Accordingly, the ratios for the financial year ended 31st March, 2024 are not
+strictly comparable.
+(xviii) Figures presented as “…” are below the rounding off norm adopted by the Company.
+(xix) Figures for the previous year are re-arranged, wherever necessary, to conform to the figures of the current period. The same
+does not have any material impact on the standalone financial statements.
+(xx) The standalone financial statements were approved for issue by the Board of Directors on May 22, 2025. Such financial
+statements are required to be placed before the shareholders for adoption in terms of Companies Act, 2013.
+196 ITC Limited REPORT AND ACCOUNTS 2025

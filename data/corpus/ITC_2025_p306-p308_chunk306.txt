@@ -1,0 +1,154 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 306-308
+
+[PAGE 306]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Pension Gratuity Leave Pension Gratuity Leave
+Encashment Encashment
+Partially Funded Unfunded Unfunded Partially Funded Unfunded Unfunded
+Funded Funded
+VI Change in Fair Value of Assets
+1 Plan Assets at the
+beginning of the year 955.52 525.06 – – 888.56 480.39 – –
+2 Assets transferred pursuant to
+Scheme of demerger (121.03) (72.77) – – – – – –
+3 Interest Income 63.77 37.65 – – 69.01 37.61 – –
+4 Re-measurement Gains / (Losses) on
+plan assets 9.50 3.47 – – 23.16 3.61 – –
+5 Actual Group Contributions 22.10 76.30 – – 57.75 57.63 – –
+6 Benefits Paid (109.61) (61.21) – – (82.89) (54.18) – –
+7 Effects of transfer in / (out) (0.02) – – – (0.07) – – –
+8 Plan Assets at the end of the year 820.23 508.50 – – 955.52 525.06 – –
+As at 31st March, 2025 As at 31st March, 2024
+Discount Rate Discount Rate
+(%) (%)
+VII Actuarial Assumptions
+1 Pension 6.75 7.00
+2 Gratuity 6.75 7.00
+3 Leave Encashment 6.75 7.00
+The estimates of future salary increases, generally between 4% to 6% for the Holding Company (being the largest
+component of the Group), considered in actuarial valuations take account of inflation, seniority, promotion and other
+relevant factors such as supply and demand factors in the employment market.
+As at 31st March, 2025 As at 31st March, 2024
+VIII Major Category of Plan Assets as a %
+of the Total Plan Assets
+1 Government Securities / Special Deposit with RBI 13.87% 14.94%
+2 High Quality Corporate Bonds 11.26% 11.39%
+3 Insurer / Citizen Investment Trust Managed Funds* 62.87% 62.50%
+4 Mutual Funds 7.59% 6.73%
+5 Cash and Cash Equivalents 4.41% 4.44%
+6 Term Deposits – –
+* In the absence of detailed information regarding plan assets which is funded with Insurance Companies, the composition of each
+major category of plan assets, the percentage or amount for each category to the fair value of plan assets has not been disclosed.
+T he fair value of Government Securities, Corporate Bonds and Mutual Funds are determined based on quoted market prices
+in active markets. The employee benefit plans do not hold any securities issued by the participating companies.
+288 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 307]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+IX Basis used to determine the Expected Rate of Return on Plan Assets
+The expected rate of return on plan assets is based on the current portfolio of assets, investment strategy and market scenario.
+In order to protect the capital and optimize returns within acceptable risk parameters, the plan assets are well diversified.
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+Pension Gratuity Leave Pension Gratuity Leave
+Encashment Encashment
+Partially Funded Unfunded Unfunded Partially Funded Unfunded Unfunded
+Funded Funded
+X Net Asset / (Liability) recognised in
+Balance Sheet (including experience
+adjustment impact)
+1 Present Value of Defined Benefit
+Obligation 848.86 533.90 15.44 191.25 947.48 576.05 7.70 197.25
+2 Fair Value of Plan Assets 820.23 508.50 – – 955.52 525.06 – –
+3 Status [Surplus / (Deficit)] (28.63) (25.40) (15.44) (191.25) 8.04 (50.99) (7.70) (197.25)
+4 Experience Adjustment of Plan Assets
+[Gain / (Loss)] 9.50 3.47 – – 23.16 3.61 – –
+5 Experience Adjustment of obligation
+[(Gain) / Loss] 13.51 3.41 1.96 (1.91) (30.13) 22.27 0.09 0.82
+XI. Sensitivity Analysis
+The Sensitivity Analysis below has been determined based on reasonably possible change of the respective assumptions
+occurring at the end of the reporting period, while holding all other assumptions constant. These sensitivities show the
+hypothetical impact of a change in each of the listed assumptions in isolation. While each of these sensitivities holds all
+other assumptions constant, in practice such assumptions rarely change in isolation and the asset value changes may
+partially offset this impact. For presenting the sensitivities, the present value of the Defined Benefit Obligation has been
+calculated using the projected unit credit method at the end of the reporting period, which is the same as that applied in
+calculating the Defined Benefit Obligation presented above. There was no change in the methods and assumptions used in
+the preparation of the Sensitivity Analysis from previous year.
+(` in Crores)
+DBO as at 31st March, 2025 DBO as at 31st March, 2024
+1 Discount Rate + 100 basis points 1507.49 1632.05
+2 Discount Rate - 100 basis points 1695.17 1833.95
+3 Salary Increase Rate + 1% 1690.15 1825.64
+4 Salary Increase Rate – 1% 1514.17 1637.60
+Maturity Analysis of the Benefit Payments
+1 Year 1 236.97 231.15
+2 Year 2 234.66 287.00
+3 Year 3 168.65 227.42
+4 Year 4 132.61 157.08
+5 Year 5 163.36 123.94
+6 Next 5 Years 538.85 637.88
+(b) A mounts towards Defined Contribution Plans have been recognised under “Contribution to Provident and other funds” in
+Note 26 and in the expenses of discontinued operations: - ` 301.95 Crores (2024 - ` 254.14 Crores).
+ITC Limited REPORT AND ACCOUNTS 2025 289
+
+[PAGE 308]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(vi) A dditional information as required by Paragraph 2 of the General Instructions for Preparation of Consolidated Financial Statements to
+Schedule III to the Companies Act, 2013:
+Net Assets Share in Profit or (Loss) Share in Other Share in Total
+Comprehensive Income Comprehensive Income
+As a % of Amount As % of Amount As % of Amount As % of Amount
+Name of the Entity
+Consolidated (` in Crores) Consolidated (` in Crores) Consolidated (` in Crores) Consolidated (` in Crores)
+Net Assets Profit or Other Total
+(Loss) Comprehensive Comprehensive
+Income Income
+Parent
+ITC Limited 86.43% 60848.04 96.20% 33718.08 39.27% (245.50) 97.23% 33472.58
+Subsidiary
+Indian
+1 Russell Credit
+Limited 1.32% 930.76 0.13% 46.85 85.11% (531.78) (1.41%) (484.93)
+2 Greenacre
+Holdings Limited 0.11% 76.79 0.02% 7.23 … … 0.02% 7.23
+3 Wimco Limited 0.01% 4.48 … 1.45 … … … 1.45
+4 Prag Agro Farm
+Limited … 0.82 … (0.09) – – … (0.09)
+5 Pavan Poplar Limited … 0.24 … (0.03) … ... … (0.03)
+6 Technico Agri
+Sciences Limited 0.52% 369.40 0.25% 83.76 0.01% (0.05) 0.24% 83.71
+7 Srinivasa Resorts
+Limited# – – 0.01% 4.51 – – 0.01% 4.51
+8 Fortune Park
+Hotels Limited# – – 0.03% 11.19 – – 0.03% 11.19
+9 Bay Islands Hotels
+Limited# – – 0.01% 2.28 – – 0.01% 2.28
+10 Landbase India
+Limited# – – 0.03% 10.00 – – 0.03% 10.00
+11 ITC Hotels Limited# – – 0.01% 2.07 – – 0.01% 2.07
+12 ITC Infotech India
+Limited 2.01% 1411.02 1.05% 368.96 (2.23%) 13.92 1.12% 382.88
+13 Blazeclan
+Technologies
+Private Limited 0.06% 44.11 (0.02%) (8.24) (0.07%) 0.42 (0.02%) (7.82)
+14 Cloudlytics
+Technologies
+Private Limited … (1.33) … 0.01 – – … 0.01
+15 Gold Flake
+Corporation Limited 0.04% 26.32 … 1.30 – – … 1.30
+16 ITC Integrated
+Business Services
+Limited 0.01% 9.90 … 1.41 (0.01%) 0.06 … 1.47
+290 ITC Limited REPORT AND ACCOUNTS 2025

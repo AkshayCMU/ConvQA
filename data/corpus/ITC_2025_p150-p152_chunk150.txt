@@ -1,0 +1,226 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 150-152
+
+[PAGE 150]
+Report of the Board of Directors
+Annexure to the
+For the Financial Year Ended 31st March, 2025
+Form No. AOC-2
+[Pursuant to Section 134(3)(h) of the Companies Act, 2013 and Rule 8(2) of the Companies (Accounts) Rules, 2014]
+Form for disclosure of particulars of contracts / arrangements entered into by the Company with related parties
+referred to in sub-section (1) of Section 188 of the Companies Act, 2013 including certain arm’s length
+transactions under third proviso thereto
+1. Details of contracts or arrangements or transactions not at arm’s length basis
+(a) Name(s) of the related party Russell Credit Limited (RCL), a wholly owned subsidiary
+and nature of relationship
+(b) Nature of contracts / Transfer of Equity Shares of Inter-se transfer of Equity Inter-se transfer of Equity
+arrangements / Greenacre Holdings Limited Shares of EIH Limited (EIH), a Shares of HLV Limited (HLV),
+transactions (GHL), a wholly owned listed entity a listed entity
+subsidiary of RCL
+(c) Duration of the contracts / Not Applicable
+arrangements / transactions
+(d) Salient terms of the Purchase of 4,20,60,166 Equity Purchase of 1,52,32,129 Equity Purchase of 34,60,829 Equity
+contracts or arrangements Shares of GHL of ` 10/- each Shares of EIH of ` 2/- each from Shares of HLV of ` 2/- each
+or transactions including from RCL at book value of RCL at book value of from RCL at book value of
+the value, if any ` 42.10 crores. ` 111.22 crores. ` 10.93 crores.
+(e) Justification for entering The aforesaid shares have The aforesaid shares have been acquired from RCL in order to
+into such contracts been acquired from RCL as consolidate shareholding of EIH and HLV under the Company.
+or arrangements or part of restructuring within the Since the transactions are between the Holding Company and
+transactions group. Since the transaction is its wholly owned subsidiary, there is no potential conflict with the
+between the Holding Company interests of the Company and its shareholders arising from the
+and its wholly owned subsidiary, said transactions.
+there is no potential conflict with
+the interests of the Company
+and its shareholders arising
+from the said transaction.
+(f) Date of approval by the 24th October, 2024
+Board
+(g) A mount paid as advances, Nil
+if any
+(h) Date on which the special Not Applicable
+resolution was passed in
+general meeting as required
+under first proviso to
+Section 188
+2. Details of material contracts or arrangements or transactions at arm’s length basis
+(a) Name(s) of the related party and nature of relationship
+(b) Nature of contracts / arrangements / transactions
+(c) Duration of the contracts / arrangements / transactions
+NONE
+(d) Salient terms of the contracts or arrangements or transactions including the value, if any
+(e) Date(s) of approval by the Board, if any
+(f) Amount paid as advances, if any
+On behalf of the Board
+S. PURI Chairman & Managing Director
+(DIN : 00280529)
+Place: Kolkata S. DUTTA Director & Chief Financial Officer
+Date: May 22, 2025 (DIN : 01804345)
+132 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 151]
+Report of the Board of Directors
+Annexure to the
+INFORMATION UNDER SECTION 134 (3) (m) OF THE COMPANIES ACT, 2013 READ WITH COMPANIES (ACCOUNTS) RULES,
+2014 AND FORMING PART OF THE REPORT OF THE BOARD OF DIRECTORS
+CONSERVATION OF ENERGY: TECHNOLOGY ABSORPTION:
+All business units continued their efforts to improve energy usage a) Efforts made towards technology absorption:
+efficiencies and increase the share of renewable energy in line with
+I. A s a part of Industry 4.0 initiative, various technological
+ITC’s 2030 Goals. These goals include reduction in specific energy
+innovations are being implemented. Key highlights are
+by 30% and specific GHG by 50% along with increasing renewable
+presented below:
+energy share to 50% and sourcing 100% of purchased electricity
+a. Foods Business’s ‘Focus Factory’ initiative is aimed at
+from renewables. The Company regularly tracks its performance
+building robust digital infrastructure to enable real time
+against these key performance indicators. The Company invests
+monitoring of operational parameters and utilise it towards
+in energy conservation and renewable energy projects along
+advanced data analytics such as Artificial Intelligence and
+with exploring innovative technologies to bring alignment with
+Machine Learning. Some of the key projects implemented
+the goals. These investments are done in phases by taking into
+during the year are:
+account future expansion plans, evolving regulatory frameworks,
+techno-commercial feasibility and socio-political aspects. i. Reduction in moisture content of atta to maintain quality.
+ii. Reduction in variations of weight in atta and snacks.
+a) Steps taken or impact on conservation of energy:
+iii. Vision system to detect short-pack and nut density for
+Some of the energy conservation measures adopted across the
+biscuits.
+Company are outlined below:
+iv. Condition based monitoring of critical equipment to
+I. Retrofitting of boiler to reduce power consumption in fans
+reduce unplanned downtime.
+and fuel handling system in Paper Business.
+b. Installed advanced data management system to capture
+II. Installation of static electricity discharge nets in Air Handling
+real-time operations data across businesses that helps
+Units (AHUs) to eliminate electrostatic disturbance thereby
+in building machine learning tools. These tools help in
+improving heat transfer efficiency in Foods Business.
+improving quality; increasing throughput and energy
+III. I nstallation of Automatic Tube Cleaning System (ATCS)
+performance; reducing material consumption and costs.
+to reduce scaling thereby improving chiller efficiency in
+II. I nstalled state-of-the art equipment such as induction
+Packaging and Printing Business.
+heating, headbox, shoe press etc. across the paper
+IV. Installation of air preheater and thermic booster systems in
+machines to enhance productivity and quality.
+Packaging and Printing Business.
+III. I nstalled state-of-the-art spectrophotometer to reduce
+V. Installation of closed loop condensate recovery system in
+shade variations in décor grade paper.
+Foods Business.
+IV. New process and product technologies on personal
+VI. Installation of thermo-compressor in Agri Business.
+hygiene, skin care and fragrances developed through
+VII. Installation of Variable Frequency Drives (VFDs) for various
+in-house Research & Development in the Personal Care
+pumps, agitators, blowers, and chillers across Businesses.
+Products Business.
+VIII. R eplacement of air conditioners, chiller, cooling tower, battery
+V. Induction of contemporary technologies and continuous
+chargers, transformer, UPS, motors, agitator, blower, fans
+improvement across businesses, towards reducing process
+and pumps with higher efficiency ones across Businesses.
+variability, cycle time and wastages while enhancing
+IX. Improvement in energy usage efficiency in lighting systems
+manufacturing flexibility, productivity and capability across
+by changing over to efficient lighting solutions such as Light
+Businesses.
+Emitting Diodes (LEDs) across Businesses.
+b) Benefits derived:
+X. Process improvements to enhance productivity and reduce
+specific energy consumption across Businesses. I. Cycle time reduction and productivity enhancement
+These investments have resulted in energy savings of over 40 TJ II. World-class quality and differentiated products
+during the year. III. A ddressing market specific end-use applications
+b) Steps taken for utilising alternate sources of energy: IV. Conservation of resources and improved efficiencies
+Some of the renewable energy initiatives undertaken during the c) The expenditure incurred on Research and Development:
+year are as follows:
+For the year ended
+I. Commissioning of 10.8 MWp onsite solar photovoltaic
+31st March, 2025
+power plants across ITC Units.
+II. Commissioning of biomass boiler in the newly built personal Expenditure on R&D: (` in Lakhs)
+care factory in West Bengal.
+i) Capital 1,395.62
+III. C ontinued use of renewable electricity from existing wind/
+solar power plants and utilization of biomass in existing ii) Revenue 18,768.49
+biomass boilers across Businesses.
+Total 20,164.10
+These investments have helped ITC increase its renewable
+electricity capacity to 174 MW 1. These investments along with Total R&D Expenditure (as a % of Gross Revenue) 0.27%
+investments in renewable thermal energy have helped ITC achieve
+an overall renewable energy share of 52% despite significant
+increase in production across Businesses. On behalf of the Board
+c) Capital investment on energy conservation equipment:
+S. PURI Chairman & Managing Director
+1,584 lakhs INR
+(DIN : 00280529)
+1 E xcluding 51 MW of renewable energy assets transferred to ITC Hotels Limited
+Kolkata, India S. DUTTA Director & Chief Financial Officer
+post demerger. Total commissioned capacity including that of ITC Hotels Limited
+is 225MW. 22nd May, 2025 (DIN : 01804345)
+ITC Limited REPORT AND ACCOUNTS 2025 133
+
+[PAGE 152]
+Report of the Board of Directors
+Annexure to the
+For the Financial Year Ended 31st March, 2025
+A. Information pursuant to Section 197 of the Companies Act, 2013 read with Rule 5(1) of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014
+Name of Directors & Designation Ratio of Remuneration to Increase in Remuneration
+Key Managerial Personnel Median Remuneration over Last Year (%)
+of all Employees
+Based on remuneration paid
+S Puri Chairman & Managing Director 377 : 1 0
+S Dutta Executive Director & Chief Financial Officer 132 : 1 21
+H Malik Executive Director 99 : 1 148 *
+B Sumant Executive Director 174 : 1 (3)
+H Bhargava Independent Director 14 : 1 (7)
+A M Bharucha Independent Director 9 : 1 2572 *
+C K Mishra 1 Independent Director 9 : 1 –
+S Mohanty 2 Non-Executive Director 0 : 1 –
+S Mukherjee Independent Director 13 : 1 (8)
+A Nayak Independent Director 13 : 1 (10)
+A Pande 3 Non-Executive Director 1 : 1 –
+S Panray Non-Executive Director 13 : 1 (9)
+N Rao Independent Director 12 : 1 (12)
+A K Seth Independent Director 13 : 1 (7)
+A Singh 4 Non-Executive Director 1 : 1 –
+P Subrahmanyam 5 Independent Director 1 : 1 –
+S Banerjee 6 Independent Director 12 : 1 (16)
+A Duggal 7 Independent Director 13 : 1 (14)
+M Gupta 8 Non-Executive Director 13 : 1 (11)
+R Jain 9 Non-Executive Director 3 : 1 2288 *
+M Shankar 7 Independent Director 13 : 1 (14)
+R K Singhi Executive Vice President & Company Secretary 47 : 1 4
+* Not comparable since the previous year’s remuneration was for part of the year.
+1 Appointed Independent Director w.e.f. 14.09.2024
+2 Appointed Non-Executive Director w.e.f. 01.01.2025
+3 Appointed Non-Executive Director w.e.f. 27.07.2024
+4 Appointed Non-Executive Director w.e.f. 02.04.2024
+5 Appointed Independent Director w.e.f. 02.04.2024
+6 Ceased to be Independent Director w.e.f. 30.07.2024
+7 Ceased to be Independent Director w.e.f. 15.09.2024
+8 Ceased to be Non-Executive Director w.e.f. 27.10.2024
+9 Ceased to be Non-Executive Director w.e.f. 31.05.2024
+Notes
+1) The number of permanent employees as on 31st March, 2025 was 22,041
+2) Compared to the financial year 2023-24, the figures for the financial year 2024-25 reflect that:
+(i) Median remuneration of employees - Increased by 7%
+(ii) Average remuneration of employees - Increased by 5%
+(iii) Average remuneration of employees excluding Key Managerial Personnel (KMPs) - Increased by 5%
+(iv) Remuneration of KMPs - Decreased by 11%
+3) Remuneration of Directors, KMPs and other employees is in accordance with the Company’s Remuneration Policy
+B. Information pursuant to Section 197 of the Companies Act, 2013 read with Rule 5(2) of the Companies (Appointment and Remuneration of Managerial Personnel) Rules, 2014 -
+Available on the Company’s corporate website www.itcportal.com .
+On behalf of the Board
+S. PURI Chairman & Managing Director
+(DIN : 00280529)
+Kolkata S. DUTTA Director & Chief Financial Officer
+22nd May, 2025 (DIN : 01804345)
+134 ITC Limited REPORT AND ACCOUNTS 2025

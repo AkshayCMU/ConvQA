@@ -1,0 +1,165 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 221-223
+
+[PAGE 221]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures
+1. Capital Management
+The Company’s financial strategy aims to support its strategic priorities and provide adequate capital to its businesses for growth
+and creation of sustainable stakeholder value. The Company funds its operations through internal accruals and aims at maintaining
+a strong capital base to support the future growth of its businesses.
+During the year, the Company issued 2,93,98,310 Ordinary Shares (2024 – 5,67,03,730 Ordinary Shares) of ` 1.00 each amounting
+to ` 2.94 Crores (2024 – ` 5.67 Crores) towards its employee stock options. The securities premium stood at ` 15834.70 Crores
+as at 31st March, 2025 (2024 - ` 14842.78 Crores).
+2. Categories of Financial Instruments
+( ` in Crores)
+As at 31st March, 2025 As at 31st March, 2024
+Particulars Note
+Carrying Fair Carrying Fair
+Value Value Value Value
+A. Financial assets
+a) Measured at amortised cost
+i) Cash and cash equivalents 11 222.06 222.06 197.63 197.63
+ii) Bank Balances other than (i) above 12 2962.32 2962.32 6020.06 6020.06
+iii) Investment in Bonds /
+Debentures, Preference
+Shares & Government or
+Trust Securities 4, 9 7419.15 7484.91 7384.61 7238.15
+iv) Investment in Mutual Funds 4, 9 389.10 392.57 366.88 362.91
+v) Loans 5 15.24 13.84 11.73 11.24
+vi) Trade receivables 10 3910.77 3910.77 3311.45 3311.45
+vii) Other financial assets 6 2744.19 2738.46 1220.16 1173.66
+Sub-total 17662.83 17724.93 18512.52 18315.10
+b) Measured at Fair value
+through OCI
+i) Investment in Equity Shares 4 3629.98 3629.98 3979.47 3979.47
+ii) Investment in Mutual Funds 4, 9 5309.12 5309.12 4912.78 4912.78
+Sub-total 8939.10 8939.10 8892.25 8892.25
+c) Measured at Fair value through
+Profit or Loss
+i) Investment in Mutual Funds 9 10518.05 10518.05 9355.06 9355.06
+ii) Investment in Bonds / Debentures,
+Certificates of Deposit 9 1586.96 1586.96 2524.47 2524.47
+iii) Investment in Venture
+Capital Funds 4 132.81 132.81 121.96 121.96
+iv) Investment in Equity &
+Preference Shares 4 32.97 32.97 39.34 39.34
+Sub-total 12270.79 12270.79 12040.83 12040.83
+d) Derivatives measured
+at fair value
+i) Derivative instruments not
+designated as hedging instruments 6 15.71 15.71 2.05 2.05
+ii) Derivative instruments designated
+as hedging instruments 6 24.20 24.20 0.53 0.53
+Sub-total 39.91 39.91 2.58 2.58
+Total financial assets 38912.63 38974.73 39448.18 39250.76
+ITC Limited REPORT AND ACCOUNTS 2025 203
+
+[PAGE 222]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures (Contd.)
+(` in Crores)
+As at 31st March, 2025 As at 31st March, 2024
+Particulars Note Carrying Fair Carrying Fair
+Value Value Value Value
+B. Financial liabilities
+a) Measured at amortised cost
+i) Sales tax deferment loans 14 1.76 1.76 3.28 2.90
+ii) Trade payables 19 4489.82 4489.82 4489.55 4489.55
+iii) Lease liabilities 15 154.99 154.99 308.69 308.69
+iv) Other financial liabilities 16 1512.37 1496.69 1750.52 1730.19
+Sub-total 6158.94 6143.26 6552.04 6531.33
+b) Measured at fair value
+Derivative instruments not
+designated as hedging instruments 16 8.40 8.40 1.43 1.43
+Derivative instruments designated
+as hedging instruments 16 3.16 3.16 4.60 4.60
+Contingent Consideration 16 12.65 12.65 12.65 12.65
+Sub-total 24.21 24.21 18.68 18.68
+Total financial liabilities 6183.15 6167.47 6570.72 6550.01
+3. Financial risk management objectives
+The Company has a system-based approach to risk management, anchored to policies and procedures and internal financial
+controls aimed at ensuring early identification, evaluation and management of key financial risks (such as market risk, credit risk
+and liquidity risk) that may arise as a consequence of its business operations as well as its investing and financing activities.
+Accordingly, the Company’s risk management framework has the objective of ensuring that such risks are managed within
+acceptable and approved risk parameters in a disciplined and consistent manner and in compliance with the applicable regulations.
+It also seeks to drive accountability in this regard.
+Liquidity Risk
+The Company’s Current assets aggregate ` 39755.94 Crores (2024 – ` 36070.67 Crores) including Current Investments, Cash
+and cash equivalents and Bank Balances other than cash and cash equivalents of ` 18470.29 Crores (2024 – ` 18134.57 Crores)
+against an aggregate Current liability of ` 13122.14 Crores (2024 – ` 12415.61 Crores). As part of its surplus liquidity management
+operations, the Company may sell instruments that are held at amortised cost. Such sales may be infrequent (even if significant
+in value) or insignificant in value both individually and in aggregate (even if frequent). During the year, the net loss arising on such
+sale amounted to Nil (2024 – ` 16.37 Crores) (Refer Note 23).
+Non-current liabilities (other than derivatives and lease liabilities) due between one year to three years amounted to ` 87.89 Crores
+(2024 – ` 110.07 Crores) and Non-current liabilities (other than derivatives and lease liabilities) due after three years amounted to
+Nil (2024 – ` 1.56 Crores) on the reporting date. Derivative liabilities are current in nature. The maturity analysis of undiscounted
+lease liabilities are disclosed under Note 29(viii).
+Further, while the Company’s total equity stands at ` 66648.73 Crores (2024 – ` 70984.83 Crores), the amount carried in the
+Balance Sheet as non-current borrowings is Nil (2024 – ` 1.76 Crores). In such circumstances, liquidity risk or the risk that
+the Company may not be able to settle or meet its obligations as they become due does not exist.
+Market Risk
+A. Foreign Currency Risk
+The Company undertakes transactions denominated in foreign currency (mainly US Dollar, Pound Sterling, Euro and
+Japanese Yen) which are subject to the risk of exchange rate fluctuations. Financial assets and liabilities denominated in
+foreign currency, including the Company’s net investments in foreign operations (with a functional currency other than Indian
+Rupee), are also subject to reinstatement risks.
+204 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 223]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures (Contd.)
+The carrying amounts of foreign currency denominated financial assets and liabilities including derivative contracts, are as follows:
+(` in Crores)
+As at 31st March, 2025 USD Euro GBP JPY Others Total
+Financial Assets 1172.20 118.60 36.74 0.12 0.58 1328.24
+Financial Liabilities 108.60 23.22 1.71 1.78 1.46 136.77
+As at 31st March, 2024 USD Euro GBP JPY Others Total
+Financial Assets 608.02 74.58 27.00 – 1.66 711.26
+Financial Liabilities 77.59 22.61 1.18 2.02 0.98 104.38
+The Company uses foreign exchange forward, futures and options contracts to hedge its exposures in foreign currency arising
+from firm commitments and highly probable forecast transactions.
+a. Forward exchange contracts that were outstanding on respective reporting dates:
+(In Million)
+Designated under Hedge
+As at 31st March, 2025 As at 31st March, 2024
+Accounting
+Currency Cross Currency Buy Sell Buy Sell
+US Dollar Indian Rupee 19.28 222.17 13.59 98.15
+Euro US Dollar 14.45 – 11.15 –
+CHF US Dollar 0.01 – 0.15 –
+GBP US Dollar 0.01 – 0.02 –
+JPY US Dollar 29.45 – 36.03 –
+The aforesaid hedges have a maturity of less than 1 year from the year end.
+(In Million)
+Not designated under Hedge
+As at 31st March, 2025 As at 31st March, 2024
+Accounting
+Currency Cross Currency Buy Sell Buy Sell
+US Dollar Indian Rupee 28.05 100.59 – 45.35
+Euro US Dollar 0.25 21.28 1.24 9.94
+CAD US Dollar – 0.15 – 0.22
+CHF US Dollar 1.10 – 0.14 3.56
+GBP US Dollar – 5.99 – 2.98
+KWD US Dollar 0.15 – 0.06 –
+JPY US Dollar 148.75 – 203.75 –
+SEK US Dollar 0.36 – 0.52 –
+SGD US Dollar 0.11 – – –
+b. Currency options that were outstanding on respective reporting dates (Not designated under Hedge Accounting):
+(In Million)
+As at 31st March, 2025 As at 31st March, 2024
+Currency Cross Currency Buy Sell Buy Sell
+US Dollar Indian Rupee 4.00 36.50 – –
+Hedges of foreign currency risk and derivative financial instruments
+The Company has established risk management policies to hedge the volatility in cashflows arising from exchange rate fluctuations
+in respect of firm commitments and highly probable forecast transactions, through foreign exchange forward, futures and options
+contracts. The proportion of forecast transactions that are to be hedged is decided based on the size of the forecast transaction
+and market conditions. As the counterparty for such transactions are highly rated banks or recognised exchange(s), the risk of
+their non-performance is considered to be insignificant.
+The Company uses derivatives to hedge its exposure to foreign exchange rate fluctuations. Where such derivatives are not
+designated under hedge accounting, changes in the fair value of such hedges are recognised in the Statement of Profit and Loss.
+ITC Limited REPORT AND ACCOUNTS 2025 205

@@ -1,0 +1,177 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 400-402
+
+[PAGE 400]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Total volume of water consumption (in million
+1.3 1.8
+kilolitres)
+Water intensity per rupee of turnover
+(Total water consumption / Revenue from operations) 542 582
+(in kilolitres/Crore INR)
+Water intensity per rupee of turnover adjusted for
+Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations 1,122 1,193
+adjusted for PPP)
+(in kilolitres/Million USD)
+Water intensity (optional) – the relevant metric may
+1.35 1.84
+be selected by the entity (Litres/m2 built up area)
+4. Provide the following details related to water discharged:
+Parameter FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+(i) To Surface water 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(ii) To Groundwater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iii) To Seawater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iv) Sent to third-parties 0.09 0.10
+No treatment 0 0
+With treatment – please specify level of treatment Tertiary Tertiary
+Total water discharged (in million kilolitres) 0.09 0.10
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity.
+Parameter Please FY 2024-25 FY 2023-24
+specify unit (1st April, 2024-31st December, 2024)
+Total Scope 1 emissions kilo tonnes of 10 14
+CO equivalent
+2
+Total Scope 2 emissions kilo tonnes of 50 61
+CO equivalent
+2
+Total Scope 1 and Scope 2 emissions per tonnes of CO 26 26
+2
+rupee of turnover equivalent/
+(Total Scope 1 and Scope 2 GHG emissions / Crore INR
+Revenue from operations)
+Total Scope 1 and Scope 2 emission tonnes of CO 54 54
+2
+intensity per rupee of turnover adjusted for equivalent/
+Purchasing Power Parity (PPP) Million USD
+(Total Scope 1 and Scope 2 GHG emissions /
+Revenue from operations adjusted for PPP)
+Total Scope 1 and Scope 2 emission Kg of CO 65 83
+2
+intensity (optional) – the relevant metric equivalent/m2
+may be selected by the entity built up area
+LIII
+
+[PAGE 401]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+9. Provide details related to waste management by the entity, in the following format:
+Total waste generated is mentioned in rows (A) to (H)
+Parameter (in kilo tonnes) FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Plastic waste (A)* - -
+E-waste (B) 0.01 0.02
+Bio-medical waste (C) 0.0004 0.0010
+Construction and demolition waste (D) 2.7 7
+Battery waste (E) 0.01 0.02
+Radioactive waste (F) 0 0
+Other Hazardous waste. Please specify, if any. (G) 0.003 0.005
+Other Non-hazardous waste generated (H). Please 2.6 3
+specify, if any. (Break-up by composition i.e. by materials
+relevant to the sector)
+Total (A+B + C + D + E + F + G + H) 5.3 10
+Waste intensity per rupee of turnover 2 3
+(Total waste generated / Revenue from operations)
+Waste intensity per rupee of turnover adjusted for 5 7
+Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations
+adjusted for PPP)
+Waste intensity (optional) – the relevant metric may be 5.8 10.9
+selected by the entity (kg/ m2 built up area)
+(i) Recycled 5.34 9.92
+(ii) Re-used - -
+(iii) Other recovery operations - -
+Total 5.34 9.92
+(i) Incineration 0 0
+(ii) Landfilling 0 0
+(iii) Other disposal operations 0 0
+Total 0 0
+* Plastic waste is reported under Non-hazardous waste.
+There is reclassification of ‘Composting’ waste under ‘Recycled’ waste for FY 2023-24 data, without any change in the total waste
+recovered and total waste disposed.
+Principle 8
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Directly sourced from MSMEs/small producers 7.22% 5.60%
+Directly from within India 94.67% 91.10%
+5. Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost.
+Location FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Rural 6% 6%
+Semi-urban 2% 2%
+Urban 28% 29%
+Metropolitan 64% 63%
+Note: Pertains to permanent employees and workers of the Company.
+There is a reclassification of one site leading to re-statement of data for the previous reporting period.
+Principle 9
+7. Provide the following information relating to data breaches:
+1 Number of instances of data breaches Nil
+2 Percentage of data breaches involving personally identifiable information of customers Nil
+3 Impact, if any, of the data breaches Nil
+LIV
+
+[PAGE 402]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+KPMG Assurance and Consulting Services LLP
+Telephone: +91 124 336 9000
+Building No. 10, 4th Floor, Tower-B & C
+Fax: +91 124 336 9001
+DLF Cyber City, Phase - II Internet: www.kpmg.com/in
+Gurugram - 122 002 (India)
+Independent Practitioners’ Reasonable Assurance Report
+To the Board of Directors of ITC Limited
+Assurance report on the select sustainability disclosures in the Business Responsibility and
+Sustainability Report (BRSR) of ITC Limited
+Assurance report on the BRSR Core Attributes (hereafter called ‘Identified Sustainability Information’
+(ISI)) in the Business Responsibility and Sustainability Report (BRSR)1 of ITC Limited (the ‘Company’).
+The ISI is presented in the Business Responsibility and Sustainability Report including Exhibit-A, of the
+Company for the period from 1 April 2024 to 31 March 2025.
+Opinion
+We have performed a reasonable assurance engagement on whether the Company’s select sustainability
+disclosures in BRSR Core Format (refer to Annexure-1) for the period from 1 April 2024 to 31 March 2025,
+have been prepared in accordance with the reporting criteria (refer table below).
+Identified Period Section in the Reporting criteria
+Sustainability subject to Report and
+Information assurance Accounts 2025
+(ISI) subject
+to assurance
+BRSR Core From 1 Business - Regulation 34(2)(f) of the Securities and Exchange
+Attributes April 2024 Responsibility Board of India (SEBI) Listing Obligations and
+to 31 and Disclosure Requirements (SEBI LODR),
+(refer
+March Sustainability Regulations 2015 read with the SEBI circular dated
+Annexure- 1)
+2025 Report (BRSR) 12 July 2023 and master circular dated 11
+section November 2024.
+including the
+- Guidance notes for BRSR format issued by SEBI.
+Exhibit-A to the
+BRSR - World Resource Institute (WRI) / World Business
+Council for Sustainable Development (WBCSD)
+Greenhouse Gas (GHG) Protocol (A Corporate
+Accounting and Reporting Standards).
+This engagement was conducted by a multidisciplinary team including assurance practitioners, engineers,
+and environmental and social professionals.
+In our opinion, the Company’s Identified Sustainability Information covered in Business Responsibility and
+Sustainability Report (BRSR) section including the Exhibit-A to the BRSR, in the Report and Accounts 2025
+of ITC Limited for the period from 1 April 2024 to 31 March 2025 is prepared, in all material respects, in
+accordance with the reporting criteria and as per the Reporting Boundary set out in Section A: General
+Disclosures 13 of the BRSR.
+Notified by SEBI vide Circular No. SEBI/HO/CFD/CFD-SEC-2/P/CIR/2023/122 dated 12 July 2023, and master
+Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11 November 2024.
+LV

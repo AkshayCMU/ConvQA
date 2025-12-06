@@ -1,0 +1,183 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 399-401
+
+[PAGE 399]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+11. Details of safety related incidents.
+Safety Incident/Number Category* FY 2024-25 FY 2023-24
+(1st April, 2024-31st
+December, 2024)
+Lost Time Injury Frequency Rate (LTIFR) (per one Employees 0 0
+million-person hours worked)
+Workers 0 0
+Total recordable work-related injuries Employees 0 0
+Workers 0 0
+No. of fatalities Employees 0 0
+Workers 0 0
+High consequence work-related injury or ill-health Employees 0 0
+(excluding fatalities)
+Workers 0 0
+*Including the contract workforce
+Principle 5
+3b. Gross wages paid to females as % of total wages paid by the entity, in the following format
+FY 2024-25 (1st April, 2024-31st December, 2024) FY 2023-24
+Gross wages paid to females
+18% 18%
+as % of total wages paid
+Note: Pertains to permanent employees and workers of the Company.
+7. Complaints filed under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal)
+Act, 2013, in the following format:
+FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Total Complaints reported under Sexual Harassment
+on of Women at Workplace (Prevention, Prohibition 1 1
+and Redressal) Act, 2013 (POSH)
+Complaints on POSH as a % of female employees /
+0.2% 0.2%
+workers
+Complaints on POSH upheld 1 1
+Note: Pertains to permanent employees and workers of the Company.
+Principle 6
+The Purchasing Power Parity (PPP) conversion rate used in intensity ratio calculations across Principle 6 has been aligned with the
+guidance provided by the Industry Standards Forum for current reporting year and previous reporting year.
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Total energy consumed 582 740
+% of energy consumed from renewable sources 46% 43%
+Energy intensity per rupee of turnover
+(Total energy consumed / Revenue from operations) 255 256
+(in Giga Joules/Crore INR)
+Energy intensity per rupee of turnover adjusted for
+Purchasing Power Parity (PPP)
+(Total energy consumed / Revenue from operations 529 525
+adjusted for PPP)
+(in GJ/Million USD)
+Energy intensity (optional) –the relevant metric may
+0.64 0.81
+be selected by the entity (in MJ/ m2 built up area)
+LII
+
+[PAGE 400]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Total volume of water consumption (in million
+1.3 1.8
+kilolitres)
+Water intensity per rupee of turnover
+(Total water consumption / Revenue from operations) 542 582
+(in kilolitres/Crore INR)
+Water intensity per rupee of turnover adjusted for
+Purchasing Power Parity (PPP)
+(Total water consumption / Revenue from operations 1,122 1,193
+adjusted for PPP)
+(in kilolitres/Million USD)
+Water intensity (optional) – the relevant metric may
+1.35 1.84
+be selected by the entity (Litres/m2 built up area)
+4. Provide the following details related to water discharged:
+Parameter FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+(i) To Surface water 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(ii) To Groundwater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iii) To Seawater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iv) Sent to third-parties 0.09 0.10
+No treatment 0 0
+With treatment – please specify level of treatment Tertiary Tertiary
+Total water discharged (in million kilolitres) 0.09 0.10
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity.
+Parameter Please FY 2024-25 FY 2023-24
+specify unit (1st April, 2024-31st December, 2024)
+Total Scope 1 emissions kilo tonnes of 10 14
+CO equivalent
+2
+Total Scope 2 emissions kilo tonnes of 50 61
+CO equivalent
+2
+Total Scope 1 and Scope 2 emissions per tonnes of CO 26 26
+2
+rupee of turnover equivalent/
+(Total Scope 1 and Scope 2 GHG emissions / Crore INR
+Revenue from operations)
+Total Scope 1 and Scope 2 emission tonnes of CO 54 54
+2
+intensity per rupee of turnover adjusted for equivalent/
+Purchasing Power Parity (PPP) Million USD
+(Total Scope 1 and Scope 2 GHG emissions /
+Revenue from operations adjusted for PPP)
+Total Scope 1 and Scope 2 emission Kg of CO 65 83
+2
+intensity (optional) – the relevant metric equivalent/m2
+may be selected by the entity built up area
+LIII
+
+[PAGE 401]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+9. Provide details related to waste management by the entity, in the following format:
+Total waste generated is mentioned in rows (A) to (H)
+Parameter (in kilo tonnes) FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Plastic waste (A)* - -
+E-waste (B) 0.01 0.02
+Bio-medical waste (C) 0.0004 0.0010
+Construction and demolition waste (D) 2.7 7
+Battery waste (E) 0.01 0.02
+Radioactive waste (F) 0 0
+Other Hazardous waste. Please specify, if any. (G) 0.003 0.005
+Other Non-hazardous waste generated (H). Please 2.6 3
+specify, if any. (Break-up by composition i.e. by materials
+relevant to the sector)
+Total (A+B + C + D + E + F + G + H) 5.3 10
+Waste intensity per rupee of turnover 2 3
+(Total waste generated / Revenue from operations)
+Waste intensity per rupee of turnover adjusted for 5 7
+Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations
+adjusted for PPP)
+Waste intensity (optional) – the relevant metric may be 5.8 10.9
+selected by the entity (kg/ m2 built up area)
+(i) Recycled 5.34 9.92
+(ii) Re-used - -
+(iii) Other recovery operations - -
+Total 5.34 9.92
+(i) Incineration 0 0
+(ii) Landfilling 0 0
+(iii) Other disposal operations 0 0
+Total 0 0
+* Plastic waste is reported under Non-hazardous waste.
+There is reclassification of ‘Composting’ waste under ‘Recycled’ waste for FY 2023-24 data, without any change in the total waste
+recovered and total waste disposed.
+Principle 8
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Directly sourced from MSMEs/small producers 7.22% 5.60%
+Directly from within India 94.67% 91.10%
+5. Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost.
+Location FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Rural 6% 6%
+Semi-urban 2% 2%
+Urban 28% 29%
+Metropolitan 64% 63%
+Note: Pertains to permanent employees and workers of the Company.
+There is a reclassification of one site leading to re-statement of data for the previous reporting period.
+Principle 9
+7. Provide the following information relating to data breaches:
+1 Number of instances of data breaches Nil
+2 Percentage of data breaches involving personally identifiable information of customers Nil
+3 Impact, if any, of the data breaches Nil
+LIV

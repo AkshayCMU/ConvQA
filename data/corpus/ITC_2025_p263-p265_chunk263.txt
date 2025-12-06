@@ -1,0 +1,173 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 263-265
+
+[PAGE 263]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+on a straight-line basis. Lease term is determined based Income tax, insofar as it relates to items disclosed under
+on consideration of facts and circumstances that create an other comprehensive income or equity, is disclosed
+economic incentive to exercise an extension option, or not to separately under other comprehensive income or equity,
+exercise a termination option. Lease payments associated as applicable.
+with short-term leases (i.e., those leases that have a lease
+Deferred tax assets and liabilities are offset when there is
+term of 12 months or less from the commencement date
+legally enforceable right to offset current tax assets and
+and do not contain a purchase option) and low value leases
+liabilities and when the deferred tax balances relate to the
+(i.e., where the value of the underlying asset, when new, in
+same taxation authority. Current tax assets and tax liabilities
+order of magnitude is ` 5 lakhs or less) are charged to the
+are offset where the entity has a legally enforceable right to
+Statement of Profit and Loss on a straight-line basis over the
+offset and intends either to settle on net basis, or to realise
+term of the relevant lease.
+the asset and settle the liability simultaneously.
+The Group recognises lease liabilities measured at the
+Claims
+present value of lease payments to be made on the date
+of recognition of the lease. Such lease liabilities do not Claims against the Group not acknowledged as debts are
+include variable lease payments (that do not depend on an disclosed after a careful evaluation of the facts and legal
+index or a rate), which are recognised as expense in the aspects of the matter involved.
+periods in which they are incurred. Interest on lease liability
+Provisions
+is recognised using the effective interest method. Lease
+liabilities are subsequently increased to reflect the accretion Provisions are recognised when, as a result of a past
+of interest and reduced for the lease payments made. The event, the Group has a legal or constructive obligation; it
+carrying amount of lease liabilities is also remeasured is probable that an outflow of resources will be required
+upon modification of lease arrangement or upon change to settle the obligation; and the amount can be reliably
+in the assessment of the lease term. The effect of such estimated. The amount so recognised is a best estimate
+remeasurements is adjusted to the value of the ROU assets. of the consideration required to settle the obligation at the
+reporting date, taking into account the risks and uncertainties
+Group as a Lessor
+surrounding the obligation.
+Leases in which the Group does not transfer substantially
+In an event when the time value of money is material, the
+all the risks and rewards of ownership of an asset are
+provision is carried at the present value of the cash flows
+classified as operating leases. Where the Group is a lessor
+estimated to settle the obligation.
+under an operating lease, the asset is capitalised within
+property, plant and equipment or investment property Operating Segments
+and depreciated over its useful economic life. Payments Operating segments are reported in a manner consistent
+received under operating leases are recognised in the with the internal reporting provided to the chief operating
+Statement of Profit and Loss on a straight-line basis over decision-maker (CODM). The CODM, who is responsible
+the term of the lease.
+for allocating resources and assessing performance of the
+Taxes on Income operating segments, has been identified as the Corporate
+Management Committee.
+Taxes on income comprise current taxes and deferred
+taxes. Current tax in the Statement of Profit and Loss is Segments are organised based on businesses which
+provided as the amount of tax payable in respect of taxable have similar economic characteristics as well as exhibit
+income for the period using tax rates and tax laws enacted similarities in nature of products and services offered,
+during the period, together with any adjustment to tax the nature of production processes, the type and class of
+payable in respect of previous years. customer and distribution methods.
+Deferred tax is recognised on temporary differences Segment revenue arising from third party customers is
+between the carrying amounts of assets and liabilities and reported on the same basis as revenue in the financial
+the amounts used for taxation purposes (tax base), at the statements. Inter-segment revenue is reported on the basis
+tax rates and tax laws enacted or substantively enacted by of transactions which are primarily market led. Segment
+the end of the reporting period. results represent profits before finance charges, unallocated
+Deferred tax assets are recognised for the future tax corporate expenses and taxes.
+consequences to the extent it is probable that future “Unallocated Corporate Expenses” include revenue and
+taxable profits will be available against which the deductible expenses that relate to initiatives / costs attributable to the
+temporary differences can be utilised. Group as a whole.
+ITC Limited REPORT AND ACCOUNTS 2025 245
+
+[PAGE 264]
+Notes
+to the Consolidated Financial Statements
+2. Use of estimates and judgements
+The preparation of financial statements in conformity variability of its return has concluded that it does not
+with generally accepted accounting principles requires ‘control’ these trusts.
+management to make estimates and assumptions that 2. Significant influence:
+affect the reported amounts of assets and liabilities
+The Group assessed whether or not it has significant
+and disclosure of contingent liabilities at the date of the
+influence on its investees based on its practical ability to
+financial statements and the results of operations during
+participate in the financial and operating policy decisions
+the reporting period end. Although these estimates are
+of the investee, though it is not in control or in joint
+based upon management’s best knowledge of current
+control of these policies. Based on such assessment,
+events and actions, actual results could differ from these
+the Group determined that the entities listed in the
+estimates.
+notes to the financial statements are the only entities
+The estimates and underlying assumptions are reviewed on over which the Group has significant influence, and
+an ongoing basis. Revisions to accounting estimates are accordingly recognised as associates.
+recognised in the period in which the estimate is revised
+3. Joint Control:
+if the revision affects only that period, or in the period of
+(i) The Group holds 27.90% of the equity share capital
+the revision and future periods if the revision affects both
+of Logix Developers Private Limited, a company
+current and future periods.
+intended for the purpose of developing a luxury
+A. Judgements in applying accounting policies hotel-cum-service apartment complex. The Group
+The following are the judgements, apart from those involving has concluded that the key decisions about relevant
+estimations (see note B below), that the Group have made activities of such company are made jointly between
+in the process of applying the accounting policies and that the Group and the co-venturer (who holds 72.10% of
+have a significant effect on the amounts recognised in the the equity share capital) and both the parties have
+consolidated financial statements: rights to the net assets of such arrangement.
+1. Control: (ii) The Group holds 50% of the equity share capital
+The Group assessed whether or not it has control on its of ITC Filtrona Limited, a company involved in
+investees based on whether, as an investor, it has the manufacture and sale of filter rods. The Group has
+power / rights and consequently the practical ability to concluded that the key decisions about relevant
+direct the relevant activities of its investees unilaterally. activities of such company are made jointly between
+In making this judgement, the Group considered the the Group and the co-venturer (who holds 50% of
+absolute size of its holding, the relative size of and the equity share capital) and both the parties have
+dispersion of other shareholders, and whether any rights to the net assets of such arrangement.
+contractual arrangements exist between the Company 4. Useful life of Intangible Assets:
+(and its subsidiaries) and other shareholders of the The Group is required to determine whether its
+investees. Based on this, and in accordance with its intangible assets have indefinite or finite life which is a
+Accounting Policy, the Group has determined that the subject matter of judgement. Certain trademarks have
+entities listed in the notes to the financial statements are been considered of having an indefinite useful life taking
+the only entities over which Group has control. into account that there are no technical, technological or
+The Company is a settlor for certain trusts, i.e., ITC commercial risks of obsolescence or limitations under
+Sangeet Research Academy, ITC Education and Health contract or law. Other trademarks have been amortised
+Care Trust and ITC Rural Development Trust. The over their useful economic life. Refer notes to the
+Group while considering the nature and insignificant financial statements.
+246 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 265]
+Notes
+to the Consolidated Financial Statements
+2. Use of estimates and judgements (Contd.)
+B. Key sources of estimation uncertainty 3. Actuarial Valuation:
+The following are the key assumptions concerning the The determination of Group’s liability towards defined
+future, and other key sources of estimation uncertainty at the benefit obligation to employees is made through
+end of the reporting period that may have a significant risk independent actuarial valuation including determination
+of causing a material adjustment to the carrying amounts of
+of amounts to be recognised in the Statement of Profit
+assets and liabilities within the next financial year.
+and Loss and in other comprehensive income. Such
+1. Useful lives of property, plant and equipment, valuation depends upon assumptions determined after
+investment property and intangible assets: taking into account inflation, seniority, promotion and
+As described in the material accounting policies, the other relevant factors such as supply and demand
+Group reviews the estimated useful lives of property, factors in the employment market. Information about
+plant and equipment, investment property and intangible such valuation is provided in the notes to the financial
+assets at the end of each reporting period and the impact statements.
+of changes in the estimated useful life is considered in
+4. Claims, Provisions and Contingent Liabilities:
+the period in which the estimate is revised.
+The Group has ongoing litigations with various regulatory
+2. Fair value measurements and valuation processes:
+authorities and third parties. Where an outflow of funds
+Some of the Group’s assets and liabilities are
+is believed to be probable and a reliable estimate of
+measured at fair value for financial reporting purposes.
+the outcome of the dispute can be made based on
+In estimating the fair value of an asset or a liability, the
+management’s assessment of specific circumstances of
+Group uses market-observable data to the extent it is
+each dispute and relevant external advice, management
+available. Where Level 1 inputs are not available, the
+provides for its best estimate of the liability.
+Group engages third party valuers, where required,
+to perform the valuation. Information about the valuation Such accruals are by nature complex and can take
+techniques and inputs used in determining the fair value number of years to resolve and can involve estimation
+of various assets, liabilities and share based payments uncertainty. Information about such litigations is
+are disclosed in the notes to the financial statements. provided in the notes to the financial statements.
+ITC Limited REPORT AND ACCOUNTS 2025 247

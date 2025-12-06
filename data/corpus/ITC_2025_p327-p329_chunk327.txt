@@ -1,0 +1,591 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 327-329
+
+[PAGE 327]
+setoN
+stnemetatS
+laicnaniF
+detadilosnoC
+eht
+ot
+).dtnoC(
+serusolcsiD
+ytraP
+detaleR
+.23
+SECNALAB
+/
+SNOITCASNART
+TNACIFINGIS
+GNIDRAGER
+NOITAMROFNI
+.3
+)serorC
+ni
+`(
+)epyt
+emas
+eht
+fo
+eulav
+noitcasnart
+latot
+eht
+fo %01
+fo ssecxe
+ni yllareneG(
+4202
+5202
+YRAMMUS
+SNOITCASNART
+YTRAP
+DETALER
+4202
+5202
+YRAMMUS
+SNOITCASNART
+YTRAP
+DETALER
+4202
+5202
+YRAMMUS
+SNOITCASNART
+YTRAP
+DETALER
+secnalaB
+gnidnatstuO
+.81
+emocnI
+dnediviD
+.11
+secivreS
+/ sdooG
+fo
+elaS
+.1
+69.0701
+72.5441
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+selbavieceR
+)i
+05.22
+05.22
+detimiL
+anortliF
+CTI
+84.293
+14.265
+detimiL
+)DSG(
+secivreS
+derahS
+naciremA
+hsitirB
+stnemyaP
+dnediviD
+.21
+)DSG(
+secivreS
+derahS
+naciremA
+hsitirB
+secivreS
+/ sdooG fo esahcruP
+.2
+19.871
+24.43
+detimiL
+09.0964
+90.8553
+detimiL
+)aidnI(
+srerutcafunaM
+occaboT
+72.936
+86.736
+detimiL anortliF
+CTI
+–
+78.02
+detimiL
+sletoH
+CTI
+49.567
+48.086
+detimiL
+ynapmoC
+tnemtsevnI
+notelddyM
+75.121
+99.69
+detimiL
+esuoH
+levarT lanoitanretnI
+setaicossA
+ni tnemtsevnI
+.3
+07.32
+32.71
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+derevoceR
+sesnepxE
+.31
+10.05
+99.92
+detimiL
+etavirP
+sdooF efiltuorpS
+–
+71.59
+detimiL
+sletoH
+CTI
+77.5
+01.71
+detimiL
+anortliF
+CTI
+stnemyaP
+desab-erahS
+rof yrevoceR
+.4
+neviG
+secnavdA
+)ii
+68.4
+68.21
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+–
+96.2
+detimiL sletoH
+CTI
+desrubmieR
+sesnepxE
+.41
+stnemyaP
+desab-erahS
+rof tnemesrubmieR
+.5
+48.03
+26.8
+sdnuF
+noisneP
+- tsurT
+eeyolpmE
+–
+73.2
+detimiL sletoH
+CTI
+–
+01.51
+detimiL
+sletoH
+CTI
+neviG
+stisopeD
+)iii
+devieceR
+tneR
+.6
+raey
+eht
+gnirud
+devieceR
+secnavdA
+.51
+–
+87.0
+detimiL sletoH
+CTI
+30.0
+30.0
+ihgniS
+.N
+77.188
+29.9861
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+88.0
+56.0
+detimiL
+esuoH
+levarT lanoitanretnI
+10.0
+10.0
+attuD
+.S
+diaP
+tneR
+.7
+fo
+dnufeR
+sdrawot
+tnemyaP
+/ tnemtsujdA
+.61
+nekat
+secnavdA
+)vi
+secnavdA
+60.4
+92.3
+detimiL
+sletoH
+tarajuG
+56.763
+29.936
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+46.4301
+56.7141
+detimiL
+)PLG(
+occaboT
+naciremA
+hsitirB
+74.0
+35.0
+tupjaR
+.A
+noitatupeD
+no
+sreganaM
+fo noitarenumeR
+.8
+selbayaP
+)v
+# PMK
+ot
+noitarenumeR
+.71
+desrubmier
+stifeneb
+mret
+trohS
+.A71
+54.6
+09.4
+detimiL
+sletoH
+tarajuG
+77.54
+47.32
+sdnuF
+ytiutarG
+- tsurT
+eeyolpmE
+–
+46.1
+detimiL sletoH
+CTI
+60.31
+49.31
+iruP
+.S
+–
+66.21
+sdnuF
+noisneP
+- tsurT
+eeyolpmE
+noitatupeD
+no
+sreganaM
+fo noitarenumeR
+.9
+47.5
+37.5
+tnamuS
+.B
+derevocer
+–
+67.12
+detimiL
+sletoH
+CTI
+83.4
+31.5
+kilaM
+.H
+45.3
+57.3
+detimiL
+esuoH
+levarT lanoitanretnI
+56.9
+30.7
+detimiL
+anortliF
+CTI
+99.2
+29.2
+detimiL
+CTA
+80.5
+21.5
+attuD
+.S
+–
+56.6
+detimiL
+etavirP
+sdooF
+efiltuorpS
+–
+31.2
+detimiL sletoH
+CTI
+sevitnecni
+mret-gnol
+rehtO
+.B71
+snalP
+tifeneB
+’seeyolpmE
+ot noitubirtnoC
+.01
+stifeneb
+eeyolpme
+desingocer
+sah
+ynapmoC
+eht
+,201 -
+SA dnI
+htiw
+ecnadrocca
+nI
+#
+73.31
+28.8
+iruP
+.S
+70.34
+01.54
+dnuF
+tnedivorP
+CTAI
+serorC
+96.23
+` hcihw
+fo
+,]2.23
+etoN
+refer[
+stnemyap
+desab-erahs
+fo
+yaw
+yb esnepxe
+01.6
+24.43
+dnuF
+noisneP
+noitubirtnoC
+denifeD
+CTI
+:sPMK
+&
+srotceriD
+evitucexE
+ot
+elbatubirtta
+si )serorC
+58.03
+` -
+4202(
+96.6
+00.5
+tnamuS
+.B
+15.31
+75.33
+dnuF
+ytiutarG
+seeyolpmE
+CTI
+serorC
+19.5
+`
+tnamuS
+.B ,)serorC
+09.01
+`
+- 4202(
+serorC
+17.11
+` iruP
+.S
+51.4
+92.4
+attuD
+.S
+04.65
+57.02
+dnuF noisneP
+CTI
+kilaM
+.H ,)serorC
+80.3
+`
+- 4202(
+serorC
+94.5
+` attuD
+.S ,)serorC
+25.5
+` -
+4202(
+.)erorC
+78.0
+`
+- 4202(
+erorC
+11.1 `
+ihgniS
+.K
+.R
+dna
+)serorC
+18.1 `
+- 4202(
+serorC
+22.3
+`
+76.2
+73.3
+kilaM
+.H
+35.92
+64.62
+dnuF
+ytiutarG
+ffatS
+tnemeganaM
+CTI
+ITC Limited REPORT AND ACCOUNTS 2025 309
+
+[PAGE 328]
+Notes
+to the Consolidated Financial Statements
+33. Financial Instruments and Related Disclosures
+A. Capital Management
+The Group’s financial strategy aims to support its strategic priorities and provide adequate capital to its businesses for growth
+and creation of sustainable stakeholder value. The Group funds its operations through internal accruals and aims at maintaining
+a strong capital base to support the future growth of its businesses.
+During the year, the Company issued 2,93,98,310 Ordinary Shares (2024 – 5,67,03,730 Ordinary Shares) of ` 1.00 each amounting
+to ` 2.94 Crores (2024 – ` 5.67 Crores) towards its employee stock options. The securities premium stood at ` 15834.70 Crores
+as at 31st March, 2025 (2024 – ` 14813.95 Crores).
+B. Categories of Financial Instruments (` in Crores)
+As at 31st March, 2025 As at 31st March, 2024
+Particulars Note
+Carrying Fair Carrying Fair
+Value Value Value Value
+A. Financial assets
+a) Measured at amortised cost
+i) Cash and cash equivalents 13 620.00 620.00 625.89 625.89
+ii) Bank Balances other than (i) above 14 3392.36 3392.36 6591.79 6591.79
+iii) Investment in Bonds / Debentures &
+Government or Trust Securities 4, 11 7576.74 7615.36 7427.67 7277.90
+iv) Investment in Mutual Funds 4, 11 389.10 392.57 366.88 362.91
+v) Loans 5 17.11 15.11 13.86 12.72
+vi) Trade receivables 12 4719.67 4719.67 4025.82 4025.82
+vii) Other financial assets 6 3166.90 3159.94 1587.83 1540.34
+Sub-total 19881.88 19915.01 20639.74 20437.37
+b) Measured at Fair value through OCI
+i) Investment in Equity Shares 4 3632.35 3632.35 4676.28 4676.28
+ii) Investment in Mutual Funds 4, 11 5424.86 5424.86 5020.09 5020.09
+Sub-total 9057.21 9057.21 9696.37 9696.37
+c) Measured at Fair value through
+Profit or Loss
+i) Investment in Mutual Funds 11 11167.90 11167.90 10299.12 10299.12
+ii) Investment in Bonds / Debentures,
+Certificates of Deposit
+11 1651.31 1651.31 2612.95 2612.95
+iii) Investment in Venture Capital Funds
+4 132.81 132.81 121.96 121.96
+iv) Investment in Equity & Preference
+Shares 4 32.97 32.97 39.34 39.34
+Sub-total 12984.99 12984.99 13073.37 13073.37
+d) Derivatives measured at fair value
+i) Derivative instruments not designated
+as hedging instruments
+6 22.33 22.33 2.37 2.37
+ii) Derivative instruments designated as
+hedging instruments 6 24.59 24.59 0.53 0.53
+Sub-total 46.92 46.92 2.90 2.90
+Total financial assets 41971.00 42004.13 43412.38 43210.01
+310 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 329]
+Notes
+to the Consolidated Financial Statements
+33. Financial Instruments and Related Disclosures (Contd.)
+(` in Crores)
+As at 31st March, 2025 As at 31st March, 2024
+Particulars Note Carrying Fair Carrying Fair
+Value Value Value Value
+B. Financial liabilities
+a) Measured at amortised cost
+i) Cash credit facilities & loans 16 89.50 89.50 8.00 8.00
+ii) Sales tax deferment loans 16 1.76 1.76 3.28 2.90
+iii) Trade payables 21 4807.42 4807.42 4797.83 4797.83
+iv) Lease Liabilities 17 193.28 193.28 292.15 292.15
+v) Other financial liabilities 18 1902.79 1885.37 2192.79 2170.85
+Sub-total 6994.75 6977.33 7294.05 7271.73
+b) Measured at fair value
+i) Derivative instruments not designated
+as hedging instruments 18 9.02 9.02 2.81 2.81
+ii) Derivative instruments designated as
+hedging instruments 18 3.16 3.16 4.60 4.60
+iii) Contingent Consideration 18 324.39 324.39 412.76 412.76
+Sub-total 336.57 336.57 420.17 420.17
+Total financial liabilities 7331.32 7313.90 7714.22 7691.90
+C. Financial risk management objectives
+Entities comprising the Group have put in place risk management systems as applicable to the respective operations. The following
+explains the objectives and processes of the Company, being the largest component of the Group: The Company has a system-based
+approach to risk management, anchored to policies and procedures and internal financial controls aimed at ensuring early identification,
+evaluation and management of key financial risks (such as market risk, credit risk and liquidity risk) that may arise as a consequence
+of its business operations as well as its investing and financing activities. Accordingly, the Company’s risk management framework
+has the objective of ensuring that such risks are managed within acceptable and approved risk parameters in a disciplined and
+consistent manner and in compliance with applicable regulation. It also seeks to drive accountability in this regard.
+Liquidity Risk
+The Group’s Current assets aggregate ` 43893.28 Crores (2024 – ` 41065.54 Crores) including Current Investments, Cash and
+cash equivalents and Other Bank Balances of ` 20299.86 Crores (2024 – ` 20162.10 Crores) against an aggregate Current
+liabilities of ` 14334.11 Crores (2024 – ` 13690.40 Crores). As part of its surplus liquidity management operations, the Group
+may sell instruments that are held at amortised cost. Such sales may be infrequent (even if significant in value) or insignificant in
+value both individually and in aggregate (even if frequent). During the year, the net loss arising on such sale amounted to
+Nil (2024 – ` 16.37 Crores) [Refer Note 24].
+Non-current liabilities (other than derivatives and lease liabilities) due between one year to three years amounted to
+` 285.71 Crores (2024 – ` 257.32 Crores) and Non-current liabilities (other than derivatives and lease liabilities) due after three
+years amounted to ` 15.63 Crores (2024 – ` 178.40 Crores) on the reporting date. Derivative liabilities are current in nature.
+The maturity analysis of undiscounted lease liabilities are disclosed under Note 30(ix).
+Further, while the Group’s total equity stands at ` 70397.93 Crores (2024 – ` 74889.97 Crores), the amount carried in the Balance
+Sheet as non-current borrowings is Nil (2024 – ` 1.76 Crores). In such circumstances, liquidity risk or the risk that the Group may
+not be able to settle or meet its obligations as they become due does not exist.
+Market Risk
+1. Foreign Currency Risk
+The Group undertakes transactions denominated in foreign currency (mainly US Dollar, Pound Sterling, Euro and Japanese
+Yen) which are subject to the risk of exchange rate fluctuations. Financial assets and liabilities denominated in foreign currency,
+including the Group’s net investments in foreign operations (with a functional currency other than Indian Rupee), are also subject
+to reinstatement risks.
+ITC Limited REPORT AND ACCOUNTS 2025 311

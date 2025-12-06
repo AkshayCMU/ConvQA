@@ -1,0 +1,118 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 195-197
+
+[PAGE 195]
+Notes
+to the Standalone Financial Statements
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+21. Current Tax Liabilities (Net)
+Current taxation (net of advance payment) 1027.78 760.00
+TOTAL 1027.78 760.00
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+22A. Revenue from operations
+Sale of Products 73290.34 66506.84
+Sale of Services 174.21 150.20
+Gross Revenue from sale of products and services * [including
+Excise Duty / National Calamity Contingent Duty of ` 4944.00 Crores
+(2024 - ` 4733.29 Crores)] 73464.55 66657.04
+Other Operating Revenues# 771.52 635.56
+TOTAL 74236.07 67292.60
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+# Includes Government grants of ` 294.82 Crores (2024 - ` 234.71 Crores) on account of Fiscal and Export Incentives etc.
+22B. Gross Revenue from sale of products and services*
+FMCG
+– Cigarettes etc. 32631.27 30596.59
+– Branded Packaged Food Products 18270.38 17219.23
+– Others (Education and Stationery Products, Personal Care Products,
+Safety Matches, Agarbattis etc.) 3704.90 3739.03
+Agri Business
+– Unmanufactured Tobacco 3547.28 2612.06
+– Other Agri Products and Commodities (Wheat, Rice, Spices, Coffee,
+Soya etc.) 8518.36 5810.33
+Paperboards, Paper and Packaging
+– Paperboards and Paper 5958.96 5871.71
+– Packaging and Printed Materials 667.27 664.25
+Others
+– Others (ITC Grand Central Hotel, Mumbai) 166.13 143.84
+TOTAL 73464.55 66657.04
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+ITC Limited REPORT AND ACCOUNTS 2025 177
+
+[PAGE 196]
+Notes
+to the Standalone Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+23. Other income
+Interest income 1413.80 1591.68
+Dividend income 1016.41 989.22
+Other non-operating income 1024.10 948.86
+TOTAL 3454.31 3529.76
+Interest income:
+a) Deposits with banks etc. - carried at amortised cost 377.40 537.66
+b) Financial assets:
+– mandatorily measured at FVTPL 127.53 211.95
+– measured at amortised cost 561.33 554.29
+– measured at FVTOCI 334.62 287.72
+c) Others (from statutory authorities etc.) 12.92 0.06
+TOTAL 1413.80 1591.68
+Dividend income:
+a) Equity instruments measured at FVTOCI held at the end of
+reporting period 10.31 9.43
+b) Other investments 1006.10 979.79
+TOTAL 1016.41 989.22
+Other non-operating income:
+Net foreign exchange gain / (loss) (0.98) (3.82)
+Net gain / (loss) arising on financial instruments measured at
+amortised cost / fair value through profit or loss / fair value through
+other comprehensive income (Refer Note 32)* 863.95 781.25
+Gain recognised on divestment of shares held in joint venture – 9.49
+Impairment of investment in associate [Refer Note 29(xiv)] (11.00) –
+Others (including income from leases etc.) 172.13 161.94
+TOTAL 1024.10 948.86
+* Includes ` 125.93 Crores (2024 - ` 149.37 Crores) being net gain / (loss) on sale of investments.
+178 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 197]
+Notes
+to the Standalone Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+24. Changes in inventories of finished goods, Stock-in-Trade,
+work-in-progress and intermediates
+Opening inventories
+Finished goods (manufactured) 2115.45 2063.30
+Work-in-progress 322.10 263.47
+Stock-in-Trade (goods purchased for resale) 979.40 700.11
+Intermediates - Tissue paper and Paperboards 95.73 115.09
+Less: Closing inventories
+Finished goods (manufactured) 2363.72 2115.45
+Work-in-progress 405.30 322.10
+Stock-in-Trade (goods purchased for resale) 1277.45 979.40
+Intermediates - Tissue paper and Paperboards 104.32 95.73
+Less: Inventory on account of discontinued operations [Refer Note 29(x)] 2.39 (0.62)
+TOTAL (640.50) (370.09)
+25. Employee benefits expense
+Salaries and wages 2873.83 2714.86
+Contribution to Provident and other funds 169.65 144.81
+Share based payments to employees [Includes cash-settled share
+based payments ` 8.42 Crores (2024 - ` 32.06 Crores)]* 140.37 135.16
+Staff welfare expenses 275.91 245.82
+3459.76 3240.65
+Less: Recoveries made / reimbursements received 43.03 39.72
+TOTAL 3416.73 3200.93
+* Refer Note 29(xv) and 29(xvi)
+26. Finance costs
+Interest expense:
+– On Lease liabilities 13.27 14.50
+– On financial liabilities measured at amortised cost 12.91 8.40
+– Others (to statutory authorities etc.) 10.17 11.49
+TOTAL 36.35 34.39
+ITC Limited REPORT AND ACCOUNTS 2025 179

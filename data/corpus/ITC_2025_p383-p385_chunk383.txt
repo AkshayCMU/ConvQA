@@ -1,0 +1,187 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 383-385
+
+[PAGE 383]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Principle 6
+Businesses should respect and make efforts to protect and restore the environment
+The Purchasing Power Parity (PPP) conversion rate used in intensity ratio calculations across Principle 6 has been aligned
+with the guidance provided by the Industry Standards Forum for current reporting year and previous reporting year.
+Essential Indicators
+1. Details of total energy consumption (in Joules or multiples) and energy intensity, in the following format:
+Parameter FY 2024-25 FY 2023-24
+(All quantities in TJ except where specified)
+From renewable sources
+Total electricity consumption (A) 868 803
+Total fuel consumption (B) 12,383 11,869
+Energy consumption through other sources (C) 183 175
+Total energy consumed from renewable sources (A+B+C) 13,434 12,847
+From non-renewable sources
+Total electricity consumption (D) 757 742
+Total fuel consumption (E) 11,600 11,908
+Energy consumption through other sources (F) 0 0
+Total energy consumed from non-renewable sources (D+E+F) 12,357 12,650
+Total energy consumed (A+B+C+D+E+F) 25,791 25,497
+Energy intensity per rupee of turnover
+(Total energy consumed/Revenue from operations) 347 379
+(in Giga Joules/Crore INR)
+Energy intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total energy consumed/Revenue from operations adjusted for PPP) 718 774
+(in GJ/Million USD)
+Energy intensity in terms of physical output*
+23 23
+(in GJ/tonne of production)
+*Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement,
+hence the data for energy intensity in terms of physical output (tonnes of production) is reported only for PSPD which accounts
+for nearly 88% of ITC’s total energy consumption. For data of other Divisions, refer to ‘Climate Change’ section of ITC’s
+Sustainability Report 2025.
+ITC’s energy consumption data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A.
+2. Does the entity have any sites / facilities identified as designated consumers (DCs) under the Performance,
+Achieve and Trade (PAT) Scheme of the Government of India? (Y/N) If yes, disclose whether targets set under the
+PAT scheme have been achieved. In case targets have not been achieved, provide the remedial action taken, if any.
+Three Units of ITC’s Paperboards and Speciality Papers Business are covered under the PAT scheme. The details of Units under
+PAT scheme are available at https://beeindia.gov.in/en/programmesperform-achieve-trade/pat-notifications
+ITC has made significant investments in reducing energy consumption and, accordingly, the performance of the Company’s
+Units covered far exceeds the energy efficiency targets fixed under the PAT scheme. The Bhadrachalam Unit is the first pulp
+and paper mill and the second unit in the country overall, to be rated GreenCo Platinum+ by CII, as part of Green Company
+rating system.
+Note: Details of the energy efficiency initiatives measures implemented during the year are included in ‘Disclosure on
+Conservation of Energy and Technology Absorption’ section of the Report of the Board of Directors & Management Discuss
+and Analysis in ITC Report and Accounts 2025.
+XXXVI
+
+[PAGE 384]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+3. Provide details of the following disclosures related to water, in the following format:
+Parameter FY 2024-25 FY 2023-24
+Water withdrawal by source (in million kilolitres)
+(i) Surface water 26.3 28.2
+(ii) Groundwater 4.1 4.2
+(iii) Third party water 0.8 0.9
+(iv) Seawater/desalinated water 0 0
+(v) Others 0 0
+Total volume of water withdrawal (in million kilolitres) (i + ii + iii + iv + v) 31.2 33.3
+Total volume of water consumption
+10.5 11.5
+(in million kilolitres) (Total water withdrawal – total water discharged)
+Water intensity per rupee of turnover
+(Total water consumption/Revenue from operations) 142 171
+(in kilolitres/Crore INR)
+Water intensity per rupee of turnover adjusted for Purchasing Power Parity (PPP)
+(Total water consumption/Revenue from operations adjusted for PPP) 293 349
+(in kilolitres/Million USD)
+Water intensity in terms of physical output*
+7.4 8.3
+(in kilolitres/tonne of production)
+*Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement, hence the
+data for water intensity in terms of physical output (tonnes of production) is reported only for PSPD which accounts for 88% of ITC’s total
+water withdrawal. For data of other Divisions, refer to ‘Water Security’ section of ITC’s Sustainability Report 2025.
+ITC’s water withdrawal and consumption data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed separately
+as a part of the Exhibit-A
+Over the years, ITC has created rainwater harvesting potential through extensive investments in its Integrated Watershed
+Development Projects. The programme promotes the development and management of local water resources in water-
+stressed areas by facilitating community participation in planning and implementing such measures, whilst building, reviving
+and maintaining water-harvesting structures. As on 31st March 2025, ITC’s watershed development projects covering over 1.8
+million acres of land created a total rainwater harvesting potential (RWH) of 59.90 million kl (cumulative), which is over five
+times the net water consumed by ITC’s operations.
+4. Provide the following details related to water discharged:
+Parameter FY 2024-25 FY 2023-24
+Water discharge by destination and level of treatment (in million kilolitres)
+(i) To Surface water 10.9 11.5
+No treatment 0 0
+With treatment – please specify level of treatment Secondary Secondary
+(ii) To Groundwater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iii) To Seawater 0 0
+No treatment NA NA
+With treatment – please specify level of treatment NA NA
+(iv) Sent to third-parties 9.7 10.3
+No treatment 0 0
+With treatment – please specify level of treatment Tertiary Tertiary
+Total water discharged (in million kilolitres) 20.6 21.8
+ITC’s water discharge data has been assured at the ‘Reasonable Level’ by an independent third-party assurance provider.
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed separately
+as a part of the Exhibit-A
+5. Has the entity implemented a mechanism for Zero Liquid Discharge? If yes, provide details of its coverage and
+implementation.
+ITC’s approach to water stewardship focuses on reducing water intake by utilising treated wastewater within the
+process, thereby reducing demand for fresh water. ITC Units have put in place necessary systems to comply with the
+Consent to Operate (CTO) conditions including Zero Liquid Discharge, where applicable. 24 units of ITC have achieved
+zero effluent discharge.
+XXXVII
+
+[PAGE 385]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+6. Please provide details of air emissions (other than GHG emissions) by the entity, in the following format:
+Parameter Please Specify Unit FY 2024-25 FY 2023-24
+NOx Tonnes 2,064 2,338
+SOx Tonnes 2,287 2,385
+Particulate matter (PM) Tonnes 553 559
+Persistent organic pollutants (POP) NA NA NA
+Volatile Organic Compounds (VOC) NA NA NA
+Hazardous Air Pollutants (HAP)* Tonnes 7.8 8
+*The data is for PSPD Bhadrachalam Unit’s Hydrogen Sulphide emissions (HS)
+2
+7. Provide details of greenhouse gas emissions (Scope 1 and Scope 2 emissions) & its intensity.
+Parameter Please Specify Unit FY 2024-25 FY 2023-24
+Total Scope 1 emissions (Break-up of the GHG into CO, CH, kilo tonnes of CO
+2 4 2 1,101 1,127
+NO, HFCs, PFCs, SF, NF, if available) equivalent
+2 6 3
+Total Scope 2 emissions (Break-up of the GHG into CO, CH, kilo tonnes of CO
+2 4 2 153 170
+NO, HFCs, PFCs, SF, NF, if available) equivalent
+2 6 3
+Total Scope 1 and Scope 2 emissions intensity per rupee of tonnes of CO
+2
+turnover (Total Scope 1 and Scope 2 GHG emissions/Revenue equivalent/ 17 19
+from operations) Crore INR
+Total Scope 1 and Scope 2 emission intensity per rupee of tonnes
+turnover adjusted for Purchasing Power Parity (PPP) (Total of CO
+2 35 39
+Scope 1 and Scope 2 GHG emissions/Revenue from operations equivalent/Million
+adjusted for PPP) USD
+Total Scope 1 and Scope 2 emission intensity in terms of tonnes of CO
+2
+physical output* equivalent/tonne of 1.06 1.10
+production
+Note: The above data point does not include information for Hotels Business. The data for Hotels Business has been disclosed
+separately as a part of the Exhibit-A.
+ITC’s PSPD has large-scale Farm Forestry programmes promoting sustainable forest management with primary aim of
+securing pulpwood requirement for Business continuity. ITC also has a large-scale Social Forestry programme, which,
+in addition to sequestering carbon, also benefits the stakeholders by improving productivity of wasteland, and de-risking
+poor rural households by diversifying farm portfolios through promotion of tree-based farming. During FY 2024-25, the
+Farm and Social forestry programmes have together sequestered over 6.4 million tonnes of CO.
+2
+*Since ITC is a conglomerate with multiple businesses wherein physical output is reported in different units of measurement,
+hence the data for Scope 1 and Scope 2 emission intensity in terms of physical output (tonnes of production) is reported only
+for PSPD which accounts for more than 80% of ITC’s total Scope 1 and Scope 2 emissions. For data of other Divisions, refer to
+‘Climate Change’ section of ITC’s Sustainability Report 2025.
+ITC’s GHG emissions (Scope 1 and Scope 2) data has been assured at the ‘Reasonable Level’ by an independent third-party
+assurance provider.
+8. Does the entity have any project related to reducing Green House Gas emission? If Yes, then provide details.
+As part of its Sustainability 2.0 ambitions, ITC is targeting a 50% reduction in Specific GHG Emissions (% Reduction in
+Scope 1 & 2 emission per Unit of Production) by 2030. Accordingly, actions are being undertaken to reduce greenhouse
+gas emissions by investing in energy efficiency and increasing share of renewable energy.
+Energy efficiency:
+All ITC Units focus on energy efficiency through process improvements and investment in new technologies. Over the
+years, ITC has implemented measures like installation of Vapour Absorption Machines (VAM), Automation in tube cleaning
+system of Heating, Ventilation and Air Conditioning (HVAC), installation of variable frequency drive for pumps, blowers etc.
+and installation of energy efficient equipment such as chillers, AHUs, motors, fans, pumps, and agitators. In FY 2024-25,
+the investments in energy conservation equipment have resulted in energy savings of about 40 TJ, which is equivalent to
+over 5,000 tonnes of GHG emissions in the year.
+In line with ITC’s focus on accelerating digitalisation across Businesses, ITC’s PSPD is implementing several transformative
+projects leveraging Industry 4.0 technologies across key business areas, to enhance productivity, reduce carbon footprint,
+achieve strategic cost efficiencies and superior product performance.
+Some of the major projects undertaken by ITC’s PSPD as part of its Digital Transformation Programme include process
+debottlenecking and throughput improvement for productivity and Overall Equipment Effectiveness (OEE), process
+capability improvement leading to reduction in defects and resource optimisation.
+XXXVIII

@@ -1,0 +1,158 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 267-269
+
+[PAGE 267]
+Notes
+to the Consolidated Financial Statements
+(` in Crores)
+Depreciation and Amortization Net Book Value
+Foreign Foreign
+On Currency Acquired On Transferred Currency
+Upto Withdrawals Translation Upto through Withdrawals pursuant to Translation Upto As at As at
+31st March, For and Reserve 31st March, For the business and Scheme of Reserve 31st March, 31st March, 31st March,
+Particulars 2023 the year adjustments adjustments 2024 year & combinations@ adjustments# Demerger* adjustments 2025 2025 2024
+3A. Property, Plant and Equipment 1
+Land 2 – – – – – – – – – – – 1171.55 2113.34
+Buildings 1460.02 246.72 6.10 – 1700.64 268.82 – 2.57 458.24 0.21 1508.86 5733.21 8861.30
+Leasehold Improvements 11.60 0.54 2.21 0.01 9.94 1.92 – 0.14 5.14 – 6.58 20.17 21.40
+Plant and Equipment 8028.34 1251.42 136.27 0.08 9143.57 1313.53 0.19 186.40 1175.87 0.70 9095.72 10294.96 11532.94
+Furniture and Fixtures 554.30 84.10 8.51 0.03 629.92 111.12 – 5.83 566.84 0.96 169.33 113.03 438.16
+Vehicles 91.00 20.33 17.70 0.08 93.71 19.44 – 12.17 34.45 0.05 66.58 68.99 95.48
+Office Equipment 32.19 4.24 2.49 – 33.94 5.63 – 1.98 1.29 0.03 36.33 26.55 19.15
+Railway Sidings 1.04 0.13 – – 1.17 0.13 – – – – 1.30 0.43 0.56
+TOTAL 10178.49 1607.48 173.28 0.20 11612.89 1720.59 0.19 209.09 2241.83 1.95 10884.70 17428.89 23082.33
+3B. Capital work-in-progress – – – – – – – – – – – 1087.60 2851.14
+3C. Investment Property 3 58.37 12.11 (0.17) – 70.65 12.57 – (2.92) – – 86.14 322.40 340.93
+3D. Goodwill 4
+Goodwill on Consolidation – – – – – – – – – – – 319.73 202.53
+Goodwill acquired through business
+combinations – – – – – – – – – – – 577.20 577.20
+TOTAL – – – – – – – – – – – 896.93 779.73
+3E. Other Intangible assets (acquired)
+Assets with indefinite life 4
+Trademarks – – – – – – – – – – – 1889.78 1889.78
+Assets with finite life
+Trademarks 23.75 3.16 – – 26.91 2.29 – – – – 29.20 1.62 3.91
+Computer Software 232.73 35.00 1.84 – 265.89 38.72 – 6.15 48.34 – 250.12 105.90 128.60
+Know How, Business and Commercial
+Rights 89.31 78.69 – – 168.00 79.13 – – 0.13 – 247.00 557.80 636.80
+Customer Relationships / Contracts 11.79 4.40 – – 16.19 6.41 – – – – 22.60 44.81 19.02
+Business Alliances / Partnerships – – – – – 4.26 – – – – 4.26 55.43 –
+Software Tools – – – – – 6.31 – – – – 6.31 69.40 –
+TOTAL 357.58 121.25 1.84 – 476.99 137.12 – 6.15 48.47 – 559.49 2724.74 2678.11
+3F. Intangible assets under development – – – – – – – – – – – 3.31 9.64
+3G. Right-of-use assets ^
+Land 36.29 9.92 – 1.18 47.39 8.97 – 0.03 28.54 0.71 28.50 387.56 704.69
+Buildings 103.24 61.55 26.31 0.08 138.56 66.78 6.56 100.51 2.88 0.19 108.70 172.65 211.67
+Plant and Equipment 22.07 5.29 6.80 – 20.56 3.69 – 9.86 – – 14.39 17.58 21.27
+Vehicles 1.10 1.28 0.99 0.01 1.40 1.59 – 1.88 – 0.01 1.12 4.10 1.49
+TOTAL 162.70 78.04 34.10 1.27 207.91 81.03 6.56 112.28 31.42 0.91 152.71 581.89 939.12
+3. The fair value of the investment property is ` 1352.64 Crores (2024 - ` 1020.05 Crores). The fair value has been determined on the basis of valuation carried out at the reporting date by registered valuer as defined under Rule 2 of
+Companies (Registered Valuers and Valuation) Rules, 2017 and the same has been categorised as Level 2 based on the valuation techniques used and inputs applied. The main inputs considered by the valuer are government rates,
+property location, market research & trends, contracted rentals, terminal yields, discount rates and comparable values, as appropriate.
+Amounts recognised in the Statement of Profit and Loss in respect of the investment property is as under:
+(` in Crores)
+For the year ended For the year ended
+Particulars 31st March, 2025 31st March, 2024
+Rental Income etc. from investment property 134.91 128.29
+Direct Operating Expenses arising from investment property that generated
+rental income during the year $ 14.67 13.32
+Direct Operating Expenses arising from investment property that did not
+generate rental income during the year – –
+$As per the contractual arrangements, the Company is responsible for the maintenance of common area at its own cost. The expenses arising out of such arrangements are not material.
+4. Assets with indefinite life pertain to the ‘FMCG - Others’ Segment and are related to the Branded Packaged Foods and Personal Care Products businesses of the Company.
+Impairment testing for goodwill and intangible assets with indefinite useful lives has been carried out considering their recoverable amounts which, inter-alia, includes estimation of their value-in-use based on management projections.
+These projections have been made for a period of five years, or longer, as applicable and consider various factors, such as market scenario, growth trends, growth and margin projections, and terminal growth rates specific to the business.
+For such projections, discount rate of 10% (2024 - 10%) and long-term growth rates ranging between 5% to 6% (2024 - 5% to 6%) have been considered. Discount rate has been determined considering the Weighted Average Cost of
+Capital (WACC) of market benchmarks.
+Based on the above assessment, no impairment has been recognised during the year. Further, the Company has also performed sensitivity analysis around the base assumptions and has concluded that there are no reasonably possible
+changes to key assumptions that would cause the carrying amount of the aforesaid assets to exceed their recoverable values.
+ITC Limited REPORT AND ACCOUNTS 2025 249
+
+[PAGE 268]
+Notes
+to the Consolidated Financial Statements
+Capital work-in-progress (CWIP) ageing schedule (` in Crores)
+As at 31st March, 2024 As at 31st March, 2025
+Amount in CWIP for a period of Amount in CWIP for a period of
+Less than 1 - 2 2 - 3 More than Less than 1 - 2 2 - 3 More than
+Particulars 1 year years years 3 years Total 1 year years years 3 years Total
+Projects in Progress 1500.46 584.89 241.36 524.43 2851.14 816.26 172.86 61.78 36.70 1087.60
+Projects temporarily suspended – – – – – – – – – –
+TOTAL 1500.46 584.89 241.36 524.43 2851.14 816.26 172.86 61.78 36.70 1087.60
+Completion schedule for Projects in Capital work-in-progress, which are overdue or has exceeded its cost compared to its original plan
+(` in Crores)
+As at 31st March, 2024 As at 31st March, 2025
+To be completed in To be completed in
+Less than More than Less than More than
+Particulars 1 year 1 - 2 years 2 - 3 years 3 years 1 year 1 - 2 years 2 - 3 years 3 years
+MXD - COL 1710.78 – – – – – – –
+Intangible assets under development (IAUD) ageing schedule (` in Crores)
+As at 31st March, 2024 As at 31st March, 2025
+Amount in IAUD for a period of Amount in IAUD for a period of
+Less than 1 - 2 2 - 3 More than Less than 1 - 2 2 - 3 More than
+Particulars 1 year years years 3 years Total 1 year years years 3 years Total
+Projects in Progress 8.19 1.45 – – 9.64 2.34 0.97 – – 3.31
+Projects temporarily suspended – – – – – – – – – –
+TOTAL 8.19 1.45 – – 9.64 2.34 0.97 – – 3.31
+Note: T here are no projects in IAUD, which are overdue or have exceeded their cost compared to their original plan as at 31st March, 2025 and 31st March, 2024.
+250 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 269]
+Notes
+to the Consolidated Financial Statements
+Face Value ` As at 31st March, 2025 As at 31st March, 2024
+(Fully Paid
+unless
+(` in (` in
+stated Number Number
+Crores) Crores)
+otherwise)
+4. Non-current investments (Contd.)
+INVESTMENT IN EQUITY INSTRUMENTS
+In Associates (carrying amount determined using
+the equity method of accounting)
+Quoted
+International Travel House Limited^ 10 – 39,14,233
+Cost of acquisition (including goodwill of
+` 11.89 Crores) – 21.87
+Add / (Less) : Group Share of Profits / (Losses) – – 60.46 82.33
+Gujarat Hotels Limited^ 10 – 17,33,907
+Cost of acquisition (including goodwill of
+` 1.16 Crores) – 1.94
+Add / (Less) : Group Share of Profits / (Losses) – – 19.43 21.37
+ITC Hotels Limited^ 10 83,00,00,000 –
+Cost of acquisition 4174.04 –
+Add / (Less) : Group Share of Profits / (Losses) 88.69 4262.73 – –
+Unquoted
+Delectable Technologies Private Limited
+[Refer Note 30(xiii)] 10 2,386 2,386
+Cost of acquisition (including goodwill of
+` 3.30 Crores) 3.60 3.60
+Add / (Less) : Group Share of Profits / (Losses) (0.43) (0.18)
+Add / (Less) : Provision for Impairment (3.17) – – 3.42
+Mother Sparsh Baby Care Private Limited
+[Refer Note 30(xii)] 10 100 100
+Cost of acquisition (including goodwill of
+` 1.03 Crores) 0.96 0.96
+Add / (Less) : Group Share of Profits / (Losses) (0.23) 0.73 (0.14) 0.82
+Sproutlife Foods Private Limited [Refer Note 30(iii)(b)] 10 2,443 2,443
+Cost of acquisition (including goodwill of
+` 27.53 Crores) 40.33 40.33
+Add / (Less) : Group Share of Profits / (Losses) (12.16) 28.17 (6.04) 34.29
+ATC Limited
+Fully paid 100 55,650 55,650
+Cost of acquisition (net of capital reserve of
+` 0.16 Crore) 0.83 0.83
+Add / (Less) : Group Share of Profits / (Losses) 2.11 2.94 1.92 2.75
+` 70.00 per share paid 100 1,39,125 1,39,125
+Cost of acquisition (including goodwill of
+` 0.30 Crore) 2.92 2.92
+Add / (Less) : Group Share of Profits / (Losses) 2.42 5.34 2.31 5.23
+Russell Investments Limited 10 42,75,435 42,75,435
+Cost of acquisition (net of capital reserve of
+` 0.30 Crore) 4.27 4.27
+Add / (Less) : Group Share of Profits / (Losses) 40.64 44.91 43.54 47.81
+Carried over 4344.82 198.02
+ITC Limited REPORT AND ACCOUNTS 2025 251

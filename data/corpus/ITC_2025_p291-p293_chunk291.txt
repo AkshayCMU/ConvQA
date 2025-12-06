@@ -1,0 +1,104 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 291-293
+
+[PAGE 291]
+Notes
+to the Consolidated Financial Statements
+Trade Payables ageing schedule (Contd.) (` in Crores)
+Outstanding for following periods from due date of payment
+as at 31st March, 2024
+Not Due Total
+Less than 1-2 2-3 More than
+1 year years years 3 years
+Undisputed Dues - Micro and Small
+Enterprises 32.24 – – – – 32.24
+Undisputed Dues - Others 662.21 77.78 1.72 0.01 – 741.72
+Disputed Dues - Micro and Small
+Enterprises – – – – – –
+Disputed Dues - Others – – – – 0.28 0.28
+SUB-TOTAL 694.45 77.78 1.72 0.01 0.28 774.24
+Accrued Payables (not due)
+– Micro and Small Enterprises 174.99
+– Others 3848.60
+TOTAL 4797.83
+As at As at
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+22A. Income Tax Assets (Net)
+Income Tax Assets (net of provisions) 50.24 44.93
+TOTAL 50.24 44.93
+22B. Current Tax Liabilities (Net)
+Current taxation (net of advance payment) 1229.65 940.88
+TOTAL 1229.65 940.88
+ITC Limited REPORT AND ACCOUNTS 2025 273
+
+[PAGE 292]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+23A. Revenue from operations
+Sale of Products 76827.15 69772.93
+Sale of Services 4115.61 3577.60
+Gross Revenue from sale of products and services*
+[including Excise Duty / National Calamity Contingent Duty / Health Risk Tax
+of ` 6304.37 Crores (2024 - ` 6051.32 Crores)] 80942.76 73350.53
+Other Operating Revenues # 670.02 540.90
+TOTAL 81612.78 73891.43
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+# Includes Government grants of ` 306.47 Crores (2024 - ` 246.17 Crores) on account of Fiscal and Exports incentives etc.
+23B. Gross Revenue from sale of products and services *
+FMCG
+– Cigarettes etc. 35893.57 33667.97
+– Branded Packaged Food Products 18282.42 17227.82
+– Others (Education and Stationery Products, Personal Care
+Products, Safety Matches, Agarbattis etc.) 3722.85 3764.65
+Agri Business
+– Unmanufactured Tobacco 3380.76 2447.20
+– Other Agri Products and Commodities
+(Wheat, Rice, Spices, Coffee, Soya, Potato etc.) 8863.24 6076.60
+Paperboards, Paper and Packaging
+– Paperboards and Paper 5957.90 5868.06
+– Packaging and Printed Materials 617.98 606.68
+Others
+– Others (Information Technology services,
+ITC Grand Central Hotel, Mumbai etc.) 4224.04 3691.55
+TOTAL 80942.76 73350.53
+* Net of sales returns, damaged stocks and estimates of variable consideration such as discounts to customers.
+274 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 293]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+24. Other income
+Interest income 1488.76 1696.75
+Dividend income 10.91 10.03
+Other non-operating income 1030.02 986.44
+TOTAL 2529.69 2693.22
+Interest income:
+a) Deposits with banks etc. - carried at amortised cost 439.81 618.08
+b) Financial assets:
+– mandatorily measured at FVTPL 132.56 214.03
+– measured at amortised cost 560.61 564.35
+– measured at FVTOCI 342.32 294.85
+c) Others (from statutory authorities etc.) 13.46 5.44
+TOTAL 1488.76 1696.75
+Dividend income:
+Equity instruments measured at FVTOCI held at the end of reporting period 10.91 10.03
+TOTAL 10.91 10.03
+Other non-operating income:
+Net foreign exchange gain / (loss) (6.88) 0.01
+Net gain / (loss) arising on financial instruments measured at
+amortised cost / fair value through profit or loss / fair value through other
+comprehensive income (Refer Note 33)* 893.56 828.59
+Gain recognised on divestment of shares held in joint venture – 9.84
+Impairment of investment in associate and joint venture (7.87) (0.06)
+Others (including income from leases etc.) 151.21 148.06
+TOTAL 1030.02 986.44
+* Includes ` 131.30 Crores (2024 - ` 181.82 Crores) being net gain / (loss) on sale of investments.
+ITC Limited REPORT AND ACCOUNTS 2025 275

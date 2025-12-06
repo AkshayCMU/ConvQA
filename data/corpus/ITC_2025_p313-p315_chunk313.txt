@@ -1,0 +1,133 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 313-315
+
+[PAGE 313]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+Brief particulars of the Demerged Undertaking / Discontinued Operations are given as under:
+(a) Carrying value of net assets of the Demerged Undertaking as on the appointed date
+Amount
+(` in Crores)
+Property, plant and equipment, intangible assets (including capital work-in-progress and
+intangible assets under development) and right-of-use assets 8368.14
+Goodwill on consolidation 27.46
+Investments accounted for using the equity method 112.49
+Investments 127.48
+Other non-current assets 1656.78
+Inventories 1207.06
+Trade Receivables 197.05
+Cash and Cash equivalents 199.74
+Other current assets 266.70
+Total Assets (A) 12162.90
+Deferred tax liabilities (Net) 417.82
+Lease liabilities 73.35
+Trade Payables 373.36
+Other liabilities 796.17
+Total Liabilities (B) 1660.70
+Non-controlling interests (C) 35.37
+Net Assets transferred (A-B-C) 10466.83
+(b) Consequential adjustments in ‘Other Equity’
+Amount
+(` in Crores)
+Share Options Outstanding Account derecognised
+[Refer Note 30(xiv)(A)] 22.89
+Exchange differences on translating the financial statements of foreign operations reclassified
+from Other Comprehensive Income to Statement of Profit and Loss (180.35)
+(c) Profit from Discontinued Operations
+(` in Crores)
+For the year ended For the year ended
+31st March, 2025# 31st March, 2024
+Revenue from Operations 2484.58 3033.90
+Total Income 2517.16 3068.89
+Total Expenses 2002.67 2334.90
+Share of profit / (loss) of associates and joint ventures 11.35 13.18
+Profit before Exceptional Items and Tax 525.84 747.17
+Exceptional Items 15128.81 (7.57)
+Tax Expense* 638.64 179.06
+Profit from Discontinued Operations 15016.01 560.54
+# Figures in relation to operations of the Hotels Business are for the nine-month period from 1st April, 2024 to 31st December, 2024.
+* Tax expenses for the year ended 31st March, 2025 includes ` 602.79 Crores (2024 - Nil) relating to deferred tax liability
+recognised on addition to the value of investment in ITCHL.
+ITC Limited REPORT AND ACCOUNTS 2025 295
+
+[PAGE 314]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(d) Net Cashflows attributable to the Discontinued Operations
+(` in Crores)
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+Net Cash from Operating Activities 405.77 785.33
+Net Cash used in Investing Activities (1783.14) (911.82)
+Net Cash used in Financing Activities (5.20) (11.76)
+(ix) Leases:
+As a Lessee
+T he Group’s significant leasing arrangements are in respect of operating leases for land, buildings (comprising licensed
+properties, residential premises, office premises, stores, warehouses etc.) and plant & equipment. These arrangements
+generally range between 2 years and 10 years, except for certain land and building leases where the lease term ranges up
+to 99 years. The lease arrangements have extension / termination options exercisable by either parties which may make the
+assessment of lease term uncertain. While determining the lease term, all facts and circumstances that create an economic
+incentive to exercise an extension option, or not exercise a termination option are considered.
+T he amount of ROU Assets and Lease Liabilities recognised in the Balance Sheet are disclosed in Note 3G and Note 17
+respectively. The total cash outflow for leases for the year is ` 480.74 Crores (2024 - ` 448.62 Crores) [including payments
+of ` 391.81 Crores (2024 - ` 357.50 Crores) in respect of short-term / low-value leases and variable lease payments of
+` 1.31 Crores (2024 - ` 2.27 Crores)].
+T he sensitivity of variable lease payments and effect of extension / termination options not included in measurement of lease
+liabilities is not material.
+The undiscounted maturities of lease liabilities over the remaining lease term is as follows:
+(` in Crores)
+Term As at 31st March, 2025 As at 31st March, 2024
+Not later than three years 157.83 190.25
+Later than three years and not later than ten years 68.12 137.99
+Later than ten years and not later than twenty-five years 15.27 121.35
+Later than twenty-five years and not later than fifty years 17.02 89.22
+Later than fifty years 19.24 22.76
+As a Lessor
+T he Group has leased out its investment properties etc. under operating lease for periods ranging upto 5 years. Lease
+payments are structured with periodic escalations consistent with the prevailing market conditions. There are no variable
+lease payments. The details of income from such leases are disclosed under Note 3C and Note 24. The Group does not
+have any risk relating to recovery of residual value of investment properties etc. at the end of leases considering the business
+requirements and other alternatives.
+296 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 315]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+T he undiscounted minimum lease payments to be received over the remaining non-cancellable term on an annual basis are
+as follows:
+(` in Crores)
+Term As at 31st March, 2025 As at 31st March, 2024
+1st year 17.78 1.32
+2nd year 16.75 1.15
+3rd year 12.17 0.66
+4th year Nil Nil
+5th year Nil Nil
+Beyond Five Years Nil Nil
+(x) The Ministry of Corporate Affairs (MCA) had issued the Companies (Indian Accounting Standards) (Amendment) Rules, 2024
+amending the following Ind AS, which are effective for annual periods beginning on or after 1st April, 2024:
+– Ind AS 116 ‘Leases’ - This amendment specifies the requirements that a seller-lessee uses in measuring the lease liability
+arising in a sale and leaseback transaction, to ensure the seller-lessee does not recognise any amount of the gain or loss
+that relates to the right of use it retains.
+– Ind AS 117 ‘Insurance Contracts’ - It is a comprehensive new accounting standard which replaces Ind AS 104 Insurance
+Contracts. It applies to all types of insurance contracts, regardless of the type of entities that issue them as well as to
+certain guarantees and financial instruments with discretionary participation features.
+The amendments do not have a material impact on the consolidated financial statements.
+(xi) The Group, on 17th April, 2025, entered into Share Purchase Agreements (SPA) to acquire 100% of the equity share
+capital of Messrs. Sresta Natural Bioproducts Private Limited, an Indian company primarily engaged in the business of
+manufacturing and sale of organic packaged food products under the ‘24 Mantra Organic’ brand, for a consideration of
+up to ` 472.50 Crores on a cash-free debt-free basis, subject to customary adjustments and fulfilment of various terms and
+conditions as specified in the SPA.
+(xii) The Group, on 17th April, 2025, executed Transaction Documents i.e., Share Subscription and Share Purchase Agreement
+and Shareholders’ Agreement, to acquire the balance 73.50% of the share capital (on a fully diluted basis) of Mother Sparsh
+Baby Care Private Limited (‘Mother Sparsh’), an associate company, in one or more tranches over a time period of about
+two to three years, subject to fulfilment of prescribed terms and conditions. The Group held 26.50% of the share capital (on
+a fully diluted basis) of Mother Sparsh as at 31st March, 2025 (Refer Note 4). Mother Sparsh is a premium ayurvedic and
+natural personal care start-up, with focus on baby personal care, health & hygiene and expert baby care.
+(xiii) The Group on 13th May, 2025 divested its entire shareholding of 7,759 Compulsorily Convertible Preference Shares of ` 10/-
+each and 2,386 Equity Shares of ` 10/- each held in Delectable Technologies Private Limited (‘DTPL’), consequent to which
+DTPL ceased to be an associate company with effect from the said date.
+ITC Limited REPORT AND ACCOUNTS 2025 297

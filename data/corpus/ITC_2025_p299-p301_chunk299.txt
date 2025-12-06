@@ -1,0 +1,149 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 299-301
+
+[PAGE 299]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+Name Country of Percentage Percentage
+Incorporation of ownership of ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+Blazeclan Technologies Limited (w.e.f. 01.10.2024)*
+[a 100% subsidiary of Blazeclan Technologies Pty. Limited] New Zealand 100 –
+Blazeclan Americas Inc. (w.e.f. 01.10.2024)* USA 100 –
+Blazeclan Technologies PTE Limited (w.e.f. 01.10.2024)* Singapore 100 –
+Blazeclan Technologies SDN. BHD. (w.e.f. 01.10.2024)* Malaysia 100 –
+Blazeclan Technologies Corporation (BTC) (w.e.f. 01.10.2024)*
+[including shareholding by two Directors of BTC] Philippines 100 –
+Blazeclan Europe SRL. (w.e.f. 01.10.2024)* Belgium 100 –
+Blazeclan Technologies LLC (w.e.f. 01.10.2024)* USA 100 –
+Blazeclan Technologies Inc. (w.e.f. 01.10.2024)* Canada 100 –
+Surya Nepal Private Limited Nepal 59 59
+Surya Nepal Ventures Private Limited
+(a 100% subsidiary of Surya Nepal Private Limited) Nepal 59 59
+Technico Agri Sciences Limited India 100 100
+Technico Pty Limited Australia 100 100
+Technico Technologies Inc.
+(a 100% subsidiary of Technico Pty Limited) Canada 100 100
+Technico Asia Holdings Pty Limited
+(a 100% subsidiary of Technico Pty Limited) Australia 100 100
+Technico Horticultural (Kunming) Co. Limited
+(a 100% subsidiary of Technico Asia Holdings Pty Limited) China 100 100
+Srinivasa Resorts Limited (upto 31.12.2024)# India – 68
+Fortune Park Hotels Limited (upto 31.12.2024)# India – 100
+Landbase India Limited (upto 31.12.2024)# India – 100
+Bay Islands Hotels Limited (upto 31.12.2024)# India – 100
+WelcomHotels Lanka (Private) Limited (upto 31.12.2024)# Sri Lanka – 100
+Russell Credit Limited India 100 100
+Greenacre Holdings Limited India 100 100
+Wimco Limited India 100 100
+Gold Flake Corporation Limited India 100 100
+ITC Integrated Business Services Limited India 100 100
+MRR Trading & Investment Company Limited
+(a 100% subsidiary of ITC Integrated Business Services Limited) India 100 100
+North East Nutrients Private Limited India 76 76
+Prag Agro Farm Limited India 100 100
+Pavan Poplar Limited India 100 100
+ITC IndiVision Limited India 100 100
+ITC Fibre Innovations Limited India 100 100
+ITC Hotels Limited (upto 31.12.2024)# India – 100
+@ subsidiaries of ITC Infotech India Limited
+* subsidiaries of Blazeclan Technologies Private Limited [Refer Note 30(xix)]
+# Refer Note 30(viii)
+The financial statements of all subsidiaries, considered in the Consolidated Financial Statements, are drawn upto 31st March, other than
+for Surya Nepal Private Limited and Surya Nepal Ventures Private Limited where it is upto 13th March, based on the local laws of Nepal.
+ITC Limited REPORT AND ACCOUNTS 2025 281
+
+[PAGE 300]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(b) Interests in Joint Ventures:
+The Group’s interests in jointly controlled entities (incorporated Joint Ventures) are:
+Name Country of Percentage of Percentage of
+Incorporation ownership ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+Logix Developers Private Limited [Refer Note 30(vii)] India 27.90 27.90
+ITC Filtrona Limited
+(a joint venture of Gold Flake Corporation Limited) India 50 50
+Maharaja Heritage Resorts Limited (upto 31.12.2024)# India – 50
+# Refer Note 30(viii)
+The financial statements of all Joint Ventures, considered in the Consolidated Financial Statements, are drawn upto 31st March.
+(c) Investments in Associates:
+The Group’s Associates are:
+Name Country of Percentage of Percentage of
+Incorporation ownership ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+Gujarat Hotels Limited (upto 31.12.2024)# India – 45.78
+International Travel House Limited (upto 31.12.2024)# India – 48.96
+Russell Investments Limited* India 25.43 25.43
+Divya Management Limited* India 33.33 33.33
+Antrang Finance Limited* India 33.33 33.33
+ATC Limited
+(an associate of Gold Flake Corporation Limited) India 47.50 47.50
+Delectable Technologies Private Limited [Refer Note 30(xiii)] India 39.32@ 39.32@
+Mother Sparsh Baby Care Private Limited [Refer Note 30(xii)] India 26.50@ 26.50@
+Sproutlife Foods Private Limited [Refer Note 30(iii)(b)] India 47.50@ 44.74@
+ITC Hotels Limited (w.e.f. 01.01.2025)# India 39.88 –
+# Refer Note 30(viii)
+* associates of Russell Credit Limited
+@on a fully diluted basis
+The financial statements of all Associates, considered in the Consolidated Financial Statements, are drawn upto 31st March.
+(d) T hese Consolidated Financial Statements are based, insofar as they relate to amounts included in respect of subsidiaries,
+associates and joint ventures on the audited financial statements prepared for consolidation in accordance with the requirements
+of Indian Accounting Standard - 110 (Ind AS 110) on “Consolidated Financial Statements” and Indian Accounting Standard - 28
+(Ind AS 28) on “Investments in Associates and Joint Ventures” by each of the included entities other than in respect of the
+following entities which have been considered on the basis of financial statements as certified by the management of the
+respective companies and provided to the Group:
+282 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 301]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(a) Associate: Delectable Technologies Private Limited [Refer Note 30(xiii)]
+(b) Joint venture: Logix Developers Private Limited [Refer Note 30(vii)]
+(c) E ntities which ceased to be subsidiaries, associates or joint venture of the Group (w.e.f. 1st January, 2025) pursuant to
+Scheme of Demerger [Refer Note 30(viii)]:
+Subsidiaries: ITC Hotels Limited, Fortune Park Hotels Limited, Bay Islands Hotels Limited, Landbase India Limited,
+WelcomHotels Lanka (Private) Limited and Srinivasa Resorts Limited
+Associates: International Travel House Limited and Gujarat Hotels Limited
+Joint Venture: Maharaja Heritage Resorts Limited
+(iii) Contingent liabilities and commitments:
+(a) Contingent liabilities:
+C laims against the Group not acknowledged as debts, are ` 1112.76 Crores (2024 - ` 1077.71 Crores), including interest
+on claims, where applicable, estimated to be ` 332.02 Crores (2024 - ` 324.08 Crores), including share of associates
+` 105.82 Crores (2024 - ` 0.15 Crore). These comprise:
+Excise duty, VAT / sales taxes, GST and other indirect taxes claims disputed by the Group relating to issues of
+applicability and classification aggregating ` 680.90 Crores (2024 - ` 679.10 Crores), including interest on claims, where
+applicable, estimated to be ` 292.10 Crores (2024 - ` 294.54 Crores), including share of associates ` 40.82 Crores
+(2024 - ` 0.12 Crore).
+Local Authority taxes / cess / royalty on property, utilities etc. claims disputed by the Group relating to issues of applicability
+and determination aggregating ` 252.47 Crores (2024 - ` 266.56 Crores), including interest on claims, where applicable,
+estimated to be ` 21.29 Crores (2024 - ` 18.72 Crores), including share of associates ` 15.26 Crores (2024 - ` 0.03 Crore).
+Third party claims arising from disputes relating to contracts aggregating ` 85.87 Crores (2024 - ` 41.27 Crores), including
+interest on claims, where applicable, estimated to be ` 0.46 Crore (2024 - ` 0.29 Crore), including share of associates
+` 46.47 Crores (2024 - Nil).
+Other matters aggregating ` 93.52 Crores (2024 - ` 90.78 Crores), including interest on other matters, where applicable,
+estimated to be ` 18.17 Crores (2024 - ` 10.53 Crores), including share of associates ` 3.27 Crores (2024 - Nil).
+In respect of Surya Nepal Private Limited (SNPL), Excise, Income Tax and VAT authorities issued Show Cause Notices
+(SCNs) and raised demands to recover taxes for different years on theoretical production of cigarettes. In all these
+proceedings, the authorities applied an input-output ratio allegedly submitted by SNPL in the year 1990-91 and arrived at
+a theoretical production and demanded tax / duty on the differential production / turnover. This, despite the fact that SNPL’s
+cigarette factory was under ‘physical control’ of the Excise authorities and cigarettes produced were duly accounted for
+and certified as such by the Excise authorities.
+The Revenue Authorities for the first time raised excise demands for the financial years 1993-94 and 1994-95, claiming
+that SNPL could have produced more cigarettes according to the input-output ratio submitted in the year 1990-91.
+SNPL challenged these excise demands before the Hon’ble Supreme Court of Nepal through a writ petition. A division
+bench of the Hon’ble Supreme Court of Nepal decided the matter in favour of SNPL (the “Division Bench Judgement”)
+and rejected the above basis of theoretical production. The Ministry of Finance of Nepal filed a review petition before the
+Full Bench of Hon’ble Supreme Court of Nepal seeking review of the judgement of Division Bench. The Full Bench after
+hearing both the sides at length upheld the judgement of Division Bench by its order dated October 29, 2009.
+Similar demands had been raised for other financial years viz., Excise Demands for FY 1998-99 to FY 2002-03 and
+Income Tax Demand for FY 2001-02, which were also challenged by SNPL before the Hon’ble Supreme Court of Nepal
+by way of writ petitions and the Court was pleased to allow all the writ petitions setting aside the demands.
+ITC Limited REPORT AND ACCOUNTS 2025 283

@@ -1,0 +1,169 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 254-256
+
+[PAGE 254]
+Consolidated Statement of Cash Flows
+for the year ended 31st March, 2025
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+A. Cash Flow from Operating Activities
+PROFIT BEFORE TAX FROM CONTINUING OPERATIONS 26926.94 26400.28
+PROFIT BEFORE TAX FROM DISCONTINUED OPERATIONS 15654.65 739.60
+ADJUSTMENTS FOR:
+Depreciation and amortization expense 1950.58 1816.39
+Share based payments to employees 133.79 107.30
+Finance costs 50.01 45.96
+Interest Income (1510.46) (1710.51)
+Dividend Income (12.14) (11.13)
+Net gain on sale of property, plant and equipment, lease termination (135.69) (57.04)
+Inventory write-offs / write-downs (net of reversals) 235.05 156.12
+Doubtful and bad debts 11.64 14.81
+Doubtful and bad advances, loans and deposits 1.95 24.61
+Impairment of investment in joint venture and associate 7.87 0.06
+Gain recognised on divestment of shares held in joint venture – (9.84)
+Share of (profit) / loss of associates and joint ventures (121.77) (27.61)
+Gain recognised on fair valuation of net assets distributed pursuant to
+Scheme of Demerger [Refer Note 30(viii)] (15583.12) –
+Net gain arising on financial instruments measured at amortised cost/
+fair value through profit or loss / fair value through other comprehensive
+income (896.84) (840.17)
+Foreign currency translations and transactions - Net 6.78 (15862.35) (13.38) (504.43)
+OPERATING PROFIT BEFORE WORKING CAPITAL CHANGES 26719.24 26635.45
+ADJUSTMENTS FOR:
+Trade receivables, advances and other assets (1022.80) (933.64)
+Inventories and biological assets other than bearer plants (2975.38) (2544.87)
+Trade payables, other liabilities and provisions 1256.18 (2742.00) 141.48 (3337.03)
+CASH GENERATED FROM OPERATIONS 23977.24 23298.42
+Income tax paid (net of refunds) (6350.20) (6119.56)
+NET CASH FROM OPERATING ACTIVITIES 17627.04 17178.86
+B. Cash Flow from Investing Activities
+Purchase of property, plant and equipment, Intangibles, ROU asset etc. (2278.70) (3562.53)
+Sale of property, plant and equipment 175.42 107.48
+Purchase of current investments (65999.55) (72237.17)
+Sale / redemption of current investments 66919.64 75201.73
+Investment in associates (29.99) (65.04)
+Purchase of non-current investments (373.69) (2870.12)
+Sale / redemption of non-current investments 390.91 2627.78
+Payment towards business combination [Refer Note 30(xix)] (280.45) –
+Dividend received from associates and joint venture 25.53 24.52
+Dividend received from others 12.14 11.13
+Interest received 1072.28 1138.35
+Investment in bank deposits (original maturity more than 3 months) (6256.85) (4612.10)
+Redemption / maturity of bank deposits
+(original maturity more than 3 months) 6931.16 5800.00
+Investment in deposit with financial institution (1200.00) –
+Maturity of deposit with financial institution 500.00 –
+Loans given (17.55) (12.55)
+Loans realised 13.88 11.29
+NET CASH (USED IN) / FROM INVESTING ACTIVITIES (395.82) 1562.77
+236 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 255]
+Consolidated Statement of Cash Flows
+for the year ended 31st March, 2025
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+C. Cash Flow from Financing Activities
+Proceeds from issue of share capital 797.33 1442.83
+Proceeds from current borrowings 89.50 8.00
+Repayment of current borrowings (52.50) –
+Repayment of non-current borrowings (1.52) (1.57)
+Principal payment of lease liabilities (65.52) (66.89)
+Interest paid (50.01) (46.25)
+Net increase in statutory restricted accounts balances 8.09 12.12
+Dividend paid (17782.22) (19899.20)
+Dividend distribution tax refund received 19.45 –
+NET CASH USED IN FINANCING ACTIVITIES (17037.40) (18550.96)
+NET INCREASE IN CASH AND CASH EQUIVALENTS 193.82 190.67
+OPENING CASH AND CASH EQUIVALENTS 596.58 405.91
+LESS: ON DEMERGER [Refer Note 30(viii)] (199.74) –
+CASH AND CASH EQUIVALENTS ACQUIRED ON BUSINESS
+COMBINATION [Refer Note 30(xix)] 31.72 –
+CLOSING CASH AND CASH EQUIVALENTS 622.38 596.58
+Notes:
+1. The above Statement of Cash Flows has been prepared under the “Indirect Method” as set out in Ind AS - 7 “Statement of Cash Flows”.
+2. CASH AND CASH EQUIVALENTS:
+As at As at
+31st March, 2025 31st March, 2024
+Cash and cash equivalents as above 622.38 596.58
+Unrealised gain / (loss) on foreign currency cash and cash equivalents (2.38) 29.31
+Cash and cash equivalents (Note 13) 620.00 625.89
+3. Net Cash Flow from Operating Activities includes an amount of ` 456.51 Crores (2024 - ` 450.50 Crores) spent towards Corporate
+Social Responsibility.
+4. Disclosure of change arising from financing activities in respect of lease liabilities - Refer Note 17.
+The accompanying notes 1 to 33 are an integral part of the Consolidated Financial Statements.
+On behalf of the Board
+In terms of our report attached
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003 S. DUTTA Director & Chief Financial Officer
+Arvind Sethi (DIN : 01804345)
+Partner R. K. SINGHI Company Secretary
+(Membership No.: 89802) (Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 237
+
+[PAGE 256]
+Notes
+to the Consolidated Financial Statements
+Group Information
+ITC Limited (the ‘Holding Company’) [CIN: L16005WB1910PLC001985] its subsidiaries (together referred to as the ‘Group’)
+is a public limited company domiciled in India with has presence in multiple businesses spanning
+its registered office located at Virginia House, Fast-Moving Consumer Goods (Cigarettes & Cigars,
+37 Jawaharlal Nehru Road, Kolkata 700 071. The Holding Foods, Personal Care Products, Education &
+Company’s shares are listed on the National Stock Stationery Products, Safety Matches and Agarbattis),
+Exchange of India Limited, BSE Limited and The Calcutta Paperboards, Paper and Packaging, Agri Business and
+Stock Exchange Limited. The Holding Company and Information Technology.
+1. Material Accounting Policies
+Statement of Compliance affects only that period; they are recognised in the period
+These financial statements have been prepared in of the revision and future periods if the revision affects both
+accordance with Indian Accounting Standards (Ind AS) current and future periods.
+notified under Section 133 of the Companies Act, 2013 and Basis of Consolidation
+amendments thereto. The financial statements have also
+The Consolidated Financial Statements (CFS) include the
+been prepared in accordance with the relevant presentation
+financial statements of the Company and its subsidiaries
+requirements of the Companies Act, 2013. The Group
+together with the share of the total comprehensive income
+adopted Ind AS from 1st April, 2016.
+of joint ventures and associates.
+Basis of Preparation Subsidiaries are entities controlled by the Group. Associates
+The financial statements are prepared in accordance with are entities over which the Group exercise significant
+the historical cost convention, except for certain items that influence but does not control. Joint Ventures (“JV”) are
+are measured at amortised cost or fair value, as explained entities in which the Group has the ability to exercise control
+in the accounting policies. jointly with one or more uncontrolled entities and the parties
+have proportionate interests in the assets and liabilities of
+Fair Value is the price that would be received to sell an
+the JV entity.
+asset or paid to transfer a liability in an orderly transaction
+between market participants at the measurement date, Control, significant influence and joint control is assessed
+regardless of whether that price is directly observable or annually with reference to the voting power (usually arising
+estimated using another valuation technique. In estimating from equity shareholdings and potential voting rights) and
+the fair value of an asset or a liability, the Group takes into other rights (usually contractual) enjoyed by the Group in
+account the characteristics of the asset or liability if market its capacity as an investor that provides it the power and
+participants would take those characteristics into account consequential ability to direct the investee’s activities and
+when pricing the asset or liability at the measurement date. significantly affect the Group’s returns from its investment.
+Fair value for measurement and / or disclosure purposes in Such assessment requires the exercise of judgement and
+these consolidated financial statements is determined on is disclosed by way of a note to the Financial Statements.
+such a basis, except for share-based payment transactions The Group is considered not to be in control of entities
+that are within the scope of Ind AS 102 – Share-based where it is unclear as to whether it enjoys such power over
+Payment, leasing transactions that are within the scope of the investee.
+Ind AS 116 – Leases, and measurements that have some The assets, liabilities, income and expenses of subsidiaries
+similarities to fair value but are not fair value, such as net are aggregated and consolidated, line by line, from the date
+realisable value in Ind AS 2 – Inventories or value in use in control is acquired by any Group entity to the date it ceases.
+Ind AS 36 – Impairment of Assets. Profit or loss and each component of other comprehensive
+The preparation of financial statements in conformity income are attributed to the Group as owners and to the
+with Ind AS requires management to make judgements, non-controlling interests. The Group presents the non-
+estimates and assumptions that affect the application of the controlling interests in the Balance Sheet within equity,
+accounting policies and the reported amounts of assets and separately from the equity of the Group as owners. The
+liabilities, the disclosure of contingent assets and liabilities excess of the Group’s investment in a subsidiary over
+at the date of the financial statements, and the reported its share in the net worth of such subsidiary on the date
+amounts of revenues and expenses during the year. Actual control is acquired is treated as goodwill while a deficit is
+results could differ from those estimates. The estimates considered as a capital reserve in the CFS.
+and underlying assumptions are reviewed on an ongoing An investment in an associate or a JV is initially recognised
+basis. Revisions to accounting estimates are recognised at cost on the date of the investment, and inclusive of
+in the period in which the estimate is revised if the revision any goodwill / capital reserve embedded in the cost, in the
+238 ITC Limited REPORT AND ACCOUNTS 2025

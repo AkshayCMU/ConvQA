@@ -1,0 +1,228 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 104-106
+
+[PAGE 104]
+Report of the Board of Directors
+– Appropriate structures are in place to proactively Recognising Digital as a megatrend shaping the future,
+monitor and manage the inherent risks in businesses your Company remains focused on building a dynamic
+with unique or relatively high risk profiles. ‘Future-Tech’ enterprise powered by advanced digital
+technologies and infrastructure across the value chain.
+– Foreign currency exposures continue to be managed
+Your Company’s digital transformation journey is also
+within the framework of the Forex Manual.
+resulting in changes in its risk profile marked by a
+– A strong and independent Internal Audit function at heightened cyber threat environment. The cybersecurity
+the Corporate level carries out risk focused audits
+landscape is constantly evolving, characterised by
+across all Businesses, enabling identification of areas
+a diverse array of threats that target individuals,
+where risk management processes may need to be
+organisations, and critical infrastructure. Cybercriminals
+strengthened. The Audit Committee of the Board
+are employing increasingly sophisticated tactics, such as
+reviews Internal Audit findings and provides strategic
+ransomware, phishing and advanced persistent threats,
+guidance on internal controls. The Audit Compliance
+to exploit vulnerabilities and gain unauthorised access to
+Review Committee closely monitors the internal
+sensitive data.
+control environment within your Company including
+Your Company has a multi-tiered cybersecurity defence
+implementation of the action plans emerging out of
+strategy that includes firewalls, antivirus and anti-malware
+internal audit findings.
+systems to prevent, detect and respond to cyber incidents.
+– At the Business level, Divisional Auditors continuously
+These defence mechanisms are implemented at various
+verify compliance with laid down policies and
+access and data processing points, including endpoints,
+procedures and help plug control gaps by assisting
+data centres, network perimeters and cloud instances.
+operating management in the formulation of control
+To further enhance user awareness, your Company has
+procedures.
+established a comprehensive digital cybersecurity training
+– A robust and comprehensive framework of strategic program for all employees.
+planning and performance management ensures
+The Cyber Security Committee of your Company, chaired
+realisation of business objectives based on effective
+by the Chief Digital and Information Officer (CDIO),
+strategy implementation. The annual planning
+establishes best practices, monitors the cybersecurity
+exercise requires all Businesses to clearly identify
+posture, and defines strategic priorities to ensure secure
+their top risks and set out a mitigation plan with
+and reliable services in a rapidly evolving digital landscape.
+agreed timelines and accountabilities. Businesses
+Your Company’s cybersecurity practices are guided by
+are required to confirm periodically that all relevant
+several international frameworks and standards, such as
+risks have been identified, assessed, evaluated and
+NIST and ISO 27001.
+that appropriate mitigation measures have been
+implemented. During the year, your Company operationalised the
+Advanced Cyber Security Operations Centre (SOC)
+Your Company endeavours to continuously sharpen
+equipped with state-of-the-art capabilities including
+its Risk Management systems and processes in
+AI-driven threat intelligence from multiple sources.
+line with a rapidly changing business environment.
+Tabletop exercises have been conducted to improve
+All Businesses of your Company have adopted the
+incident response capabilities for the Cyber Security
+ISO 31000 Risk Management Standard; risk management
+Incident Response team, under the leadership of the Chief
+systems and processes prevalent in the Businesses have
+Information Security Officer (CISO). Further, the SOC
+been independently assessed to be compliant with the
+is being augmented with behavioural anomaly detection
+same. The centrally anchored initiative of conducting
+capabilities to enhance threat detection.
+independent external reviews of key business processes
+with high ‘value at risk’ continued during the year. In response to the progressive migration of workloads
+These interventions continue to provide further assurance to the Cloud, your Company has adopted a zero trust
+on the robustness of risk management practices prevalent architecture and has established a digital-ready, cloud-
+in your Company. secure wide area network - ITC Digibahn. This network
+86 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 105]
+Report of the Board of Directors
+ensures that all authorised users can access fast, reliable, crucial for long-term sustainability of its business and is
+and secure connections from any location, on any device, committed to conducting its operations in a manner that
+at any time. Your Company is also upgrading both endpoint protects, conserves and enriches biodiversity in line with
+and email security by adopting best-in-class technologies the Board-approved Policies on Biodiversity Conservation
+to enhance protection against external threats. and Deforestation.
+The growing integration and convergence of Information Your Company sources several commodities for use as
+Technology (IT) and Operational Technology (OT) within inputs in its Businesses and engages in agri-commodity
+Industrial Control Systems significantly increases the risk of trading as part of its Agri Business. In respect of
+cyber-attacks. Accordingly, a comprehensive OT Security commodities sourced for use as inputs in its Businesses,
+policy has been established across all Businesses and an your Company has well laid out strategies to manage
+assessment of IT and OT security maturity is conducted at risks arising out of the inherent price volatility associated
+least once in two years. with such commodities. This includes robust mechanisms
+for monitoring market dynamics towards making informed
+The use of Artificial Intelligence (AI) is becoming
+sourcing decisions, well defined inventory holding norms
+increasingly prevalent in various business domains. In this
+based on considerations such as seasonality and the
+regard, your Company has adopted a range of security
+strategic nature of the commodity concerned, long-term
+best practices, including an approved list of generative
+contracts with suppliers and continuous diversification
+AI tools and platforms, a data management framework,
+of the supplier base to secure supply of critical items
+mandatory proof of concept (POC) requirements, data
+at competitive costs. Multiple sourcing models, wide
+privacy controls, ethical AI usage guidelines, and user
+geographical spread, extensive sourcing and supply
+awareness training.
+chain network and associated infrastructure in key
+India ranks among the most vulnerable countries in the
+growing areas coupled with deep-rooted farmer linkages
+world in terms of climate change impact. As part of its
+and use of digital technologies ensure sourcing of high
+Sustainability 2.0 vision, your Company is pursuing a
+quality agri-commodities at competitive costs.
+multi-pronged climate strategy that entails extensive
+In respect of agri-commodity trading, your Company has
+decarbonisation and building resilience against climate
+a well-defined policy to manage risks associated with
+risk across the value chain.
+sourcing of such commodities. This includes:
+Your Company’s low carbon growth approach focuses
+on increasing the share of renewable energy, improving – segregation of duties and robust internal controls
+through a system of checks and balances embedded
+energy productivity, construction of green buildings,
+greening logistics, optimising ‘distance-to-market’ and in the organisation and governance structure
+promoting regenerative agriculture practices in agri-value – clearly defined limits for trading positions (long and
+chains, thus enabling transition to a net zero economy. short) and net cash loss for specific commodities/
+Simultaneously, your Company is actively working commodity groups
+towards climate-proofing its operations and agricultural
+– mitigation of price, liquidity and counter party risks
+value chains by using state-of-the-art climate risk
+through hedging on commodity exchanges (mainly
+modelling techniques and developing site-specific risk
+NCDEX) for certain commodities, as applicable.
+mitigation strategies. Your Company’s approach towards
+Correlation between prices prevailing in the physical
+water stewardship is aligned with the Alliance for Water
+market and those on the commodity exchange is
+Stewardship Standard, a globally recognised framework
+analysed regularly to ensure effectiveness of hedging
+for assessing the efficacy of water management across
+water stressed sites. Further, your Company recognises – robust monitoring and review mechanisms of net
+that the preservation and nurturing of biodiversity is open positions and ‘value at risk’
+ITC Limited REPORT AND ACCOUNTS 2025 87
+
+[PAGE 106]
+Report of the Board of Directors
+– ECGC cover for exports (covering commercial & operations, security of assets, prevention and detection of
+political risks) and credit insurance for large domestic frauds/errors, accuracy and completeness of accounting
+customers. records and compliance with various regulatory
+requirements as applicable.
+The combination of policies and processes as outlined
+above adequately addresses the various risks associated Your Company’s independent and robust Internal Audit
+with sourcing of commodities for your Company’s processes, both at the Business and Corporate levels,
+Businesses. provide assurance on the adequacy and effectiveness
+of internal controls, compliance with business processes
+Your Company’s strategy of backward integration in
+and procedures, internal policies and regulatory
+sourcing of agri-commodities such as wheat, potato,
+requirements. The role of Internal Audit is to enhance
+fruit pulp, spices, milk and leaf tobacco; in-house
+and protect organisational value by providing risk-based
+manufacturing of paperboards, paper and packaging
+assurance, advice and insight, while enabling continuous
+(including pulp production and print cylinder making
+improvement of your Company’s internal control systems.
+facilities); wood procurement from the economic vicinity
+of the Bhadrachalam unit, facilitates access to critical The Internal Audit function, comprising professionally
+inputs at benchmark quality and competitive cost qualified accountants, engineers, and Information
+besides ensuring security of supplies. Further, each of Technology (IT) specialists, is well-equipped and
+resourced to provide audit assurances at the highest
+your Company’s Businesses continuously focuses on
+levels. Targeted learning and development programmes
+product mix enrichment and yield improvement towards
+on contemporary topics are periodically organised to
+protecting margins and insulating operations from spikes
+enhance knowledge and skill set of the audit team.
+in input prices.
+The scope and coverage of Internal Audit remains
+The Risk Management Committee met thrice during the
+contemporary and cognises, inter alia, for the rapid
+year and was updated on the status and effectiveness of
+digitalisation of your Company’s business operations.
+the risk management plans. The Audit Committee was
+In recent years, Internal Audit has enhanced focus on
+also updated on the effectiveness of your Company’s Risk
+systems and controls pertaining to your Company’s digital
+Management systems and policies.
+assets including brand websites, social media handles,
+The risk management practices of your Company,
+mobile and cloud applications, IT-OT integration, and
+as reviewed through the Risk Management Cell and
+protection of sensitive personal data and information.
+Internal Audit processes, have been found to be relevant
+Information security and cybersecurity have assumed
+and commensurate with the size and complexity of
+critical significance with the accelerated adoption of
+its operations.
+digital technologies. In this context, periodical reviews
+AUDIT AND SYSTEMS are conducted focusing on assessment of controls
+pertaining to confidentiality, integrity and availability of
+Your Company believes that strong internal control
+business information and systems covering general IT
+systems that are commensurate with the scale, scope
+controls and security of your Company’s IT Infrastructure.
+and complexity of its operations are concomitant to the
+All systems and policies relating to Information
+principle of governance that freedom of management
+Management are regularly reviewed and benchmarked to
+should be exercised within a framework of appropriate
+ensure they remain contemporary. Furthermore, all critical
+checks and balances.
+IT systems undergo pre-implementation audit before being
+Your Company remains committed to ensuring a mature deployed in the operating environment, thereby providing
+and effective internal control environment that, inter alia, assurance regarding the rigour of implementation and
+provides assurance on orderly and efficient conduct of operational readiness.
+88 ITC Limited REPORT AND ACCOUNTS 2025

@@ -1,0 +1,243 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 257-259
+
+[PAGE 257]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+Balance Sheet. The proportionate share of the Group in value, over their useful lives as specified in Schedule II of
+the net profits / losses as also in the other comprehensive the Companies Act, 2013 on a straight-line basis. Land is
+income is recognised in the Statement of Profit and Loss not depreciated.
+and the carrying value of the investment is adjusted by a
+The estimated useful lives of PP&E of the Group are as
+like amount (referred as ‘equity method’).
+follows:
+All intragroup assets and liabilities, equity, income, expenses
+Buildings 30-60 Years
+and cash flows relating to transactions between members
+of the Group are eliminated in full on consolidation. While Leasehold Improvement Shorter of lease period or
+preparing CFS, appropriate adjustments are made to estimated useful lives
+subsidiaries / associates / JVs financial statements to ensure Plant and Equipment 3-25 Years
+conformity with the Group’s accounting policies.
+Furniture and Fixtures 8-10 Years
+Operating Cycle
+Vehicles 8-10 Years
+All assets and liabilities have been classified as current or
+Office Equipment 5 Years
+non-current as per the Group’s normal operating cycle and
+other criteria set out in the Schedule III to the Companies Act, PP&E’s residual values, useful lives and method of
+2013 and Ind AS 1 – Presentation of Financial Statements depreciation are reviewed at each Balance Sheet date
+based on the nature of products and the time between the and changes, if any, are treated as changes in accounting
+acquisition of assets for processing and their realisation in estimate.
+cash and cash equivalents. The Group has identified twelve
+Goodwill and Other Intangible Assets
+months as its operating cycle.
+Goodwill
+Property, Plant and Equipment
+Goodwill arising on Business Combination is carried at
+Property, plant and equipment (PP&E) are stated at cost of
+cost less any accumulated impairment losses. The Group
+acquisition or construction less accumulated depreciation
+also presents the excess of the Group’s investment in a
+and accumulated impairment, if any. For this purpose,
+subsidiary over its share in the net worth of such subsidiary
+cost includes deemed cost which represents the carrying
+on the date control is acquired as goodwill arising on
+value of PP&E recognised as at 1st April, 2015 measured
+consolidation.
+as per the previous Generally Accepted Accounting
+Principles (GAAP). Goodwill is annually tested for impairment. Impairment
+loss, if any, to the extent the carrying amount exceeds the
+Cost is inclusive of inward freight, import duties & non-
+recoverable amount is charged off to the Statement of Profit
+refundable taxes and incidental expenses related
+and Loss as it arises and is not reversed. For impairment
+to acquisition. In respect of major projects involving
+construction, related pre-operational expenses form part of testing, goodwill is allocated to Cash Generating Unit (CGU)
+the value of assets capitalised. Expenses capitalised also or group of CGUs to which it relates, which is not larger
+include applicable borrowing costs for qualifying assets, than an operating segment, and is monitored for internal
+if any. All upgradation / enhancements are charged off as management purposes.
+revenue expenditure unless they bring similar significant On disposal of the CGU or group of CGUs, attributable
+additional benefits. amount of goodwill is included in the determination of the
+An item of PP&E is derecognised upon disposal or when profit or loss recognised in the Statement of Profit and Loss.
+no future economic benefits are expected to arise from
+Other Intangible Assets
+the continued use of asset. Any gain or loss arising on the
+Other Intangible Assets that the Group controls and from
+disposal or retirement of an item of PP&E is determined as
+which it expects future economic benefits, are capitalised
+the difference between the sales proceeds and the carrying
+upon acquisition and measured initially:
+amount of the asset and is recognised in the Statement of
+Profit and Loss. a. for assets acquired in a business combination, at fair
+value on the date of acquisition.
+Depreciation of these assets commences when the assets
+are ready for their intended use, which is generally on b. for separately acquired assets, at cost comprising
+commissioning. Items of PP&E are depreciated in a manner the purchase price (including import duties and non-
+that amortizes the cost (or other amount substituted for refundable taxes) and directly attributable costs to
+cost) of the assets after commissioning, less its residual prepare the asset for its intended use.
+ITC Limited REPORT AND ACCOUNTS 2025 239
+
+[PAGE 258]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+Internally generated assets for which the cost is clearly with finite lives and to confirm that business circumstances
+identifiable are capitalised at cost. Research expenditure is continue to support an indefinite useful life assessment for
+recognised as an expense when it is incurred. Development assets so classified. Based on such review, the useful life
+costs are capitalised only after the technical and commercial may change or the useful life assessment may change from
+feasibility of the asset for sale or use has been established. indefinite to finite. The impact of such changes is accounted
+Thereafter, all directly attributable expenditure incurred to for as a change in accounting estimate.
+prepare the asset for its intended use are recognised as the
+Investment Property
+cost of such assets. Internally generated brands, websites
+and customer lists are not recognised as intangible assets. Properties that are held for long-term rental yields
+and / or for capital appreciation are classified as investment
+The carrying value of intangible assets includes deemed
+properties. Investment properties are stated at cost of
+cost which represents the carrying value of intangible
+acquisition or construction less accumulated depreciation
+assets recognised as at 1st April, 2015 measured as per
+and impairment, if any. Depreciation is recognised using
+the previous GAAP.
+the straight-line method so as to amortize the cost of
+After initial recognition, an intangible asset is carried at its
+investment properties over their useful lives as specified
+cost less accumulated amortization and / or accumulated
+in Schedule II of the Companies Act, 2013. Freehold land
+impairment losses.
+and properties under construction are not depreciated. The
+The useful life of an intangible asset is considered finite
+estimates useful lives of investment properties are same as
+where the rights to such assets are limited to a specified
+those disclosed as PP&E.
+period of time by contract or law (e.g. patents, licences,
+Transfers to, or from, investment properties are made at
+trademarks, franchise and servicing rights) or the likelihood
+the carrying amount when and only when there is a change
+of technical, technological obsolescence (e.g. computer
+in use.
+software, design, prototypes) or commercial obsolescence
+(e.g. lesser known brands are those to which adequate An item of investment property is derecognised upon
+marketing support may not be provided). If, there are no disposal or when no future economic benefits are expected
+such limitations, the useful life is taken to be indefinite. to arise from the continued use of asset. Any gain or loss
+arising on the disposal or retirement of an item of investment
+Intangible assets that have finite lives are amortized over
+property is determined as the difference between the sales
+their estimated useful lives by the straight-line method
+proceeds and the carrying amount of the property and is
+unless it is practical to reliably determine the pattern of
+benefits arising from the asset. An intangible asset with recognised in the Statement of Profit and Loss.
+an indefinite useful life is not amortized. However, it is Income received from investment property is recognised
+annually tested for impairment. Amortization expenses and in the Statement of Profit and Loss on a straight-line basis
+impairment losses and reversal of impairment losses are over the term of the lease.
+included in the ‘Depreciation and amortization expense’ in
+Impairment of Assets
+the Statement of Profit and Loss.
+Impairment loss, if any, is provided to the extent, the carrying
+The estimated useful lives of intangible assets of the Group
+amount of assets or CGU exceeds their recoverable
+with finite lives are as follows:
+amount.
+Trademarks / Know How, 10 Years (unless shorter
+Recoverable amount is higher of an asset’s fair value less
+Business and Commercial useful life is required based
+costs of disposal and its value in use. Value in use is the
+Rights on contractual or legal
+present value of estimated future cash flows expected to
+terms)
+arise from the continuing use of an asset or CGU and from
+Computer Software 3-5 Years its disposal at the end of its useful life.
+Customer Relationships / 5 Years Impairment losses recognised in prior years are reversed
+Contracts when there is an indication that the impairment losses
+recognised no longer exist or have decreased. Such
+Business Alliances / 7 Years
+reversals are recognised as an increase in carrying
+Partnerships
+amounts of assets to the extent that it does not exceed the
+Software Tools 6 Years carrying amounts that would have been determined (net of
+The useful lives of intangible assets are reviewed annually to amortization or depreciation) had no impairment loss been
+determine if a reset of such useful life is required for assets recognised in previous years.
+240 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 259]
+Notes
+to the Consolidated Financial Statements
+1. Material Accounting Policies (Contd.)
+Inventories unless the derivative is designated and effective as a
+Inventories are stated at lower of cost and net realisable hedging instrument, in which case the resulting gain / loss
+is recognised as per the hedge accounting principles
+value. The cost is calculated on weighted average method.
+stated below.
+Cost comprises expenditure incurred in the normal course
+of business in bringing such inventories to their present The Group complies with the principles of hedge accounting
+location and condition and includes, where applicable, where derivative contracts and / or non-derivative financial
+appropriate overheads based on normal level of activity. assets / liabilities that are permitted under applicable
+Net realisable value is the estimated selling price less accounting standards are designated as hedging
+estimated costs for completion and sale. instruments. At the inception of the hedge relationship, the
+Group documents the relationship between the hedging
+Obsolete, slow moving and defective inventories are
+instrument and the hedged item, along with the risk
+identified from time to time and, where necessary, a
+management objectives and its strategy for undertaking
+provision is made for such inventories.
+hedge transaction, which can be a fair value hedge or a
+Foreign Currency Transactions cash flow hedge.
+The presentation currency of the Group is Indian Rupee. (i) Fair value hedges
+Transactions in foreign currency are accounted for at
+Changes in fair value of the designated portion of
+the exchange rate prevailing on the transaction date.
+hedging instruments that qualify as fair value hedges
+Gains / losses arising on settlement, as also on translation
+are recognised in the Statement of Profit and Loss
+of monetary items are recognised in the Statement of
+immediately, together with any changes in the fair value
+Profit and Loss.
+of the hedged asset or liability that are attributable to the
+Exchange differences arising on monetary items that, in hedged risk. Such fair value changes are recognised in
+substance, form part of the Group’s net investment in a the line item relating to the hedged item in the Statement
+foreign operation (having a functional currency other than of Profit and Loss.
+Indian Rupee) are recognised in other comprehensive
+Hedge accounting is discontinued when the hedging
+income and accumulated in Foreign Currency Translation instrument is derecognised, expires or is sold,
+Reserve. terminated, or exercised, or when it no longer qualifies
+For the preparation of the consolidated financial statements: for hedge accounting. The fair value adjustment to the
+carrying amount of the hedged item arising from the
+(a) assets and liabilities of foreign operations, together
+hedged risk is included in the Statement of Profit and
+with goodwill and fair value adjustments assumed on
+Loss from that date.
+acquisition thereof, are translated to Indian Rupees at
+exchange rates prevailing at the reporting period end; (ii) Cash flow hedges
+(b) income and expense items are translated at the The effective portion of changes in the fair value of
+average exchange rates prevailing during the period; hedging instrument that are designated and qualify
+when exchange rates fluctuate significantly the rates as cash flow hedges is recognised in the other
+prevailing on the transaction date are used instead. comprehensive income and accumulated as ‘Cash
+Flow Hedge Reserve’. The gains / losses relating to the
+Differences arising on such translation are recognised
+ineffective portion are recognised immediately in the
+in other comprehensive income and accumulated in
+Statement of Profit and Loss.
+Foreign Currency Translation Reserve and attributed to
+non-controlling interests proportionately. Amounts previously recognised and accumulated in
+other comprehensive income are reclassified to profit
+On the disposal of a foreign operation, all of the exchange
+or loss when the hedged item affects the Statement
+differences accumulated in equity in respect of that operation
+of Profit and Loss. However, when the hedged item
+attributable to the owners of the Group is reclassified to the
+results in the recognition of a non-financial asset, such
+Statement of Profit and Loss. In relation to a partial disposal,
+gains / losses are transferred from equity (but not as
+the proportionate exchange differences accumulated in
+reclassification adjustment) and included in the initial
+equity is reclassified to the Statement of Profit and Loss.
+measurement cost of the non-financial asset.
+Derivatives and Hedge Accounting
+Hedge accounting is discontinued when the hedging
+Derivatives are initially recognised at fair value and are instrument is derecognised, expires or is sold,
+subsequently remeasured to their fair value at the end terminated, or exercised, or when it no longer qualifies
+of each reporting period. The resulting gains / losses are for hedge accounting. Any gains / losses recognised in
+recognised in the Statement of Profit and Loss immediately other comprehensive income and accumulated in equity
+ITC Limited REPORT AND ACCOUNTS 2025 241

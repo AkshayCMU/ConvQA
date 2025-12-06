@@ -1,0 +1,178 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 265-267
+
+[PAGE 265]
+Notes
+to the Consolidated Financial Statements
+2. Use of estimates and judgements (Contd.)
+B. Key sources of estimation uncertainty 3. Actuarial Valuation:
+The following are the key assumptions concerning the The determination of Group’s liability towards defined
+future, and other key sources of estimation uncertainty at the benefit obligation to employees is made through
+end of the reporting period that may have a significant risk independent actuarial valuation including determination
+of causing a material adjustment to the carrying amounts of
+of amounts to be recognised in the Statement of Profit
+assets and liabilities within the next financial year.
+and Loss and in other comprehensive income. Such
+1. Useful lives of property, plant and equipment, valuation depends upon assumptions determined after
+investment property and intangible assets: taking into account inflation, seniority, promotion and
+As described in the material accounting policies, the other relevant factors such as supply and demand
+Group reviews the estimated useful lives of property, factors in the employment market. Information about
+plant and equipment, investment property and intangible such valuation is provided in the notes to the financial
+assets at the end of each reporting period and the impact statements.
+of changes in the estimated useful life is considered in
+4. Claims, Provisions and Contingent Liabilities:
+the period in which the estimate is revised.
+The Group has ongoing litigations with various regulatory
+2. Fair value measurements and valuation processes:
+authorities and third parties. Where an outflow of funds
+Some of the Group’s assets and liabilities are
+is believed to be probable and a reliable estimate of
+measured at fair value for financial reporting purposes.
+the outcome of the dispute can be made based on
+In estimating the fair value of an asset or a liability, the
+management’s assessment of specific circumstances of
+Group uses market-observable data to the extent it is
+each dispute and relevant external advice, management
+available. Where Level 1 inputs are not available, the
+provides for its best estimate of the liability.
+Group engages third party valuers, where required,
+to perform the valuation. Information about the valuation Such accruals are by nature complex and can take
+techniques and inputs used in determining the fair value number of years to resolve and can involve estimation
+of various assets, liabilities and share based payments uncertainty. Information about such litigations is
+are disclosed in the notes to the financial statements. provided in the notes to the financial statements.
+ITC Limited REPORT AND ACCOUNTS 2025 247
+
+[PAGE 266]
+Notes
+to the Consolidated Financial Statements
+(` in Crores)
+Gross Block
+Foreign Foreign
+Currency Acquired Transferred Currency
+As at Withdrawals Translation As at through Withdrawals pursuant Translation As at
+31st March, and Reserve 31st March, business and to Scheme Reserve 31st March,
+Particulars 2023 Additions adjustments adjustments 2024 Additions combinations@ adjustments# of Demerger* adjustments 2025
+3A. Property, Plant and Equipment 1
+Land 2 2111.01 20.18 17.85 – 2113.34 74.34 – 3.92 1012.21 – 1171.55
+Buildings 9504.71 1068.85 11.62 – 10561.94 1191.57 – 2.71 4527.11 18.38 7242.07
+Leasehold Improvements 17.21 17.15 3.05 0.03 31.34 3.13 – 0.16 7.56 – 26.75
+Plant and Equipment 18431.75 2410.68 166.09 0.17 20676.51 1879.75 0.32 205.73 2972.00 11.83 19390.68
+Furniture and Fixtures 999.77 78.15 9.88 0.04 1068.08 551.84 – 7.37 1342.80 12.61 282.36
+Vehicles 185.71 29.03 25.69 0.14 189.19 28.68 – 19.63 62.74 0.07 135.57
+Office Equipment 43.68 12.32 2.92 0.01 53.09 13.33 – 2.23 1.42 0.11 62.88
+Railway Sidings 1.73 – – – 1.73 – – – – – 1.73
+TOTAL 31295.57 3636.36 237.10 0.39 34695.22 3742.64 0.32 241.75 9925.84 43.00 28313.59
+3B. Capital work-in-progress 2984.71 3252.02 3528.66 143.07 2851.14 2157.40 – 3669.20 301.65 49.91 1087.60
+3C. Investment Property 3 410.63 – (0.95) – 411.58 1.75 – 4.79 – – 408.54
+3D. Goodwill 4
+Goodwill on Consolidation 202.53 – – – 202.53 – 144.66 – 27.46 – 319.73
+Goodwill acquired through business
+combinations 577.20 – – – 577.20 – – – – – 577.20
+TOTAL 779.73 – – – 779.73 – 144.66 – 27.46 – 896.93
+3E. Other Intangible assets (acquired)
+Assets with indefinite life 4
+Trademarks 1889.78 – – – 1889.78 – – – – – 1889.78
+Assets with finite life
+Trademarks 30.82 – – – 30.82 – – – – – 30.82
+Computer Software 339.86 56.47 1.84 – 394.49 27.44 – 6.15 59.79 0.03 356.02
+Know How, Business and Commercial
+Rights 789.23 15.57 – – 804.80 3.77 – – 3.77 – 804.80
+Customer Relationships / Contracts 35.21 – – – 35.21 – 32.20 – – – 67.41
+Business Alliances / Partnerships – – – – – – 59.69 – – – 59.69
+Software Tools – – – – – – 75.71 – – – 75.71
+TOTAL 3084.90 72.04 1.84 – 3155.10 31.21 167.60 6.15 63.56 0.03 3284.23
+3F. Intangible assets under development 18.59 57.84 66.79 – 9.64 21.41 – 26.09 1.65 – 3.31
+3G. Right-of-use assets ^
+Land 718.50 9.55 0.19 24.22 752.08 0.16 – 0.32 347.99 12.13 416.06
+Buildings 267.53 132.51 49.90 0.09 350.23 78.11 6.92 105.31 49.17 0.57 281.35
+Plant and Equipment 48.63 – 6.80 – 41.83 – – 9.86 – – 31.97
+Vehicles 2.92 0.96 0.99 – 2.89 3.99 – 1.75 – 0.09 5.22
+TOTAL 1037.58 143.02 57.88 24.31 1147.03 82.26 6.92 117.24 397.16 12.79 734.60
+#
+Includes amounts transferred to Investment Property on its recognition.
+* Refer Note 30(viii)
+@ Refer Note 30(xix)
+&
+includes ` 304.98 Crores (2024 - ` 298.34 Crores) relating to discontinued operations.
+^ Also refer Note 30(ix)
+Notes:
+1. a) The above includes following assets given on operating lease: (` in Crores)
+As at 31st March, 2024 2024 As at 31st March, 2025 2025
+Depreciation Depreciation
+Accumulated Charge Accumulated Charge
+Particulars Gross Block Depreciation Net Block for the year Gross Block Depreciation Net Block for the year
+Buildings 0.94 0.25 0.69 0.02 0.94 0.28 0.66 0.03
+Plant and Equipment 260.13 179.85 80.28 13.81 281.04 193.23 87.81 12.59
+TOTAL 261.07 180.10 80.97 13.83 281.98 193.51 88.47 12.62
+b) The amount of expenditure recognised in the carrying amount of property, plant and equipment in the course of construction is ` 206.69 Crores (2024 - ` 195.73 Crores)
+2. Land includes certain lands at Munger with Gross Block - ` 1.16 Crores (2024 - ` 1.16 Crores) which stood vested with the State of Bihar under the Bihar Land Reforms Act, 1950 for which compensation has not yet been determined.
+248 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 267]
+Notes
+to the Consolidated Financial Statements
+(` in Crores)
+Depreciation and Amortization Net Book Value
+Foreign Foreign
+On Currency Acquired On Transferred Currency
+Upto Withdrawals Translation Upto through Withdrawals pursuant to Translation Upto As at As at
+31st March, For and Reserve 31st March, For the business and Scheme of Reserve 31st March, 31st March, 31st March,
+Particulars 2023 the year adjustments adjustments 2024 year & combinations@ adjustments# Demerger* adjustments 2025 2025 2024
+3A. Property, Plant and Equipment 1
+Land 2 – – – – – – – – – – – 1171.55 2113.34
+Buildings 1460.02 246.72 6.10 – 1700.64 268.82 – 2.57 458.24 0.21 1508.86 5733.21 8861.30
+Leasehold Improvements 11.60 0.54 2.21 0.01 9.94 1.92 – 0.14 5.14 – 6.58 20.17 21.40
+Plant and Equipment 8028.34 1251.42 136.27 0.08 9143.57 1313.53 0.19 186.40 1175.87 0.70 9095.72 10294.96 11532.94
+Furniture and Fixtures 554.30 84.10 8.51 0.03 629.92 111.12 – 5.83 566.84 0.96 169.33 113.03 438.16
+Vehicles 91.00 20.33 17.70 0.08 93.71 19.44 – 12.17 34.45 0.05 66.58 68.99 95.48
+Office Equipment 32.19 4.24 2.49 – 33.94 5.63 – 1.98 1.29 0.03 36.33 26.55 19.15
+Railway Sidings 1.04 0.13 – – 1.17 0.13 – – – – 1.30 0.43 0.56
+TOTAL 10178.49 1607.48 173.28 0.20 11612.89 1720.59 0.19 209.09 2241.83 1.95 10884.70 17428.89 23082.33
+3B. Capital work-in-progress – – – – – – – – – – – 1087.60 2851.14
+3C. Investment Property 3 58.37 12.11 (0.17) – 70.65 12.57 – (2.92) – – 86.14 322.40 340.93
+3D. Goodwill 4
+Goodwill on Consolidation – – – – – – – – – – – 319.73 202.53
+Goodwill acquired through business
+combinations – – – – – – – – – – – 577.20 577.20
+TOTAL – – – – – – – – – – – 896.93 779.73
+3E. Other Intangible assets (acquired)
+Assets with indefinite life 4
+Trademarks – – – – – – – – – – – 1889.78 1889.78
+Assets with finite life
+Trademarks 23.75 3.16 – – 26.91 2.29 – – – – 29.20 1.62 3.91
+Computer Software 232.73 35.00 1.84 – 265.89 38.72 – 6.15 48.34 – 250.12 105.90 128.60
+Know How, Business and Commercial
+Rights 89.31 78.69 – – 168.00 79.13 – – 0.13 – 247.00 557.80 636.80
+Customer Relationships / Contracts 11.79 4.40 – – 16.19 6.41 – – – – 22.60 44.81 19.02
+Business Alliances / Partnerships – – – – – 4.26 – – – – 4.26 55.43 –
+Software Tools – – – – – 6.31 – – – – 6.31 69.40 –
+TOTAL 357.58 121.25 1.84 – 476.99 137.12 – 6.15 48.47 – 559.49 2724.74 2678.11
+3F. Intangible assets under development – – – – – – – – – – – 3.31 9.64
+3G. Right-of-use assets ^
+Land 36.29 9.92 – 1.18 47.39 8.97 – 0.03 28.54 0.71 28.50 387.56 704.69
+Buildings 103.24 61.55 26.31 0.08 138.56 66.78 6.56 100.51 2.88 0.19 108.70 172.65 211.67
+Plant and Equipment 22.07 5.29 6.80 – 20.56 3.69 – 9.86 – – 14.39 17.58 21.27
+Vehicles 1.10 1.28 0.99 0.01 1.40 1.59 – 1.88 – 0.01 1.12 4.10 1.49
+TOTAL 162.70 78.04 34.10 1.27 207.91 81.03 6.56 112.28 31.42 0.91 152.71 581.89 939.12
+3. The fair value of the investment property is ` 1352.64 Crores (2024 - ` 1020.05 Crores). The fair value has been determined on the basis of valuation carried out at the reporting date by registered valuer as defined under Rule 2 of
+Companies (Registered Valuers and Valuation) Rules, 2017 and the same has been categorised as Level 2 based on the valuation techniques used and inputs applied. The main inputs considered by the valuer are government rates,
+property location, market research & trends, contracted rentals, terminal yields, discount rates and comparable values, as appropriate.
+Amounts recognised in the Statement of Profit and Loss in respect of the investment property is as under:
+(` in Crores)
+For the year ended For the year ended
+Particulars 31st March, 2025 31st March, 2024
+Rental Income etc. from investment property 134.91 128.29
+Direct Operating Expenses arising from investment property that generated
+rental income during the year $ 14.67 13.32
+Direct Operating Expenses arising from investment property that did not
+generate rental income during the year – –
+$As per the contractual arrangements, the Company is responsible for the maintenance of common area at its own cost. The expenses arising out of such arrangements are not material.
+4. Assets with indefinite life pertain to the ‘FMCG - Others’ Segment and are related to the Branded Packaged Foods and Personal Care Products businesses of the Company.
+Impairment testing for goodwill and intangible assets with indefinite useful lives has been carried out considering their recoverable amounts which, inter-alia, includes estimation of their value-in-use based on management projections.
+These projections have been made for a period of five years, or longer, as applicable and consider various factors, such as market scenario, growth trends, growth and margin projections, and terminal growth rates specific to the business.
+For such projections, discount rate of 10% (2024 - 10%) and long-term growth rates ranging between 5% to 6% (2024 - 5% to 6%) have been considered. Discount rate has been determined considering the Weighted Average Cost of
+Capital (WACC) of market benchmarks.
+Based on the above assessment, no impairment has been recognised during the year. Further, the Company has also performed sensitivity analysis around the base assumptions and has concluded that there are no reasonably possible
+changes to key assumptions that would cause the carrying amount of the aforesaid assets to exceed their recoverable values.
+ITC Limited REPORT AND ACCOUNTS 2025 249

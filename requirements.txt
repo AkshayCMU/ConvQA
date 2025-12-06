@@ -1,0 +1,29 @@
+# Core dependencies for HW6 - RAG Pipeline for Corporate Annual Reports
+
+# PDF Processing
+pdfplumber>=0.10.0
+
+# LLM & Embeddings (via CMU Gateway)
+langchain==0.2.16
+langchain-openai==0.1.23
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-text-splitters==0.2.4
+
+# Vector Database
+chromadb>=0.4.0
+
+# Local Embeddings (Open-weight)
+sentence-transformers>=2.2.0
+
+# BM25 Retrieval
+rank_bm25>=0.2.2
+
+# Utilities
+numpy>=1.24.0
+
+# Advanced Evaluation (Part 5)
+ragas>=0.4.0
+datasets>=2.14.0
+rouge-score>=0.1.2
+nltk>=3.8.0

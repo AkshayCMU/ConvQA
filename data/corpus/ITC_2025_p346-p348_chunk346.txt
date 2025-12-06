@@ -1,0 +1,208 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 346-348
+
+[PAGE 346]
+Ten Years at a Glance
+Standalone Operating Results FY16 - FY25
+(` in Crores)
+Year ended 31st March FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24$ FY25$
+Gross Sales Value (net of rebates & discounts) # 60196 64174 67082 75309 76097 74979 90104 106625 105106 113960
+Gross Revenue from sale of products &
+services # 51582 55002 43957 45221 46324 48151 59101 69481 66657 73465
+Total Income # 53714 57434 46460 48269 49821 51776 62336 72689 70822 77690
+EBITDA 13715 14578 15541 17306 17904 15523 18934 23944 23494 24025
+PBT 14434 15503 16439 18444 19299 17164 19830 24677 25632 26001
+Exceptional items 413 (132) 73 528
+PBT after Exceptional Items 14434 15503 16852 18444 19167 17164 19830 24750 25632 26529
+Tax 5106 5302 5628 5980 4031 4133 4772 5997 5722 6437
+PAT 9328 10201 11223 12464 15136 13032 15058 18753 19910 20092
+Interim + Proposed Dividends * 8233 6945 7577 8498 12477 13230 14172 19255 17163 17957
+– Ordinary Dividend 6296 6945 7577 8498 12477 13230 14172 15837 17163 17957
+– Special Dividend 1937 3418
+Earnings Per Share
+Actual (`) 11.61 8.43 9.22 10.19 12.33 10.59 12.22 15.15 15.98 16.07
+Adjusted (`) @ 7.74 8.43 9.22 10.19 12.33 10.59 12.22 15.15 15.98 16.07
+Dividend Per Share
+Actual - Ordinary (`) 6.50 4.75 5.15 5.75 10.15 10.75 11.50 12.75 13.75 14.35
+Actual - Special (`) 2.00 2.75
+Adjusted - Ordinary (`) @ 4.33 4.75 5.15 5.75 10.15 10.75 11.50 12.75 13.75 14.35
+Adjusted - Special (`) @ 1.33 2.75
+$ Financials for FY24 & FY25 excludes the performance of Hotels Business transferred to ITC Hotels Limited (ITCHL) on a going concern basis pursuant to Scheme of Demerger. The same has
+been disclosed as ‘Discontinued Operations’ in the Financial Statements of the Company for FY24 & FY25.
+# G ross Sales Value (net of rebates & discounts) has been provided to facilitate comparison as the figures of Gross Revenue from sale of products & services and Total Income are not
+comparable consequent to the introduction of Goods & Services Tax with effect from 1st July 2017, which replaced Central Excise (other than National Calamity Contingent Duty on
+cigarettes), Value Added Tax etc.
+* Including Dividend Distribution Tax, where applicable.
+@ To facilitate like-to-like comparison, adjusted for 1:2 Bonus Issue in FY17.
+Note: Financials for FY21 & FY22 were impacted by unprecedented disruptions in certain operating segments of the Company due to the COVID-19 pandemic.
+Standalone Equity, Liabilities and Assets FY16 - FY25
+(` in Crores)
+As at 31st March FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25$
+Equity †
+Share capital 805 1215 1220 1226 1229 1231 1232 1243 1248 1251
+Other equity 40851 44126 50180 56724 62800 57774 60168 66351 70985 66649
+Shareholders’ funds (Net Worth) 41656 45341 51400 57950 64029 59005 61400 67594 72233 67900
+Non-current liabilities
+Borrowings 26 18 11 8 6 5 5 3 2 –
+Deferred tax liabilities (Net) 1867 1872 1918 2044 1618 1728 1667 1621 2084 2556
+Non-current liabilities (others) ^ 127 155 195 174 493 669 543 628 593 431
+Current liabilities
+Borrowings & 16 8 7 3 2 … 1 1 2 2
+Current liabilities (others) ^ 6339 6822 8850 9619 9087 10173 11477 12415 12414 13120
+Total Equity and Liabilities 50031 54216 62381 69798 75235 71580 75093 82262 87328 84009
+Non-current assets
+Property, plant and equipment, intangible
+assets (including capital work-in-progress,
+intangible assets under development),
+investment property and right-of-use assets ^ 16430 18417 20592 21888 23298 25521 25688 25871 26830 21059
+Non-current investments 6853 8486 13494 14071 13456 12937 15657 16364 22822 20701
+Non-current assets (others) 3515 2776 3792 4269 1974 1306 2806 4824 1605 2493
+Current assets
+Current investments 6471 10100 9903 12507 17175 14047 11625 16357 11917 15286
+Cash and cash equivalents and
+Other bank balances 5639 2747 2595 3769 6843 4002 3878 3831 6218 3184
+Current assets (others) 11123 11690 12005 13294 12489 13767 15439 15015 17936 21286
+Total Assets 50031 54216 62381 69798 75235 71580 75093 82262 87328 84009
+Net Worth Per Share (`) § 34.51 37.33 42.12 47.27 52.09 47.94 49.82 54.39 57.86 54.26
+$ FY25 is after giving effect to the Scheme of Demerger of the Hotels Business into ITCHL on a going concern basis.
+† Equity includes impact of 1:2 Bonus Issue (` 403 Crores) in FY17.
+^ Includes right-of-use assets and lease liabilities from FY20 upon transition to Ind AS-116, “Leases”.
+& To facilitate like-to-like comparison, figures for earlier years have been regrouped in line with amendments to Schedule III to the Companies Act, 2013.
+§ To facilitate like-to-like comparison, adjusted for 1:2 Bonus Issue in FY17.
+328 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 347]
+REPORT AND ACCOUNTS 2025
+Financial Highlights
+Gross Sales Value# ₹ Crores PAT ₹ Crores
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+#Refer Note to Ten Years at a Glance
+FMCG - Others : Segment Revenue and EBITDA ₹ Crores Net Cash Flow from Operating Activities ₹ Crores
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Dividend ₹ Crores Earnings Per Share and Dividend Per Share ₹ Per Share
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+Includes Dividend Distribution Tax, where applicable Includes Dividend Distribution Tax, where applicable
+These graphs depict the standalone financial performance
+Notes:
+• Financials for FY24 & FY25 excludes the performance of Hotels business transferred to ITCHL on a going concern basis pursuant to
+Scheme of Demerger.
+• Financials for FY21 & FY22 were impacted by unprecedented disruptions in certain operating segments of the Company due to the
+COVID 19 pandemic.
+• EPS and DPS have been adjusted for impact of corporate action to facilitate like to like comparison.
+1379
+603
+21501
+562
+92311
+654
+50521
+886
+44821
+419
+82741
+7131
+49951
+9441
+32191
+4591
+76902
+9332
+28912
+4612
+EBITDA
+Revenue
+69106
+6926
+47146
+5496
+28076
+7757
+90357
+8948
+79067
+77421
+97947
+03231
+40109
+27141
+526601
+73851
+601501
+36171
+069311
+75971
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+3418
+Ordinary Dividend
+Special Dividend
+1937
+2129 20001
+15621
+94711
+60831
+49411
+80841
+21971
+06151
+67261
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25
+47.7
+8239
+06.1
+22.5 34.8
+10201
+27.5
+22.9
+32211
+12.6
+91.01
+46421
+39.6
+33.21
+63151
+51.01 95.01
+23031
+57.01 22.21
+85051
+05.11
+51.51
+35781
+57.2
+57.21
+89.51
+01991
+57.31
+29002
+70.61 53.41
+Earnings Per Share
+Dividend Per Share
+Special Dividend Per Share
+
+[PAGE 348]
+REPORT AND ACCOUNTS 2025
+Business Responsibility
+and Sustainability Report 2025
+Glossary II
+SECTION A GENERAL DISCLOSURES III
+SECTION B MANAGEMENT AND PROCESS DISCLOSURES XII
+SECTION C PRINCIPLE WISE PERFORMANCE DISCLOSURE XV
+PRINCIPLE 1 Businesses should conduct and govern themselves with integrity, XV
+and in a manner that is Ethical, Transparent and Accountable
+PRINCIPLE 2 Businesses should provide goods and services in a manner that is XVIII
+sustainable and safe
+PRINCIPLE 3 Businesses should respect and promote the well-being of all XXII
+employees, including those in their value chains
+PRINCIPLE 4 Businesses should respect the interests of and be responsive to all XXVIII
+its stakeholders
+PRINCIPLE 5 Businesses should respect and promote human rights XXXII
+PRINCIPLE 6 Businesses should respect and make efforts to protect and restore XXXVI
+the environment
+PRINCIPLE 7 Businesses, when engaging in influencing public and regulatory policy, XLIII
+should do so in a manner that is responsible and transparent
+PRINCIPLE 8 Businesses should promote inclusive growth and equitable development XLIV
+PRINCIPLE 9 Businesses should engage with and provide value to their consumers in XLIX
+a responsible manner
+Exhibit A LI
+Independent Assurance Report LV
+I

@@ -1,0 +1,194 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 339-341
+
+[PAGE 339]
+Independent Auditor’s Report
+Auditor’s Responsibilities for the Audit of the going concern. If we conclude that a material uncertainty
+Consolidated Ind AS Financial Statements exists, we are required to draw attention in our auditor’s
+report to the related disclosures in the consolidated
+Our objectives are to obtain reasonable assurance about
+Ind AS financial statements or, if such disclosures are
+whether the consolidated Ind AS financial statements as
+inadequate, to modify our opinion. Our conclusions
+a whole are free from material misstatement, whether
+are based on the audit evidence obtained up to the
+due to fraud or error, and to issue an auditor’s report that
+date of our auditor’s report. However, future events or
+includes our opinion. Reasonable assurance is a high
+conditions may cause the Group and its associates and
+level of assurance, but is not a guarantee that an audit
+conducted in accordance with SAs will always detect a joint ventures to cease to continue as a going concern.
+material misstatement when it exists. Misstatements can Evaluate the overall presentation, structure and content
+arise from fraud or error and are considered material if, of the consolidated Ind AS financial statements,
+individually or in the aggregate, they could reasonably be including the disclosures, and whether the consolidated
+expected to influence the economic decisions of users Ind AS financial statements represent the underlying
+taken on the basis of these consolidated Ind AS financial transactions and events in a manner that achieves fair
+statements. presentation.
+As part of an audit in accordance with SAs, we exercise Obtain sufficient appropriate audit evidence regarding
+professional judgment and maintain professional the financial information of the entities or business
+skepticism throughout the audit. We also: activities within the Group and its associates and joint
+Identify and assess the risks of material misstatement ventures of which we are the independent auditors
+of the consolidated Ind AS financial statements, and whose financial information we have audited, to
+whether due to fraud or error, design and perform audit express an opinion on the consolidated Ind AS financial
+procedures responsive to those risks, and obtain audit statements. We are responsible for the direction,
+evidence that is sufficient and appropriate to provide a supervision and performance of the audit of the financial
+basis for our opinion. The risk of not detecting a material statements of such entities included in the consolidated
+misstatement resulting from fraud is higher than for one Ind AS financial statements of which we are the
+resulting from error, as fraud may involve collusion, independent auditors. For the other entities included
+forgery, intentional omissions, misrepresentations, or in the consolidated Ind AS financial statements, which
+the override of internal control. have been audited by other auditors, such other auditors
+remain responsible for the direction, supervision and
+Obtain an understanding of internal control relevant to
+performance of the audits carried out by them. We
+the audit in order to design audit procedures that are
+remain solely responsible for our audit opinion.
+appropriate in the circumstances. Under section 143(3)(i)
+of the Act, we are also responsible for expressing our We communicate with those charged with governance of
+opinion on whether the Holding Company has adequate the Holding Company and such other entities included
+internal financial controls with reference to financial in the consolidated Ind AS financial statements of which
+statements in place and the operating effectiveness of we are the independent auditors regarding, among
+such controls. other matters, the planned scope and timing of the
+Evaluate the appropriateness of accounting policies audit and significant audit findings, including any significant
+used and the reasonableness of accounting estimates deficiencies in internal control that we identify during
+and related disclosures made by management. our audit.
+Conclude on the appropriateness of management’s use We also provide those charged with governance with a
+of the going concern basis of accounting and, based statement that we have complied with relevant ethical
+on the audit evidence obtained, whether a material requirements regarding independence, and to communicate
+uncertainty exists related to events or conditions that with them all relationships and other matters that may
+may cast significant doubt on the ability of the Group reasonably be thought to bear on our independence, and
+and its associates and joint ventures to continue as a where applicable, related safeguards.
+ITC Limited REPORT AND ACCOUNTS 2025 321
+
+[PAGE 340]
+Independent Auditor’s Report
+From the matters communicated with those charged standards applicable in their respective countries.
+with governance, we determine those matters that were The Holding Company’s management has converted
+of most significance in the audit of the consolidated Ind the financial statements of such subsidiaries located
+AS financial statements for the financial year ended outside India from accounting principles generally
+March 31, 2025 and are therefore the key audit matters. accepted in their respective countries to accounting
+We describe these matters in our auditor’s report unless principles generally accepted in India. We have
+law or regulation precludes public disclosure about audited these conversion adjustments made by
+the matter or when, in extremely rare circumstances, the Holding Company’s management. Our opinion
+we determine that a matter should not be communicated in so far as it relates to the balances and affairs of
+in our report because the adverse consequences of doing such subsidiaries located outside India is based
+so would reasonably be expected to outweigh the public on the report of other auditors and the conversion
+interest benefits of such communication.
+adjustments prepared by the management of the
+Holding Company and audited by us.
+Other Matters
+(b) T he accompanying consolidated financial statements
+(a) W e did not audit the financial statements and
+include unaudited financial statements and other
+other financial information, in respect of thirty-two
+unaudited financial information in respect of five
+subsidiaries, whose financial statements include total
+subsidiaries, whose financial statements and
+assets of ` 4,344.64 crores as at March 31, 2025,
+other financial information reflect total revenues of
+and total revenues of ` 4,087.76 crores and net cash
+inflows of ` 62.04 crores for the year ended on that ` 215.22 crores and net cash inflows of ` 49.10 crores
+date. These financial statements and other financial for the period from April 1, 2024 to December 31, 2024.
+information have been audited by other auditors, Those unaudited financial statements and other
+which financial statements, other financial information unaudited financial information have been furnished
+and auditor’s reports have been furnished to us by to us by the management. The consolidated financial
+the management. The consolidated Ind AS financial statements also include the Group’s share of
+statements also include the Group’s share of net profit net profit of ` 11.35 crores for the period from
+of ` 7.58 crores for the year ended March 31, 2025, April 1, 2024 to December 31, 2024, as considered
+as considered in the consolidated Ind AS financial in the consolidated financial statements, in respect of
+statements, in respect of nine associates and joint two associates and a joint venture, whose financial
+ventures, whose financial statements, other financial statements, other financial information have not been
+information have been audited by other auditors audited and whose unaudited financial statements,
+and whose reports have been furnished to us by the other unaudited financial information have been
+Management. Our opinion on the consolidated Ind AS furnished to us by the Management. Our opinion, in so
+financial statements, in so far as it relates to the far as it relates to amounts and disclosures included
+amounts and disclosures included in respect of these in respect of these subsidiaries, a joint venture
+subsidiaries, joint ventures and associates, and our and associates for the period April 1, 2024 to
+report in terms of sub-sections (3) of Section 143 December 31, 2024 [Refer Note 30(viii) to these
+of the Act, in so far as it relates to the aforesaid consolidated Ind AS financial statements], and our
+subsidiaries, joint ventures and associates, is based report in terms of sub-sections (3) of Section 143 of the
+solely on the reports of such other auditors.
+Act in so far as it relates to the aforesaid subsidiaries,
+C ertain of these subsidiaries are located outside a joint venture and associates, is based solely on such
+India whose financial statements and other financial unaudited financial statements and other unaudited
+information have been prepared in accordance with financial information. In our opinion and according to
+accounting principles generally accepted in their the information and explanations given to us by the
+respective countries and which have been audited Management, these financial statements and other
+by other auditors under generally accepted auditing financial information are not material to the Group.
+322 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 341]
+Independent Auditor’s Report
+These financial statements / financial information (c) T he Consolidated Balance Sheet, the
+were part of the consolidated financial statements Consolidated Statement of Profit and Loss
+of the Holding Company for the nine months including the Statement of Other Comprehensive
+ended December 31, 2024 which were subjected to Income, the Consolidated Statement of
+limited review by us. Cash Flows and Consolidated Statement of
+Changes in Equity dealt with by this Report
+Our opinion above on the consolidated Ind AS financial
+are in agreement with the books of account
+statements, and our report on Other Legal and Regulatory
+maintained for the purpose of preparation of the
+Requirements below, is not modified in respect of the
+above matters with respect to our reliance on the work consolidated Ind AS financial statements;
+done and the reports of the other auditors and the financial (d) I n our opinion, the aforesaid consolidated Ind As
+statements and other financial information certified by the financial statements comply with the Accounting
+Management. Standards specified under Section 133 of the
+Act, read with Companies (Indian Accounting
+Report on Other Legal and Regulatory Requirements
+Standards) Rules, 2015, as amended;
+1. A s required by the Companies (Auditor’s Report)
+(e) O n the basis of the written representations
+Order, 2020 (“the Order”), issued by the Central
+received from the directors of the Holding
+Government of India in terms of sub-section (11) of
+Company as on March 31, 2025 taken on
+section 143 of the Act, based on our audit and on
+record by the Board of Directors of the Holding
+the consideration of report of the other auditors on
+Company and the reports of the statutory
+separate financial statements and the other financial
+auditors who are appointed under Section 139
+information of the subsidiary companies, associate
+of the Act, of its subsidiary companies,
+companies and joint ventures, incorporated in India,
+associate companies and joint ventures, none
+as noted in the ‘Other Matters’ paragraph we give in
+of the directors of the Group’s companies, its
+the “Annexure 1” a statement on the matters specified
+associates and joint ventures, incorporated
+in paragraph 3(xxi) of the Order.
+in India, is disqualified as on March 31, 2025
+2. A s required by Section 143(3) of the Act, based on our
+from being appointed as a director in terms of
+audit and on the consideration of report of the other
+Section 164 (2) of the Act;
+auditors on separate financial statements and the
+(f) T he modification arising from the maintenance
+other financial information of subsidiaries, associates
+of the audit trail on the accounting software are
+and joint ventures, as noted in the ‘Other Matters’
+as stated in paragraph (i)(vi) below on reporting
+paragraph we report, to the extent applicable, that:
+under Rule 11(g);
+(a) W e / the other auditors whose report we have
+(g) W ith respect to the adequacy of the internal
+relied upon have sought and obtained all the
+financial controls with reference to consolidated
+information and explanations which to the best
+of our knowledge and belief were necessary Ind AS financial statements of the Holding
+for the purposes of our audit of the aforesaid Company and its subsidiary companies,
+consolidated Ind AS financial statements; associate companies and joint ventures,
+incorporated in India, and the operating
+(b) I n our opinion, proper books of account as
+effectiveness of such controls, refer to our
+required by law relating to preparation of
+separate Report in “Annexure 2” to this report;
+the aforesaid consolidation of the financial
+statements have been kept so far as it appears (h) I n our opinion and based on the consideration
+from our examination of those books and reports of reports of other statutory auditors of the
+of the other auditors. Insofar as the modification subsidiaries, associates and joint ventures
+on maintaining an audit trail in the accounting incorporated in India, the managerial
+software is concerned, refer paragraph (i) (vi) remuneration for the year ended March 31, 2025
+below; has been paid / provided by the Holding
+ITC Limited REPORT AND ACCOUNTS 2025 323

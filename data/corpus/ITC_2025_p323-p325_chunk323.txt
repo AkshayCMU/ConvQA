@@ -1,0 +1,203 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 323-325
+
+[PAGE 323]
+Notes
+to the Consolidated Financial Statements
+31. Segment reporting
+(` in Crores)
+2025 2024
+External Inter Segment Total External Inter Segment Total
+1. Segment Revenue - Gross
+FMCG - Cigarettes 35893.57 – 35893.57 33667.97 – 33667.97
+FMCG - Others 22005.27 9.85 22015.12 20992.48 9.67 21002.15
+FMCG - Total 57898.84 9.85 57908.69 54660.45 9.67 54670.12
+Agri Business 12244.00 7919.79 20163.79 8523.79 7600.64 16124.43
+Paperboards, Paper and Packaging 6575.88 1848.70 8424.58 6474.74 1869.67 8344.41
+Others 4224.04 64.07 4288.11 3691.55 65.82 3757.37
+Segment Total 80942.76 9842.41 90785.17 73350.53 9545.80 82896.33
+Eliminations (9842.41) (9545.80)
+Gross Revenue from sale of products and services 80942.76 73350.53
+2. Segment Results
+FMCG - Cigarettes 21091.35 20071.04
+FMCG - Others 1590.23 1789.91
+FMCG - Total 22681.58 21860.95
+Agri Business 1540.30 1278.33
+Paperboards, Paper and Packaging 883.11 1372.34
+Others 670.73 642.70
+Segment Total 25775.72 25154.32
+Eliminations 1.75 (196.06)
+Total 25777.47 24958.26
+Unallocated corporate expenses net of unallocated income (1332.06) (1106.89)
+Profit before interest etc. and taxation 24445.41 23851.37
+Finance Costs (45.06) (39.11)
+Interest earned on loans and deposits, income from current and non-current
+investments, profit and loss on sale of investments etc. - Net 2416.17 2573.59
+Share of profit / (loss) of Associates & Joint Ventures 110.42 14.43
+Exceptional items – –
+Profit before tax 26926.94 26400.28
+Tax expense (6890.47) (6209.46)
+Profit for the year from continuing operations 20036.47 20190.82
+Profit for the year from discontinued operations 15016.01 560.54
+Profit for the year 35052.48 20751.36
+3. Other Information 2025 2024
+Segment Assets Segment Liabilities Segment Assets Segment Liabilities
+FMCG - Cigarettes 10584.67 5729.56 9751.86 5442.84
+FMCG - Others 13016.19 2432.70 12592.81 2491.34
+FMCG - Total 23600.86 8162.26 22344.67 7934.18
+Agri Business 7904.83 2176.93 5850.07 1467.72
+Paperboards, Paper and Packaging 9908.98 1384.96 9596.76 1287.23
+Others 2736.44 1101.44 2362.07 1091.82
+Segment Total 44151.11 12825.59 40153.57 11780.95
+Discontinued operations [Refer Note 30(viii)] – – 9899.97 1319.74
+Unallocated Corporate Assets / Liabilities 43939.57 4867.15 41772.62 3835.50
+Total 88090.68 17692.74 91826.16 16936.19
+ITC Limited REPORT AND ACCOUNTS 2025 305
+
+[PAGE 324]
+Notes
+to the Consolidated Financial Statements
+31. Segment reporting (Contd.)
+(` in Crores)
+2025 2024
+Capital Depreciation and Capital Depreciation and
+expenditure amortization expenditure amortization
+FMCG - Cigarettes 330.23 297.55 544.32 291.59
+FMCG - Others 530.42 590.28 675.67 567.89
+FMCG - Total 860.65 887.83 1219.99 859.48
+Agri Business 168.68 91.14 143.61 81.47
+Paperboards, Paper and Packaging 452.42 400.79 872.47 359.93
+Others 336.17 133.49 46.56 109.03
+Segment Total 1817.92 1513.25 2282.63 1409.91
+Discontinued Operations [Refer Note 30(viii)] 432.61 304.26 877.68 298.34
+Unallocated 360.10 133.07 286.83 108.14
+Total 2610.63 1950.58 3447.14 1816.39
+Non Cash expenditure Non Cash expenditure
+other than depreciation other than depreciation
+FMCG - Cigarettes 43.83 5.31
+FMCG - Others 131.21 110.61
+FMCG - Total 175.04 115.92
+Agri Business 50.47 58.60
+Paperboards, Paper and Packaging 36.07 34.67
+Others 9.56 7.00
+Segment Total 271.14 216.19
+GEOGRAPHICAL INFORMATION
+2025 2024
+1. Revenue from external customers
+– Within India 66439.35 61030.88
+– Outside India 14503.41 12319.65
+Total 80942.76 73350.53
+2. Non current assets
+– Within India 23825.55 29781.42
+– Outside India 277.76 2314.83
+Total 24103.31 32096.25
+NOTES :
+(1) The Group’s corporate strategy aims at creating multiple drivers of growth anchored on its core competencies. The Group is currently focused on three business groups : FMCG, Paperboards,
+Paper & Packaging and Agri Business. The Group’s organisational structure and governance processes are designed to support effective management of multiple businesses while retaining
+focus on each one of them.
+The Operating Segments have been reported in a manner consistent with the internal reporting provided to the Corporate Management Committee, which is the Chief Operating Decision Maker.
+(2) Pursuant to the Scheme of Demerger and in terms of applicable Accounting Standards (Ind AS), the Group has reported its Hotels Business (excluding ITC Grand Central, Mumbai) as
+‘Discontinued Operations’. Accordingly, ‘Hotels’ no longer forms a reportable segment of the Group. The results of ITC Grand Central, Mumbai which has been retained with the Group have
+been disclosed under ‘Others’ segment.
+(3) The business groups comprise the following :
+FMCG : Cigarettes – Cigarettes, Cigars etc.
+: Others – B randed Packaged Foods Businesses (Staples & Meals; Snacks; Dairy & Beverages; Biscuits & Cakes; Chocolates, Coffee & Confectionery);
+Education and Stationery Products; Personal Care Products; Safety Matches and Agarbattis.
+Paperboards, Paper and Packaging – Paperboards, Paper including Specialty Paper and Packaging including Flexibles.
+Agri Business – Agri commodities such as wheat, rice, spices, coffee, soya, leaf tobacco and potato.
+Others – Information Technology services, ITC Grand Central Hotel, Mumbai etc.
+(4) The Group companies have been included in segment classification as follows:
+FMCG : Cigarettes – Surya Nepal Private Limited.
+: Others – Surya Nepal Private Limited, Surya Nepal Ventures Private Limited and North East Nutrients Private Limited.
+Paperboards, Paper and Packaging – ITC Fibre Innovations Limited
+Agri Business – T echnico Agri Sciences Limited, ITC IndiVision Limited, Technico Pty Limited and its subsidiaries Technico Technologies Inc., Technico Asia
+Holdings Pty Limited and Technico Horticultural (Kunming) Co. Limited.
+Others – ITC Infotech India Limited and its subsidiaries ITC Infotech Limited, ITC Infotech (USA), Inc., ITC Infotech Do Brasil LTDA., ITC Infotech France SAS,
+ITC Infotech GmbH, ITC Infotech Malaysia SDN. BHD., ITC Infotech de Mexico, S.A. de C.V., ITC Infotech Italia s.r.l., Blazeclan Technologies Private
+Limited, Cloudlytics Technologies Private Limited, Blazeclan Technologies Pty. Limited, Blazeclan Technologies Limited, Blazeclan Americas Inc.,
+Blazeclan Technologies PTE Limited, Blazeclan Technologies SDN. BHD., Blazeclan Technologies Corporation, Blazeclan Europe SRL., Blazeclan
+Technologies LLC, Blazeclan Technologies Inc. and Indivate Inc., Russell Credit Limited, Greenacre Holdings Limited, Wimco Limited, Pavan Poplar
+Limited, Prag Agro Farm Limited and ITC Integrated Business Services Limited and its subsidiary MRR Trading & Investment Company Limited.
+(5) The geographical information considered for disclosure are :
+– Revenue within India.
+– Revenue outside India.
+(6) Segment results of ‘FMCG : Others’ are after considering significant business development, brand building and gestation costs of the Branded Packaged Foods businesses and Personal Care
+Products business.
+(7) As stock options and stock appreciation linked reward units are granted to align the interests of employees with those of shareholders and also to attract and retain talent for the Group as a whole,
+the charge thereof do not form part of the segment performance reviewed by the Corporate Management Committee.
+(8) The Group is not reliant on revenues from transactions with any single external customer and does not receive 10% or more of its revenues from transactions with any single external customer.
+306 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 325]
+Notes
+to the Consolidated Financial Statements
+32. Related Party Disclosures
+1. O THER RELATED PARTIES WITH WHOM THE COMPANY S. Banerjee# N on-Executive Director
+AND ITS SUBSIDIARIES HAD TRANSACTIONS: (up to 29.07.2024)
+A. Duggal# Non-Executive Director
+i) Associates & Joint Ventures:
+(up to 14.09.2024)
+Associates
+M. Gupta N on-Executive Director
+a) ATC Limited
+(up to 26.10.2024)
+b) Delectable Technologies Private Limited
+R. Jain N on-Executive Director
+c) Sproutlife Foods Private Limited
+(up to 30.05.2024)
+d) I TC Hotels Limited and its subsidiaries M. Shankar# N on-Executive Director
+(w.e.f. 01.01.2025) (up to 14.09.2024)
+Srinivasa Resorts Limited # Independent Directors
+Fortune Park Hotels Limited
+Company Secretary
+WelcomHotels Lanka (Private) Limited, Sri Lanka
+R. K. Singhi
+Landbase India Limited
+e) Gujarat Hotels Limited (up to 31.12.2024)
+Members - Corporate Management Committee
+f) I nternational Travel House Limited
+S. Puri
+(up to 31.12.2024)
+S. Dutta
+g) Russell Investments Limited
+S. Kaul
+– being associates of the Group, and
+H. Malik
+h) T obacco Manufacturers (India) Limited (of which
+A. Rajput
+the Company is an associate)
+S. Sivakumar
+and the subsidiaries of its ultimate parent
+B. Sumant
+company (British American Tobacco p.l.c.)
+Joint Ventures b) Related Parties of KMP:
+a) ITC Filtrona Limited I) Close Members of KMP:
+b) Maharaja Heritage Resorts Limited (up to 31.12.2024) N. Singhi (wife of R. K. Singhi)
+ii) a) Key Management Personnel (KMP): Y. Singhi (son of R. K. Singhi)
+S. Puri Chairman & Managing Director
+II) E ntities in which KMP / close member of
+S. Dutta E xecutive Director &
+KMP is interested:
+Chief Financial Officer
+Bharucha & Partners
+H. Malik Executive Director
+B. Sumant Executive Director iii) Employee Trusts:
+H. Bhargava# Non-Executive Director a) IATC Provident Fund
+A. M. Bharucha# Non-Executive Director b) ITC Defined Contribution Pension Fund
+C.K. Mishra# Non-Executive Director c) ITC Management Staff Gratuity Fund
+(w.e.f. 14.09.2024) d) ITC Employees Gratuity Fund
+S. Mohanty N on-Executive Director e) ITC Gratuity Fund ‘C’
+(w.e.f. 01.01.2025) f) ITC Pension Fund
+S. Mukherjee# Non-Executive Director g) ILTD Seasonal Employees Pension Fund
+A. Nayak# Non-Executive Director h) ITC Platinum Jubilee Pension Fund
+A. Pande N on-Executive Director i) I TC Bhadrachalam Paperboards Limited Management
+(w.e.f. 27.07.2024) Staff Pension Fund
+S. Panray Non-Executive Director j) ITC Bhadrachalam Paperboards Limited Gratuity Fund ‘A’
+N. Rao# Non-Executive Director k) ITC Bhadrachalam Paperboards Limited Gratuity Fund ‘C’
+A. K. Seth# Non-Executive Director l) I TC Hotels Limited Employees Superannuation
+A. Singh N on-Executive Director Scheme (up to 31.12.2024)
+(w.e.f. 02.04.2024) m) Sunrise Spices Limited Employees Gratuity Fund
+P. Subrahmanyam# Non-Executive Director n) Greenacre Holdings Limited Provident Fund
+(w.e.f. 02.04.2024) o) Greenacre Holdings Limited Gratuity Fund
+ITC Limited REPORT AND ACCOUNTS 2025 307

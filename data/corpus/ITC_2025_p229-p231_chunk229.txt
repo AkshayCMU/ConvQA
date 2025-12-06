@@ -1,0 +1,234 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 229-231
+
+[PAGE 229]
+Independent Auditor’s Report
+Key audit matters How our audit addressed the key audit matter
+evaluation of performance. There is a risk of revenue Tested the effectiveness of such controls over
+being recorded before control is transferred. revenue cut off at year-end.
+Refer Note 1 to the Standalone Ind AS Financial On sample basis, tested supporting documentation
+Statements - Material Accounting Policies and Note for sales transactions recorded during the year which
+22A / 22B. included sales invoices, customer contracts and
+shipping documents.
+Performed an increased level of substantive testing
+in respect of sales transactions recorded during the
+period closer to the year end and subsequent to the
+year end.
+Compared revenue with historical trends and where
+appropriate, conducted further enquiries and testing.
+Assessed disclosures in financial statements in
+respect of revenue, as specified in Ind AS 115.
+Accounting for demerger of Hotels business
+The Company, in the current year, has given effect to Our audit procedures included the following:
+the scheme of demerger of Hotels business (demerged
+Obtained and read the Scheme and final order passed
+undertaking) into ITC Hotels Limited (ITCHL) pursuant
+by the Hon’ble National Company Law Tribunal to
+to the Scheme of Arrangement (‘Scheme’). The Scheme
+understand its key terms and conditions.
+was approved by the Hon’ble National Company
+Evaluated the design and tested the operating
+Law Tribunal, Kolkata bench vide its order dated
+effectiveness of the internal financial controls
+October 04, 2024 and the appointed date and the
+(including management review controls) relevant
+effective date of the Scheme is January 01, 2025.
+for recording the impact of the Scheme and related
+By virtue of this scheme being effective in the current
+disclosures.
+year, the said demerged undertaking has been disclosed
+Tested the Management’s working for identification
+as discontinued operations till the effective date of the
+of specific assets and liabilities of the demerged
+demerger.
+undertaking and relevant impact in the reserves as
+At the appointed and effective date, the Hotels business
+per the Scheme.
+of the Company (along with all assets and liabilities
+Assessed the appropriateness of accounting
+thereof, excluding ITC Grand Central, Mumbai) and the
+treatment of this demerger and compared with
+investments held by the Company in Hospitality entities
+applicable Indian Accounting Standards (Ind AS) and
+as defined in the Scheme were transferred to ITCHL on
+the approved accounting treatment in the Scheme.
+a going concern basis in accordance with the approved
+Scheme. Obtained the report of the management’s expert for
+determination of fair value of demerged undertaking.
+Demerger is a significant non-routine transaction
+Evaluated the competence and objectivity of the
+and requires determination of fair value of demerged
+management’s expert.
+undertaking for the purposes of accounting as
+per Ind AS which involves significant judgements Involved our valuation specialist to review the
+and estimates which are sensitive to underlying appropriateness of methodology and key assumptions
+assumptions (forecast of future cash flows, growth rate, considered by management to determine fair value of
+weighted average cost of capital, discount rates etc). the demerged undertaking.
+These judgements / estimates could have an impact
+Assessed the adequacy and appropriateness of the
+on the recognition of the amount of liability for assets
+disclosures made with respect to the accounting of
+to be distributed to shareholders at fair value and the
+the transaction as required by the applicable Ind AS.
+consequential gain as recognised in the standalone Ind
+AS financial statements.
+ITC Limited REPORT AND ACCOUNTS 2025 211
+
+[PAGE 230]
+Independent Auditor’s Report
+Key audit matters How our audit addressed the key audit matter
+Due to the magnitude and complexity of the transaction,
+and considering the assumptions and estimates
+required to be made by the management for the
+purpose of accounting and presentation / disclosures
+in the standalone Ind AS financial statements, this is
+considered as a key audit matter.
+Refer Note 29(x) to the standalone Ind AS financial
+statements.
+We have determined that there are no other key audit making judgements and estimates that are reasonable and
+matters to communicate in our report. prudent; and the design, implementation and maintenance
+of adequate internal financial controls, that were operating
+Information Other than the Financial Statements and
+effectively for ensuring the accuracy and completeness of
+Auditor’s Report Thereon
+the accounting records, relevant to the preparation and
+The Company’s Board of Directors is responsible for the
+presentation of the standalone Ind AS financial statements
+other information. The other information comprises the
+that give a true and fair view and are free from material
+information included in the Annual Report, but does not
+misstatement, whether due to fraud or error.
+include the standalone Ind AS financial statements and
+In preparing the standalone Ind AS financial statements,
+our auditor’s report thereon.
+management is responsible for assessing the Company’s
+Our opinion on the standalone Ind AS financial statements
+ability to continue as a going concern, disclosing, as
+does not cover the other information and we do not
+applicable, matters related to going concern and using the
+express any form of assurance conclusion thereon.
+going concern basis of accounting unless management
+In connection with our audit of the standalone Ind AS either intends to liquidate the Company or to cease
+financial statements, our responsibility is to read the other operations, or has no realistic alternative but to do so.
+information and, in doing so, consider whether such other
+Those Board of Directors are also responsible for
+information is materially inconsistent with the standalone
+overseeing the Company’s financial reporting process.
+Ind AS financial statements or our knowledge obtained in
+Auditor’s Responsibilities for the Audit of the
+the audit or otherwise appears to be materially misstated.
+Standalone Ind AS Financial Statements
+If, based on the work we have performed, we conclude that
+there is a material misstatement of this other information, Our objectives are to obtain reasonable assurance about
+we are required to report that fact. We have nothing to whether the standalone Ind AS financial statements as
+report in this regard. a whole are free from material misstatement, whether
+due to fraud or error, and to issue an auditor’s report that
+Responsibilities of Management for the Standalone
+includes our opinion. Reasonable assurance is a high
+Ind AS Financial Statements
+level of assurance, but is not a guarantee that an audit
+The Company’s Board of Directors is responsible for the
+conducted in accordance with SAs will always detect a
+matters stated in section 134(5) of the Act with respect to the
+material misstatement when it exists. Misstatements can
+preparation of these standalone Ind AS financial statements
+arise from fraud or error and are considered material if,
+that give a true and fair view of the financial position, financial
+individually or in the aggregate, they could reasonably be
+performance including other comprehensive income, cash
+expected to influence the economic decisions of users
+flows and changes in equity of the Company in accordance
+taken on the basis of these standalone Ind AS financial
+with the accounting principles generally accepted in India,
+statements.
+including the Indian Accounting Standards (Ind AS) specified
+As part of an audit in accordance with SAs, we exercise
+under section 133 of the Act read with the Companies
+professional judgement and maintain professional
+(Indian Accounting Standards) Rules, 2015, as amended.
+skepticism throughout the audit. We also:
+This responsibility also includes maintenance of adequate
+accounting records in accordance with the provisions of • Identify and assess the risks of material misstatement
+the Act for safeguarding of the assets of the Company and of the standalone Ind AS financial statements,
+for preventing and detecting frauds and other irregularities; whether due to fraud or error, design and perform
+selection and application of appropriate accounting policies; audit procedures responsive to those risks, and
+212 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 231]
+Independent Auditor’s Report
+obtain audit evidence that is sufficient and appropriate Ind AS financial statements for the financial year ended
+to provide a basis for our opinion. The risk of not March 31, 2025 and are therefore the key audit matters.
+detecting a material misstatement resulting from fraud We describe these matters in our auditor’s report unless
+is higher than for one resulting from error, as fraud law or regulation precludes public disclosure about the
+may involve collusion, forgery, intentional omissions, matter or when, in extremely rare circumstances, we
+misrepresentations, or the override of internal control. determine that a matter should not be communicated in
+our report because the adverse consequences of doing
+• Obtain an understanding of internal control relevant to
+so would reasonably be expected to outweigh the public
+the audit in order to design audit procedures that are
+interest benefits of such communication.
+appropriate in the circumstances. Under section 143(3)(i)
+of the Act, we are also responsible for expressing Report on Other Legal and Regulatory Requirements
+our opinion on whether the Company has adequate 1. As required by the Companies (Auditor’s Report) Order,
+internal financial controls with reference to financial 2020 (“the Order”), issued by the Central Government
+statements in place and the operating effectiveness of of India in terms of sub-section (11) of section 143 of
+such controls. the Act, we give in the “Annexure 1” a statement on the
+matters specified in paragraphs 3 and 4 of the Order.
+• Evaluate the appropriateness of accounting policies
+used and the reasonableness of accounting estimates 2. As required by Section 143(3) of the Act, we report, to
+and related disclosures made by management. the extent applicable, that:
+• Conclude on the appropriateness of management’s use (a) We have sought and obtained all the information
+of the going concern basis of accounting and, based and explanations which to the best of our knowledge
+on the audit evidence obtained, whether a material and belief were necessary for the purposes of our
+uncertainty exists related to events or conditions that audit;
+may cast significant doubt on the Company’s ability
+(b) In our opinion, proper books of account as required
+to continue as a going concern. If we conclude that by law have been kept by the Company so far as it
+a material uncertainty exists, we are required to appears from our examination of those books;
+draw attention in our auditor’s report to the related
+(c) The Balance Sheet, the Statement of Profit
+disclosures in the financial statements or, if such
+and Loss including the Statement of Other
+disclosures are inadequate, to modify our opinion. Our
+Comprehensive Income, the Statement of Cash
+conclusions are based on the audit evidence obtained
+Flows and Statement of Changes in Equity dealt
+up to the date of our auditor’s report. However, future
+with by this Report are in agreement with the books
+events or conditions may cause the Company to cease
+of account;
+to continue as a going concern.
+(d) In our opinion, the aforesaid standalone Ind AS
+• Evaluate the overall presentation, structure and
+financial statements comply with the Accounting
+content of the standalone Ind AS financial statements,
+Standards specified under Section 133 of the
+including the disclosures, and whether the standalone
+Act, read with Companies (Indian Accounting
+Ind AS financial statements represent the underlying
+Standards) Rules, 2015, as amended;
+transactions and events in a manner that achieves fair
+(e) On the basis of the written representations received
+presentation.
+from the directors as on March 31, 2025 taken
+We communicate with those charged with governance
+on record by the Board of Directors, none of the
+regarding, among other matters, the planned scope and
+directors is disqualified as on March 31, 2025 from
+timing of the audit and significant audit findings, including being appointed as a director in terms of Section
+any significant deficiencies in internal control that we 164 (2) of the Act;
+identify during our audit.
+(f) With respect to the adequacy of the internal
+We also provide those charged with governance financial controls with reference to these standalone
+with a statement that we have complied with relevant Ind AS financial statements and the operating
+ethical requirements regarding independence, and effectiveness of such controls, refer to our separate
+to communicate with them all relationships and other Report in “Annexure 2” to this report;
+matters that may reasonably be thought to bear on our
+(g) In our opinion, the managerial remuneration for the
+independence, and where applicable, related safeguards.
+year ended March 31, 2025 has been paid / provided
+From the matters communicated with those charged by the Company to its directors in accordance with
+with governance, we determine those matters that the provisions of section 197 read with Schedule V
+were of most significance in the audit of the standalone to the Act;
+ITC Limited REPORT AND ACCOUNTS 2025 213

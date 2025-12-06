@@ -1,0 +1,202 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 227-229
+
+[PAGE 227]
+Notes
+to the Standalone Financial Statements
+32. Financial Instruments and Related Disclosures (Contd.)
+Reconciliation of fair value movement of financial assets and liabilities measured at fair value on a recurring basis and categorised
+within Level 3 of the fair value hierarchy is as under:
+(` in Crores)
+31st March, 2025 31st March, 2024
+Financial Financial Financial Financial Financial Financial
+Assets Assets Liabilities Assets Assets Liabilities
+at FVTPL at FVTOCI at FVTPL at FVTPL at FVTOCI at FVTPL
+Opening Balance 39.34 0.05 12.65 39.34 0.05 12.65
+Additions during the year 3.00 – – – – –
+Sale / Transfer / Settlement during the year – – – – – –
+Gain / (Loss) during the year recognised in
+Other Income (9.37) – – – – –
+Gain / (Loss) during the year recognised in
+Other Comprehensive Income – – – – – –
+Closing Balance 32.97 0.05 12.65 39.34 0.05 12.65
+Fair value hierarchy
+Fair value of the financial instruments is classified in various fair value hierarchies based on the following three levels:
+Level 1: Quoted prices (unadjusted) in active market or Net Asset Value (NAV) for identical assets or liabilities.
+Level 2: Inputs other than quoted price included within Level 1 that are observable for the asset or liability, either directly (i.e. as
+prices) or indirectly (i.e. derived from prices).
+The fair value of financial instruments that are not traded in an active market is determined using market approach and valuation
+techniques which maximize the use of observable market data and rely as little as possible on entity-specific estimates. If significant
+inputs required to fair value an instrument are observable, the instrument is included in Level 2.
+Derivatives are valued using valuation techniques with market observable inputs such as foreign exchange spot rates and forward
+rates at the end of the reporting period, yield curves, risk free rate of returns, volatility etc., as applicable. The fair value of investment in
+Bonds / Debentures, Certificates of Deposit / Commercial Papers, Venture Capital Funds etc. and financial liabilities, where applicable,
+is determined using market observable inputs such as quotes from market participants, value published by the issuer etc.
+Level 3: Inputs for the assets or liabilities that are not based on observable market data (unobservable inputs).
+If one or more of the significant inputs is not based on observable market data, the fair value is determined using generally
+accepted methodologies such as discounted cash flow analysis, with the most significant inputs being the discount rate that
+reflects the credit risk of counterparty.
+The fair value of trade receivables, trade payables and other current financial assets and liabilities is considered to be equal to the
+carrying amounts of these items due to their short – term nature. Where such items are non-current in nature, the same has been
+classified as Level 3 and fair value determined using discounted cash flow basis. Similarly, unquoted equity instruments where
+most recent information to measure fair value is insufficient, or if there is a wide range of possible fair value measurements, cost
+has been considered as best estimate of fair value.
+There has been no change in the valuation methodology for Level 3 inputs during the year. The Company has not classified any
+material financial instruments under Level 3 of the fair value hierarchy. The sensitivity of change in the unobservable inputs used
+in fair valuation of Level 3 financial assets and liabilities does not have a significant impact on their value. There were no transfers
+between Level 1, Level 2 and Level 3 during the year.
+In terms of our report attached On behalf of the Board
+For S R B C & CO LLP S. PURI Chairman & Managing Director
+Chartered Accountants (DIN : 00280529)
+Firm Registration Number: 324982E / E300003
+S. DUTTA Director & Chief Financial Officer
+Arvind Sethi (DIN : 01804345)
+Partner R. K. SINGHI Company Secretary
+(Membership No.: 89802) (Membership No.: FCS 3770)
+Kolkata, May 22, 2025
+ITC Limited REPORT AND ACCOUNTS 2025 209
+
+[PAGE 228]
+INDEPENDENT AUDITOR’S REPORT
+To the Members of ITC Limited
+Report on the Audit of the Standalone Ind AS Financial Institute of Chartered Accountants of India together with
+Statements the ethical requirements that are relevant to our audit
+of the financial statements under the provisions of the
+Opinion
+Act and the Rules thereunder, and we have fulfilled our
+We have audited the accompanying standalone Ind AS
+other ethical responsibilities in accordance with these
+financial statements of ITC Limited (“the Company”),
+requirements and the Code of Ethics. We believe that
+which comprise the Balance Sheet as at March 31, 2025,
+the audit evidence we have obtained is sufficient and
+the Statement of Profit and Loss, including Other
+appropriate to provide a basis for our audit opinion on the
+Comprehensive Income, the Statement of Cash Flows
+standalone Ind AS financial statements.
+and the Statement of Changes in Equity for the year
+Key Audit Matters
+then ended, and notes to the standalone Ind AS financial
+statements, including a summary of material accounting Key audit matters are those matters that, in our professional
+policies and other explanatory information. judgement, were of most significance in our audit of the
+standalone Ind AS financial statements for the financial year
+In our opinion and to the best of our information and
+ended March 31, 2025. These matters were addressed in
+according to the explanations given to us, the aforesaid
+the context of our audit of the standalone Ind AS financial
+standalone Ind AS financial statements give the information
+statements as a whole, and in forming our opinion thereon,
+required by the Companies Act, 2013, as amended
+and we do not provide a separate opinion on these matters.
+(“the Act”) in the manner so required and give a true
+For each matter below, our description of how our audit
+and fair view in conformity with the accounting principles
+addressed the matter is provided in that context.
+generally accepted in India, of the state of affairs of the
+Company as at March 31, 2025, its profit including other We have determined the matters described below to be
+comprehensive income, its cash flows and the changes in the key audit matters to be communicated in our report.
+equity for the year ended on that date. We have fulfilled the responsibilities described in the
+Auditor’s responsibilities for the audit of the standalone Ind
+Basis for Opinion
+AS financial statements section of our report, including in
+We conducted our audit of the standalone Ind AS financial relation to these matters. Accordingly, our audit included
+statements in accordance with the Standards on Auditing the performance of procedures designed to respond to
+(SAs), as specified under section 143(10) of the Act. our assessment of the risks of material misstatement of
+Our responsibilities under those Standards are further the standalone Ind AS financial statements. The results of
+described in the ‘Auditor’s Responsibilities for the Audit our audit procedures, including the procedures performed
+of the Standalone Ind AS Financial Statements’ section to address the matters below, provide the basis for our
+of our report. We are independent of the Company audit opinion on the accompanying standalone Ind AS
+in accordance with the ‘Code of Ethics’ issued by the financial statements.
+Key audit matters How our audit addressed the key audit matter
+Revenue recognition
+Revenue from the sale of goods (hereinafter referred Our audit procedures included the following:
+to as “Revenue”) is recognised when the Company
+Assessed the Company’s revenue recognition
+performs its obligations to its customers and the amount accounting policies in line with Ind AS 115 (“Revenue
+of revenue can be measured reliably and recovery from Contracts with Customers”) and tested thereof.
+of the consideration is probable. The timing of such
+Evaluated the integrity of the general information
+recognition in case of sale of goods is when the control
+and technology control environment and testing the
+over the same is transferred to the customer, which is
+operating effectiveness of key IT application controls
+mainly upon delivery.
+over recognition of revenue.
+The timing of revenue recognition is relevant to Evaluated the design, implementation and operating
+the reported performance of the Company. The effectiveness of Company’s controls in respect of
+management considers revenue as a key measure for revenue recognition.
+210 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 229]
+Independent Auditor’s Report
+Key audit matters How our audit addressed the key audit matter
+evaluation of performance. There is a risk of revenue Tested the effectiveness of such controls over
+being recorded before control is transferred. revenue cut off at year-end.
+Refer Note 1 to the Standalone Ind AS Financial On sample basis, tested supporting documentation
+Statements - Material Accounting Policies and Note for sales transactions recorded during the year which
+22A / 22B. included sales invoices, customer contracts and
+shipping documents.
+Performed an increased level of substantive testing
+in respect of sales transactions recorded during the
+period closer to the year end and subsequent to the
+year end.
+Compared revenue with historical trends and where
+appropriate, conducted further enquiries and testing.
+Assessed disclosures in financial statements in
+respect of revenue, as specified in Ind AS 115.
+Accounting for demerger of Hotels business
+The Company, in the current year, has given effect to Our audit procedures included the following:
+the scheme of demerger of Hotels business (demerged
+Obtained and read the Scheme and final order passed
+undertaking) into ITC Hotels Limited (ITCHL) pursuant
+by the Hon’ble National Company Law Tribunal to
+to the Scheme of Arrangement (‘Scheme’). The Scheme
+understand its key terms and conditions.
+was approved by the Hon’ble National Company
+Evaluated the design and tested the operating
+Law Tribunal, Kolkata bench vide its order dated
+effectiveness of the internal financial controls
+October 04, 2024 and the appointed date and the
+(including management review controls) relevant
+effective date of the Scheme is January 01, 2025.
+for recording the impact of the Scheme and related
+By virtue of this scheme being effective in the current
+disclosures.
+year, the said demerged undertaking has been disclosed
+Tested the Management’s working for identification
+as discontinued operations till the effective date of the
+of specific assets and liabilities of the demerged
+demerger.
+undertaking and relevant impact in the reserves as
+At the appointed and effective date, the Hotels business
+per the Scheme.
+of the Company (along with all assets and liabilities
+Assessed the appropriateness of accounting
+thereof, excluding ITC Grand Central, Mumbai) and the
+treatment of this demerger and compared with
+investments held by the Company in Hospitality entities
+applicable Indian Accounting Standards (Ind AS) and
+as defined in the Scheme were transferred to ITCHL on
+the approved accounting treatment in the Scheme.
+a going concern basis in accordance with the approved
+Scheme. Obtained the report of the management’s expert for
+determination of fair value of demerged undertaking.
+Demerger is a significant non-routine transaction
+Evaluated the competence and objectivity of the
+and requires determination of fair value of demerged
+management’s expert.
+undertaking for the purposes of accounting as
+per Ind AS which involves significant judgements Involved our valuation specialist to review the
+and estimates which are sensitive to underlying appropriateness of methodology and key assumptions
+assumptions (forecast of future cash flows, growth rate, considered by management to determine fair value of
+weighted average cost of capital, discount rates etc). the demerged undertaking.
+These judgements / estimates could have an impact
+Assessed the adequacy and appropriateness of the
+on the recognition of the amount of liability for assets
+disclosures made with respect to the accounting of
+to be distributed to shareholders at fair value and the
+the transaction as required by the applicable Ind AS.
+consequential gain as recognised in the standalone Ind
+AS financial statements.
+ITC Limited REPORT AND ACCOUNTS 2025 211

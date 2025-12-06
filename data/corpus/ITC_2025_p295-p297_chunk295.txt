@@ -1,0 +1,123 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 295-297
+
+[PAGE 295]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+27. Finance costs
+Interest expense:
+– On Lease liabilities 16.31 15.33
+– On financial liabilities measured at amortised cost 16.10 9.00
+– Others (to statutory authorities etc.) 12.65 14.78
+TOTAL 45.06 39.11
+28. Other expenses
+Power and fuel 975.35 952.90
+Consumption of stores and spare parts 397.38 365.04
+Contract processing charges 1312.94 1120.30
+Rent 307.20 274.30
+Rates and taxes 180.89 193.25
+Insurance 188.55 165.06
+Repairs 411.90 397.93
+Maintenance and upkeep 223.14 300.49
+Outward freight and handling charges 1928.59 1617.89
+Warehousing charges 315.10 286.22
+Advertising / Sales promotion 1331.69 1385.64
+Corporate Social Responsibility [Refer Note 30(xvii)] 457.51 401.97
+Commission to selling agents etc. 56.66 35.40
+Doubtful and bad debts 11.70 14.35
+Doubtful and bad advances, loans and deposits 1.95 24.61
+Information technology services 262.87 207.35
+Travelling and conveyance 463.96 423.78
+Training and development 33.97 29.71
+Legal and professional fees 723.81 693.85
+(Gain) / Loss on sale of property, plant and equipment - Net (138.76) (62.26)
+Miscellaneous expenses 1750.23 1325.04
+TOTAL 11196.63 10152.82
+ITC Limited REPORT AND ACCOUNTS 2025 277
+
+[PAGE 296]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+29. Income tax expenses
+A (i). Amount recognised in profit or loss relating to continuing
+operations
+Current tax
+Income tax for the year 6522.46 6479.43
+Adjustments / (credits) related to previous years - Net (12.85) (462.22)
+Total current tax 6509.61 6017.21
+Deferred tax
+Deferred tax for the year 378.07 202.83
+Adjustments / (credits) related to previous years - Net 4.76 (8.24)
+MAT credit entitlement (1.97) (2.34)
+Total deferred tax 380.86 192.25
+TOTAL 6890.47 6209.46
+(ii). Amount recognised in profit or loss relating to discontinued
+operations
+Current tax for the year 127.87 148.06
+Deferred tax for the year 510.77 31.00
+TOTAL 638.64 179.06
+B. Amount recognised in other comprehensive income
+The tax (charge) / credit arising on income and expenses recognised in other comprehensive income is as follows:
+On items that will not be reclassified to profit or loss
+Remeasurement gains / (losses) on defined benefit plans 3.42 5.21
+Related to designated portion of hedging instruments in
+cash flow hedges (0.06) 2.63
+Equity instruments through other comprehensive income 56.22 (276.37)
+59.58 (268.53)
+On items that will be reclassified to profit or loss
+Related to designated portion of hedging instruments in
+cash flow hedges 3.27 (4.26)
+Debt instruments through other comprehensive income (13.41) (4.53)
+(10.14) (8.79)
+TOTAL 49.44 (277.32)
+278 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 297]
+Notes
+to the Consolidated Financial Statements
+For the year ended For the year ended
+31st March, 2025 31st March, 2024
+(` in Crores) (` in Crores)
+29. Income tax expenses (Contd.)
+C. Amount recognised directly in equity
+The income tax (charged) / credited directly to equity during the year is as follows:
+Deferred tax
+Arising on gains / (losses) of hedging instruments in cash flow hedges
+transferred to the initial carrying amounts of hedged items 0.05 (2.74)
+TOTAL 0.05 (2.74)
+D. Reconciliation of effective tax rate
+The income tax expense for the year can be reconciled to the accounting profit as follows:
+Profit before tax from continuing operations 26926.94 26400.28
+Income tax expense calculated @ 25.168% (2024 - 25.168%) 6776.97 6644.42
+Effect of tax relating to uncertain tax positions 41.27 39.08
+Effect of different tax rate on certain items (59.72) (118.92)
+Difference in tax rates of subsidiary companies 56.73 53.01
+Effect of income not taxable (65.69) (73.46)
+Other differences 150.75 132.42
+TOTAL 6900.31 6676.55
+Adjustments recognised during the year in relation to the current tax
+of prior years* (9.84) (467.09)
+Income tax recognised in profit or loss relating to continuing
+operations 6890.47 6209.46
+Profit before tax from discontinued operations 15654.65 739.60
+Income tax expense calculated @ 25.168% (2024 - 25.168%) 3939.96 186.14
+Effect of excess of fair value over carrying value of net assets distributed
+(non-cash), pursuant to the Scheme of Demerger (3921.97) –
+Effect of addition to the value of investment in ITCHL 602.79 –
+Difference in tax rates of subsidiary companies (4.63) 0.08
+Other differences 22.49 (7.16)
+Income tax recognised in profit or loss relating to discontinued
+operations 638.64 179.06
+The tax rate of 25.168% (22% + surcharge @ 10% and cess @ 4%) used for the year 2024-25 and 2023-24 is the corporate tax rate applicable on
+taxable profits under the Income-tax Act, 1961.
+* The Group had in the previous year, reassessed its provisions relating to uncertain tax positions for earlier years based on a favourable order of the
+Hon’ble Supreme Court received during the previous year. This has resulted in a credit of ` 468.44 Crores in the Current Tax expense for the year
+ended 31st March, 2024.
+ITC Limited REPORT AND ACCOUNTS 2025 279

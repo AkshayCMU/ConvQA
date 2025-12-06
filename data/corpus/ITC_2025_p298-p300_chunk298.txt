@@ -1,0 +1,152 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 298-300
+
+[PAGE 298]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements
+(i) Earnings per share:
+Earnings per share has been computed as under: 2025 2024
+(a) i) Profit for the year from continuing operations attributable to owners of the
+parent (` in Crores) 19732.74 19900.83
+ii) Profit for the year from discontinued operations attributable to owners of the
+parent (` in Crores) 15013.89 557.95
+iii) Profit for the year attributable to owners of the parent (` in Crores) 34746.63 20458.78
+(b) Weighted average number of Ordinary shares outstanding for the purpose of
+basic earnings per share 12,50,23,78,226 12,46,10,58,425
+(c) Effect of potential Ordinary shares on Employee Stock Options outstanding 1,86,64,293 2,80,92,231
+(d) Weighted average number of Ordinary shares in computing diluted earnings
+per share [(b) + (c)] 12,52,10,42,519 12,48,91,50,656
+(e) Earnings per share (Face Value ` 1.00 per share)
+For Continuing Operations
+– Basic [(ai) / (b)] ` 15.78 ` 15.98
+– Diluted [(ai) / (d)] ` 15.76 ` 15.94
+For Discontinued Operations
+– Basic [(aii) / (b)] ` 12.01 ` 0.44
+– Diluted [(aii) / (d)] ` 11.99 ` 0.44
+For Continuing and Discontinued Operations
+– Basic [(aiii) / (b)] ` 27.79 ` 16.42
+– Diluted [(aiii) / (d)] ` 27.75 ` 16.38
+(ii) (a) T he subsidiaries (which along with ITC Limited, the parent, constitute the Group) considered in the preparation of these
+Consolidated Financial Statements are:
+Name Country of Percentage Percentage
+Incorporation of ownership of ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+ITC Infotech India Limited India 100 100
+ITC Infotech Limited@ UK 100 100
+ITC Infotech (USA), Inc.@ USA 100 100
+Indivate Inc.
+[a subsidiary of ITC Infotech (USA), Inc.] USA 100 100
+ITC Infotech Do Brasil LTDA.@ Brazil 100 100
+ITC Infotech Malaysia SDN. BHD.@ Malaysia 100 100
+ITC Infotech France SAS@ France 100 100
+ITC Infotech GmbH@ Germany 100 100
+ITC Infotech de Mexico, S.A. de C.V.@
+[including shareholding by ITC Infotech (USA), Inc.] Mexico 100 100
+ITC Infotech Arabia Limited@ Saudi Arabia 100 100
+ITC Infotech Italia s.r.l. (w.e.f. 23.07.2024)@ Italy 100 –
+Blazeclan Technologies Private Limited (w.e.f. 01.10.2024)@ India 100 –
+Cloudlytics Technologies Private Limited (w.e.f. 01.10.2024)* India 100 –
+Blazeclan Technologies Pty. Limited (w.e.f. 01.10.2024)* Australia 100 –
+280 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 299]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+Name Country of Percentage Percentage
+Incorporation of ownership of ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+Blazeclan Technologies Limited (w.e.f. 01.10.2024)*
+[a 100% subsidiary of Blazeclan Technologies Pty. Limited] New Zealand 100 –
+Blazeclan Americas Inc. (w.e.f. 01.10.2024)* USA 100 –
+Blazeclan Technologies PTE Limited (w.e.f. 01.10.2024)* Singapore 100 –
+Blazeclan Technologies SDN. BHD. (w.e.f. 01.10.2024)* Malaysia 100 –
+Blazeclan Technologies Corporation (BTC) (w.e.f. 01.10.2024)*
+[including shareholding by two Directors of BTC] Philippines 100 –
+Blazeclan Europe SRL. (w.e.f. 01.10.2024)* Belgium 100 –
+Blazeclan Technologies LLC (w.e.f. 01.10.2024)* USA 100 –
+Blazeclan Technologies Inc. (w.e.f. 01.10.2024)* Canada 100 –
+Surya Nepal Private Limited Nepal 59 59
+Surya Nepal Ventures Private Limited
+(a 100% subsidiary of Surya Nepal Private Limited) Nepal 59 59
+Technico Agri Sciences Limited India 100 100
+Technico Pty Limited Australia 100 100
+Technico Technologies Inc.
+(a 100% subsidiary of Technico Pty Limited) Canada 100 100
+Technico Asia Holdings Pty Limited
+(a 100% subsidiary of Technico Pty Limited) Australia 100 100
+Technico Horticultural (Kunming) Co. Limited
+(a 100% subsidiary of Technico Asia Holdings Pty Limited) China 100 100
+Srinivasa Resorts Limited (upto 31.12.2024)# India – 68
+Fortune Park Hotels Limited (upto 31.12.2024)# India – 100
+Landbase India Limited (upto 31.12.2024)# India – 100
+Bay Islands Hotels Limited (upto 31.12.2024)# India – 100
+WelcomHotels Lanka (Private) Limited (upto 31.12.2024)# Sri Lanka – 100
+Russell Credit Limited India 100 100
+Greenacre Holdings Limited India 100 100
+Wimco Limited India 100 100
+Gold Flake Corporation Limited India 100 100
+ITC Integrated Business Services Limited India 100 100
+MRR Trading & Investment Company Limited
+(a 100% subsidiary of ITC Integrated Business Services Limited) India 100 100
+North East Nutrients Private Limited India 76 76
+Prag Agro Farm Limited India 100 100
+Pavan Poplar Limited India 100 100
+ITC IndiVision Limited India 100 100
+ITC Fibre Innovations Limited India 100 100
+ITC Hotels Limited (upto 31.12.2024)# India – 100
+@ subsidiaries of ITC Infotech India Limited
+* subsidiaries of Blazeclan Technologies Private Limited [Refer Note 30(xix)]
+# Refer Note 30(viii)
+The financial statements of all subsidiaries, considered in the Consolidated Financial Statements, are drawn upto 31st March, other than
+for Surya Nepal Private Limited and Surya Nepal Ventures Private Limited where it is upto 13th March, based on the local laws of Nepal.
+ITC Limited REPORT AND ACCOUNTS 2025 281
+
+[PAGE 300]
+Notes
+to the Consolidated Financial Statements
+30. Additional Notes to the Consolidated Financial Statements (Contd.)
+(b) Interests in Joint Ventures:
+The Group’s interests in jointly controlled entities (incorporated Joint Ventures) are:
+Name Country of Percentage of Percentage of
+Incorporation ownership ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+Logix Developers Private Limited [Refer Note 30(vii)] India 27.90 27.90
+ITC Filtrona Limited
+(a joint venture of Gold Flake Corporation Limited) India 50 50
+Maharaja Heritage Resorts Limited (upto 31.12.2024)# India – 50
+# Refer Note 30(viii)
+The financial statements of all Joint Ventures, considered in the Consolidated Financial Statements, are drawn upto 31st March.
+(c) Investments in Associates:
+The Group’s Associates are:
+Name Country of Percentage of Percentage of
+Incorporation ownership ownership
+interest as at interest as at
+31st March, 2025 31st March, 2024
+Gujarat Hotels Limited (upto 31.12.2024)# India – 45.78
+International Travel House Limited (upto 31.12.2024)# India – 48.96
+Russell Investments Limited* India 25.43 25.43
+Divya Management Limited* India 33.33 33.33
+Antrang Finance Limited* India 33.33 33.33
+ATC Limited
+(an associate of Gold Flake Corporation Limited) India 47.50 47.50
+Delectable Technologies Private Limited [Refer Note 30(xiii)] India 39.32@ 39.32@
+Mother Sparsh Baby Care Private Limited [Refer Note 30(xii)] India 26.50@ 26.50@
+Sproutlife Foods Private Limited [Refer Note 30(iii)(b)] India 47.50@ 44.74@
+ITC Hotels Limited (w.e.f. 01.01.2025)# India 39.88 –
+# Refer Note 30(viii)
+* associates of Russell Credit Limited
+@on a fully diluted basis
+The financial statements of all Associates, considered in the Consolidated Financial Statements, are drawn upto 31st March.
+(d) T hese Consolidated Financial Statements are based, insofar as they relate to amounts included in respect of subsidiaries,
+associates and joint ventures on the audited financial statements prepared for consolidation in accordance with the requirements
+of Indian Accounting Standard - 110 (Ind AS 110) on “Consolidated Financial Statements” and Indian Accounting Standard - 28
+(Ind AS 28) on “Investments in Associates and Joint Ventures” by each of the included entities other than in respect of the
+following entities which have been considered on the basis of financial statements as certified by the management of the
+respective companies and provided to the Group:
+282 ITC Limited REPORT AND ACCOUNTS 2025

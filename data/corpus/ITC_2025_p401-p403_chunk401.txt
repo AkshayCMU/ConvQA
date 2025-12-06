@@ -1,0 +1,158 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 401-403
+
+[PAGE 401]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+9. Provide details related to waste management by the entity, in the following format:
+Total waste generated is mentioned in rows (A) to (H)
+Parameter (in kilo tonnes) FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Plastic waste (A)* - -
+E-waste (B) 0.01 0.02
+Bio-medical waste (C) 0.0004 0.0010
+Construction and demolition waste (D) 2.7 7
+Battery waste (E) 0.01 0.02
+Radioactive waste (F) 0 0
+Other Hazardous waste. Please specify, if any. (G) 0.003 0.005
+Other Non-hazardous waste generated (H). Please 2.6 3
+specify, if any. (Break-up by composition i.e. by materials
+relevant to the sector)
+Total (A+B + C + D + E + F + G + H) 5.3 10
+Waste intensity per rupee of turnover 2 3
+(Total waste generated / Revenue from operations)
+Waste intensity per rupee of turnover adjusted for 5 7
+Purchasing Power Parity (PPP)
+(Total waste generated / Revenue from operations
+adjusted for PPP)
+Waste intensity (optional) – the relevant metric may be 5.8 10.9
+selected by the entity (kg/ m2 built up area)
+(i) Recycled 5.34 9.92
+(ii) Re-used - -
+(iii) Other recovery operations - -
+Total 5.34 9.92
+(i) Incineration 0 0
+(ii) Landfilling 0 0
+(iii) Other disposal operations 0 0
+Total 0 0
+* Plastic waste is reported under Non-hazardous waste.
+There is reclassification of ‘Composting’ waste under ‘Recycled’ waste for FY 2023-24 data, without any change in the total waste
+recovered and total waste disposed.
+Principle 8
+4. Percentage of input material (inputs to total inputs by value) sourced from suppliers.
+FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Directly sourced from MSMEs/small producers 7.22% 5.60%
+Directly from within India 94.67% 91.10%
+5. Job creation in smaller towns – Disclose wages paid to persons employed (including employees or workers
+employed on a permanent or non-permanent / on contract basis) in the following locations, as % of total wage cost.
+Location FY 2024-25 FY 2023-24
+(1st April, 2024-31st December, 2024)
+Rural 6% 6%
+Semi-urban 2% 2%
+Urban 28% 29%
+Metropolitan 64% 63%
+Note: Pertains to permanent employees and workers of the Company.
+There is a reclassification of one site leading to re-statement of data for the previous reporting period.
+Principle 9
+7. Provide the following information relating to data breaches:
+1 Number of instances of data breaches Nil
+2 Percentage of data breaches involving personally identifiable information of customers Nil
+3 Impact, if any, of the data breaches Nil
+LIV
+
+[PAGE 402]
+Business Responsibility
+REPORT AND ACCOUNTS 2025 and Sustainability Report
+KPMG Assurance and Consulting Services LLP
+Telephone: +91 124 336 9000
+Building No. 10, 4th Floor, Tower-B & C
+Fax: +91 124 336 9001
+DLF Cyber City, Phase - II Internet: www.kpmg.com/in
+Gurugram - 122 002 (India)
+Independent Practitioners’ Reasonable Assurance Report
+To the Board of Directors of ITC Limited
+Assurance report on the select sustainability disclosures in the Business Responsibility and
+Sustainability Report (BRSR) of ITC Limited
+Assurance report on the BRSR Core Attributes (hereafter called ‘Identified Sustainability Information’
+(ISI)) in the Business Responsibility and Sustainability Report (BRSR)1 of ITC Limited (the ‘Company’).
+The ISI is presented in the Business Responsibility and Sustainability Report including Exhibit-A, of the
+Company for the period from 1 April 2024 to 31 March 2025.
+Opinion
+We have performed a reasonable assurance engagement on whether the Company’s select sustainability
+disclosures in BRSR Core Format (refer to Annexure-1) for the period from 1 April 2024 to 31 March 2025,
+have been prepared in accordance with the reporting criteria (refer table below).
+Identified Period Section in the Reporting criteria
+Sustainability subject to Report and
+Information assurance Accounts 2025
+(ISI) subject
+to assurance
+BRSR Core From 1 Business - Regulation 34(2)(f) of the Securities and Exchange
+Attributes April 2024 Responsibility Board of India (SEBI) Listing Obligations and
+to 31 and Disclosure Requirements (SEBI LODR),
+(refer
+March Sustainability Regulations 2015 read with the SEBI circular dated
+Annexure- 1)
+2025 Report (BRSR) 12 July 2023 and master circular dated 11
+section November 2024.
+including the
+- Guidance notes for BRSR format issued by SEBI.
+Exhibit-A to the
+BRSR - World Resource Institute (WRI) / World Business
+Council for Sustainable Development (WBCSD)
+Greenhouse Gas (GHG) Protocol (A Corporate
+Accounting and Reporting Standards).
+This engagement was conducted by a multidisciplinary team including assurance practitioners, engineers,
+and environmental and social professionals.
+In our opinion, the Company’s Identified Sustainability Information covered in Business Responsibility and
+Sustainability Report (BRSR) section including the Exhibit-A to the BRSR, in the Report and Accounts 2025
+of ITC Limited for the period from 1 April 2024 to 31 March 2025 is prepared, in all material respects, in
+accordance with the reporting criteria and as per the Reporting Boundary set out in Section A: General
+Disclosures 13 of the BRSR.
+Notified by SEBI vide Circular No. SEBI/HO/CFD/CFD-SEC-2/P/CIR/2023/122 dated 12 July 2023, and master
+Circular No. SEBI/HO/CFD/PoD2/CIR/P/0155 dated 11 November 2024.
+LV
+
+[PAGE 403]
+Business Responsibility
+and Sustainability Report REPORT AND ACCOUNTS 2025
+Basis for opinion
+We conducted our engagement in accordance with International Standard on Assurance Engagements
+(ISAE) 3000 (Revised), Assurance Engagements Other Than Audits or Reviews of Historical Financial
+Information and ISAE 3410, Assurance Engagements on Greenhouse Gas Statements issued by the
+International Auditing and Assurance Standards Board (IAASB). Our responsibilities under those standards
+are further described in the “Our responsibilities” section of this report.
+We have complied with the independence and other ethical requirements of the International Code of Ethics
+for Professional Accountants (including International Independence Standards) issued by the International
+Ethics Standards Board for Accountants (IESBA).
+KPMG Assurance and Consulting Services LLP (the Firm) applies International Standard on Quality
+Management (ISQM) 1, Quality Management for Firms that Perform Audits or Reviews of Financial
+Statements, or Other Assurance or Related Services Engagements, issued by the IAASB. This standard
+requires the Firm to design, implement and operate a system of quality management, including policies or
+procedures regarding compliance with ethical requirements, professional standards and applicable legal and
+regulatory requirements.
+We believe that the evidence we have obtained is sufficient and appropriate to provide a basis for our
+opinion.
+Other information
+Management and the Board of Directors of the Company are responsible for the other information. The
+other information comprises the information included in the Company’s Report and Accounts 2025 (but
+does not include the BRSR Core attributes including the Exhibit-A to BRSR and assurance report thereon).
+The Company’s Report and Accounts 2025 is expected to be made available to us after the date of this
+assurance report.
+Our reasonable assurance on the BRSR Core attributes including the Exhibit-A to BRSR, does not cover the
+other information and we are not expressing any form of assurance conclusion thereon.
+In connection with our assurance on the BRSR Core attributes including the Exhibit-A to BRSR, our
+responsibility is to read the other information identified above when it becomes available, and in doing so,
+consider whether other information is materially inconsistent with the BRSR Core including the Exhibit-A
+to BRSR, or our knowledge obtained in the assurance, or otherwise appears to be materially misstated.
+When we read the Report and Accounts 2025, if we conclude that there is a material misstatement therein,
+we are required to communicate the matter to Those Charged With Governance and describe actions
+applicable under the applicable laws and regulations.
+Intended use or purpose
+The ISI and our reasonable assurance report are intended for users who have reasonable knowledge of the
+BRSR Core attributes including the Exhibit-A to BRSR, the reporting criteria and who have read the
+information in the ISI with reasonable diligence and understand that the ISI is prepared and assured at
+appropriate levels of materiality.
+Our opinion is not modified in respect of this matter.
+LVI

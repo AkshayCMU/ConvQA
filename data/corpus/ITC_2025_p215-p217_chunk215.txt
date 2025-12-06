@@ -1,0 +1,192 @@
+[COMPANY] ITC
+[YEAR] 2025
+[PAGES] 215-217
+
+[PAGE 215]
+Notes
+to the Standalone Financial Statements
+30. Segment Reporting
+(` in Crores)
+2025 2024
+External Inter Segment Total External Inter Segment Total
+1. Segment Revenue - Gross
+FMCG - Cigarettes 32631.27 – 32631.27 30596.59 – 30596.59
+FMCG - Others 21975.28 6.29 21981.57 20958.26 8.57 20966.83
+FMCG - Total 54606.55 6.29 54612.84 51554.85 8.57 51563.42
+Agri Business 12065.64 7688.16 19753.80 8422.39 7369.44 15791.83
+Paperboards, Paper and Packaging 6626.23 1796.58 8422.81 6535.96 1808.44 8344.40
+Others 166.13 1.24 167.37 143.84 1.42 145.26
+Segment Total 73464.55 9492.27 82956.82 66657.04 9187.87 75844.91
+Eliminations (9492.27) (9187.87)
+Gross Revenue from sale of products and services 73464.55 66657.04
+2. Segment Results
+FMCG - Cigarettes 20024.87 19089.17
+FMCG - Others 1579.66 1778.55
+FMCG - Total 21604.53 20867.72
+Agri Business 1478.03 1254.43
+Paperboards, Paper and Packaging 911.49 1377.60
+Others 64.02 53.09
+Segment Total 24058.07 23552.84
+Eliminations 1.75 (196.05)
+Total 24059.82 23356.79
+Unallocated corporate expenses net of unallocated income (1310.30) (1067.88)
+Profit before interest etc. and taxation 22749.52 22288.91
+Finance Costs (36.35) (34.39)
+Interest earned on loans and deposits, income from current and
+non-current investments, profit and loss on sale of investments etc. - Net 3287.69 3377.60
+Exceptional items [Refer Note 29(i)] 527.96 –
+Profit before tax 26528.82 25632.12
+Tax expense (6436.97) (5721.89)
+Profit for the year from continuing operations 20091.85 19910.23
+Profit for the year from discontinued operations [Refer Note 29(x)] 15103.76 511.74
+Profit for the year 35195.61 20421.97
+3. Other Information 2025 2024
+Segment Segment Segment Segment
+Assets Liabilities Assets Liabilities
+FMCG - Cigarettes 9929.46 5516.37 9160.85 5248.89
+FMCG - Others 12911.68 2442.96 12500.83 2501.71
+FMCG - Total 22841.14 7959.33 21661.68 7750.60
+Agri Business 6956.68 2221.65 5024.81 1380.10
+Paperboards, Paper and Packaging 9656.83 1361.09 9413.71 1257.39
+Others 149.52 60.69 134.99 29.22
+Segment Total 39604.17 11602.76 36235.19 10417.31
+Discontinued operations [Refer Note 29(x)] – – 6548.66 1128.07
+Unallocated Corporate Assets / Liabilities 44405.03 4506.30 44543.75 3548.92
+Total 84009.20 16109.06 87327.60 15094.30
+ITC Limited REPORT AND ACCOUNTS 2025 197
+
+[PAGE 216]
+Notes
+to the Standalone Financial Statements
+30. Segment Reporting (Contd.)
+(` in Crores)
+2025 2024
+Capital Depreciation Capital Depreciation
+expenditure and amortization expenditure and amortization
+FMCG - Cigarettes 320.52 266.20 537.90 257.28
+FMCG - Others 515.80 584.26 670.77 559.95
+FMCG - Total 836.32 850.46 1208.67 817.23
+Agri Business 104.07 67.41 60.92 70.61
+Paperboards, Paper and Packaging 381.84 390.18 726.15 359.65
+Others 5.42 5.78 8.78 5.49
+Segment Total 1327.65 1313.83 2004.52 1252.98
+Discontinued operations [Refer Note 29(x)] 171.28 226.95 312.60 290.62
+Unallocated 343.35 128.10 300.78 104.22
+Total 1842.28 1668.88 2617.90 1647.82
+Non Cash expenditure Non Cash expenditure
+other than depreciation other than depreciation
+FMCG - Cigarettes 41.67 4.68
+FMCG - Others 131.17 110.19
+FMCG - Total 172.84 114.87
+Agri Business 43.24 52.81
+Paperboards, Paper and Packaging 32.53 34.66
+Others 0.18 0.19
+Segment Total 248.79 202.53
+GEOGRAPHICAL INFORMATION
+2025 2024
+1. Revenue from external customers
+– Within India 65635.22 60333.03
+– Outside India 7829.33 6324.01
+Total 73464.55 66657.04
+2. Non-current assets
+– Within India 22022.91 28059.48
+– Outside India … –
+Total 22022.91 28059.48
+NOTES :
+(1) T he Company’s corporate strategy aims at creating multiple drivers of growth anchored on its core competencies. The Company is currently focused on three
+business groups : FMCG, Paperboards, Paper & Packaging and Agri Business. The Company’s organisational structure and governance processes are designed
+to support effective management of multiple businesses while retaining focus on each one of them.
+T he Operating Segments have been reported in a manner consistent with the internal reporting provided to the Corporate Management Committee, which is the
+Chief Operating Decision Maker.
+(2) P ursuant to the Scheme of Demerger and in terms of applicable Accounting Standards (Ind AS), the Company has reported its Hotels Business (excluding
+ITC Grand Central, Mumbai) as ‘Discontinued Operations’ [Refer Note 29(x)]. Accordingly, ‘Hotels’ no longer forms a reportable segment of the Company.
+The segment information of ITC Grand Central, Mumbai which has been retained with the Company in terms of the Scheme of Demerger, have been disclosed
+under a new ‘Others’ segment.
+(3) The business groups comprise the following :
+FMCG : Cigarettes – Cigarettes, Cigars, etc.
+: Others – B randed Packaged Foods Businesses (Staples & Meals; Snacks; Dairy & Beverages; Biscuits & Cakes;
+Chocolates, Coffee & Confectionery); Education and Stationery Products; Personal Care Products;
+Safety Matches and Agarbattis.
+Paperboards, Paper and Packaging – Paperboards, Paper including Specialty Paper and Packaging including Flexibles.
+Agri Business – Agri commodities such as wheat, rice, spices, coffee, soya and leaf tobacco.
+Others – ITC Grand Central Hotel, Mumbai
+(4) The geographical information considered for disclosure are :
+– Revenue within India.
+– Revenue outside India.
+(5) S egment results of ‘FMCG : Others’ are after considering significant business development, brand building and gestation costs of the Branded Packaged Foods
+businesses and Personal Care Products business.
+(6) A s stock options and stock appreciation linked reward units are granted to align the interests of employees with those of shareholders and also to attract and retain
+talent for the enterprise as a whole, the charge thereof do not form part of the segment performance reviewed by the Corporate Management Committee.
+(7) T he Company is not reliant on revenues from transactions with any single external customer and does not receive 10% or more of its revenues from transactions
+with any single external customer.
+198 ITC Limited REPORT AND ACCOUNTS 2025
+
+[PAGE 217]
+Notes
+to the Standalone Financial Statements
+31. Related Party Disclosures
+1. ENTERPRISES WHERE CONTROL EXISTS:
+Subsidiaries:
+a) Russell Credit Limited
+Greenacre Holdings Limited (up to 28.11.2024)
+b) Technico Pty Limited, Australia and its subsidiaries
+Technico Technologies Inc., Canada
+Technico Asia Holdings Pty Limited, Australia and its subsidiary
+Technico Horticultural (Kunming) Co. Limited, China
+c) Technico Agri Sciences Limited
+d) Wimco Limited
+e) Pavan Poplar Limited
+f) Prag Agro Farm Limited
+g) ITC Infotech India Limited and its subsidiaries
+ITC Infotech Limited, UK
+ITC Infotech (USA), Inc. and its subsidiary
+Indivate Inc., USA
+ITC Infotech Do Brasil LTDA., Brazil
+ITC Infotech Malaysia SDN. BHD.
+ITC Infotech France SAS
+ITC Infotech GmbH, Germany
+ITC Infotech de México, S.A. de C.V.
+ITC Infotech Arabia Limited
+ITC Infotech Italia s.r.l. (w.e.f. 23.07.2024)
+Blazeclan Technologies Private Limited and its subsidiaries (w.e.f. 01.10.2024)
+Cloudlytics Technologies Private Limited
+Blazeclan Technologies PTE Ltd., Singapore
+Blazeclan Technologies SDN. BHD., Malaysia
+Blazeclan Technologies Pty. Ltd., Australia
+Blazeclan Technologies Limited, New Zealand
+Blazeclan Europe SRL., Belgium
+Blazeclan Technologies Inc., Canada
+Blazeclan Technologies LLC, USA
+Blazeclan Americas Inc., USA
+Blazeclan Technologies Corporation, Philippines
+h) Gold Flake Corporation Limited
+i) ITC Integrated Business Services Limited and its subsidiary
+MRR Trading & Investment Company Limited
+j) Surya Nepal Private Limited and its subsidiary
+Surya Nepal Ventures Private Limited
+k) North East Nutrients Private Limited
+l) ITC IndiVision Limited
+m) ITC Fibre Innovations Limited
+n) Greenacre Holdings Limited (w.e.f. 29.11.2024)
+o) ITC Hotels Limited (up to 31.12.2024)
+p) Srinivasa Resorts Limited (up to 31.12.2024)
+q) Fortune Park Hotels Limited (up to 31.12.2024)
+r) Bay Islands Hotels Limited (up to 31.12.2024)
+s) WelcomHotels Lanka (Private) Limited, Sri Lanka (up to 31.12.2024)
+t) Landbase India Limited (up to 31.12.2024)
+2. OTHER RELATED PARTIES WITH WHOM THE COMPANY HAD TRANSACTIONS
+i) Associates & Joint Ventures:
+Associates
+a) Gujarat Hotels Limited (up to 31.12.2024)
+b) International Travel House Limited (up to 31.12.2024)
+c) Delectable Technologies Private Limited
+d) Sproutlife Foods Private Limited
+e) ITC Hotels Limited and its subsidiaries (w.e.f. 01.01.2025)
+Srinivasa Resorts Limited
+Fortune Park Hotels Limited
+WelcomHotels Lanka (Private) Limited, Sri Lanka
+Landbase India Limited
+– being associates of the Company, and
+f) Tobacco Manufacturers (India) Limited (of which the Company is an associate)
+and the subsidiaries of its ultimate parent company (British American Tobacco p.l.c.)
+ITC Limited REPORT AND ACCOUNTS 2025 199
